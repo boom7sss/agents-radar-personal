@@ -1,0 +1,16 @@
+name: Test Feishu Notification
+
+on:
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test message
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URLS }}
+        run: |
+          curl --fail --silent --show-error --request POST "$FEISHU_WEBHOOK_URL" \
+            --header "Content-Type: application/json" \
+            --data '{"msg_type":"text","content":{"text":"AI 日报推送测试成功 ✅"}}'
