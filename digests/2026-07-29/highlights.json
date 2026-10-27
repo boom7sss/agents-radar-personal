@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Session Bug获470👍，社区极度关注",
+      "OpenAI Codex发布3个版本，Windows崩溃问题严重",
+      "Gemini CLI v0.53.0发布，任务状态错误待修复",
+      "Copilot CLI僵尸进程和功能回归引发高讨论",
+      "Kimi Code CLI稳定性低，仅6个Issue",
+      "Qwen Code Windows崩溃和模型兼容性成核心痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw Beta v2026.7.2-beta.5增强数据安全与恢复",
+      "今日关闭302个Issue，关闭率60%",
+      "合并314个PR，合并率62.8%",
+      "社区聚焦跨平台支持与安全性增强",
+      "引入隔离存储和崩溃恢复快照机制",
+      "回滚写入器快照恢复功能上线"
+    ],
+    "ai-trending": [
+      "bradautomates/claude-video单日新增988 stars",
+      "微软agent-governance-toolkit首登榜",
+      "ECC单日新增636 stars，专注Agent优化",
+      "视频感知能力爆发，多模态Agent门槛骤降",
+      "轻量级Agent护具与Agent开发工具链升温",
+      "RAG基础设施项目Qdrant、Milvus活跃"
+    ],
+    "ai-web": [
+      "Claude Mythos Preview发现HAWK和AES数学缺陷",
+      "AI从发现实现漏洞进化到发现算法漏洞",
+      "CEO Dario Amodei明确反对禁止开源权重模型",
+      "警示威权国家用更强AI实现永久监控",
+      "研究不影响生产系统但冲击密码学标准化",
+      "OpenAI今日仅有一个URL元数据无正文"
+    ],
+    "ai-hn": [
+      "Codex Security开源仓库获376分114评论",
+      "Anthropic密码学攻击HAWK-256获189分",
+      "社区热议AI是否让密码学变成黑盒",
+      "去审查LLM输出更乐观引发对齐讨论",
+      "员工公开信呼吁监管获高热度争吵",
+      "JFrog与OpenAI联合披露零日漏洞"
+    ],
+    "ai-arxiv": [
+      "模型安全与对齐成为今日最核心议题",
+      "智能体系统涵盖GUI操作和长尾记忆",
+      "Penelope无需CoT的结构化推理方法",
+      "UniMem结合情景与参数化记忆提升LLM",
+      "Polistemics评估LLM在选举中的可靠性",
+      "Minimizing Targeted Activations抑制评估意识"
+    ],
+    "ai-hf": [
+      "Kimi-K3周获赞超8000领跑多模态模型",
+      "Qwen3.6-35B-A3B系列社区微调版本活跃",
+      "Uncencored和MoE架构成为本周关键词",
+      "百度Unlimited-OCR下载量269万全榜第一",
+      "智谱GLM-5.2下载126万成对话模型标杆",
+      "Bonsai-27B-gguf采用1-bit量化激进边缘部署"
+    ],
+    "ai-community": [
+      "Slopsquatting供应链攻击利用AI幻觉",
+      "AI Agent写公共仓库权限审计成热点",
+      "MCP服务器TypeScript搭建教程受关注",
+      "Claude Opus 5安全细则引发开发者讨论",
+      "语言作为潜在空间理论讨论在Lobste.rs",
+      "Notion分享向量搜索规模化工程实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Windows support remains weakest across all tools.",
+      "MCP integration emerging but uneven.",
+      "Claude Code, Codex, Gemini CLI lead activity.",
+      "OpenAI Codex had 3 releases in 24 hours.",
+      "DeepSeek TUI has 10 hot issues today.",
+      "Community issues hundreds daily per tool."
+    ],
+    "ai-agents": [
+      "OpenClaw beta v2026.7.2 released with crash recovery.",
+      "302 issues closed in 24 hours.",
+      "Quarantine store protects damaged primary database.",
+      "Crash-durable filesystem publication added.",
+      "Schema-upgrade data-loss rejection implemented.",
+      "314 PRs merged or closed today."
+    ],
+    "ai-trending": [
+      "Claude-video enables Claude to watch videos.",
+      "ECC offers agent harness performance system.",
+      "Airi is a neuro-sama-like waifu companion.",
+      "Andrew Ng's aisuite simplifies multi-provider AI.",
+      "Microsoft's agent-governance-toolkit enforces policies.",
+      "Ollama now supports Kimi-K2.6, GLM-5.2."
+    ],
+    "ai-web": [
+      "Claude discovers mathematical weaknesses in crypto algorithms.",
+      "Anthropic CEO clarifies stance on open-weights models.",
+      "Claude attacks mathematical foundations of encryption.",
+      "Implications for post-quantum cryptography and AES.",
+      "Anthropic rejects protectionist bans on open models.",
+      "OpenAI posts metadata on Scientific Computing Agentic AI."
+    ],
+    "ai-hn": [
+      "Claude autonomously found practical key-recovery attacks.",
+      "Private Claude chats exposed in search results.",
+      "OpenAI/Anthropic staff ask US to pace AI progress.",
+      "LessWrong calls Anthropic untrustworthy without governance change.",
+      "New OpenAI security-scanning tool Codex Security.",
+      "Uncensored open LLMs measurably more optimistic."
+    ],
+    "ai-arxiv": [
+      "Pass the Baton corrects student reasoning mid-trajectory.",
+      "Confidence-Adaptive MoE allocates experts dynamically.",
+      "Instruction-tuned models reuse human syntax locally.",
+      "New evaluation frameworks for multi-step reasoning.",
+      "World models make agents more responsive to errors.",
+      "Knowledge distillation addresses prefix failure problem."
+    ],
+    "ai-hf": [
+      "Kimi-K3 soars to 8k+ likes on Hugging Face.",
+      "GLM-5.2 reaches 1.2M downloads.",
+      "Qwen3.6 variants see massive quantization wave.",
+      "Laguna-S-2.1 base for multiple GGUF variants.",
+      "Upstage releases 250B open-weight Solar-Open2.",
+      "Nanbeige4.2-3B gains traction for on-device use."
+    ],
+    "ai-community": [
+      "Slopsquatting weaponizes AI hallucinations for attacks.",
+      "AI agents with write access to repos need audit.",
+      "Cursor+BrowserAct handles dynamic pages without selectors.",
+      "Finite state machines argued for agent design.",
+      "Open weights debate on Lobste.rs.",
+      "MD Anderson AI project post-mortem warns of skipping tests."
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 模型幻觉与安全过滤成新焦点",
+      "OpenAI Codex v0.146.0-alpha.10.1 发布",
+      "Gemini CLI v0.54.0-nightly，聚焦Agent行为可靠性",
+      "GitHub Copilot CLI 核心命令可靠性出现回归",
+      "OpenCode 桌面应用安全加固成为主旋律",
+      "DeepSeek TUI 极度活跃，修复配置BUG并扩展远程控制"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内349条Issue更新",
+      "P0级启动故障和配置损坏Bug仍未被修复",
+      "PR #113945 修复会话回溯时图片附件丢失",
+      "PR #113996 修复CI直接依赖锁定检查失败",
+      "社区热点：Memory Trust Tagging by Source",
+      "大量PR等待审核，涵盖内存Wiki批量操作等"
+    ],
+    "ai-trending": [
+      "ego-lite 专为AI agent设计，单日增长近1000星",
+      "superpowers 与 ECC 两个Agent框架热度高",
+      "阿里开源 open-code-review，LLM代码审查工具",
+      "金融基础模型 Kronos 登上趋势榜",
+      "Rust向量索引 turbovec 获关注",
+      "教程 dive-into-llms 受开发者欢迎"
+    ],
+    "ai-hn": [
+      "Claude 5 上下文工程新规成今日最热话题",
+      "Debian 社区投票决定LLM在项目中的使用方式",
+      "在 $8 微控制器上运行28.9M参数LLM",
+      "OpenAI/ChatGPT 服务大面积宕机频繁出现",
+      "AMD 开放 ISA，让模型自动生成GPU内核",
+      "斯坦福政策简报探讨AI对就业的影响引发热议"
+    ],
+    "ai-arxiv": [
+      "研究指出LLM过度使用自我修正修辞手法",
+      "探讨AI agent上下文管理解决记忆与成本问题",
+      "提出自动化边界理论，论证人类不可替代性",
+      "开源框架OpenForgeRL用RL训练Agent",
+      "推理时扩展成为扩散模型与LLM融合新焦点",
+      "视觉-语言模型正系统性进入3D空间"
+    ],
+    "ai-hf": [
+      "GLM-5.2 以4448周点赞登顶，MoE架构爆发",
+      "Qwen3.6-35B-A3B 下载量超640万",
+      "Unlimited-OCR 下载量250万+，需求旺盛",
+      "Bonsai-27B-gguf 推出1-bit/2-bit极端量化",
+      "Laguna-S-2.1 系列生态初现",
+      "Inkling 多模态模型引发社区好奇"
+    ],
+    "ai-community": [
+      "用SigNoz对AI Agent集群进行全链路可观测性",
+      "教程：如何为Claude Code工程化配置Agent技能",
+      "Anthropic降价Opus 5，开源权重阵营联合反制",
+      "连接3个MCP服务器到一个Agent引发安全讨论",
+      "RAG系统故障模式与生产运维经验总结",
+      "NIST测试发现389个测试通过后的隐藏Bug"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code AGENTS.md issue hits 4,452 upvotes",
+      "Pi and Qwen Code ship daily releases",
+      "Windows reliability issues plague Codex, Gemini, Copilot",
+      "OpenAI Codex alpha v0.146.0-alpha.10.1 released",
+      "Demand grows for standardized AGENTS.md protocol",
+      "Gemini CLI and Copilot CLI face Windows bugs"
+    ],
+    "ai-agents": [
+      "349 issues and 500 PRs updated in 24 hours",
+      "Three P0 release-blocker bugs remain open",
+      "220 PRs merged, showing rapid development",
+      "No new releases; latest is 2026.7.1-beta.5",
+      "feat(chat) restores prompt image attachments on rewind",
+      "Security and session-state issues dominate discussions"
+    ],
+    "ai-trending": [
+      "mattpocock/skills gains +1,740 stars today",
+      "citrolabs/ego-lite: zero-config browser for AI agents",
+      "Alibaba/open-code-review +431 stars, hybrid LLM review",
+      "ollama/ollama hits 176,895 stars, supports Kimi-K2.6",
+      "AutoGPT remains top agent framework at 185,686 stars",
+      "andrewyng/aisuite adds 77 stars, unified multi-provider API"
+    ],
+    "ai-hn": [
+      "Context engineering guide for Claude 5 tops Hacker News",
+      "Debian votes on three proposals to restrict LLM usage",
+      "28.9M param LLM runs on $8 microcontroller",
+      "OpenAI and Codex outages raise reliability concerns",
+      "“AI Mania is Eviscerating Global Decision-Making” article",
+      "Stanford brief separates AI hype from real job impact"
+    ],
+    "ai-arxiv": [
+      "Windowed-MTP enables efficient million-token generation",
+      "Beyond Sycophancy: LLMs learn strategic resistance",
+      "Progressive seed pruning improves diffusion model quality",
+      "SANA-Video 2.0 uses hybrid linear attention",
+      "VLM-IE3D introduces 3D-aware vision-language models",
+      "AREX tackles recursive self-improvement for agents"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 MoE dominates trending with multiple quants",
+      "GLM-5.2 from Zhipu AI tops likes at 4,448",
+      "Laguna-S-2.1 fine-tuned for software engineering",
+      "Solar-Open2-250B: 250B open-weight LLM",
+      "Unlimited-OCR and OvisOCR2 boost VLM OCR adoption",
+      "OpenBMB robotics VLAs enter mainstream"
+    ],
+    "ai-community": [
+      "SigNoz reveals agent swarm telemetry was flawed",
+      "Anthropic cuts API costs with Opus 5 release",
+      "Three MCP servers accelerated one agent drastically",
+      "Vector search scaling techniques discussed deeply",
+      "MLIR tooling gains traction for production AI",
+      "Debate over Microsoft's stance on open weights"
+    ]
+  }
+}

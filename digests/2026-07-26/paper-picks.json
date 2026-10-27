@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "takeaway": "混合线性注意力实现单GPU生成720p视频，解决长序列推理瓶颈。",
+      "why": "线性注意力突破+注意力残差，高效视频生成新基线，可复现。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.21553v1"
+    },
+    {
+      "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
+      "takeaway": "通过渐进式种子剪枝，在前端探索大量种子并剪枝，有效利用固定预算。",
+      "why": "发现新的推理时扩展轴，方法新颖，对扩散模型实用性强。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.21591v1"
+    }
+  ]
+}

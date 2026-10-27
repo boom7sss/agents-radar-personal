@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+      "takeaway": "利用MLLM的感知增强框架，提升AI生成图像检测的细粒度异常识别。",
+      "why": "方法针对当前MLLM检测器的感知瓶颈，具有强实用性和泛化潜力。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.27113v1"
+    },
+    {
+      "title": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+      "takeaway": "频域自锚定机制，无需训练即可缓解自回归视频生成中的错误累积。",
+      "why": "从频率角度分析错误传播，提出轻量训练免费框架，有代码可复现。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.27110v1"
+    },
+    {
+      "title": "Progressive Multimodal Alignment for Continual Instruction Tuning",
+      "takeaway": "检测多模态分布漂移，渐进对齐投影器以缓解持续指令微调中的遗忘。",
+      "why": "针对多模态持续学习中投影器遗忘被忽略的问题，提供有效框架。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.26947v1"
+    }
+  ]
+}

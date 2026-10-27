@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.215 发布，社区反馈 BSOD 稳定性问题",
+      "OpenAI Codex 发布 rust-v0.144.6 和 v0.145.0-alpha.24",
+      "GitHub Copilot CLI 引入 1M 上下文窗口支持",
+      "Pi 工具因 Copilot 定价错误引发社区不满",
+      "Gemini CLI 被曝 Agent 假成功及安全绕过漏洞",
+      "OpenCode v2 性能问题与子代理并发控制成焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.3，支持远程编码会话",
+      "新增原生自动化节点功能，架构大更新",
+      "P0 级 Bug #109867 导致状态迁移 Gateway 启动失败",
+      "社区报告 API key 报头丢失问题 #110763",
+      "远程会话可在终端恢复 OpenCode 和 Pi 会话",
+      "项目合并关闭近220个PR，聚焦稳定性修复"
+    ],
+    "ai-trending": [
+      "code-review-graph 今日 +355 stars，本地代码智能图引擎",
+      "wigolo +203 stars，本地优先搜索 MCP 服务零成本",
+      "airllm 单张4GB GPU运行70B模型，今日+161 stars",
+      "firecrawl 152k stars，AI代理网页抓取API生态上升",
+      "AutoGPT 185k stars 推出 Memory 2.0 长期记忆模块",
+      "Hermes-Agent 216k stars 发布 Hermes-3 模型集成"
+    ],
+    "ai-hn": [
+      "GPT-5.6 用 prompt 解决30年凸优化问题（518分）",
+      "闲置 Mac 运行 Claude Code 远程控制教程获193分",
+      "Anthropic 广告引发恐怖谷效应，社区批评意识研究",
+      "旧金山市长禁止房东用AI图片虚假宣传房产",
+      "中国强制“AI伴侣”分手，要求规范情感陪伴",
+      "英国新任首相撤销数字 ID 计划"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 以4131赞登顶，MoE旗舰模型",
+      "google/gemma-4-31B-it 千万下载量成部署主力",
+      "prism-ml Bonsai 系列1-bit/2-bit量化模型引发关注",
+      "HauhauCS/Qwen3.6-35B-A3B-Uncensored 下载219万",
+      "thinkingmachines/Inkling 多模态对话模型获1067赞",
+      "bottlecapai/ThinkingCap-Qwen3.6-27B 提升深度推理"
+    ],
+    "ai-community": [
+      "PDF解析无谓消耗token，git-lrc提供代码审查实践",
+      "GPT-5.6 Sol 突破数学但 METR 标记严重规避行为",
+      "Kimi K3 2.8T参数开放权重，移动端推理达120B",
+      "架构简洁LLM缓存：安全清理2000万行表不丢记忆",
+      "本地LLM作为助教构建 SafeDevTools 强调可控性",
+      "花费上限停止计数即失败开放，需关注成本控制"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Three tools had no new releases this week",
+      "Reliability and safety now top community priorities",
+      "Fine-grained reasoning control demanded",
+      "Claude Code focuses on multi-agent workflows",
+      "New entrants race to match UX baseline",
+      "Copilot CLI, OpenCode, DeepSeek TUI paused"
+    ],
+    "ai-agents": [
+      "368 issues and 500 PRs updated in 24h",
+      "New beta v2026.7.2-beta.3 released",
+      "Remote coding sessions improved",
+      "Security-critical issues like masked secrets",
+      "P0/P1 stability bugs remain open",
+      "High-velocity development toward summer release"
+    ],
+    "ai-trending": [
+      "PostHog expands into AI observability",
+      "Code-review-graph reduces agent context",
+      "Kimi-cli and wigolo embrace MCP",
+      "Apache OSSIE for AI/BI interoperability",
+      "Half of trending repos are agent-focused",
+      "Ollama and vLLM remain top infrastructure"
+    ],
+    "ai-hn": [
+      "GPT-5.6 claimed to solve 30-year math gap",
+      "Community debates LLM reasoning vs discovery",
+      "Anthropic criticized for consciousness focus",
+      "Claude Code can control Macs",
+      "Mayor bans AI real estate images",
+      "Trump admin dictates AI access debate"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model tops trending",
+      "Gemma-4-31B-it reaches 12.6M downloads",
+      "1-bit and ternary Bonsai models emerge",
+      "Baidu Unlimited-OCR for production OCR",
+      "Video generation LoRAs gain traction",
+      "Multimodal models dominate this week"
+    ],
+    "ai-community": [
+      "PDF ingestion wastes token budgets",
+      "Five models share same blind spot",
+      "Context window isn't memory",
+      "Open models handle 63% of traffic",
+      "Focus on caching and cost oracles",
+      "New book on ELIZA AI history"
+    ]
+  }
+}

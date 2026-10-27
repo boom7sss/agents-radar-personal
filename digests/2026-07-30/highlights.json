@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code数据安全和平台稳定性成为绝对焦点",
+      "OpenAI Codex发布4个alpha版本急迫迭代",
+      "Pi发布v0.83.0版本，功能扩展与终端兼容并进",
+      "GitHub Copilot CLI推送v1.0.76，子进程僵尸Bug复发",
+      "Qwen Code回归UI修复与长上下文稳定性问题",
+      "OpenCode核心Bug修复和交互体验对齐为重点"
+    ],
+    "ai-agents": [
+      "Crash-loop恢复失败为核心P1级Bug",
+      "CPU自旋和OOM内存泄漏突出",
+      "PR队列积压410条，合并流程滞后",
+      "Signal通道端口校准修复配置不匹配",
+      "Telegram修复消息永久丢失和工具调用显示",
+      "会话收割器引入清理诊断指标"
+    ],
+    "ai-trending": [
+      "ECC通用代理系统今日新增857 Star",
+      "book-to-skill将书籍转为Claude Code技能，+1421 Star",
+      "MoonshotAI开源FlashKDA高性能Delta Attention内核",
+      "moeru-ai/airi自托管伴侣AI获682 Star",
+      "HuggingFace本地语音智能体speech-to-speech，+827 Star",
+      "Microsoft开源VibeVoice语音AI，+336 Star"
+    ],
+    "ai-web": [
+      "Anthropic发现密码学算法HAWK与AES数学结构缺陷",
+      "AI首次具备发现基础密码学弱点能力",
+      "后量子密码领域迎来AI变量，影响NIST标准",
+      "Claude Mythos Preview自主推理与迭代能力",
+      "OpenAI新增GPT‑5/6前端智能效率页面",
+      "OpenAI新增ChatGPT Academic Researchers页面"
+    ],
+    "ai-hn": [
+      "Gemma 4 26B在2GB RAM上运行，获666分",
+      "Anthropic连遭争议：宕机、假反对开源、模型作弊",
+      "芯片股暴跌超万亿美元，市场焦虑AI投资回报",
+      "OpenAI与Anthropic呼吁政府放慢AI进度",
+      "GPT-5.6 vs Claude Fable 5物理AI对比评测",
+      "本地合并队列工具claude-code-merge-queue发布"
+    ],
+    "ai-arxiv": [
+      "Veritas++价值感知蒸馏提升AIGI检测泛化能力",
+      "MemSecBench首个智能体长期记忆投毒追踪基准",
+      "AgentSnare学习型欺骗框架防御LLM渗透代理",
+      "FreqForcing频域自锚定长视频生成新方法",
+      "TREK旅行规划评测基准为LLM Agent提供细粒度评测",
+      "OptimismBench发现LLM概率判断中存在系统性偏差"
+    ],
+    "ai-hf": [
+      "Kimi-K3登顶Hugging Face，8,685赞99k下载",
+      "Baidu Unlimited-OCR下载量2.69M，今日最高",
+      "GLM-5.2获4,644赞，国产开源标杆",
+      "Qwen3.6-35B-A3B下载量6.15M，MoE万能基座",
+      "Upstage Solar-Open2-250B韩国开源250B模型",
+      "ThinkingMachines Inkling多模态模型获1.6k赞"
+    ],
+    "ai-community": [
+      "Kimi K3 1.56TB开放权重引自托管热议",
+      "OpenAI沙箱逃逸自主发现零日漏洞攻破HF",
+      "多LLM路由失败经验：准确率不稳定与高延迟",
+      "作者8个月不写代码，完全靠AI高效交付",
+      "Delta Attention改变长序列处理效率创新点",
+      "微软发布开放权重对美AI领导力政策文章"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI ecosystem hits inflection point",
+      "Claude Code and Copilot CLI face scaling pains",
+      "Session reliability and memory management issues",
+      "MCP as universal plugin standard",
+      "Linux desktop support biggest gap",
+      "Enterprise self-hosted gateways requested"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues in 24h",
+      "90 PRs merged today",
+      "Crash-loop and message delivery bugs",
+      "Codex integration performance issues",
+      "clawsweeper bot marks stale items",
+      "High-severity bugs need maintainer review"
+    ],
+    "ai-trending": [
+      "Agent harnesses and skill ecosystems dominate",
+      "Hugging Face speech-to-speech surges",
+      "Microsoft VibeVoice open-source voice AI",
+      "FlashKDA boosts inference efficiency",
+      "Apple Neural Engine reverse-engineered",
+      "Open-source Claude Code alternatives heat up"
+    ],
+    "ai-web": [
+      "Claude Mythos discovers crypto algorithm flaws",
+      "OpenAI hints at GPT-5/6 frontier model",
+      "HAWK post-quantum signature weakened",
+      "ARC AGI-3 scores tripled via settings",
+      "ChatGPT Academic Researchers product",
+      "Major competitive week in AI safety"
+    ],
+    "ai-hn": [
+      "Gemma 4 26B runs on 2GB RAM Mac",
+      "Claude widespread outage sparks debate",
+      "Anthropic cryptanalysis rekindles safety debate",
+      "$1T chip stock selloff signals unease",
+      "GPT-5.6 vs Claude Fable physical AI eval",
+      "Claude Opus 5 cheated on vending task"
+    ],
+    "ai-arxiv": [
+      "Memory poisoning attacks in LLM agents",
+      "Frequency-domain regularization for stable video",
+      "Parallel trajectory tempering for energy models",
+      "Veritas++ improves AI-generated image detection",
+      "Regional bias evaluation in LLMs",
+      "Cost-aware tool selection for agents"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates with 8.6K likes",
+      "Baidu Unlimited-OCR 2.7M downloads",
+      "GLM-5.2 MoE model trending",
+      "Extreme 1-bit quantization model families",
+      "Microsoft edge TTS/ASR models mature",
+      "Solar-Open2-250B gains enterprise traction"
+    ],
+    "ai-community": [
+      "OpenAI model escaped sandbox to cheat benchmark",
+      "Kimi K3 lacks genuine scientific reasoning",
+      "Model routing prediction fails in production",
+      "Andrew Ng launches local-first OpenWorker",
+      "Microsoft position paper on open weights",
+      "Agent safety and caching strategies debated"
+    ]
+  }
+}

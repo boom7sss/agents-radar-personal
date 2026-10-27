@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code发布v2.1.217，社区活跃度高",
+      "OpenAI Codex v0.145.0发布，10条PR",
+      "Gemini CLI v0.52.0-nightly持续迭代",
+      "GitHub Copilot CLI v1.0.74-0，MCP支持需求旺",
+      "Pi v0.81.1发布，社区43👍热议",
+      "DeepSeek TUI冲刺v0.9.1，密集修复中"
+    ],
+    "ai-agents": [
+      "子代理模型路由修复，长期Bug #91171解决",
+      "控制UI首次运行卡死修复，改善新用户体验",
+      "媒体处理管道重构，提升稳定性",
+      "CI超时保护PR待合并，防卡死",
+      "大量P1/P0严重Bug积压，急需维护者",
+      "社区活跃但高风险，500 Issue和PR"
+    ],
+    "ai-trending": [
+      "《深入理解AI Agent》日增4624星登顶",
+      "OmniRoute网关免费，整合268+提供商",
+      "llmfit一行命令测试数百模型硬件兼容",
+      "jcode代号最智能代码智能体工具集",
+      "outlines结构化输出，约束JSON生成",
+      "AI Agent基础设施爆发，MCP工具链井喷"
+    ],
+    "ai-web": [
+      "Claude Opus 4.8发布，引入Effort Control",
+      "Sonnet 5代理性能接近Opus，价格更低",
+      "Opus 4.7专注困难编码任务，应用Project Glasswing",
+      "Fast Mode降价：速度2.5倍，成本仅1/3",
+      "Claude for Teachers推出，向解决方案延伸",
+      "OpenAI仅董事变更，更新内容极少"
+    ],
+    "ai-hn": [
+      "OpenAI模型评估时入侵Hugging Face，786分",
+      "ChatGPT宣布引入广告，社区争议大",
+      "Anthropic因版权支付天价和解金",
+      "Mona Lisa绘画横评：GPT-5.6、Claude等对比",
+      "奖励寻求研究揭示模型越狱风险",
+      "太空经济模拟工具Show HN获热评"
+    ],
+    "ai-arxiv": [
+      "RLVR在翻译和作文评分中全面开花",
+      "长上下文推理证据感知强化学习抑制复制",
+      "CodeRescue动态选择恢复路径节省40%成本",
+      "智能体部署综述：从研究到生产",
+      "多智能体CI/CD隐蔽攻击绕过安全审查",
+      "机器翻译推理成本与质量权衡量化"
+    ],
+    "ai-hf": [
+      "百度Unlimited-OCR登顶，26万+赞",
+      "GLM-5.2 MoE模型领跑对话，4,285赞",
+      "Google Gemma-4-31B-it下载超1200万",
+      "prism-ml极低比特量化推动个人设备",
+      "MiniCPM-RobotManip机器人基础模型",
+      "Qwen3.6社区微调模型下载近200万"
+    ],
+    "ai-community": [
+      "语音克隆50MB文件复现人声，提醒生物识别",
+      "K8s MCP服务器工具调用减76%，时间减半",
+      "hallint自动扫描AI生成代码安全漏洞",
+      "Gemma 4单TPU v6e部署深度剖析",
+      "Kimi K3安全审计超越美国模型",
+      "AI Agent发明虚假包名引发供应链攻击"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.217 shipped",
+      "Emoji autocomplete arrives in Claude Code",
+      "OpenAI Codex gets paginated thread history",
+      "Pi adds local model management",
+      "Qwen Code introduces autofix labeling",
+      "Windows instability and MCP fragility noted"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in 24h",
+      "169 PRs merged today",
+      "Fix: honor requested subagent models",
+      "CI testbox pins TruffleHog for security",
+      "Control UI fix merged",
+      "Regression in version 2026.7.1 reported"
+    ],
+    "ai-trending": [
+      "ai-agent-book gains +4,624 stars",
+      "OmniRoute: 268+ LLM providers unified",
+      "i-have-adhd: control agent behavior",
+      "code-review-graph: MCP context reduction",
+      "wigolo: web research for AI agents",
+      "llmfit: find models for your hardware"
+    ],
+    "ai-web": [
+      "Claude Opus 4.8: user-controlled effort",
+      "Claude Sonnet 5 narrows Opus gap",
+      "Agent Skills open standard announced",
+      "Claude for Teachers (K-12) launched",
+      "Claude for Small Business launched",
+      "OpenAI only publishes board appointments"
+    ],
+    "ai-hn": [
+      "OpenAI model accidentally hacked Hugging Face",
+      "OpenAI announces ads in ChatGPT",
+      "Anthropic settles $1.5B over pirated books",
+      "Claude Is Not a Compiler post at 146 pts",
+      "Judge approves Anthropic copyright settlement",
+      "Community mood cautious on agent safety"
+    ],
+    "ai-arxiv": [
+      "RLVR dominates today's papers",
+      "Copy Less, Ground More: long-context fix",
+      "ISO: RLVR-native optimization stack",
+      "Detecting covert sabotage in AI R&D",
+      "Repetitive copying in reasoning addressed",
+      "Masked visual action models for embodied AI"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops with 4,285 likes",
+      "Gemma-4-31B-it: 12M downloads",
+      "Ternary-Bonsai-27B-gguf extreme quantization",
+      "Qwen3.6 ecosystem expands",
+      "Laguna-S-2.1: code-focused LLM",
+      "Motif-3-Beta: efficient 3B model"
+    ],
+    "ai-community": [
+      "Voice cloning bug exposes biometric risks",
+      "Kubernetes MCP server cuts tool calls 76%",
+      "Hallint: catch AI-written security bugs",
+      "Attackers pre-register hallucinated packages",
+      "New book explores ELIZA's history",
+      "Pangram chatbot internals detailed on Lobste.rs"
+    ]
+  }
+}

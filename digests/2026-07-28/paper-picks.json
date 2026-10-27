@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "PathSelect: Sequential Token Selection for Whole Slide Pathology",
+      "takeaway": "用序列化token选择方法处理全切片病理图像的极长序列问题。",
+      "why": "视觉与医学交叉新思路，可嵌入现有VLM提升病理诊断效率。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.23631v1"
+    }
+  ]
+}

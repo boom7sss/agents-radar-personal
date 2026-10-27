@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.214 发布，修复严重 Bug 与安全漏洞",
+      "OpenAI Codex CLI v0.145.x-alpha 快速迭代",
+      "Gemini CLI v0.52.0-nightly 安全导向更新",
+      "GitHub Copilot CLI v1.0.72-1 发布",
+      "Qwen Code v0.19.11-nightly 增强 Web Shell",
+      "DeepSeek TUI Agent 自主性成为社区焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.2 新增远程编码会话",
+      "SQLite 迁移 Bug 导致网关启动失败，紧急修复中",
+      "PR #108344 修复 cron 任务会话被误回收问题",
+      "PR #100140 增强 Agent 跨私有对话安全性",
+      "社区焦点转向 Codex 集成与稳定性回归",
+      "过去 24 小时处理 425 条 Issue 与 500 条 PR"
+    ],
+    "ai-trending": [
+      "hallmark 单日新增 1485 stars，Anti-AI-slop 设计技能",
+      "openinterpreter Rust 重写，单日 +431 stars",
+      "github/copilot-sdk 新增 233 stars，Copilot Agent SDK",
+      "turbovec 向量索引与 mem0 记忆层持续升温",
+      "DeepTutor 个性化 AI 教育获 531 stars",
+      "AI 编码助手工具集中爆发，社区转向效率与专业化"
+    ],
+    "ai-web": [
+      "OpenAI 发布“A Scorecard For The Ai Age”标题文章",
+      "Anthropic 官网今日无新内容更新",
+      "OpenAI 新文章正文未抓取到，内容尚不明确",
+      "Anthropic 维持低频沟通，专注模型安全与稳定性",
+      "OpenAI 可能强调标准化评估体系与透明度",
+      "双方均无重大产品宣布，增量信息有限"
+    ],
+    "ai-hn": [
+      "Apple 向多名 OpenAI 员工发出法律信函引热议",
+      "Kaiser 护士联名抗议 AI 监控系统",
+      "Anthropic Claude Fable 转付费模式引爆开发者反弹",
+      "Meta 与 Anthropic 传出百亿美元算力交易",
+      "OpenAI 员工资助对抗性 PAC 加剧不信任",
+      "GPT-5.6 偶发文件删除 bug 被称“诚实错误”"
+    ],
+    "ai-arxiv": [
+      "RoboTTT 将机器人策略上下文扩展到 8000 步",
+      "NeuronSoup 提出无反向传播神经网络范式",
+      "LLM 物理世界安全成为研究新焦点",
+      "Mask-Aware Policy Gradients 优化扩散语言模型",
+      "Partition Prompt Aggregate 实现统计自洽性",
+      "Can We Trust Item Response Theory for AI Evaluation?"
+    ],
+    "ai-hf": [
+      "GLM-5.2 登顶，4073 赞 MoE 旗舰模型",
+      "Qwythos-9B 量化模型下载量达 2.1M",
+      "HauhauCS Qwen3.6 无审查版下载量 2.3M",
+      "百度 Unlimited-OCR 下载近 2.0M",
+      "InternScience Agents-A1 智能体专用模型",
+      "腾讯 Hy3 新通用大语言模型发布"
+    ],
+    "ai-community": [
+      "“锁定品味”的 Agent Skill 解决 AI 界面同质化",
+      "Kimi K3 2.8 万亿参数架构全面解读",
+      "AI 应用可观测性集成教程引发关注",
+      "AI Agent 自治等级框架从 Logged 到 Locked Down",
+      "Kimi K3 输出价 $15 但实际成本不止",
+      "Ponytail vs Guardsman 讨论 AI 编码工具影响"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Hyper-growth with Windows stability issues.",
+      "40-80 open issues per cycle per tool.",
+      "Windows bugs 20-35% of all reports.",
+      "Enterprise vs open-source tools bifucation.",
+      "Developers demand reliable, observable tools.",
+      "Memory leaks and subprocess lifecycle issues."
+    ],
+    "ai-agents": [
+      "425 issues, 500 PRs in 24 hours.",
+      "Beta v2026.7.2-beta.2 ships remote coding.",
+      "Migration bug blocks gateway startup.",
+      "OAuth and credential fixes landing.",
+      "Security regressions under active investigation.",
+      "Codex and Claude integration improvements."
+    ],
+    "ai-trending": [
+      "PostHog, Hermes Agent top trending repos.",
+      "AI Infrastructure: Ollama, vLLM, Firecrawl.",
+      "AI Agents: AutoGPT, OpenHands, Browser-use.",
+      "RAG: Dify, Open WebUI, LangChain trending.",
+      "LLM Training: Transformers, TensorFlow, PyTorch.",
+      "Trending: Copilot SDK, openinterpreter, turbovec."
+    ],
+    "ai-web": [
+      "OpenAI publishes 'Scorecard For The Ai Age'.",
+      "Anthropic has no new articles today.",
+      "Low signal day from frontier labs.",
+      "Possible shift to structured assessment tools.",
+      "Metadata only, no article text captured.",
+      "Inter-cycle lull in technical releases."
+    ],
+    "ai-hn": [
+      "Apple pursues OpenAI employees legally.",
+      "Nadella calls out double standard.",
+      "Claude Code Fable feature now requires credits.",
+      "Kaiser nurses backlash vs AI surveillance.",
+      "Kimi K3 may have distilled Anthropic model.",
+      "OpenAI admits GPT-5.6 deletes files."
+    ],
+    "ai-arxiv": [
+      "LLM vulnerabilities in embodied actions.",
+      "Pretraining data poisoning via propaganda.",
+      "Multi-agent collaboration for info-seeking.",
+      "Context scaling: 8K-timestep robot policies.",
+      "Middle-layer recurrence enables persistent reasoning.",
+      "Political neutrality audits of LLM encyclopedias."
+    ],
+    "ai-hf": [
+      "Extreme compression: ternary 2-bit, NVFP4.",
+      "GLM-5.2 tops language models with 4k likes.",
+      "Inkling vision-language architecture trending.",
+      "MiniCPM5-1B fine-tune for low-resource.",
+      "LoRAs for identity-preserving video editing.",
+      "Function-calling model built with JAX."
+    ],
+    "ai-community": [
+      "Kimi K3 cost analysis reveals verbosity charges.",
+      "RAG failures and fixes dominate Dev.to.",
+      "Schneier on AI data centers and wealth.",
+      "Codex file deletion incident sparks debate.",
+      "Agent laziness patterns and accountability.",
+      "Porting models to AWS Inferentia2."
+    ]
+  }
+}

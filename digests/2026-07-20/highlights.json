@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code 发布 v0.20.0，修复多项 Bug",
+      "Gemini CLI 发布 v0.52.0-nightly 更新依赖",
+      "OpenAI Codex PR 聚焦 TUI 性能优化",
+      "Claude Code 修复 MCP 服务器连接失败",
+      "Kimi Code CLI 修复插件发现机制 Bug",
+      "DeepSeek TUI 进入精细化迭代阶段"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区 24 小时提交 347 条 Issue",
+      "PR #111210 修复 Firecrawl 错误响应",
+      "PR #111481 协调云 Worker 工作空间结果",
+      "修复工具密集会话虚假上下文超限",
+      "371 条 PR 待合入，维护者审查压力大",
+      "过去 24 小时无新版本 Release"
+    ],
+    "ai-trending": [
+      "《深入理解 AI Agent》书籍单日获 1734 星",
+      "MCP 生态工具批量登榜 GitHub Trending",
+      "低资源推理框架 airllm、ktransformers 受关注",
+      "可视化 Agent 监控平台 PostHog 持续增长",
+      "RAG 项目 star 增速平稳，Agent 记忆层成新热点",
+      "腾讯 Hy3 语言模型获社区高度关注"
+    ],
+    "ai-hn": [
+      "Claude Code 换用 Rust Bun 运行时性能飙升",
+      "OpenAI 缩减 Codex 上下文窗口至 272k 引不满",
+      "Claude Fable 提出雅可比猜想反例",
+      "GPT-5.6 文件误删争议引发社区质疑",
+      "Anthropic 与苹果人才争夺战白热化",
+      "AI 安全与版权话题占据显著位置"
+    ],
+    "ai-hf": [
+      "谷歌 gemma-4-31B-it 登顶下载量超 1200 万",
+      "1-bit 量化 Bonsai-27B 下载量达 126 万",
+      "GLM-5.2 凭借 MoE-DSA 架构获点赞第一",
+      "腾讯 Hy3 模型发布社区 GGUF 量化版",
+      "国产模型及 Qwen 3.5/3.6 微调占据半壁江山",
+      "多模态与 OCR 专用模型全面爆发"
+    ],
+    "ai-community": [
+      "GPT-5.6 系列公开但数学能力争议不断",
+      "AI Agent 开发转向性能瓶颈与成本控制",
+      "MCP 生态出现 OneNote MCP 服务器实践",
+      "超时机制设计缺陷导致 AI Agent 死锁案例",
+      "实时 AI 管道剖析发现 LLM 并非性能瓶颈",
+      "花销上限失效问题引发对可靠性的讨论"
+    ],
+    "ai-weekly": [
+      "Anthropic 研究揭示LLM面临取代压力时或成恶意内鬼",
+      "Anthropic连推Claude Tag、免费教育版等产品化动作",
+      "OpenAI Codex上下文窗口从372k缩减至272k引发众怒",
+      "Claude Code切换至Rust重写Bun运行时性能大幅飞跃",
+      "MCP生态工具本周集中爆发批量登上GitHub Trending",
+      "GitHub发布Copilot SDK推动Agent能力基础设施化"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "No major releases in past 24 hours.",
+      "Claude Code excels in plugin extensibility.",
+      "OpenAI Codex leads in TUI performance.",
+      "Qwen Code features built-in web search.",
+      "DeepSeek optimizes token-cost efficiency.",
+      "Universal pain points: hallucination, context failures."
+    ],
+    "ai-agents": [
+      "347 issues and 500 PRs in last 24h.",
+      "No new release published today.",
+      "Security concerns dominate active discussions.",
+      "Two PRs merged: cloud-workers and firecrawl fixes.",
+      "Bug #111344 on plugin exports closed.",
+      "Open items show scaling triage challenges."
+    ],
+    "ai-trending": [
+      "Agent infrastructure dominates trending list.",
+      "bojieli/ai-agent-book gained +1,734 stars.",
+      "MoonshotAI/kimi-cli up +410 stars today.",
+      "tirth8205/code-review-graph +663 stars.",
+      "ktransformers enables large models on limited hardware.",
+      "airllm runs 70B LLMs on a 4GB GPU."
+    ],
+    "ai-hn": [
+      "Claude Code migrating to Rust-based Bun (864 points).",
+      "OpenAI reduces Codex context from 372k to 272k.",
+      "Dave Eggers: 'ChatGPT is silencing a generation'.",
+      "Apple sued over device recording practices.",
+      "Anthropic's scale code migration with Claude Code.",
+      "Netflix's in-house LLM serving shows enterprise maturity."
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it dominates with 12.3M downloads.",
+      "GLM-5.2 gains 4.2K likes for MoE architecture.",
+      "Bonsai-27B-gguf: extreme 1-bit quantization popular.",
+      "Unlimited-OCR from Baidu gets 2.1M downloads.",
+      "Qwythos-family GGUF variants trending for reasoning.",
+      "Extreme quantization moves from niche to mainstream."
+    ],
+    "ai-community": [
+      "GPT-5.6 Sol public launch sparks debate.",
+      "AI agent timeouts fail on infinite loops.",
+      "One line of math froze an agent forever.",
+      "ELIZA's legacy and verifiable inference discussed.",
+      "Building AI agents with TypeScript and Hono.js.",
+      "OneNote MCP server rewrite highlights auth pitfalls."
+    ],
+    "ai-weekly": [
+      "Claude Code switches to Bun runtime",
+      "OpenAI reduces Codex context to 272k",
+      "Anthropic launches Claude Tag for Slack",
+      "OpenAI loses EU trademark dispute",
+      "Anthropic publishes Agentic Misalignment research",
+      "GPT-5.6 solves 30-year optimization problem"
+    ]
+  }
+}

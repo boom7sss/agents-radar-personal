@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "可靠性安全性成AI CLI工具竞争核心门槛",
+      "Claude Code社区讨论会话恢复失败问题多",
+      "OpenAI Codex与Gemini CLI社区活跃度最高",
+      "MCP插件系统认证后工具不可用问题频发",
+      "跨会话协作与工作流编排成共同关注方向",
+      "Pi、Qwen Code等工具PR数达10条活跃"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.7.1-beta.5测试版",
+      "新版本引入对话式引导AI循环功能",
+      "加固SQLite状态生命周期修复检查点失败",
+      "跨平台桌面端与Agent会话稳定性受关注",
+      "450条Issue更新223条关闭效率高",
+      "P0/P1级Bug报告显示稳定性挑战突出"
+    ],
+    "ai-trending": [
+      "MCP生态爆发DesktopCommanderMCP单日909星",
+      "Claude Code配套工具持续走热新增232星",
+      "hermes-agent以213k星霸榜自主Agent框架",
+      "open-webui引领RAG赛道达145k星",
+      "vllm推理引擎达86k星成部署首选",
+      "ollama本地运行模型工具达176k星"
+    ],
+    "ai-hn": [
+      "Stop Telling Me to Ask an LLM获170分热议",
+      "Mesh LLM分布式AI计算获133分关注",
+      "Claude Code隐私回放工具Confessor开源",
+      "Sqlsure为AI生成SQL提供确定性语义校验",
+      "AgentTransfer开源文件传输用单Go二进制",
+      "固定三个bug让Qwen3.5-122B在Mac可日常用"
+    ],
+    "ai-hf": [
+      "GLM-5.2以3836点赞领跑本周热门榜",
+      "Qwen3.6系列社区微调版本下载量破百万",
+      "NVIDIA LocateAnything-3B定位模型走红",
+      "百度推出通用OCR模型Unlimited-OCR",
+      "谷歌表格模型TabFM开辟零样本分类赛道",
+      "GGUF格式成社区部署标配量化活动火爆"
+    ],
+    "ai-community": [
+      "将Slack变AI队友自动开PR获24赞",
+      "AI指令随时间衰减原因及持久写法获关注",
+      "Grok 4.5用600亿数据集打破架构神话",
+      "Transformer论文8作者全离开Google报道",
+      "Claude Code token账单削减77%优化策略",
+      "MCP服务器实战教程让Claude安全调用工具"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex lead community engagement",
+      "Gemini CLI and Pi focus on security releases",
+      "Multi-agent orchestration converges across tools",
+      "Agent hangs and false successes plague reliability",
+      "Windows and MCP integration are persistent issues",
+      "Claude Code has highest activity and bug reports"
+    ],
+    "ai-agents": [
+      "OpenClaw: 450 issues and 500 PRs updated today",
+      "Closed 223 issues and 242 PRs in 24 hours",
+      "New beta v2026.7.1-beta.5 with conversational onboarding",
+      "Crestodian agent-loop for setup across CLI, web, macOS",
+      "AI-guided provider setup with model-judged approvals",
+      "No breaking changes in this beta release"
+    ],
+    "ai-trending": [
+      "DesktopCommanderMCP: +909 stars for Claude terminal control",
+      "Stitch-skills: +340 stars for Agent Skills standard",
+      "Superpowers: +740 stars for agentic skills framework",
+      "Claude-mem and mem0 lead persistent agent memory",
+      "Huggingface Transformers: 162k stars, top model framework",
+      "Ollama: 175k stars, simplest local LLM runner"
+    ],
+    "ai-hn": [
+      "'Stop Telling Me to Ask an LLM' hits 170 points",
+      "Claude faces quality decline and secret tracker backlash",
+      "Phantom $16.6M charge in Claude billing reported",
+      "Mesh LLM gains traction for decentralized AI computing",
+      "GPT-5.6 mistakenly deletes user files, raising safety",
+      "Safety incidents and billing errors fuel community anxiety"
+    ],
+    "ai-hf": [
+      "MoE and Qwen 3.5/3.6 lead Hugging Face trending",
+      "NVIDIA releases new sparse models Audex and Puzzle",
+      "Baidu Unlimited-OCR reaches 1,900 likes for OCR",
+      "GLM-5.2 tops with 3,836 likes and 421K downloads",
+      "MiniCPM5 and small efficient open-weight models gain",
+      "Vision-language models blur between text and image"
+    ],
+    "ai-community": [
+      "Slack AI teammate that opens PRs hits Dev.to top",
+      "AI instructions decay over time, new techniques offered",
+      "Model Kombat: GPU-accelerated LLM fighting game",
+      "Evaluation blind spots in 'Model Knows It's Being Tested'",
+      "Lobste.rs debates AI environmental cost from Google",
+      "Context management emerges as new bottleneck for agents"
+    ]
+  }
+}

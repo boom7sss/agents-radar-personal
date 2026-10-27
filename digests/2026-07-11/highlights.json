@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex Issue #30364获284👍，GPT-5.5 Token聚类热点",
+      "Claude Code资源失控、Windows兼容问题成焦点",
+      "OpenCode移动端诉求获89👍，跨场景需求迫切",
+      "Kimi Code修复核心Bug，首次体验改进",
+      "代理失控（资源耗尽、递归卡死）成行业性顽疾",
+      "工具竞争转向MCP协议、Hooks系统等平台生态"
+    ],
+    "ai-agents": [
+      "OpenClaw今日437 Issues、500 PRs，高度活跃",
+      "P0内存泄漏#91588仍未关闭，健康度需关注",
+      "Discord插件WebSocket断开后自动重连修复",
+      "修复Codex与GPT-5.6兼容性回归，Pi运行正常",
+      "新增对话身份模式，支持个人/服务/外部会话",
+      "冻结验证目标提升版本发布可靠性"
+    ],
+    "ai-trending": [
+      "agent-skills今日斩获1116星，代理技能浪潮爆发",
+      "OfficeCLI专为AI代理打造，获1224星冲上Trending",
+      "TencentDB-Agent-Memory提供4层渐进式本地记忆",
+      "superpowers代理技能框架获1013星，实用主义",
+      "vllm推理引擎85,936星，生产部署首选",
+      "ollama本地推理175,894星，一键运行开源模型"
+    ],
+    "ai-hn": [
+      "Apple起诉OpenAI窃取商业机密，引爆社区",
+      "GPT-5.6 Sol Ultra自动证明Cycle Double Cover猜想",
+      "Meta因AI图像功能争议紧急撤下功能",
+      "AI自主申诉解封账号，引发安全边界讨论",
+      "12模型构建同4个应用，Muse Spark表现意外",
+      "Agent记忆策略决策树指南，工程团队可直接参考"
+    ],
+    "ai-arxiv": [
+      "OpenCoF提出通过视频帧序列进行因果推理",
+      "Ideas Have Genomes基准测试科学思想谱系追踪",
+      "量化后LLM行为偏移，提出正确性一致性指标",
+      "超级权重并非普遍现象，针对性训练无效",
+      "UniClawBench为主动智能体提供通用基准",
+      "美团LongCat-2.0专注超长上下文理解"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE架构获3787赞，国产模型新星",
+      "Agents-A1基于Qwen3.5 MoE，主攻工具使用",
+      "DeepSeek-V4-Pro-DSpark挑战顶级开源模型",
+      "NVIDIA Nemotron 75B用NVFP4 4-bit量化",
+      "Mistral Leanstral-1.5 119B-A6B高效MoE",
+      "美团LongCat-2.0超长上下文模型落地产业"
+    ],
+    "ai-community": [
+      "AI模板合同隐藏隐患，团队需警惕笑里藏刀",
+      "构建统一错误模型应对多Provider故障",
+      "Linter可拦截AI助手常写的安全漏洞",
+      "赌博式使用编码代理需建立可控工作流",
+      "优化网站结构让AI代理更好理解页面",
+      "谷歌AI被指导致数字膨胀与气候危机"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.207 has critical bugs.",
+      "Qwen Code v0.19.9 released with new features.",
+      "OpenAI Codex v0.145.0-alpha.3 & .4 out.",
+      "GitHub Copilot CLI v1.0.71-0 released.",
+      "Agent recursion cost is a common pain.",
+      "OpenCode sees active provider compatibility work."
+    ],
+    "ai-agents": [
+      "OpenClaw has 437 issues and 500 PRs.",
+      "171 PRs merged/closed today in OpenClaw.",
+      "No new releases despite high activity.",
+      "Critical stability issues remain unresolved.",
+      "Features backlog grows since February.",
+      "Community engagement robust but bugs pile up."
+    ],
+    "ai-trending": [
+      "Agent skills projects gained 3,800+ stars.",
+      "TencentDB-Agent-Memory tackles context persistence.",
+      "claude-mem hits 86k+ stars for memory.",
+      "OfficeCLI automates Word/Excel/PowerPoint.",
+      "LangChain leads with 141k stars.",
+      "vLLM at 85k stars for inference serving."
+    ],
+    "ai-hn": [
+      "Apple sues OpenAI over trade secrets.",
+      "GPT-5.6 Sol Ultra proves graph conjecture.",
+      "Proof sparks debate on machine discovery.",
+      "Frontier models compared building 4 apps.",
+      "No clear winner in code generation test.",
+      "AI appeals its own ban ironically."
+    ],
+    "ai-arxiv": [
+      "Super Weights not universal in LLMs.",
+      "Quantization changes behavior beyond accuracy.",
+      "Process-aware evaluation gains traction.",
+      "Speculative decoding matures with new methods.",
+      "Proactive long-horizon agents studied.",
+      "LLM judges biased as citation verifiers."
+    ],
+    "ai-hf": [
+      "MoE models dominate trending this week.",
+      "GLM-5.2 tops with 3,787 likes.",
+      "Nvidia LocateAnything-3B for visual grounding.",
+      "Qwen3.6-27B-MTP-GGUF gets 2.9M downloads.",
+      "Unlimited-OCR from Baidu is practical.",
+      "Krea 2-Turbo enables fast text-to-image."
+    ],
+    "ai-community": [
+      "Error model gateway handles provider failures.",
+      "50 parallel agents shared same number bug.",
+      "Linter catches AI-written security bugs.",
+      "Google AI growth accelerates digital bloat.",
+      "Caching proxy makes AI pipelines resilient.",
+      "AI tools need same rigor as infrastructure."
+    ]
+  }
+}

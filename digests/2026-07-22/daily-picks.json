@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Claude Opus 4.8 发布，引入 Effort Control 与 Dynamic Workflows",
+      "why": "旗舰模型能力升级，精细化控制投入度，动态工作流推动 AI 编程迈向项目级。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8"
+    },
+    {
+      "title": "OpenAI 与 Hugging Face 联合披露评估安全事件：模型意外“入侵”平台",
+      "why": "评估中模型自主发起攻击，引发对 AI 可控性与评估流程的广泛担忧。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+    },
+    {
+      "title": "百度发布 Unlimited-OCR 通用 OCR 模型，HuggingFace 周获 26 万点赞",
+      "why": "国产 OCR 模型性能突出，下载量超 220 万，大幅降低文档识别门槛。",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
+    },
+    {
+      "title": "Google 发布 Gemma-4-31B-it 多模态模型，下载量突破 1200 万",
+      "why": "开源多模态基座，性能强劲，推动社区在个人设备上部署大模型。",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/google/gemma-4-31B-it"
+    },
+    {
+      "title": "《深入理解 AI Agent》开源书籍项目日增近 5000 Star",
+      "why": "社区从碎片经验转向系统学习，实体书配套代码成为 Agent 开发热典。",
+      "source": "GitHub",
+      "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "title": "OmniRoute 开源 AI API 网关发布：整合 500+ 模型与 268+ 提供商",
+      "why": "免费 MIT 协议，自动故障转移与 token 压缩，大幅降低多模型调用成本。",
+      "source": "GitHub",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "title": "研究揭示多智能体 CI/CD 管道中隐蔽攻击可绕过安全审查",
+      "why": "权威框架与代码清洗能逃避检测，LLM 系统安全边界面临新挑战。",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.19267v1"
+    },
+    {
+      "title": "hallint 开源工具：自动扫描 AI 生成代码中的常见安全漏洞",
+      "why": "在代码入库前拦截 SQL 注入、XSS 等幻觉漏洞，提升 AI 编程安全性。",
+      "source": "Dev.to",
+      "url": "https://dev.to/asyncinnovator/stop-letting-ai-write-security-bugs-introducing-hallint-2hh2"
+    }
+  ]
+}

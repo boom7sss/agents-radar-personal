@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.216发布，修复递归失控",
+      "OpenAI Codex合并10个PR，发布3个Rust Alpha",
+      "Gemini CLI v0.52.0-nightly，修复P1级Bug",
+      "OpenCode v1.18.4发布",
+      "子代理可靠性与可控性成核心共性问题",
+      "社区反馈Bug声量大于新功能需求"
+    ],
+    "ai-agents": [
+      "OpenClaw处理355条Issue和500条PR",
+      "PR #106635修复REST凭证泄露",
+      "PR #111977统一dashboard布局",
+      "会话状态丢失与压缩循环成社区热点",
+      "PR #112035统一线程文件夹选择器",
+      "多语言本地化PR覆盖Telegram等"
+    ],
+    "ai-trending": [
+      "MCP生态工具OmniRoute单日吸星1107",
+      "语音AI赛道voicebox等三项目同日登榜",
+      "code-review-graph新增1833星",
+      "ai-engineering-from-scratch新增823星",
+      "ollama 176k stars稳居基础工具榜首",
+      "Hermes Agent 217k星星最活跃Agent框架"
+    ],
+    "ai-web": [
+      "Anthropic设罕见病研究基金，双轨制资助",
+      "OpenAI发布长时域模型安全对齐论文",
+      "Anthropic策略差异化竞争抢占科研高地",
+      "罕见病研究专项课题瞄准治愈400万患者",
+      "OpenAI更新仅标题，内容缺失",
+      "OpenAI长周期模型对齐挑战新维度"
+    ],
+    "ai-hn": [
+      "Kimi K3与Anthropic潜在危机分析获307分",
+      "Anthropic 15亿美元版权和解获批",
+      "OpenAI销售目标未达成遭爆料",
+      "OpenAI模型逃逸沙箱未证实引警示",
+      "安全对齐论文发布聚焦长时域模型",
+      "社区讨论转向经济可持续性与监管"
+    ],
+    "ai-arxiv": [
+      "研究揭示LLM谄媚偏差内部表征",
+      "PPL-Factory任务感知数据选择方法",
+      "VDAR-Router动态路由优化成本",
+      "SWE-Pruner Pro代码上下文剪枝",
+      "基于经验而非奖励的LLM学习范式",
+      "自动化发现无通用最优配置"
+    ],
+    "ai-hf": [
+      "Qwen3.6和MiniCPM5社区微调霸榜",
+      "Bonsai系列三元量化模型下载量惊人",
+      "Gemma-4-31B-it下载量11.9M",
+      "tencent/Hy3开源带火社区量化",
+      "moonshotai/Kimi-K2.7-Code专精代码",
+      "百度Unlimited-OCR处理复杂长文本"
+    ],
+    "ai-community": [
+      "AI代码所有权与责任归属讨论热",
+      "本地AI代理安全隐患被剖析",
+      "RAG优化贝叶斯搜索降延迟40%",
+      "阿里发布2.4T参数模型",
+      "OpenAI削减Codex上下文节省算力",
+      "ReflectionCLI 2.0本地优先思考CLI"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads with 353 comments on issue #826",
+      "Seven major tools now support sub-agent architectures",
+      "Community focus shifts to production hardening",
+      "Divergence: extensibility vs foundational reliability",
+      "Top pain points: sub-agent recursion, MCP fragility",
+      "OpenAI Codex releases three alpha versions in 24h"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 355 issues and 500 PRs in 24h",
+      "129 issues closed today",
+      "125 pull requests merged or closed",
+      "Key fix: redundant sentinel logic removed",
+      "Dashboard widget presentation contract merged",
+      "Security fix: REST error details redacted"
+    ],
+    "ai-trending": [
+      "code-review-graph gains 1,833 stars in one day",
+      "OmniRoute offers free MIT multi-provider AI gateway",
+      "agency-agents push specialized multi-agent teams",
+      "Moonshine and transcribe.cpp surge for voice interfaces",
+      "ktransformers enables heterogeneous LLM inference",
+      "FastMCP simplifies building MCP servers in Python"
+    ],
+    "ai-web": [
+      "Anthropic launches rare disease research grants program",
+      "Offers up to $50,000 in Claude credits",
+      "OpenAI publishes on safety alignment for long-horizon models",
+      "Anthropic shifts to thematic grant structures",
+      "Both focus on different axes of AI strategy",
+      "No article text available for OpenAI piece"
+    ],
+    "ai-hn": [
+      "Frontier lab economics discussion tops with 307 points",
+      "Bloomy YC S26 launches AI K-12 mastery learning",
+      "Anthropic's $1.5B copyright settlement approved",
+      "OpenAI reported revenue shortfall sparks debate",
+      "Anthropic model claims Jacobian Conjecture disproven",
+      "OpenAI safety post on long-horizon models gets 25 points"
+    ],
+    "ai-arxiv": [
+      "Soft prefixes probe logical reasoning degradation in LLMs",
+      "Alignment tuning reduces but doesn't eliminate sycophancy",
+      "Activation steering breaks LLMs out of self-loops",
+      "Paper proposes minimizing 'CodeSlop' in agents",
+      "Three-body scattering used for generative modeling",
+      "Differentiable logic gate networks for edge EEG"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model tops with 4,229 likes",
+      "Bonsai-27B 1-bit quantized most downloaded model",
+      "Baidu's Unlimited-OCR leads multimodal understanding",
+      "Gemma-4-31B-it trending for vision-language",
+      "Qwen 3.6 ecosystem explodes with community fine-tunes",
+      "MOSS real-time audio and video pipelines emerge"
+    ],
+    "ai-community": [
+      "AI code ownership debate sparks 26 comments",
+      "ReflectionCLI 2.0 offers local-first thinking CLI",
+      "Smolagents bug shows fragile agent loops",
+      "Local-first doesn't solve agent privilege escalation",
+      "Alibaba releases 2.4 trillion parameter model",
+      "ELIZA history reminds debates are decades old"
+    ]
+  }
+}

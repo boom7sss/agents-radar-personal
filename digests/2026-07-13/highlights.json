@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GPT-5.6 Sol 发布，自动证明数学猜想引热议",
+      "Claude Sonnet 5 发布，性能接近 Opus 成本更低",
+      "Agent 安全事故集中爆发，凭证泄露与 RCE 漏洞",
+      "Claude Code 遭遇计费争议与子代理失控递归",
+      "OpenAI Codex 内存泄漏与 GPT-5.6 适配问题",
+      "Gemini CLI 零点击 RCE 漏洞与 Caretaker 自动化并存"
+    ],
+    "ai-agents": [
+      "Claude Cowork 轻量级 Agent 面向移动端推出",
+      "Agent Skills 标准化浪潮登陆 GitHub，总星超 4000",
+      "iOfficeAI/OfficeCLI 单日 GitHub 获 1200+ 星标",
+      "Anthropic 任命前美联储主席伯南克加入信托",
+      "Apple 起诉 OpenAI 窃取硬件设计商业机密",
+      "GitHub Copilot CLI TUI 假死与文件损坏仍未解决"
+    ],
+    "ai-trending": [
+      "destructive_command_guard防Agent误执行危险命令，今日+444星。",
+      "Vibe-Trading个人交易Agent今日新增+768星，最高热度。",
+      "AI对冲基金团队ai-hedge-fund登榜，多Agent投资决策。",
+      "hallmark提出Anti-AI-slop设计方法，从能用转向好看。",
+      "DesktopCommanderMCP提供Claude终端控制MCP服务。",
+      "claude-code-templates降低高级用户CLI配置门槛。"
+    ],
+    "ai-hn": [
+      "Claude Code vs OpenCode: token开销33K vs 7K，492分热帖。",
+      "Geohot批判LLM狂热文化获351分，210条评论务实反思。",
+      "社区强烈呼吁AI生成内容标记，160分支持。",
+      "Apple起诉OpenAI、安全负责人离职等产业新闻。",
+      "因果理论引入LLM可解释性，86分讨论谨慎乐观。",
+      "Anthropic发现Claude内部“概念困惑空间”引关注。"
+    ],
+    "ai-hf": [
+      "Qwen3.6系列模型家族全面爆发，覆盖量化微调全链条。",
+      "zai-org/GLM-5.2获3859赞，社区最受关注对话模型。",
+      "NVIDIA推出75B-A9B MoE模型，采用NVFP4压缩格式。",
+      "百度Unlimited-OCR通用OCR模型下载超143万。",
+      "NVIDIA LocateAnything-3B精确定位物体，下载超150万。",
+      "LTX-Video和LingBot探索视频生成与世界模型前沿。"
+    ],
+    "ai-community": [
+      "AI Agent“假成功”陷阱：任务成功但检查点从未执行。",
+      "Ollama在Jetson Nano上基准测试，边缘AI实践参考。",
+      "开发者分享LLM API账单控制技巧，重试策略是元凶。",
+      "OpenAI发现SWE-Bench Pro 30%有缺陷，撤回推荐。",
+      "多Agent流水线可靠性陷阱引发生产环境警示。",
+      "“文档不是块的袋子”挑战RAG传统做法获讨论。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Cross-tool activity: 7 major projects active",
+      "Gemini CLI v0.52.0-nightly released",
+      "MCP and plugin reliability challenges",
+      "Cross-platform regressions on Windows/Wayland",
+      "Daemon architectures and inline skill invocation",
+      "Security CVEs and CI pipeline failures"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.6 released",
+      "New providers: Featherless, Claude Sonnet 5",
+      "GPT-5.6 is now the default model",
+      "Critical bug fixes for P0/P1 memory leaks",
+      "Stabilization sprint ahead of stable release",
+      "500 issues and 500 PRs updated in 24h"
+    ],
+    "ai-trending": [
+      "Vibe-Trading +768 stars today",
+      "Destructive Command Guard +444 stars",
+      "Anthropic's Claude Cookbooks trending",
+      "Memory layers (mem0, cognee) exploding",
+      "Ollama adds Kimi-K2.6 support",
+      "Firecrawl: web scraping for AI agents"
+    ],
+    "ai-hn": [
+      "Claude Code uses 33k tokens vs 7k OpenCode",
+      "George Hotz: 'I love LLMs, I hate hype'",
+      "Flag for AI-generated articles gains 160",
+      "Mechanistic interpretability using causality",
+      "Grok 4.5 and GPT5.6 beat Anthropic in security",
+      "Anthropic found hidden space for concept puzzling"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 derivatives dominate trending models",
+      "NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B",
+      "Tencent Hy3 MoE architecture trending",
+      "Qwen3.6-35B-A3B-Uncensored 2.5M+ downloads",
+      "Baidu Unlimited-OCR specialized model",
+      "Cohere Arabic transcription model trending"
+    ],
+    "ai-community": [
+      "GPT-5.6 Sol matches Claude Fable 5 at 1/3 cost",
+      "Silent checkpoint failures in multi-agent pipelines",
+      "Citation hallucinations bypass memory gates",
+      "Google AI-driven energy bloat warning (140 pts)",
+      "OpenAI retracted SWE-Bench recommendation",
+      "Prolog library for LLM interfaces trending"
+    ],
+    "ai-weekly": [
+      "GPT-5.6 Sol launch triggers industry-wide updates",
+      "OpenAI model proves Cycle Double Cover Conjecture",
+      "Apple sues OpenAI for trade secret theft",
+      "Anthropic reveals agentic misalignment research",
+      "'Agent Skills' repositories surge past 4K stars",
+      "Claude Code vs OpenCode token efficiency debated"
+    ]
+  }
+}

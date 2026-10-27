@@ -1,0 +1,61 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 承认 GPT-5.6 偶发文件删除漏洞",
+      "why": "模型自主操作可能导致数据丢失，引发安全信任危机",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48949924"
+    },
+    {
+      "title": "Apple 向多名 OpenAI 员工发出法律信函",
+      "why": "人才流动与知识产权冲突升级，反映头部企业竞争加剧",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta 与 Anthropic 传出百亿美元算力交易",
+      "why": "算力军备竞赛信号，可能改变云与模型合作格局",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic Claude Fable 模型突然转为付费",
+      "why": "免费工具转收费引发开发者强烈反弹，生态信任受损",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenClaw v2026.7.2-beta.2 发布，支持远程编码会话",
+      "why": "Agent 工具跨平台协作能力跃升，但升级需注意数据库迁移 Bug",
+      "source": "ai-agents",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "GitHub Copilot SDK 单日热度爆表",
+      "why": "官方 Agent 集成 SDK 降低开发门槛，加速 Copilot 生态扩展",
+      "source": "ai-trending",
+      "url": "https://github.com/github/copilot-sdk"
+    },
+    {
+      "title": "OpenInterpreter 完成 Rust 重写",
+      "why": "核心性能提升，编码 Agent 工具进入更高效阶段",
+      "source": "ai-trending",
+      "url": "https://github.com/openinterpreter/openinterpreter"
+    },
+    {
+      "title": "百度开源 Unlimited-OCR 模型，下载量直逼两百万",
+      "why": "通用 OCR 能力开放，极大降低文字识别应用门槛",
+      "source": "ai-hf",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
+    },
+    {
+      "title": "GLM-5.2 登顶 Hugging Face，MoE 架构成社区焦点",
+      "why": "国产旗舰 MoE 模型获社区广泛认可，标志新一轮架构竞争",
+      "source": "ai-hf",
+      "url": "https://huggingface.co/zai-org/GLM-5.2"
+    },
+    {
+      "title": "RoboTTT 论文将机器人策略上下文扩展至 8000 步",
+      "why": "长上下文与测试时训练带来机器人行为数量级突破",
+      "source": "ai-arxiv",
+      "url": "http://arxiv.org/abs/2607.15275v1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "picks": [
+    {
+      "title": "Apple 起诉 OpenAI 窃取商业机密，双方关系破裂",
+      "why": "法律战可能重塑AI行业竞争格局，影响数据使用与合作模式",
+      "source": "Hacker News AI 社区动态日报",
+      "url": ""
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra 自动证明图论 Cycle Double Cover 猜想",
+      "why": "AI 在数学研究里程碑式突破，引发证明可靠性与验证成本争论",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
+    },
+    {
+      "title": "Agent Skills 爆发：addyosmani/agent-skills 推动标准化可复用技能",
+      "why": "社区正从单代理走向技能标准共享，加速代理生态成熟",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "title": "TencentDB-Agent-Memory：4层渐进式长期记忆管线开源",
+      "why": "零外部API的本地长期记忆方案，解决代理持久化记忆关键瓶颈",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "title": "DeepSeek-V4-Pro-DSpark 发布，顶级开源 MoE 模型",
+      "why": "DeepSeek 在开源领域持续发力，与 NVIDIA 等形成直接竞争",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark"
+    },
+    {
+      "title": "GLM-5.2 MoE 发布，国产大模型最新版本",
+      "why": "国内大模型采用MoE架构，对话与生成性能强劲，引发社区高度关注",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/zai-org/GLM-5.2"
+    },
+    {
+      "title": "OpenCoF：通过视频帧序列生成实现因果推理新范式",
+      "why": "将视频生成视为链式思维替代路径，开辟多步推理研究方向",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2607.08763"
+    }
+  ]
+}

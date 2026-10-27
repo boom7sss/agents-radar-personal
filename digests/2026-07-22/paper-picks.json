@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+      "takeaway": "开放权重和数据的开源VLM，达到SOTA多模态理解。",
+      "why": "开放数据路径可复现，社区影响力大，适合研究和应用。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "Learning Segmentation from Radiology Reports",
+      "takeaway": "从放射学报告弱监督学习医学图像分割，减少标注需求。",
+      "why": "弱监督医学影像新范式，报告文本提供丰富语义，有实际应用潜力。",
+      "venue": "MICCAI",
+      "url": "https://conferences.miccai.org/2025/en/BEST-PAPER-AWARDS.html"
+    },
+    {
+      "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+      "takeaway": "通过工具使用后训练使多模态模型推理长音视频，定位关键证据。",
+      "why": "针对长视频音频推理的实用框架，结合SFT和RL，有强扩展性。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.19339v1"
+    }
+  ]
+}

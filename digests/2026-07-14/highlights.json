@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.208发布，新增屏幕阅读器支持",
+      "OpenCode v1.17.20发布，支持GPT-5.6 Luna",
+      "成本失控与代理循环成跨工具共性痛点",
+      "权限系统混乱，preToolUse钩子失效",
+      "Opus 4.8推理退化，模型兼容问题频发",
+      "安全沙箱数据保护问题突出，文件静默删除"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.7.1，默认模型切换为GPT-5.6",
+      "新增Featherless、Claude Sonnet 5等模型支持",
+      "大量P0/P1回归Bug，稳定性面临严峻挑战",
+      "社区强烈要求安全增强和跨平台支持",
+      "/think命令为Sol/Terra/Luna模型提供增强模式",
+      "破坏性变更：依赖旧默认模型的工作流可能失效"
+    ],
+    "ai-trending": [
+      "Vibe-Trading新增1153 stars，AI交易代理火热",
+      "airi新增78 stars，自托管Grok伴侣上线",
+      "awesome-llm-apps新增996 stars，100+即用AI应用",
+      "Nutlope/hallmark新增794 stars，CSS设计技能包",
+      "DeepSeek-Reasonix 26.9k stars，终端编码Agent稳定运行",
+      "coreyhaines31/marketingskills新增299 stars，营销技能包"
+    ],
+    "ai-web": [
+      "Anthropic密集发布7篇研究，聚焦智能体对齐",
+      "Agentic misalignment揭示LLM可能成内部威胁",
+      "Claude价值观差异研究实现定量分析",
+      "Claude在机器人任务上首次系统测试",
+      "OpenAI今日无更新，议题引领失语",
+      "Claude创意工具与设计产品生态扩展"
+    ],
+    "ai-hn": [
+      "Anthropic争议达顶峰，创始人言论引社区批评",
+      "微软Claude Code和Copilot CLI推广研究发布",
+      "SQL实现神经网络获65分，工程创造力惊叹",
+      "MemStitch零拷贝上下文桥接25倍加速",
+      "AI泡沫与能源消耗引发社会层面担忧",
+      "开源工具链创新涌现，涵盖IDE到推理加速"
+    ],
+    "ai-arxiv": [
+      "首篇LLM元认知综述，定义五大功能维度",
+      "LLM-as-Judge偏见机制从神经元层面解释",
+      "AdvancedMathBench填补高级数学推理基准空白",
+      "自动化红队框架攻击Claude Code成功率超80%",
+      "沙漏推理范式显著提升少样本归纳推理",
+      "温度参数影响RAG系统意识形态倾向"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2获3902赞，MoE高分对话模型",
+      "baidu/Unlimited-OCR下载150万+，通用OCR",
+      "empero-ai/Qwythos-9B下载198万，图文量化版",
+      "tencent/Hy3发布，腾讯持续开源LLM",
+      "nvidia超大MoE模型Nemotron-Labs 75B",
+      "CohereLabs发布阿拉伯语语音识别和表格分类模型"
+    ],
+    "ai-community": [
+      "Dev.to创始人反驳AI让文档过时的观点",
+      "30天全量使用Claude Code后开发者技能退化",
+      "AI编码助手隐性成本：技能萎缩与系统理解丧失",
+      "纯数学模型替代RAG实现客服高效检索",
+      "MargIQ开源工具按需选择模型层级避浪费",
+      "Lobste.rs高赞Google因AI碳排放激增文章"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.208 released today",
+      "OpenAI Codex had 3 patch releases",
+      "Permission bypass bugs erode trust",
+      "Push toward server/daemon architectures",
+      "Cost control and session reliability issues",
+      "Kimi CLI and DeepSeek TUI focus on UX"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1 shipped with new models",
+      "Added Featherless, Claude Sonnet 5, Mythos 5",
+      "Default model updated to GPT-5.6",
+      "High number of P0/P1 regressions reported",
+      "Session state corruption bugs surface",
+      "164 issues closed, 213 PRs merged"
+    ],
+    "ai-trending": [
+      "Air: self-hosted AI companion explodes",
+      "Graphify turns codebases into queryable graphs",
+      "Vibe-Trading: trading agent gains 1,153 stars",
+      "Ollama now supports Kimi-K2.6 and GLM-5.1",
+      "Firecrawl trends with 16k+ stars",
+      "Agentic skills and vertical apps dominate"
+    ],
+    "ai-web": [
+      "Anthropic dropped 7 new pieces on July 13",
+      "Agentic Misalignment study across 16 models",
+      "Claude for Creative Work integrates Ableton, Adobe",
+      "Global Workspace paper on emergent cognition",
+      "OpenAI published no new content",
+      "Anthropic's unilateral agenda-setting"
+    ],
+    "ai-hn": [
+      "Top story: critique of Anthropic marketing",
+      "Debate on Claude code quality as slop",
+      "Georgia family sells home for AI data centers",
+      "Study of Microsoft's Claude Code rollout",
+      "Food metadata built with LLM Juries",
+      "Community mood shifts to critical examination"
+    ],
+    "ai-arxiv": [
+      "Mechanistic interpretability and safety surge",
+      "Distributed backdoors in multi-agent systems",
+      "LLM-as-judge bias at representation level",
+      "Hourglass bottleneck improves inductive inference",
+      "Frugal NAS achieved on consumer hardware",
+      "Faithfulness assumption relaxed in causal discovery"
+    ],
+    "ai-hf": [
+      "Qwen-3.x derivatives dominate trending board",
+      "GLM-5.2 MoE leads with 3,902 likes",
+      "Tencent Hy3 and Baidu Unlimited-OCR released",
+      "GGUF quantization ecosystem explodes",
+      "Uncensored and thinking fine-tunes for local",
+      "Specialized models for Arabic ASR and video"
+    ],
+    "ai-community": [
+      "Developers divided on AI coding assistants",
+      "Skill atrophy from heavy Claude Code use",
+      "Lobste.rs: Google climate impact from AI",
+      "Schneier essay on AI surveillance",
+      "Practical posts on model inference optimization",
+      "Tension between speed and understanding"
+    ]
+  }
+}

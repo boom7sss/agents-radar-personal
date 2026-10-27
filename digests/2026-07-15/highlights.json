@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code与Copilot CLI遭成本失控与400错误",
+      "OpenCode v2 UI迁移引发大量回归投诉",
+      "Pi发布breaking版本，社区活跃度中高",
+      "Qwen Code发布正式版+nightly+SDK",
+      "OpenAI Codex当日合入10个PR，响应快",
+      "Kimi Code CLI相对安静，TPS限流问题"
+    ],
+    "ai-agents": [
+      "OpenClaw出现P0崩溃循环，启动迁移故障",
+      "修复chunkItems OOM风险的PR已合并",
+      "新增per-request cancellation防P1安全问题",
+      "CRON工具兼容性修复，跟进回归",
+      "Mattermost通道元数据恢复",
+      "最受关注Issue #75 Linux/Windows Clawdbot"
+    ],
+    "ai-trending": [
+      "Graphify今日+1851⭐，增长最快",
+      "Vibe-Trading交易Agent登榜，AI+量化热点",
+      "destructive_command_guard安全工具首登热榜",
+      "ollama持续作为AI基础设施标配",
+      "mem0等记忆工具突破万星",
+      "NousResearch/hermes-agent最热agent框架"
+    ],
+    "ai-web": [
+      "Claude for Teachers免费工具进军K-12教育",
+      "Anthropic向加拿大AI研究投入1000万加元",
+      "加拿大Claude人均使用量达预期4倍以上",
+      "专业服务行业驱动Claude高采用率",
+      "OpenAI今日无新内容发布",
+      "Anthropic战略转向产品化和垂直深耕"
+    ],
+    "ai-hn": [
+      "Codex开始加密子代理提示，引发安全辩论",
+      "匿名分析师称OpenAI广告收入可能低90%",
+      "Agnost AI从Agent对话提取反馈",
+      "Oodle.ai百万agent traces仅10美元",
+      "LeMario用JEPA训练超级马里奥世界模型",
+      "Meta裁员被指由AI决策，法律诉讼"
+    ],
+    "ai-arxiv": [
+      "Knowledgeless LM抑制参数记忆消除幻觉",
+      "扩散LLM加速推理综述",
+      "MemOps基准覆盖记忆全生命周期",
+      "PalmClaw原生移动端Agent框架",
+      "Agent任务复杂度感知降低推理成本",
+      "44模型一致性偏差41%选serendipity"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE模型获3949赞",
+      "Qwen3.6微调模型霸榜，HauhauCS版2735赞",
+      "Ternary-Bonsai-27B极低1bit量化",
+      "百度Unlimited-OCR下载超171万",
+      "Qwythos-9B Claude风格融合模型200万下载",
+      "NVIDIA Nemotron-Labs Audex-30B-A3B MoE"
+    ],
+    "ai-community": [
+      "AI代理成本失控与信任危机成主流话题",
+      "自托管边缘推理：Hailo 8加速卡装手持设备",
+      "RAG评估非确定性检索导致不一致",
+      "AI框架前10%像魔法，后90%崩溃你",
+      "手动优化Rust热路径拒绝AI修复",
+      "OWASP Agentic Top 10安全指南解读"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Seven major tools shipped releases in 24 hours",
+      "Claude Code released patches v2.1.209 and v2.1.210",
+      "OpenAI Codex highest upvoted feature: TUI status line",
+      "Agent cost control is dominant theme",
+      "Qwen Code and DeepSeek TUI match development velocity",
+      "Gemini CLI has unresolved P1 subagent issues"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs updated in 24h",
+      "70% open issues and PRs",
+      "P0 startup crash-loop bugs in 2026.7.1",
+      "Gateway crash-loop fixes merged",
+      "Memory Core embedding_cache conflict",
+      "144 PRs merged or closed in 24h"
+    ],
+    "ai-trending": [
+      "awesome-llm-apps gained +1106 stars",
+      "skills project gained +1679 stars",
+      "graphify knowledge graph skill gained +1851 stars",
+      "destructive_command_guard for agent safety +473 stars",
+      "Two trading agent projects trending",
+      "vllm and ollama at 86K and 176K stars"
+    ],
+    "ai-web": [
+      "Claude for Teachers free for US K-12 educators",
+      "$10 million CAD to Canadian AI research",
+      "Canada second-highest Claude adoption per capita",
+      "Learning Commons integration with state standards",
+      "OpenAI no new content this cycle",
+      "Three new articles from Anthropic"
+    ],
+    "ai-hn": [
+      "OpenAI hardware-backed passkeys and encrypted prompts",
+      "Ads revenue forecast miss of 90%",
+      "Apple lawsuit over hardware IP theft",
+      "LeMario JEPA world model on Super Mario",
+      "Meta camera-glasses lacking indicator lights",
+      "AI hardware race: screenless speaker/companion"
+    ],
+    "ai-arxiv": [
+      "Resist and Update for incentive-compatible LLMs",
+      "Knowledgeless Language Models suppress parametric recall",
+      "LLM Judges too generous without reference answer",
+      "On-device agent frameworks emerging",
+      "Complexity-aware self-improving agent systems",
+      "Domain-specific reasoning benchmarks for chemistry"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model with 3.9K likes",
+      "Qwen 3.6-35B-A3B-Uncensored 2.7K likes",
+      "Extreme quantization: 2-bit and 1-bit Bonsai",
+      "NVIDIA Nemotron-Labs-Audex 30B-A3B",
+      "baidu Unlimited-OCR 2M downloads",
+      "Agentic coding models like gemma-4-12B-agentic"
+    ],
+    "ai-community": [
+      "AI agents faking their own work",
+      "Token costs drifting invisibly",
+      "Retrieval instability in RAG",
+      "OWASP Agentic Top 10 emerging",
+      "MargIQ routes simpler tasks to cheaper models",
+      "Versioned decision units for agent drift"
+    ]
+  }
+}

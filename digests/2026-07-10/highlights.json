@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GPT-5.6引发全行业AI CLI工具适配潮",
+      "Claude Code发布v2.1.206，含多项修复",
+      "多工具曝安全漏洞：凭证泄露、SSRF、RCE",
+      "Windows/macOS平台功能缺失引发不满",
+      "Agent行为可控性成为核心战场",
+      "子代理因中断误报成功，模型不按宪法行事"
+    ],
+    "ai-agents": [
+      "OpenClaw日收近500条Issue与PR",
+      "子Agent完成任务后结果静默丢失",
+      "工具输出渲染成图片，Agent无法读取",
+      "网关内存泄漏飙至15.5GB致OOM",
+      "大量修复PR待合并，稳定性修复未落地",
+      "社区对核心功能稳定性深切担忧"
+    ],
+    "ai-trending": [
+      "Agent Skills标准化项目addyosmani/agent-skills引热议",
+      "iOfficeAI/OfficeCLI为AI代理打造专属Office套件",
+      "腾讯DB-Agent-Memory等解决长期记忆问题",
+      "DeepSeek-Reasonix终端原生AI编码Agent获26k星",
+      "CherryHQ cherry-studio一站式AI生产力工作室48k星",
+      "社区从构建Agent转向让Agent高效工作"
+    ],
+    "ai-web": [
+      "Anthropic联手UST，Claude进入实体工业",
+      "前美联储主席伯南克加入Anthropic长期利益信托",
+      "伯南克为治理结构注入制度公信力",
+      "OpenAI同日更新GPT-5/6，强化微软365 Copilot",
+      "OpenAI新增Bio Bug Bounty悬赏生物安全漏洞",
+      "Anthropic培训2万名工程师构建工业AI生态"
+    ],
+    "ai-hn": [
+      "伯南克加入Anthropic信托成HN最高分帖（70分）",
+      "纽约时报指控OpenAI隐瞒版权案证据",
+      "OpenAI二号人物Fidji Simo离职",
+      "开发者因AI替代焦虑发起互助小组讨论",
+      "中国发布Anthropic编程工具安全警告",
+      "Grok被用于生成儿童色情致自杀事件"
+    ],
+    "ai-ph": [
+      "ExploreYC开源API获729票，可查询YC数据",
+      "Link Preview API免费获取URL预览卡片",
+      "Weillow与AssemblyAI同日发布顶尖语音模型",
+      "NanoKVM硬件智能体可物理控制屏幕",
+      "专为AI Agent设计的CLI工具现身",
+      "API和开发者工具占据Product Hunt主力"
+    ],
+    "ai-arxiv": [
+      "UniClawBench首次标准化测试主动智能体",
+      "OpenCoF提出通过视频生成进行推理",
+      "Super Weights研究揭示参数剪枝泛化局限",
+      "BiSCo-LLM实现接近1bit的极端压缩",
+      "量化后LLM行为分布偏移但准确率不变",
+      "MoE剪枝MAESTRO方法移除冗余专家"
+    ],
+    "ai-hf": [
+      "ZAI开源GLM-5.2 MoE模型获3763赞成周冠",
+      "百度Unlimited-OCR模型下载量达1.3M",
+      "NVIDIA LocateAnything-3B视觉定位2.7k赞",
+      "Qwen3.6一日内涌现多个量化版本",
+      "DeepSeek-V4 Pro-DSpark发布带分布式推理",
+      "Mistral Leanstral-1.5 119B仅激活6B参数"
+    ],
+    "ai-community": [
+      "50个AI Agent并行扫描4.66亿行代码暴露陷阱",
+      "AI代码审查导致Bot审Bot疲劳循环",
+      "开发者反思AI生成代码安全性与注意力耗散",
+      "统一OpenAI/Anthropic/Gemini错误处理模型",
+      "用三十六计隐喻AI模板采纳中的隐性陷阱",
+      "Lobste.rs讨论Google AI扩张对气候的影响"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Ecosystem matures with 7 major tools.",
+      "GPT-5.6 support and variable reasoning effort.",
+      "Platform parity issues persist for Windows/Linux.",
+      "Security concerns: credential leakage, RCE, sandbox.",
+      "Claude Code v2.1.206 shipped today.",
+      "Demand for standardized MCP permission models."
+    ],
+    "ai-agents": [
+      "498 issues and 500 PRs in 24 hours.",
+      "106 PRs merged or closed today.",
+      "Critical P0/P1 bugs (memory leaks, OAuth).",
+      "No new release; latest stable is 2026.3.11.",
+      "Community engagement high with 15-21 comments.",
+      "Notable PR #103515: security fix for race conditions."
+    ],
+    "ai-trending": [
+      "Agent skill frameworks dominate GitHub trending.",
+      "mattpocock/skills adds +1,728 stars today.",
+      "addyosmani/agent-skills adds +1,114 stars.",
+      "iOfficeAI/OfficeCLI gains +1,210 stars.",
+      "DesktopCommanderMCP for Claude Code +349.",
+      "LangChain and Dify remain leading platforms."
+    ],
+    "ai-web": [
+      "Anthropic pivots to Physical AI with UST.",
+      "Ben Bernanke appointed to LTBT for governance.",
+      "20,000 UST engineers trained on Claude.",
+      "Claude deployed in semiconductor and auto.",
+      "OpenAI's output today is metadata-only.",
+      "Anthropic focuses on industrial automation."
+    ],
+    "ai-hn": [
+      "Bernanke joining Anthropic trust (70 points).",
+      "Support group for devs alienated by LLMs.",
+      "Interpretability tool lets users see AI thoughts.",
+      "NYT accuses OpenAI of hiding copyright evidence.",
+      "Paper argues truth probes are fundamentally flawed.",
+      "Devthropology demo: AI analytics for GitHub repos."
+    ],
+    "ai-ph": [
+      "Willow Frontier Pro and AssemblyAI top speech.",
+      "agents-cli draws 145 votes as dev tool.",
+      "NanoKVM-Go gives AI physical screen control.",
+      "ExploreYC open-source data API gets 729 votes.",
+      "Productivity AI focuses on team transparency.",
+      "AI agents interacting with digital workflows."
+    ],
+    "ai-arxiv": [
+      "Shift to agentic systems in real-world settings.",
+      "Quantization causes hidden behavioral changes.",
+      "Super weights not universal across LLMs.",
+      "UltraX edits pre-training data at scale.",
+      "Speculative decoding sees creative refinements.",
+      "Lineage-aware idea generation emerges."
+    ],
+    "ai-hf": [
+      "MoE LLMs dominate from Zhipu, Tencent, Meituan.",
+      "NVIDIA pushes quantized inference with NVFP4.",
+      "GGUF versions of Qwen3.6 and DeepSeek-V4.",
+      "Zhipu GLM-5.2 gets 3,763 likes.",
+      "Baidu Unlimited-OCR trending for multimodal.",
+      "Krea text-to-image ecosystem expands."
+    ],
+    "ai-community": [
+      "Google climate-wrecking digital bloat (138 pts).",
+      "AI agents deleting production databases.",
+      "Hidden traps in AI adoption contracts.",
+      "Error model for API failures instead of status.",
+      "Code reviews overwhelmed by LLM-generated noise.",
+      "Developers building deterministic guardrails."
+    ]
+  }
+}

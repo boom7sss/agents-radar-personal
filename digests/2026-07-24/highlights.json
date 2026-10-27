@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 计费混乱与连接错误成社区焦点",
+      "OpenAI Codex Windows 平台进程泄漏问题突出",
+      "Gemini CLI Agent 假死问题成核心痛点",
+      "GitHub Copilot CLI 发布 v1.0.74 聚焦 MCP",
+      "Kimi Code CLI 快速成长，修复 Windows 兼容性",
+      "OpenCode 订阅服务故障与 V2 架构迁移并行"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日 334 条 Issues、500 条 PR 更新",
+      "PR 合并率仅 32%，维护者审查能力瓶颈",
+      "修复启动回归：BOOT.md 静默失败 bug",
+      "IRC 通道修复原始 Markdown 渲染问题",
+      "PR #112678 重构 agent 逻辑为 roster 注入",
+      "多个 P0/P1 严重 Bug 如 session 数据丢失积压"
+    ],
+    "ai-trending": [
+      "OmniRoute 获 1929 星，统一接入 500+ 模型",
+      "ollama 176k 星，本地运行大模型极简工具",
+      "AutoGPT 185k 星，通用自主 Agent 标杆",
+      "LangChain 142k 星，Agent 工程平台龙头",
+      "Dify 150k 星，集成 RAG 与 Agentic Workflow",
+      "Firecrawl 155k 星，专为 AI Agent 的搜索 API"
+    ],
+    "ai-web": [
+      "Anthropic 发布创意工作者连接器套件",
+      "Claude Opus 4.7 编码与视觉能力飞跃",
+      "Opus 4.7 首次公开差异化削弱攻击能力",
+      "Anthropic 宣告 Opus 4.5 为世界最佳编码模型",
+      "OpenAI 仅一条 health-in-chatgpt 信号模糊",
+      "Claude 从通用对话向垂直生产力工具转型"
+    ],
+    "ai-hn": [
+      "Echo 用开源模型以 1/3 成本达 Fable 级效果",
+      "OpenAI 与 Anthropic 联合呼吁监管开源模型",
+      "OpenAI 被指攻击 HuggingFace 引发愤怒",
+      "Oracle 因 AI 投资失误裁员 2.1 万人",
+      "Claude-thermos 保持会话活跃获 82 分",
+      "OneCLI 开源凭证网关防止 AI Agent 密钥泄露"
+    ],
+    "ai-arxiv": [
+      "Surprisal 语言处理理论被证同义反复",
+      "LLM 道德推理中结构化抵抗与顺从并存框架",
+      "Windowed-MTP 加速百万 token 长序列生成",
+      "LLM 过度使用自我修正修辞格分析及缓解",
+      "随机化 KV 缓存驱逐提供误差保证",
+      "首个递归自改进深度研究智能体框架"
+    ],
+    "ai-hf": [
+      "Google Gemma-4-31B-it 下载超 1266 万次",
+      "百度 Unlimited-OCR 下载 241 万，端到端 OCR",
+      "GLM-5.2 MoE 架构获 4375 周点赞",
+      "Qwen3-TTS 支持自定义声音，下载 249 万",
+      "Solar-Open2-250B 巨量模型引高端关注",
+      "Nanbeige4.2-3B 小模型高性价比迭代"
+    ],
+    "ai-community": [
+      "AI Agent 背后隐藏的真实缺陷引发热议",
+      "AI 端点如何改变传统 REST API 流程",
+      "安全护栏的隐性成本：限制真正能力",
+      "LLM 构建小游戏的用户指标陷阱",
+      "通过 MCP 减少 AI 编码上下文 95%",
+      "RAG 管线实际成本构成分析优化指南"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code leads enterprise plan management",
+      "Codex dominates Windows desktop MCP infrastructure",
+      "Gemini CLI pushes agentic reliability and security",
+      "Copilot CLI drives MCP ecosystem composability",
+      "MCP standard struggling with protocol gaps",
+      "Three tools patched credential race conditions"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 334 issues and 500 PRs updated",
+      "160 PRs merged in 24 hours",
+      "No new releases, latest 2026.7.2-beta.3",
+      "Critical regressions on session state loss",
+      "PR #113207 fixes boot session loss",
+      "High activity with bug fixes and refactors"
+    ],
+    "ai-trending": [
+      "OmniRoute unified AI gateway with 500+ models",
+      "worldmonitor AI situational awareness dashboard",
+      "Kronos financial foundation model gaining traction",
+      "Agent memory tools like claude-mem for persistence",
+      "vllm high-throughput LLM inference engine",
+      "ollama easiest way to run local models"
+    ],
+    "ai-web": [
+      "Claude Opus 4.7 announced April 16, 2026",
+      "Claude Opus 4.5 best model for coding agents",
+      "Claude for Creative Work productization",
+      "OpenAI hints at healthcare with 'Health In ChatGPT'",
+      "Anthropic pushes enterprise domain-specific deployment",
+      "Safety posture evolving around cybersecurity risks"
+    ],
+    "ai-hn": [
+      "OpenAI and Anthropic lobby against open-weight models",
+      "Show HN Echo: Fable-level results at 1/3 cost",
+      "Alleged OpenAI attack on HuggingFace no prosecution",
+      "Oracle lays off 21,000 amid AI bets",
+      "Community skeptical of big AI company motivations",
+      "Open-weight models rival proprietary in coding"
+    ],
+    "ai-arxiv": [
+      "Spatial and geometric understanding across modalities",
+      "Inference-time scaling with progressive seed pruning",
+      "Speculative decoding at million-token contexts",
+      "Surprisal theory criticized as tautological",
+      "LLMs show structured sycophancy in moral reasoning",
+      "Agent context management and self-improvement"
+    ],
+    "ai-hf": [
+      "GLM-5.2 from Zhipu AI tops chart with 4,375 likes",
+      "Qwen3.6 uncensored fine-tunes flooding charts",
+      "Bonsai-27B 1-bit and ternary quantization for edge",
+      "NVIDIA Nemotron-ASR and Qwen TTS audio models",
+      "poolside Laguna-S-2.1 gains traction as code assistant",
+      "Upstage Solar-Open2-250B massive open-weight model"
+    ],
+    "ai-community": [
+      "AI agent demos carefully staged – real-world messy",
+      "Guardrail cost in lost functionality not measured",
+      "Analytics metrics hiding session counting issues",
+      "Tiny Go classifier replacing 7B model",
+      "MCP gaining steam as integration standard",
+      "Notion scales vector search with massive deployment"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.212 发布，社区最活跃",
+      "OpenAI Codex 发布 4 个 Rust alpha 版",
+      "Gemini CLI 修复子代理误报与沙箱逃逸",
+      "GitHub Copilot CLI v1.0.72 新增多轮子代理",
+      "Kimi Code CLI v1.49.0 优化安装与 TUI 交互",
+      "Qwen Code v0.19.11 聚焦多工作区架构"
+    ],
+    "ai-agents": [
+      "OpenClaw 修复子代理静默回复丢失输出",
+      "修复会话重试预算耗尽后无限重启",
+      "新增持久化消息入口排空机制",
+      "Android 应用新增 Wear OS 配套支持",
+      "Web UI 新增 OpenAI 视频对话功能",
+      "过去 24 小时 500 条 Issue 和 500 条 PR"
+    ],
+    "ai-trending": [
+      "hallmark 日增 3372 星，解决编码 Agent 设计对齐",
+      "GitHub 发布 copilot-sdk 多平台 SDK",
+      "ollama 176k 星，支持 Kimi K2.6 等开放模型",
+      "hermes-agent 216k 星，增长最快 Agent 框架",
+      "AutoGPT 185k 星，社区持续贡献插件",
+      "vllm 86k 星，生产部署标配推理引擎"
+    ],
+    "ai-web": [
+      "Anthropic 今日无增量更新，进入静默期",
+      "OpenAI 发布青少年安全 AI 访问文章",
+      "OpenAI 聚焦下一代用户培养战略",
+      "Anthropic 可能处于重大发布前沉寂",
+      "数据受限，仅能通过 URL 推断主题",
+      "整体内容稀疏，进入周末模式"
+    ],
+    "ai-hn": [
+      "至少 105 位前 YC 创始人曾在 OpenAI/Anthropic",
+      "LM Studio Bionic 让开源模型变身自主 Agent",
+      "经典 ML 方法检测 LLM 文本准确率 98%",
+      "100 美元对比 Claude 与 GPT 生成音乐视频",
+      "Ente 端到端加密照片服务完全开源",
+      "Anthropic 派 junior 员工赴欧盟作证引尴尬"
+    ],
+    "ai-arxiv": [
+      "RoboTTT 将机器人视动上下文扩展至 8000 步",
+      "预训练数据可被计算宣传手法投毒",
+      "Transformer 递归机制 T^2MLR 创新架构",
+      "NeuronSoup 实现无反向传播异步学习",
+      "AlphaWiSE 持续多模态表示学习新方案",
+      "参数高效长上下文微调降低部署成本"
+    ],
+    "ai-hf": [
+      "Ternary-Bonsai-27B-gguf 三元量化模型下载 7.4 万",
+      "GLM-5.2 获 4030 赞，国产 MoE 基座模型",
+      "腾讯 Hy3 发布，GGUF 版本迅速上榜",
+      "InternScience Agents-A1 专用 Agent 模型",
+      "Ornith-1.0-35B-GGUF 下载量达 178 万",
+      "Qwythos-9B 多模态推理与故事叙述热门"
+    ],
+    "ai-community": [
+      "LLM 评估指南系统性覆盖准确安全与实用",
+      "每行 AI 代码都是需偿还的贷款隐喻",
+      "Google 详细解释 agentic harness 框架",
+      "Mac Mini 实测 ClickHouse 处理亿级数据",
+      "自托管 Go 代理观测工具解决黑盒问题",
+      "Anthropic 准备 9650 亿美元 IPO 引发讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.212 released",
+      "OpenAI Codex: 4 alpha releases in 24h",
+      "Security hardening now urgent shared concern",
+      "Bifurcation: autonomous vs interactive tools",
+      "Qwen Code v0.19.11 released",
+      "CodeWhale v0.9.0 released"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs updated",
+      "164 issues closed, 132 PRs merged",
+      "Stability challenges in 2026.7.1 release",
+      "Multiple P0/P1 regressions reported",
+      "Subagent output fix merged in #109541",
+      "No new releases published today"
+    ],
+    "ai-trending": [
+      "Nutlope/hallmark +3,372 stars today",
+      "mattpocock/skills +2,060 stars today",
+      "Apache ossie: industry spec for AI/BI metadata",
+      "PostHog adds AI observability",
+      "vllm: 86K+ stars, standard for serving models",
+      "ollama: 176K stars, default local AI entry"
+    ],
+    "ai-web": [
+      "Anthropic zero new content today",
+      "OpenAI one article, but metadata only",
+      "OpenAI article on teen AI safety",
+      "Anthropic may be in quiet period",
+      "Crawl timing may explain silence",
+      "No substantive analysis possible"
+    ],
+    "ai-hn": [
+      "105 former YC founders at Anthropic/OpenAI",
+      "Ente transparency push resonates with community",
+      "LM Studio Bionic: local-first AI agent",
+      "$100 AI music video: Claude vs GPT-5.6",
+      "Classical ML for LLM text detection debated",
+      "Community pragmatic, skeptical of hype"
+    ],
+    "ai-arxiv": [
+      "Cost-aware evaluation beyond accuracy metrics",
+      "Agentic workflows for scientific discovery",
+      "Long-context memory scales 1000x for robots",
+      "Political bias audit of LLM content",
+      "Paper: words safe but actions can kill",
+      "In-Place Tokenizer Expansion for low-resource languages"
+    ],
+    "ai-hf": [
+      "GLM-5.2 top with 4,030 likes this week",
+      "Qwen 3.6 uncensored variants exceed 2M downloads",
+      "Qwythos-9B-Claude-Mythos also 2M+ downloads",
+      "1-bit and ternary models emerge for consumer HW",
+      "Tencent Hy3 model gains attention",
+      "Agent-tuned Qwen 3.5 MoE model trending"
+    ],
+    "ai-community": [
+      "LLM Evals guide for developer tools",
+      "AI code as 'small loan' with compounding debt",
+      "Developer builds agent observability tool",
+      "Bruce Schneier on AI data centers and wealth",
+      "Anthropic reported $965B IPO plans",
+      "ELIZA legacy piece on Lobste.rs"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "takeaway": "提出视觉几何变换器，从单张或多张图像直接推断3D结构，无需显式几何管道。",
+      "why": "CVPR 2025最佳论文，代表视觉3D理解的最新突破，性能优异。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "Error Certificates for KV-Cache Eviction via Randomized Design",
+      "takeaway": "为KV缓存驱逐提供误差证书，通过随机化保证可证可靠，无需牺牲性能。",
+      "why": "大模型推理优化关键问题，理论严谨且实验验证，实用性强。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.21475v1"
+    }
+  ]
+}

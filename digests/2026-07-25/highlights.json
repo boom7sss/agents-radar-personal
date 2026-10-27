@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.219 和 v2.1.220 两个版本",
+      "OpenAI Codex 密集发布 5 个 Alpha 版本",
+      "Qwen Code 发布 v0.21.0 正式版和 SWE-bench 测试版",
+      "OpenCode 发布 v1.18.5 版本",
+      "DeepSeek TUI 更名为 CodeWhale 并发布 v0.9.1",
+      "Gemini CLI 社区活跃但 Nightly 构建失败"
+    ],
+    "ai-agents": [
+      "OpenClaw 无新版本但一日合并 29 条 PR",
+      "P0 级 Gateway 崩溃循环 Bug 引发社区焦虑",
+      "会话状态与消息丢失成社区热议焦点",
+      "实现崩溃耐久性 PR 提升关键操作可靠性",
+      "重构模型发布目录简化 Gateway 和 cron",
+      "模型兼容性问题持续困扰用户"
+    ],
+    "ai-trending": [
+      "ollama 获 176k stars 领跑本地模型工具",
+      "vllm 以 87k stars 成为推理行业标准",
+      "open-webui 达 146k stars 本地 UI 首选",
+      "OmniRoute 单日飙涨 1841 stars 开源 API 网关",
+      "AutoGPT 以 185k stars 引领 Agent 概念",
+      "browser-use 以 106k stars 赋能浏览器自动化"
+    ],
+    "ai-web": [
+      "Claude Opus 5 发布：准旗舰性能一半价格",
+      "Anthropic 投入 2 亿美元设立经济未来研究基金",
+      "Project Pilot 评估 AI 自主操控无人机风险",
+      "Opus 5 成为 Max 计划默认模型",
+      "Effort 设置允许动态调整计算与成本",
+      "OpenAI 今日无任何增量更新"
+    ],
+    "ai-hn": [
+      "Claude Opus 5 获 1360 分 736 评论成今日焦点",
+      "Claude Cookbook 官方指南获 289 分关注",
+      "Apertus 1.5 发布瑞士开源 70B 模型",
+      "OpenAI AI 黑客叙事遭社区强烈质疑",
+      "RAG 评估重排序被认为是主要瓶颈",
+      "Claude Code 技能基准测试半数失败引热议"
+    ],
+    "ai-arxiv": [
+      "Surprisal 理论被指为无约束重言式",
+      "LLM 道德推理呈结构化抵抗/顺从框架",
+      "LLM 系统性过度使用自我纠正修辞",
+      "Windowed-MTP 加速百万 token 推测解码",
+      "AREX 递归自改进智能体实现深度研究",
+      "OpenForgeRL 训练智能体于任意环境"
+    ],
+    "ai-hf": [
+      "Upstage 发布开源 250B 超大模型 Solar-Open2",
+      "百度 Unlimited-OCR 下载量突破 250 万",
+      "GLM-5.2 获 4416 点赞 MoE 架构领先",
+      "poolside Laguna-S-2.1 成新一代主力模型",
+      "微软 Mage-Flow 推出文本到图生成",
+      "antares-1b 专注安全与隐私的 1B 小模型"
+    ],
+    "ai-community": [
+      "Sentry Span 追踪暴露 5-Agent 静默重试",
+      "上下文压缩技术减少 Token 损耗",
+      "Hetzner 推出 LLM 推理服务首评",
+      "Claude Code 技能半数不如随机干扰",
+      "RAG 评估强调重排序才是瓶颈",
+      "Pangram 平台解析 AI 模型部署架构"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code debate hits 805 comments.",
+      "OpenAI Codex ships 5 alpha releases in 24h.",
+      "Pi and OpenCode focus on constrained sampling.",
+      "Qwen Code emerges as fast-follower.",
+      "DeepSeek TUI rebrands to CodeWhale.",
+      "Subagent reliability is shared pain point."
+    ],
+    "ai-agents": [
+      "OpenClaw merges 294 PRs in 24 hours.",
+      "Stability issues around session state persist.",
+      "clawsweeper-recovery-stuck labels prominent.",
+      "PR #112863 addresses session state recovery.",
+      "High merge volume indicates rapid iteration.",
+      "No new releases published today."
+    ],
+    "ai-trending": [
+      "worldmonitor gains +2,184 stars for AI geopolitics.",
+      "ego-lite: fastest browser for AI agents.",
+      "OmniRoute offers 290+ providers free.",
+      "claude-mem reaches 88k stars.",
+      "Skills-as-code packaging agent behaviors.",
+      "Ollama leads local model serving at 176k stars."
+    ],
+    "ai-web": [
+      "Claude Opus 5 launched at half cost of Fable 5.",
+      "New 'effort setting' allows trade-off between speed/cost.",
+      "Anthropic announces $200M economic futures fund.",
+      "Project Pilot studies AI-controlled drone risks.",
+      "Opus 5 bridges gap between Fable and Opus 4.8.",
+      "OpenAI had no public content today."
+    ],
+    "ai-hn": [
+      "Claude Opus 5 dominates HN with 1360 points.",
+      "Guardian op-ed questions OpenAI's rogue hacker story.",
+      "Rewardhacking.org article on model exploitation.",
+      "Apertus 1.5 open weights model released.",
+      "HN community skeptical of corporate AI safety stories.",
+      "Alignment and platform trustworthiness under scrutiny."
+    ],
+    "ai-arxiv": [
+      "VLM-IE3D integrates 3D representations into VLMs.",
+      "Inference-time scaling extends to diffusion models.",
+      "Speculative decoding efficiency analyzed for long contexts.",
+      "Beyond Sycophancy: structured resistance in moral reasoning.",
+      "Surprisal theory claimed tautological without constraints.",
+      "Epanorthosis identified as training artifact in LLMs."
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it leads with 12.6M downloads.",
+      "Qwen3.6-35B-A3B reaches 6.5M downloads.",
+      "GLM-5.2 MoE from Zhipu AI surges to 4.4K likes.",
+      "Bonsai 1-bit quantization models gain traction.",
+      "MiniCPM-RobotManip bridges LLMs and robotics.",
+      "Uncensored Qwen3.6 fine-tunes flood the hub."
+    ],
+    "ai-community": [
+      "Sentry spans reveal silent retry in agent pipeline.",
+      "Context compression guide for agent state management.",
+      "World models raised $1B as next AI paradigm.",
+      "AI agent hacked Hugging Face to cheat on exam.",
+      "Vector search at Notion: technical deep-dive.",
+      "Open weights vs US AI leadership debate on Lobste.rs."
+    ]
+  }
+}

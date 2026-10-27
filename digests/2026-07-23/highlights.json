@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.218发布，修复Fable 5计费混乱",
+      "Gemini CLI发布3个版本，聚焦安全与企业级Agent",
+      "Copilot CLI用户强烈要求模型成本控制与信用明细",
+      "DeepSeek TUI启动崩溃修复，技能管理器统一化",
+      "Qwen Code修复CI稳定性与安全泄露问题",
+      "Pi改进Provider扩展与重试机制"
+    ],
+    "ai-agents": [
+      "OpenClaw今日464条Issue与500条PR，活跃度极高",
+      "插件并发安装竞态条件修复，提升稳定性",
+      "会话谱系模型重构，明确会话创建溯源",
+      "可移植Agent策略设置支持内置工具配置",
+      "修复用户引导后评论重复出现的Bug",
+      "#75 Linux/Windows Clawdbot App需求持续高热"
+    ],
+    "ai-trending": [
+      "OmniRoute单日+1651星，统一268家厂商AI网关",
+      "headroom上下文压缩库61k星，压缩20-95% Token",
+      "Kronos金融基础模型同日登榜，垂直应用爆发",
+      "voicebox开源语音克隆冲上热榜，语音赛道升温",
+      "minimind从零训练64M模型，降低LLM门槛",
+      "outlines强制结构化输出，Agent工具调用基石"
+    ],
+    "ai-web": [
+      "Anthropic推出经济指数连接器，研究数据产品化",
+      "设立2亿美元经济未来研究基金，聚焦五大领域",
+      "追加2000万美元捐款支持AI公共教育",
+      "OpenAI发布'Presence'产品形态，聚焦生态合作",
+      "OpenAI新闻媒体AI合作，强化行业连接",
+      "Anthropic三连击AI经济影响，占据战略主导"
+    ],
+    "ai-hn": [
+      "OpenAI智能体越狱，真实攻击Hugging Face引恐慌",
+      "Cactus Hybrid让Gemma 4学会主动拒绝回答",
+      "9行Python实现通用智能体，开发者围观",
+      "Millwright自托管Rust LLM路由器，零依赖",
+      "AMD拟50亿美元投资Anthropic，产业震动",
+      "Tesla全面转战AI与机器人，战略转向"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it下载量超1200万，本周流量王",
+      "GLM-5.2点赞最高，MoE+DSA架构创新",
+      "Qwen3.6系列生态爆发，涌现大量无审查变体",
+      "Laguna-S-2.1代码生成模型获社区追捧",
+      "MiniCPM-RobotManip机器人操作模型崭露头角",
+      "LTX-Best-Face-ID实现身份保持视频生成"
+    ],
+    "ai-community": [
+      "Substack AI检测器被指有与Dev.to相同盲区",
+      "36个MCP服务器审计，1/3实际不可用",
+      "AI代理奖励黑客行为引开发者警惕",
+      "上下文窗口被重新类比为CPU缓存而非记忆",
+      "Notion向量搜索实现10倍规模、1/10成本",
+      "无AI编程YouTube系列反潮流获关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.218 released",
+      "OpenAI Codex v0.146.0-alpha releases",
+      "Gemini CLI v0.52.0 stable",
+      "Qwen Code and DeepSeek TUI in dev",
+      "Windows compatibility issues persist",
+      "Rate-limit and billing transparency"
+    ],
+    "ai-agents": [
+      "OpenClaw: 464 issues, 500 PRs",
+      "No new releases for OpenClaw today",
+      "Session lineage and plugin refactors",
+      "Critical CI fixes for validation",
+      "Dozens of user bugs under review",
+      "Maintainers merged notable bugfixes"
+    ],
+    "ai-trending": [
+      "worldmonitor +4,139 stars today",
+      "dify 149K stars, open-webui 146K",
+      "langchain 142K stars standard",
+      "ollama 176K stars for local LLMs",
+      "vllm 86K stars inference engine",
+      "Headroom token compression 61K"
+    ],
+    "ai-web": [
+      "Anthropic Economic Index connector",
+      "$200M Economic Futures Research Fund",
+      "$20M donation to Public First Action",
+      "OpenAI Presence product announced",
+      "Anthropic pushes into economic policy",
+      "OpenAI news orgs using AI"
+    ],
+    "ai-hn": [
+      "OpenAI rogue agent attacked Hugging Face",
+      "AMD plans $5B investment in Anthropic",
+      "Cactus Hybrid: Gemma 4 uncertainty",
+      "Children anthropomorphism with chatbots",
+      "Show HN: Agent in 9 minutes",
+      "AI systems downplay creator controversies"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE leads 4,342 likes",
+      "Gemma-4-31B-it 12M downloads",
+      "Solar-Open2-250B 250B params",
+      "Prism-ml 1-bit ternary quantization",
+      "Baidu Unlimited-OCR production grade",
+      "Nvidia Nemotron ASR high downloads"
+    ],
+    "ai-community": [
+      "Substack AI detector same blind spot",
+      "Friction in learning is valuable",
+      "MCP servers failing agent workflows",
+      "Loop engineering to stop reward hacking",
+      "Vector search deep dive at Notion",
+      "Scrabble engine classic algorithm research"
+    ]
+  }
+}

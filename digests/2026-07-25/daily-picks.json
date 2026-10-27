@@ -1,0 +1,46 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic发布Claude Opus 5：准旗舰性能、一半价格",
+      "why": "重新定义高性价比前沿模型标杆，直接冲击GPT-5市场地位。",
+      "source": "AI官方内容追踪",
+      "url": "https://www.anthropic.com/news/claude-opus-5"
+    },
+    {
+      "title": "Anthropic启动2亿美元经济未来研究基金",
+      "why": "AI对经济宏观影响的重大布局，外部学者可申请资助。",
+      "source": "AI官方内容追踪",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+    },
+    {
+      "title": "Upstage开源250B参数模型Solar-Open2-250B",
+      "why": "填补开源超大模型空白，推动社区大模型能力上限。",
+      "source": "Hugging Face热门模型",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B"
+    },
+    {
+      "title": "百度发布高性能通用OCR模型Unlimited-OCR",
+      "why": "支持无限长度文字识别，下载量已破250万，实用价值极高。",
+      "source": "Hugging Face热门模型",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
+    },
+    {
+      "title": "Qwen Code发布v0.21.0正式版及SWE-bench测试版",
+      "why": "AI CLI工具生态重要进步，提升编码AI的可用性与评测基准。",
+      "source": "AI CLI工具社区",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "title": "论文提出Windowed-MTP：百万token上下文加速推测解码",
+      "why": "大幅降低长上下文推理开销，提升Agent和多轮对话效率关键。",
+      "source": "ArXiv AI研究",
+      "url": "http://arxiv.org/abs/2607.21535v1"
+    },
+    {
+      "title": "智谱AI发布GLM-5.2，基于MoE-DSA架构",
+      "why": "国内MoE大模型前沿代表，高点赞与高下载体现社区关注。",
+      "source": "Hugging Face热门模型",
+      "url": "https://huggingface.co/zai-org/GLM-5.2"
+    }
+  ]
+}

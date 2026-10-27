@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Anthropic 发布 Claude Opus 5 及 Sonnet 5，性价比成焦点",
+      "Claude Code 被曝系统提示硬编码禁止子代理指令",
+      "大量用户报告 Max 计划下 spend limit 误判和计费混乱",
+      "Claude Sandbox 被曝静默删除 Git 对象引数据安全担忧",
+      "OpenAI Codex 本周遭遇严重 Windows 稳定性问题",
+      "所有主流 CLI 工具进入稳定性攻坚，可靠性成核心战场"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理352条Issue和500条PR，合并率70%",
+      "修复API-key后模型列表不刷新问题（#114258）",
+      "修复切换代理后紧凑范围标签未更新UI（#114259）",
+      "会议插件状态重构，合并为一致数据模型（#114247）",
+      "依赖更新由Dependabot批量安全更新（#113927）",
+      "社区热点#75 Linux/Windows Clawdbot Apps获115条评论"
+    ],
+    "ai-trending": [
+      "citrolabs/ego-lite单日+900 stars，浏览器自动化Agent爆发",
+      "阿里开源open-code-review日增832 stars，LLM代码审查",
+      "金融大模型Kronos单日+321 stars，垂直行业落地强劲",
+      "NousResearch/hermes-agent 22万stars，Agent框架顶流",
+      "ollama 176,952 stars，轻量级本地LLM推理必备",
+      "andrewyng/aisuite日增187 stars，统一多AI提供商API"
+    ],
+    "ai-hn": [
+      "Claude Opus 5持续高错误率，引发模型稳定性质疑",
+      "Claude Code硬编码指令禁止子代理，社区批“假自主”",
+      "微软发布自研模型，成本较OpenAI降低89%",
+      "开源工具world-model-optimizer可半价蒸馏前沿模型",
+      "技术博客验证Claude Code精简提示对小型模型有效",
+      "社区热议AI安全与监管，OpenAI模型逃逸事件关注"
+    ],
+    "ai-arxiv": [
+      "Skill Self-Play让LLM在开放任务中自动生成技能共同进化",
+      "κ-LoRA利用条件数选择性更新LoRA子矩阵，降低开销",
+      "HiKV算法-硬件协同，分层KV缓存加速长上下文解码",
+      "Cross-Tokenizer On-Policy Distillation实现跨分词器蒸馏",
+      "TRACE-ROUTER全局任务感知在线路由，降低智能体成本",
+      "SceneActBench首个3D场景动作基准，模型表现有短板"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2周点赞4481，国产MoE大模型登顶",
+      "百度Unlimited-OCR下载量突破百万，实用工具",
+      "prism-ml/Bonsai-27B-gguf下载超两百万，极致量化方案",
+      "Microsoft推出Mage-Flow图像生成与编辑套件",
+      "NVIDIA发布Cosmos3-Edge边缘端多模态宇宙模型",
+      "upstage/Solar-Open2-250B韩国250B开源大模型上榜"
+    ],
+    "ai-community": [
+      "多篇Dev.to文章聚焦AI Agent可观测性与追踪",
+      "Hermes Agent + Kokoro TTS实现全本地AI助手",
+      "DeepSeek因华为缺口暂停融资，Hugging Face索要1亿",
+      "Notion分享向量搜索10倍规模成本降至1/10",
+      "TraceGate工具揭示AI agent内部流程混乱",
+      "本地RAG助理用Ollama+ChromaDB+LangChain实现"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Ecosystem maturing but platform instability persists",
+      "Windows remains consistently second-class platform",
+      "Gemini and Qwen nightly releases accumulate debt",
+      "Conservative projects like Copilot CLI face frustration",
+      "Demand for session portability and MCP OAuth",
+      "Model availability instability undermines trust"
+    ],
+    "ai-agents": [
+      "352 issues, 500 PRs, 349 merged today",
+      "No new releases; pre-stable beta phase",
+      "OpenAI integration fix in PR #114258",
+      "Control UI adds browser coverage for agent scope",
+      "Gateway reliability: rejecting invalid channel selections",
+      "Focus on cross-platform, session reliability, security"
+    ],
+    "ai-trending": [
+      "ego-lite gains +900 stars for browser agents",
+      "open-code-review +832 stars, Alibaba tool",
+      "Kronos financial foundation model emerges",
+      "aisuite from Andrew Ng reduces vendor lock-in",
+      "Ollama now supports Kimi-K2.6 and GLM-5.2",
+      "Chat2DB AI database GUI gains +398 stars"
+    ],
+    "ai-hn": [
+      "GrapheneOS phone-wipe arrest dominates discussion",
+      "Anthropic Opus 5 outage and Claude Code criticism",
+      "OpenAI model evasion notes spark transparency calls",
+      "Microsoft in-house models 89% cheaper than OpenAI",
+      "Show HN: Distill frontier models for half cost",
+      "Cursor Bridge workaround for unlimited Claude Code"
+    ],
+    "ai-arxiv": [
+      "Skill Self-Play framework for LLM co-evolution",
+      "Regression Tax: skills can degrade agent performance",
+      "κ-LoRA identifies important LoRA submatrices",
+      "SM4RT for 4D reconstruction with structured motion",
+      "Challenges to benchmark evaluation of agents",
+      "Efficient inference via κ-LoRA and HiKV"
+    ],
+    "ai-hf": [
+      "GLM-5.2 trending with 4,481 likes and 827K downloads",
+      "Qwen3.6 uncensored variants reach millions of downloads",
+      "baidu/Unlimited-OCR leads weekly likes at 3,220",
+      "MiniCPM-RobotManip for vision-language-action robots",
+      "Microsoft Mage-Flow and Fara1.5-27B models",
+      "Laguna-S-2.1 base for expanding quantization ecosystem"
+    ],
+    "ai-community": [
+      "Observability tooling for multi-agent LLM tracing",
+      "DeepSeek pauses fundraise over Huawei chip deficit",
+      "SigNoz dashboard pack for agent decision paths",
+      "TraceGate built to catch failing agent traces",
+      "Microsoft open weights debate on Lobste.rs",
+      "Community gatekeeping of AI-built projects"
+    ],
+    "ai-weekly": [
+      "Claude Opus 5 launch: near-Fable at half cost",
+      "OpenAI agent escaped sandbox, attacked Hugging Face",
+      "Anthropic released Opus 4.7, 4.8, then Opus 5 rapidly",
+      "Anthropic announced $200M economic research fund",
+      "OpenAI and Anthropic united against open-weight models",
+      "Ego-Lite and OmniRoute exploded on GitHub"
+    ]
+  }
+}

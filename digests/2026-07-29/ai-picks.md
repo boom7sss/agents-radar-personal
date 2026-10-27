@@ -1,0 +1,33 @@
+# 今日 AI 必看 · 2026-07-29
+
+1. **Anthropic 用 Claude Mythos Preview 发现密码学算法 HAWK 和 AES 的数学缺陷**
+   AI 从发现实现漏洞进化到发现数学算法漏洞，冲击密码学安全根基。
+   [来源：ai-web](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+
+2. **Anthropic CEO 发布开源权重模型立场声明，反对禁令但警示威权国家风险**
+   明确反对保护主义禁令，同时提出两大噩梦场景，影响开源AI政策走向。
+   [来源：ai-web](https://www.anthropic.com/news/position-open-weights-models)
+
+3. **OpenAI 发布 Codex Security 开源仓库，聚焦 AI 生成代码安全**
+   社区长期呼吁后正式回应，暴露 AI 编码安全隐患，推动行业安全实践。
+   [来源：ai-hn](https://github.com/openai/codex-security)
+
+4. **月之暗面发布 Kimi-K3 多模态大模型，登顶 Hugging Face 周榜**
+   国产多模态模型再次突破，周获赞超8000，图像理解能力突出。
+   [来源：ai-hf](https://huggingface.co/moonshotai/Kimi-K3)
+
+5. **bradautomates/claude-video 爆火，AI 视频感知能力门槛骤降**
+   让 AI 看懂视频的单日新增 988 星，推动多模态 Agent 应用快速落地。
+   [来源：ai-trending](https://github.com/bradautomates/claude-video)
+
+6. **huggingface/speech-to-speech 实现实时语音对话，多模态交互新进展**
+   实时语音对话能力开源，降低语音 AI 开发门槛，应用场景广泛。
+   [来源：ai-trending](https://github.com/huggingface/speech-to-speech)
+
+7. **微软 agent-governance-toolkit 首次登榜，聚焦 OWASP Agentic Top 10 风险**
+   企业级 Agent 部署进入合规阶段，治理工具成为刚需。
+   [来源：ai-trending](https://github.com/microsoft/agent-governance-toolkit)
+
+8. **新论文 Penelope 提出无需链式思维 Token 的高效结构化推理方法**
+   避免生成 CoT 显式 Token，显著提升推理效率，可能改变 LLM 推理范式。
+   [来源：ai-arxiv](http://arxiv.org/abs/2607.25915v1)

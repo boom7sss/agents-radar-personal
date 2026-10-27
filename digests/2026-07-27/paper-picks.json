@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "Navigation World Models",
+      "takeaway": "学习通用导航世界模型，用于具身智能规划。",
+      "why": "CVPR荣誉提名，突破性导航预训练，泛化能力强。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+      "takeaway": "通道级拼接ViT和VAE特征统一多模态表示。",
+      "why": "ICML 2026，解决连续token空间优化不平衡问题。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.22531v1"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Windows稳定性与会话数据丢失成热点",
+      "OpenAI Codex /undo回归，Windows崩溃修复",
+      "Gemini CLI子代理挂起误报，安全加固进行中",
+      "GitHub Copilot CLI v1.0.76-0增强非交互模式",
+      "Qwen Code连接稳定性与外部上下文集成",
+      "DeepSeek TUI v0.9.2冲刺，CRLF兼容修复"
+    ],
+    "ai-agents": [
+      "OpenClaw社区24小时处理500条Issue与500条PR",
+      "统一MCP命名空间PR合并，消除入口不一致",
+      "Codex线程恢复与iOS媒体渲染取得进展",
+      "Gatekeeper内存泄漏修复，稳定性改善",
+      "社区强烈呼吁Linux/Windows客户端支持",
+      "API密钥安全与内存信任标记成为热议功能"
+    ],
+    "ai-trending": [
+      "moeru-ai/airi自托管AI伴侣单日+2346 stars",
+      "阿里开源代码审查工具open-code-review +979 stars",
+      "金融基础模型Kronos首次登上GitHub Trending",
+      "AI Agent工程化与RAG类项目持续主导榜单",
+      "CherryHQ等新锐凭本地化+知识图谱快速冲高",
+      "browser-use推动多模态能力让AI看懂屏幕"
+    ],
+    "ai-web": [
+      "Anthropic CEO明确反对全面禁令，定义第三条道路",
+      "Claude深度嵌入Cognizant，3万顾问完成认证",
+      "OpenAI密集发布企业级AI应用最佳实践指南",
+      "Anthropic战略：争夺政策话语权与安全边界",
+      "OpenAI转向企业数字化转型方法化输出",
+      "两巨头分化：Anthropic定规则，OpenAI教用法"
+    ],
+    "ai-hn": [
+      "Anthropic开放权重争议引超750条评论激辩",
+      "黄仁勋Twitter首发力挺开放访问模型",
+      "Claude共享会话与Artifacts被Google索引引发隐私批评",
+      "Sam Altman宣称奇点已至，讨论热度不高",
+      "研究称所有主流LLM偏左，社区口水战激烈",
+      "Nvidia与OpenAI洽谈2500亿美元数据中心融资"
+    ],
+    "ai-arxiv": [
+      "Zing框架首次整合心智理论与社交推理",
+      "E-Bench多步工具使用基准，现有LLM准确率<40%",
+      "LoRA入侵维度理论从谱角度解释灾难性遗忘",
+      "AI编程助手迭代重提示可降低但无法根除漏洞",
+      "SpecAHD局部重构策略自动化启发式设计",
+      "Focus注意力编排提升多智能体效率30%"
+    ],
+    "ai-hf": [
+      "月之暗面Kimi-K3以6508点赞登顶本周模型热榜",
+      "百度Unlimited-OCR下载量突破264万，工业需求强劲",
+      "Qwen3.6生态扩展，社区出现多个un censored微调",
+      "prism-ml推出1-bit Bonsai模型，推理成本新低",
+      "微软Mage-Flow系列新增Turbo版图像编辑",
+      "GLM-5.2下载量破百万，MoE+ DSA架构"
+    ],
+    "ai-community": [
+      "爆文直指AI导致初级开发者管道断裂，84赞热议",
+      "无限上下文被批营销驱动的技术债务",
+      "MCPRadar安全扫描器开源，守护Agent基础设施",
+      "AgentForger披露ChatGPT Workspace钓鱼漏洞",
+      "用AI OSINT 4分钟收集个人信息，隐私警钟",
+      "开发者分享隔离5套AI Agent凭据的实战经验"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Windows stability is top frustration across tools",
+      "Session persistence is universal pain point",
+      "Plugin/hook extension wave but fragile implementations",
+      "Claude Code had 10 high-activity issues in 24h",
+      "Cross-device sync and MCP standardization demanded",
+      "Rise of subagent orchestration for enterprise readiness"
+    ],
+    "ai-agents": [
+      "217 PRs merged, 249 issues resolved in 24h",
+      "Critical gateway memory leak P0 fix ongoing",
+      "Cron/scheduler rework RFC 0026 in progress",
+      "iOS, Signal, Slack, Teams integrations improved",
+      "Top discussion: Linux/Windows native apps #75",
+      "perf(sessions): watermark-cache reduces list latency"
+    ],
+    "ai-trending": [
+      "moeru-ai/airi gains +572★ today",
+      "alibaba/open-code-review gains +979★",
+      "bradautomates/claude-video +434★",
+      "Agent frameworks and RAG platforms dominate",
+      "Vectorless RAG (PageIndex) and token compression",
+      "Ollama supports Kimi-K2.6, GLM-5.2"
+    ],
+    "ai-web": [
+      "Anthropic CEO rejects open-weights ban",
+      "Introduces nuanced capability-based framework",
+      "Anthropic partners with Cognizant for enterprise",
+      "Certifies 30,000+ associates on Claude",
+      "OpenAI publishes 6 enterprise guidance articles",
+      "Titles suggest GPT-5 and AI agents focus"
+    ],
+    "ai-hn": [
+      "Anthropic open-weights stance sparks massive debate",
+      "Shared Claude chats leak in Google/Bing search",
+      "Sam Altman declares 'we are in the singularity'",
+      "Study: all major LLMs lean lib-left",
+      "Nvidia's $250B financing guarantee for OpenAI",
+      "South Korea KOSPI down 5% on AI spending worries"
+    ],
+    "ai-arxiv": [
+      "LLMs gain social intelligence via Zing framework",
+      "On-policy distillation outcome confounding revealed",
+      "Spreadsheet automation and tool-use agents",
+      "Continual test-time adaptation and domain shift",
+      "Formal verification of AI-generated code",
+      "Scientific ML: PDE discovery evaluation framework"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with 6,500+ likes",
+      "Qwen3.6 family spawns numerous fine-tunes",
+      "Microsoft's Mage-Flow for image generation",
+      "Extreme compression: ternary and 1-bit models",
+      "Small edge AI TTS models Inflect-Micro/Nano",
+      "GLM-5.2 MoE: 4,553 likes, 1M downloads"
+    ],
+    "ai-community": [
+      "AI agent phishing vulnerabilities exposed",
+      "Kimi 2.8T parameter release imminent",
+      "Microsoft open-weights policy sparks debate",
+      "Junior developer pipeline declared broken by AI",
+      "Security scanner MCPRadar for MCP ecosystem",
+      "Unlimited context is technical debt with marketing"
+    ]
+  }
+}

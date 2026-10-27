@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+      "takeaway": "融合隐式和显式3D几何增强视觉语言模型的3D空间理解。",
+      "why": "ECCV 2026接收并开源，统一框架显著提升3D场景推理能力。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.21595v1"
+    }
+  ]
+}

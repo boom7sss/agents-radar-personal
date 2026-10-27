@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.211发布，子代理安全引担忧",
+      "OpenAI Codex v0.144.5提升Windows稳定性",
+      "Gemini CLI v0.52.0新增MCP集成",
+      "GitHub Copilot CLI v1.0.71 MCP OAuth断裂",
+      "OpenCode v1.18.2改进TUI交互",
+      "Qwen Code发布cua-driver-rs v0.7.2"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.1支持远程编码会话",
+      "修复P0级网关启动死循环问题",
+      "CI加速：持久化挂载pnpm store",
+      "58个PR合并/关闭，涵盖关键修复",
+      "社区极活跃：480 Issues、500 PRs",
+      "新增原生自动化与节点改进"
+    ],
+    "ai-trending": [
+      "ollama 176k stars集成Kimi-K2.6",
+      "vllm 86k stars生产级推理引擎",
+      "openinterpreter低成本编码代理",
+      "destructive_command_guard防AI破坏",
+      "dify 148k stars代理工作流平台",
+      "browser-use 104k stars操控浏览器"
+    ],
+    "ai-web": [
+      "Claude Tag在Slack上线，成为数字同事",
+      "金融Agent十个即用模板发布",
+      "Claude for Teachers免费服务推出",
+      "深度整合Microsoft 365生态",
+      "Claude Opus 4.7金融基准领先",
+      "今日新增6篇内容，Anthropic主导"
+    ],
+    "ai-hn": [
+      "OpenAI推出Codex Micro品牌硬件",
+      "Inkling开源975B参数LLM",
+      "Agentty轻量级Claude Code替代品",
+      "Fuse加速C#代码库的Claude Code",
+      "Claude价值观研究引模型偏见讨论",
+      "Anthropic探索语言特化行为"
+    ],
+    "ai-arxiv": [
+      "Hindcast回放预测市场评估LLM",
+      "DeepStress测试搜索智能体鲁棒性",
+      "TRACE信用分配解决稀疏奖励",
+      "AIMO可解释性竞赛启动",
+      "Do Agent Optimizers Compound?警示",
+      "Transforming Rank解释Transformer梯度"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE-DSA模型获4003点赞",
+      "Qwen3.5/3.6 GGUF量化变体下载领跑",
+      "Unlimited-OCR下载量达170万",
+      "Inkling多模态模型未下载已高关注",
+      "Nemotron-Labs-Audex-30B-A3B仅3B活跃参数",
+      "MOSS-Transcribe-Diarize语音转录分离"
+    ],
+    "ai-community": [
+      "AI代理成本控制与工程经验分享",
+      "LangSmith vs Traccia可观测性对比",
+      "本地MCP服务器代码库记忆实战",
+      "Schneier谈AI监控威胁社会进步",
+      "ELIZA诞生60周年纪念讨论",
+      "AI数据中心财富集中风险引深思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.211 patch released",
+      "Token cost blow-ups from agent recursion",
+      "Windows stability remains universal pain point",
+      "MCP standards convergence across tools",
+      "Plugin ecosystems become key battleground",
+      "Kimi Code appears dormant this cycle"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.1 shipped",
+      "Remote coding sessions feature added",
+      "58 PRs merged, 313 open issues",
+      "Gateway startup regressions after upgrade",
+      "P0 bugs reported in stabilization phase",
+      "Session handling and model compatibility issues"
+    ],
+    "ai-trending": [
+      "Agent skill tools explode with 3,700+ stars",
+      "Agent security emerges as critical niche",
+      "Vibe-Trading agent gains 915 stars today",
+      "awesome-llm-apps adds 1,236 stars",
+      "Ollama now supports Kimi-K2.6 and DeepSeek",
+      "LangChain remains top agent-engineering platform"
+    ],
+    "ai-web": [
+      "Claude Tag: persistent AI coworker in Slack",
+      "65% of Anthropic code created via internal Claude",
+      "Claude for Teachers education market entry",
+      "$10M investment in Canadian AI research",
+      "Vertical agent templates for financial services",
+      "OpenAI teases self-improvement GPT-Red capability"
+    ],
+    "ai-hn": [
+      "Inkling 975B open-weight model released",
+      "OpenAI Codex Micro keyboard surprise launch",
+      "Anthropic planned IPO draws mixed reactions",
+      "Claude's values shift by language study",
+      "EU court trademark defeat for OpenAI",
+      "Growing unease over AI replacing engineering skills"
+    ],
+    "ai-arxiv": [
+      "Agent optimization gains fail under continual learning",
+      "New hindcast method improves LLM forecasting",
+      "AIMO interpretability challenge launched",
+      "Flow matching extended to heavy-tailed distributions",
+      "Penetration testing via behavioral violations",
+      "Whistleblower privacy guarantees with formal verification"
+    ],
+    "ai-hf": [
+      "Zhipu GLM-5.2 MoE trending with 4K likes",
+      "Baidu Unlimited-OCR reaches 1.7M downloads",
+      "Qwen 3.6 uncensored variant at 2.4M downloads",
+      "NVIDIA Nemotron 30B-A3B MoE for agents",
+      "Ternary 2-bit quantization models emerging",
+      "LTX identity-preserving video LoRAs released"
+    ],
+    "ai-community": [
+      "Circuit breakers to prevent AI overspending",
+      "Local-first AI offline inference pipelines",
+      "Agent that knows when not to guess tutorial",
+      "Three-tier LLM evaluation framework guide",
+      "Bruce Schneier on AI surveillance trade-offs",
+      "Hidden latency costs of tool calling exposed"
+    ]
+  }
+}
