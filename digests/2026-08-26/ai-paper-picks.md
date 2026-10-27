@@ -1,0 +1,28 @@
+# 今日论文精读 · 2026-08-26
+
+> 候选来自最新 ArXiv 投稿与 CVPR、NeurIPS、ICCV、ECCV、AAAI、MICCAI 官方高信号页面；重点关注视觉、医学影像、多模态和大模型，并尽量均衡覆盖。
+
+1. **Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning** · `ArXiv`
+   **做什么：** 提出WorldEcho诊断世界模型在非专家动作上的执行能力，并引入对齐方法。
+   **为什么读：** 首次系统评估世界模型动作遵循，填补现状空白，直接关系机器人策略学习。
+   [阅读论文](http://arxiv.org/abs/2608.24885v1)
+
+2. **What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation** · `ArXiv`
+   **做什么：** 揭示FID/KID忽略分布方向性偏差，提出更可靠生成模型评估与诊断方法。
+   **为什么读：** 指出当前广泛使用的评价指标存在严重盲区，引发对评估可靠性的根本反思。
+   [阅读论文](http://arxiv.org/abs/2608.24881v1)
+
+3. **LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training** · `ArXiv`
+   **做什么：** 发布超大规模开放视频数据集，含8000万视频、千万小时时长，适用于多模态预训练。
+   **为什么读：** 大幅扩大开源视频数据规模，推动视频-音频-图像多模态基础模型发展。
+   [阅读论文](http://arxiv.org/abs/2608.24845v1)
+
+4. **Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought** · `ArXiv`
+   **做什么：** 通过医学扰动审计揭示许多医疗LLM的思维链与最终诊断无关。
+   **为什么读：** 对医疗AI中思维链可信度提出挑战，为临床大模型安全部署提供关键证据。
+   [阅读论文](http://arxiv.org/abs/2608.24790v1)
+
+5. **Effective Learning Rate Governs Loss Dynamics in Language Model Pretraining** · `ArXiv`
+   **做什么：** 发现语言模型预训练中损失动态主要由有效学习率决定，LR与参数范数仅通过比值起作用。
+   **为什么读：** 揭示预训练基础规律，简化超参数调优，对大规模模型训练效率有直接指导意义。
+   [阅读论文](http://arxiv.org/abs/2608.24814v1)

@@ -1,0 +1,45 @@
+{
+  "picks": [
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face，Kimi-K3、GLM-5.3 等多模态模型齐发",
+      "why": "主流大模型生态密集更新，多模态与量化衍生生态成为竞争焦点，直接影响开发选型。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Claude Code Opus 5 Auto Mode 被攻破，提示注入漏洞再次曝光",
+      "why": "AI 编程工具安全边界再受挑战，高危漏洞直接影响企业采用信心。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+    },
+    {
+      "title": "OpenAI 宣布扩大 ChatGPT 广告访问，探索新版变现模式",
+      "why": "ChatGPT 商业化新动作，或将改变免费用户使用体验与 AI 行业商业模式。",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/"
+    },
+    {
+      "title": "AI Agent 生产环境 '静默失败' 问题集中爆发",
+      "why": "多来源反应 Agent 工具可靠性不足，静默失败成为部署落地最大障碍。",
+      "source": "技术社区 AI 动态日报",
+      "url": "https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f"
+    },
+    {
+      "title": "OpenClaw v2026.8.1 引入迁移回归，误隔离合法 cron 作业",
+      "why": "热门 Agent 框架新版本现稳定性问题，影响大量生产用户升级决策。",
+      "source": "OpenClaw 项目日报",
+      "url": "https://github.com/openclaw/openclaw/issues/133347"
+    },
+    {
+      "title": "论文证明仅凭文本无法完整恢复说话者意图",
+      "why": "对 LLM 能力上限提出形式化质疑，为下一代模型研究设定根本边界。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.28560v1"
+    },
+    {
+      "title": "AI CLI 工具生态安全与稳定性问题集中爆发",
+      "why": "主流 AI 编程工具均遭安全误报、状态不可靠等问题，行业进入可信可控竞赛。",
+      "source": "AI CLI 工具生态横向对比分析报告"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GitHub Copilot CLI 发布 v1.0.82 正式版，但新 Issue 爆发",
+      "OpenAI Codex /undo 恢复功能获 418 赞，需求强烈",
+      "Claude Code 终端自动回滚议题 134 赞居首",
+      "Kimi Code CLI 显著低活跃，配额异常消耗引关注",
+      "共性痛点：计费透明性与 Agent 状态报告失真",
+      "Qwen Code 多智能体方向投入明显"
+    ],
+    "ai-agents": [
+      "OpenClaw 活跃度高，但 P1 可靠性 Bug 积压待响应",
+      "反馈渠道与传输层可靠性成今日讨论焦点",
+      "无新版本发布，最新为 v2026.8.1-beta.3",
+      "PR #122431 修复超大图片进入媒体理解问题"
+    ],
+    "ai-trending": [
+      "scientific-agent-skills 日涨 1113 星，165 个技能服务 19 万科学家",
+      "OpenMAIC：清华开源多智能体交互式课堂，日涨 907 星",
+      "freellmapi 聚合 34 家免费 LLM 提供商，月供 74 亿 tokens",
+      "Graphify 将代码库转为知识图谱，无需向量存储",
+      "Agent Skills 标准化浪潮成绝对主线",
+      "crawl4ai 日增 229 星，LLM 友好型爬虫"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Model Hardware Standard 研究预览",
+      "Claude for Teachers 面向美国 K-12 教师免费开放",
+      "Anthropic 开放 1 万科学家免费/折扣席位",
+      "Claude 自主缓解对齐失败研究公布新进展",
+      "OpenAI 仅 2 篇元数据更新，涉及泰国初创扶持"
+    ],
+    "ai-hn": [
+      "vLLM v0.28.0 发布，HN 得分 107 引热议",
+      "Warp 基于 Claude 构建自改进 Agent，57 条评论",
+      "Claude Code 默认将 Session URL 写入 commit 引发隐私争议",
+      "OpenAI 与 Hugging Face 关系长文《Agent 文明的兴衰》登顶",
+      "Anthropic 周限额上调 25% 与速率限制下调 25% 并存引质疑"
+    ],
+    "ai-arxiv": [
+      "TTPO 将策略优化引入测试时阶段，摆脱对标签依赖",
+      "ES 推理覆盖广度优于 GRPO，提供后训练范式实证",
+      "WikiSkill 将智能体经验编译为持久化知识库",
+      "医学影像 AI 以超声研究形成明显聚集",
+      "视频世界模型进展显著：CLAP 与 PAWBench 覆盖"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞 13302 登顶热度榜首",
+      "Kimi-K3 周点赞 1.1 万，压缩张量技术支持特征提取",
+      "GLM-5.3-Flash 下载超 34 万次",
+      "MiniMax-H3 系列形成完整视频生成生态链",
+      "Qwen3.8-27B 'Uncensored' 微调版本大规模涌现"
+    ],
+    "ai-community": [
+      "MCP 服务器只读声明无人核验引发信任讨论",
+      "'证据优先' Agent 测试框架 Verdict 提出",
+      "40 行 Go 代码削减 71% LLM 账单引关注",
+      "GLM-5.3 开源 756GB MoE 权重引'10 亿门槛'讨论",
+      "GraphRAG 对比结论随评估工具不同而反转",
+      "AI 重设计作品集同质化困境探讨获 27 赞"
+    ]
+  },
+  "en": {}
+}

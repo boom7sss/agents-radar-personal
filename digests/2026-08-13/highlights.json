@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.229发布，Windows稳定性问题持续高热",
+      "OpenAI Codex单Issue获392赞，PR产出全场最密集",
+      "Gemini CLI推v0.56.0-nightly，安全修复密集",
+      "Copilot CLI高赞需求多但功能PR少，扩展需求旺盛",
+      "OpenCode发布v1.18.18/v1.18.17，付费订阅争议集中爆发",
+      "Qwen Code推Desktop v0.2.1，Web Shell成主战场"
+    ],
+    "ai-agents": [
+      "OpenClaw单日Issue/PR各500条，403新Issue待办",
+      "子代理完成消息丢失成头号顽疾，多个Issue被反复上报",
+      "PR #122924修复超大工具结果死路，改用有界输出",
+      "PR #119001为Codex Realtime绑定既有会话，推进语音能力",
+      "PR #122921消除CI重复冷依赖，每次节省105-111秒",
+      "今日无新版本，维护团队优先加固CI与边界修复"
+    ],
+    "ai-trending": [
+      "多智能体编排主导热榜：agency-agents今日+1873星",
+      "orca今日+1235星，主打并行Agent舰队开发环境",
+      "paperclip今日+571星，开源Agent管理后台受关注",
+      "RAGFlow/mem0等推动RAG向AI长期记忆层演进",
+      "needle将基础模型压缩至14MB，端侧可用成亮点",
+      "NVIDIA NeMo Switchyard用Rust构建，新仓库+421星"
+    ],
+    "ai-web": [
+      "Anthropic Frontier Red Team发布多智能体系统安全研究",
+      "Anthropic经济研究用56项实验评估工人再培训效果",
+      "Anthropic预警agent-only模式可能让机构完全由智能体主导",
+      "报告称agent间交互规模或超human-human与human-agent总和",
+      "Anthropic安全重心转向多智能体协议、博弈与涌现失败机制",
+      "OpenAI今日仅元数据更新，信息量不足未作解读"
+    ],
+    "ai-hn": [
+      "伪造ClaudeBot等AI Bot身份扫漏洞，引发175条热议",
+      "YC Launch HN：Discovered Materials获116分，AI for Science落地",
+      "Anthropic成焦点：数据中心融资、收购Decart、水印争议叠加",
+      "Decant开源工具可分析token花费，直击成本不可见痛点",
+      "OJCP为agent可消费职位数据定义开放协议",
+      "OWASP新版LLM Top10将过度自主权列为上升最快风险"
+    ],
+    "ai-arxiv": [
+      "长上下文训练削弱参数化知识，挑战“更多上下文更好”假设",
+      "LLM排名随推理预算变化，现有评测体系有效性遭质疑",
+      "混合线性注意力LLM发现两类大规模激活形态，影响量化",
+      "临床RAG系统在HealthBench上匹敌甚至超越前沿通用LLM",
+      "DreamFly用因果记忆+扩散规划解决空中视觉语言导航",
+      "多智能体RL揭示“模拟器塌缩”，单一LLM模拟用户不可靠"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10584点赞登顶HF热榜，下载量破156万",
+      "MiniMax-H3视频模型生态爆发，衍生数十个LoRA/GGUF版本",
+      "DeepSeek-V4-Flash-0731下载量破百万，量化版同步走热",
+      "Qwen3.8-2.4T-A95B：2.4T总参数、95B激活的MoE模型",
+      "LiquidAI LFM2.5-2.6B主打低资源部署与高效推理",
+      "NVIDIA Nemotron 3.5 Lightning 30B-A3B登榜，MoE架构"
+    ],
+    "ai-community": [
+      "开发者角色从“实现”转向“意图、编排与指导”引发热议",
+      "Agent插件运行时授权问题成安全架构讨论焦点",
+      "测评200家日本SaaS仅41家通过AI Agent就绪度评估",
+      "零API成本本地RAG教程走红，主打摆脱供应商锁定",
+      "OpenRouter用一个API密钥接入多LLM，降低切换成本",
+      "DeepSeek V3用SGLang部署教程获社区关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.229; 10+ hot issues",
+      "OpenAI Codex: 11 hot issues, 10 PRs in 24h",
+      "Gemini CLI v0.56.0-nightly lands with 10 PRs",
+      "OpenCode releases v1.18.17 and v1.18.18",
+      "Ecosystem shifts to multi-agent desktop platforms",
+      "Windows stability remains weak across major tools"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated",
+      "97 issues and 141 PRs closed in 24h",
+      "91-comment thread on silent reply failures",
+      "No new OpenClaw release in last 24h",
+      "P1 reliability issues threaten delivery health",
+      "Portals, realtime voice, recovery snapshots in flight"
+    ],
+    "ai-trending": [
+      "diagram-design tops daily gainers at +2,855",
+      "agency-agents packages full AI agency roles",
+      "Orca (+1,235) manages agent fleets",
+      "Paperclip (+571) for running agent fleets",
+      "NVIDIA-NeMo's Switchyard (Rust) +421",
+      "needle offers 14MB foundation model"
+    ],
+    "ai-web": [
+      "Anthropic red team analyzes multiagent systems",
+      "Agent-agent interactions may outpace human ones",
+      "Worker retraining gains modest, 56-study meta-analysis",
+      "Government recovers over half of retraining cost",
+      "OpenAI posts enterprise AI index page, no text",
+      "Anthropic sets research agenda on AI policy"
+    ],
+    "ai-hn": [
+      "Mass scans spoof ClaudeBot; 236-point thread",
+      "Launch HN: Discovered Materials applies AI to materials",
+      "Anthropic reportedly buys Decart for $6B",
+      "OWASP names excessive agency top LLM risk",
+      "Research steals reasoning traces from LLM APIs",
+      "Anthropic third-party financed data centre fleet"
+    ],
+    "ai-arxiv": [
+      "Long-context training undermines parametric recall",
+      "Model rankings shift with token budget",
+      "First study of massive activations in hybrid LLMs",
+      "Agent research moves to native video representations",
+      "Backprop-free test-time adaptation introduced",
+      "Retrieval systems rival frontier models in domains"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Flash crosses 1 million downloads",
+      "Kimi-K3 tops weekly likes at 10.5K",
+      "MiniMax-H3 anchors wave of LoRAs, GGUF",
+      "Qwen3.8-2.4T-A95B: 2.4T-param sparse MoE",
+      "NVIDIA and Qwen push FP8/NVFP4 releases",
+      "LiquidAI LFM2.5-2.6B targets edge devices"
+    ],
+    "ai-community": [
+      "Developers debate who authorizes agent plugins",
+      "How to audit agent memory in production",
+      "Local RAG app built without OpenAI costs",
+      "AI's effect on mid-level engineering roles debated",
+      "Lobste.rs: AI firms destroying books to scan",
+      "Video roundup of OpenAI–Hugging Face incident"
+    ]
+  }
+}

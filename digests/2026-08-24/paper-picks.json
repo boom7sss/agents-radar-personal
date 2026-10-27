@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "takeaway": "提出交互式助手基准，解决静态离线数据无法评估主动引导式视频助手的问题",
+      "why": "首个面向助手式交互范式的全模态评测，直击动态交互评估的空白",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.21360v1"
+    },
+    {
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "takeaway": "面向生命科学视觉工件的VQA基准，覆盖工业工作流而非教科书图片",
+      "why": "揭示前沿VLM在专业科学图像上的严重缺陷，推动领域知识评估",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.21357v1"
+    },
+    {
+      "title": "Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning",
+      "takeaway": "用小型离策略Q函数使大规模BC策略能够自我改进并吸收失败经验",
+      "why": "将RL扩展到数十亿参数机器人策略，突破模仿学习无法自我提升的根本限制",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.21204v1"
+    }
+  ]
+}

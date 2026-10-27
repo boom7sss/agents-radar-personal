@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination",
+      "takeaway": "发现真实与幻觉物体同样受LVLM强关注，用Logit Lens解码视觉特征以检测并缓解幻觉。",
+      "why": "CVPR 2026 Highlight，直击多模态大模型幻觉机制，提供可操作的检测与缓解方案。",
+      "venue": "CVPR",
+      "url": "http://arxiv.org/abs/2608.07302v1"
+    },
+    {
+      "title": "RayletDF: Raylet Distance Fields for Generalizable 3D Surface Reconstruction from Point Clouds or Gaussians",
+      "takeaway": "提出raylet距离场，从点云或3D高斯中单前馈重建表面，跨数据集无需微调即可泛化。",
+      "why": "ICCV 2025 Highlight，绕开坐标网络逐点建场，为通用3D表面重建提供新范式。",
+      "venue": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/awards_detail"
+    },
+    {
+      "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "takeaway": "构建P-Bench评估LLM代理统计检验有效性，暴露其分析代码正确但p值不成立的推理错误。",
+      "why": "首个关注假设检验统计有效性的LLM基准，对自动化科学分析的可信度有直接影响。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.07437v1"
+    },
+    {
+      "title": "EliSeg: Verified Target Construction for Report-Grounded Abnormality Segmentation",
+      "takeaway": "无需目标提示或空间先验，直接从原始影像报告中判定异常并完成分割，消除隐藏目标oracle。",
+      "why": "解决报告驱动分割的目标歧义与多异常对应问题，方向对医学影像AI实际落地重要。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.07299v1"
+    },
+    {
+      "title": "Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts",
+      "takeaway": "用混合专家模型从卫星影像中泛化检测贫民窟，应对跨区域分布偏移。",
+      "why": "AAAI 2026 AI for Social Impact最佳论文，官方高信号且社会影响明确。",
+      "venue": "AAAI",
+      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+    }
+  ]
+}

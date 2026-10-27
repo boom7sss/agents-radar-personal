@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "9款AI CLI工具超200条更新，头部集体进入稳定性攻坚期",
+      "Qwen Code v0.21.3正式版发布，另推2个nightly版本",
+      "OpenCode v1.18.11补丁修复MCP SSE无限重连问题",
+      "DeepSeek TUI提出“确定性延续契约”应对压缩损坏",
+      "Claude Code会话重命名注入伪轮次，transcript永久损坏",
+      "Codex子代理泄漏stdio MCP进程树，引发资源治理讨论"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.7.2-beta.6，聚焦状态安全与崩溃恢复",
+      "OpenClaw单日500 Issue/500 PR，104条PR合并关闭",
+      "DeepSeek v4 Flash静默回复失败成社区热议，73条评论",
+      "隔离存储与SQLite崩溃快照，保护数据库免受连带损坏",
+      "Realtime语音会话状态无界增长，38条评论追踪",
+      "Schema升级检测数据丢失风险，拒绝升级保护现有数据"
+    ],
+    "ai-trending": [
+      "reverse-skill以+1,320 stars登顶今日AI Trending",
+      "GitHub发布copilot-sdk官方SDK，可集成Copilot Agent",
+      "腾讯云开源TencentDB-Agent-Memory，团队级Agent记忆中枢",
+      "字节开源deer-flow长时任务SuperAgent框架，+209 stars",
+      "Ollama stars破177.5k，本地运行大模型事实标准",
+      "微软AI-For-Beginners今日+949，新手入门需求高涨"
+    ],
+    "ai-web": [
+      "OpenAI官网新增数学页面线索：ten-advances-in-mathematics",
+      "新页面发布日期为2026-08-01，但正文未抓取到",
+      "Anthropic官网当日新增0篇，无内容可分析",
+      "OpenAI sitemap共893条，Anthropic共429条",
+      "该条目仅元数据，标题由URL推断，可靠度低",
+      "线索指向OpenAI数学主题，等待完整页面确认"
+    ],
+    "ai-hn": [
+      "OpenAI数学进展帖登顶HN：419分、285条评论",
+      "MIT研究：AI理财建议“出奇好用”引热议，198分",
+      "Show HN：8GB GPU跑LLM后训练实验教程获20分",
+      "Show HN：用Rust为Claude Code agents构建Cockpit",
+      "社区争议：OpenAI成就是真突破还是PR包装？",
+      "Amazon Claude成本超支、爬虫不守robots.txt引担忧"
+    ],
+    "ai-arxiv": [
+      "新研究：重复采样胜过Self-Refine，反思范式受挑战",
+      "AISPA框架：以用户为中心审计LLM系统提示词",
+      "安全微调会改变模型意识归因，影响人类价值观",
+      "Beacon模型：让智能体自主判断何时需要视觉推理",
+      "OSReward：为跨平台计算机使用智能体建评测标准",
+      "本地计算机智能体推理时扩展失败模式与算力权衡"
+    ],
+    "ai-hf": [
+      "Kimi-K3周点赞9,497断层领先，成今日最热多模态模型",
+      "GLM-5.2热度高：4,738赞、168万下载",
+      "DeepSeek-V4-Flash下载量破281万，轻量版受追捧",
+      "Qwen3.6-35B-A3B成最热微调基座，GGUF变体涌现",
+      "微软Fara1.5-27B发布：电脑操作智能体新方向",
+      "Ternary-Bonsai-27B探索极端低比特量化，降低27B门槛"
+    ],
+    "ai-community": [
+      "Dev.to反思：AI辅助编码正在削弱工程师判断力",
+      "AI时代工作流质量比复杂需求更重要，案例引关注",
+      "开发者让AI Agent夜间自主构建Java服务并成功交付",
+      "浏览器Agent本质是“谁替你行动”的意图之争",
+      "用Rust重写sklearn流水线，Docker镜像缩小400倍",
+      "教程：构建安全MCP服务器，不把Shell交给AI"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI tools enter reliability-hardening phase",
+      "V8 string-length crashes hit oversized session files",
+      "Cross-tool convergence on Windows/WSL regressions",
+      "Qwen Code focuses on prompt-cache economics",
+      "DeepSeek-TUI introduces compaction-continuation contracts",
+      "Pi advances cross-tool skill portability"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.7.2-beta.6 with quarantine store",
+      "500 issues and 500 PRs updated in 24h",
+      "State safety and recovery focus in new beta",
+      "Crash-recoverable SQLite snapshots added",
+      "Community reports session-state corruption bugs",
+      "steipete authors a dozen-plus PRs across channels"
+    ],
+    "ai-trending": [
+      "Agent infrastructure dominates GitHub Trending",
+      "TencentDB-Agent-Memory and ByteDance deer-flow open-sourced",
+      "Hugging Face speech-to-speech pushes local voice agents",
+      "Microsoft AI courses keep attracting stars",
+      "TRELLIS.2 advances 3D generative modeling",
+      "GitHub Copilot SDK gains 142 stars today"
+    ],
+    "ai-hn": [
+      "OpenAI math advances top HN at 419 points",
+      "MIT Sloan: AI financial advice surprisingly good",
+      "YC founder asks job seekers to get tattoo",
+      "Ed Zitron: 'Everyone Has Been Sold a Lie'",
+      "Amazon reports $1.8M Claude overrun",
+      "Anthropic models 'committing crimes' sparks debate"
+    ],
+    "ai-arxiv": [
+      "Repeated sampling beats self-refine at equal cost",
+      "New benchmark for oncall root-cause analysis",
+      "AISPA audits hidden LLM system prompts",
+      "Multi-agent systems adapt communication topologies",
+      "Hybrid diffusion transformers boost resolution",
+      "Clinical subgroup-fairness audits become reproducible"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads Hugging Face likes this week",
+      "DeepSeek V4 Flash tops 2.8M downloads",
+      "GLM-5.2 attracts 1.68M downloads",
+      "Qwen3.5/3.6 uncensored GGUF fine-tunes surge",
+      "Solar-Open2-250B enters large LLM race",
+      "OCR, TTS, ASR models hit top 30 trending"
+    ],
+    "ai-community": [
+      "OpenAI auto-review upgrades to GPT-5.6 Luna",
+      "AI code review may erode developer judgment",
+      "Engineers share agent pipeline observability tips",
+      "MCP explored as safe control plane for AI ops",
+      "Failed traces used as fine-tuning data",
+      "Deep dive into Kimi Delta Attention"
+    ]
+  }
+}

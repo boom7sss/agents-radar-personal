@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code #16157配额争议，1484条评论",
+      "Codex日发4个alpha，token争议628评论",
+      "DeepSeek TUI v0.9.4 整合36个PR",
+      "OpenCode 连续两日发版，v1.18.12/13 修复",
+      "Qwen Code 发 v0.21.5 及 nightly",
+      "Copilot CLI 双版本 v1.0.78/-3"
+    ],
+    "ai-agents": [
+      "OpenClaw PR 合并率仅 19.8%，合并吞吐受限",
+      "P0 数据丢失缺陷 #119090：媒体清理开放删除",
+      "今日发布两个补丁：v2026.7.1-1/2",
+      "v2026.7.1-1 修复 Codex 进度回复链路",
+      "v2026.7.1-2 兼容新版 npm 插件元数据",
+      "Gateway 主线程阻塞与稳定性债务累积"
+    ],
+    "ai-trending": [
+      "airllm 今日+1716，4GB GPU 跑 70B",
+      "superpowers +617，提升编码 Agent 效能",
+      "ECC 获 237K star，Agent 性能优化系统",
+      "DeepSeek-Reasonix+924，Go终端编码代理",
+      "reverse-skill+2310，AI 逆向/渗透路由包",
+      "TencentDB-Agent-Memory 记忆项目成热点"
+    ],
+    "ai-web": [
+      "Anthropic 公益版 Claude 最高 75% 折扣",
+      "Claude 在第三方评估中越权访问，Anthropic披露",
+      "公益版接入 Blackbaud、Candid 等工具",
+      "OpenAI 新增 GPT Live 语音与苹果批评两页",
+      "与 GivingTuesday 合作，提供免费 AI 课程",
+      "安全透明度正成为实验室竞争新维度"
+    ],
+    "ai-hn": [
+      "OpenAI 数学十项进展登 HN 榜首：593 分/878 评",
+      "苹果 AI 策略批评文获 247 分/242 评论",
+      "HN 质疑 OpenAI 宣传严谨性，警惕营销",
+      "Homebench 开源本地 LLM 速度/内存/质量基准",
+      "15 位州检察长致信 OpenAI，监管话题热议",
+      "Anthropic CEO 使命 vs 金钱论引人才讨论"
+    ],
+    "ai-arxiv": [
+      "AURORA-LM 连续潜空间扩散，突破离散 token限制",
+      "SWE-Touch 允许用户中途修改代码，再评 Agent",
+      "AtumAI 把数据中心策略生成变成 Agent 工作流",
+      "MedPRESS 新基准：患者施压会诱导 LLM 谄媚",
+      "LiveMem 维护长运行 LLM 记忆状态连续性",
+      "WorldExam 借视频生成模型评测世界模型反应性"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以 9969 点赞登顶 HF 热榜",
+      "GLM-5.2 点赞 4809，下载超 223 万",
+      "DeepSeek-V4-Flash 下载 273 万，社区热门",
+      "Qwen3.5/3.6 衍生版霸占热榜半壁江山",
+      "百度 Unlimited-OCR 下载突破 270 万",
+      "MiniMax-H3 视频生成模型引发关注"
+    ],
+    "ai-community": [
+      "Agent 工具权限失控帖：58 赞/43 评",
+      "Anthropic 沙箱逃逸，开发者需加固 Agent 边界",
+      "AI 助手烧钱测算：人均月耗 $500–$2,000",
+      "阿里 Qwen3.8-Max 正式可用，2.4T 参数",
+      "社区观点：Agent 编排层比模型规模更关键",
+      "AirLLM 4GB GPU 跑 70B 模型引热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI ecosystem fights cost transparency, trust, interop",
+      "Claude Code and OpenAI Codex top usage-accounting bug complaints",
+      "Gemini and DeepSeek TUI report false-success failures",
+      "ACP and MCP converge as the two interop standards",
+      "11 releases across 5 tools in 24 hours",
+      "Windows/terminal compatibility is the weakest platform link"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs in 24h",
+      "OpenClaw ships patches 2026.7.1-1 and 2026.7.1-2",
+      "New P0 data-loss bug #119090 in OpenClaw",
+      "OpenClaw closes 63 issues and merges 99 PRs",
+      "Multiple P1 session-state, livelock, crash-loop reports",
+      "OpenClaw is busy but stability-sensitive"
+    ],
+    "ai-trending": [
+      "Agent memory and context are the hottest theme",
+      "TencentDB-Agent-Memory +1,138 stars today",
+      "claude-mem hits 89,517 stars",
+      "reverse-skill +2,310 stars for agent security",
+      "AirLLM runs 70B-class models on a 4GB GPU",
+      "pdf-inspector +2,524 for document routing"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude for Nonprofits with 75% discounts",
+      "Anthropic details three real-world sandbox breaches",
+      "Anthropic conducted 141,006-run security retrospective",
+      "Claude for Nonprofits integrates Blackbaud, Candid, Benevity",
+      "OpenAI posts two metadata-only pages; substance unclear",
+      "Safety transparency and model boundary testing in focus"
+    ],
+    "ai-hn": [
+      "OpenAI claims Astra solved ten math problems (593 pts)",
+      "HN debate: verification and meaning of 'solved'",
+      "Apple's AI strategy sharply criticized (247 pts)",
+      "Hoplite (YC S26) launches cloud platform for coding agents",
+      "Anthropic mission-drift worries and legal pressure discussed",
+      "Homebench benchmarks local LLMs for speed, memory, quality"
+    ],
+    "ai-arxiv": [
+      "AURORA-LM proposes continuous-latent diffusion for text",
+      "Structured Memory injects persistent context via SSM states",
+      "LiveMem maintains memory continuity in long-running inference",
+      "Evaluation shifts to interactive multi-turn scenarios",
+      "Efficiency work for video diffusion and transformer training",
+      "Domain applications in medicine, chemistry, datacenters"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops HF with 9,969 likes, 1.1M downloads",
+      "DeepSeek-V4-Flash family sees 2.7M+ downloads",
+      "LG's K-EXAONE-2.0-750B open-weight MoE arrives",
+      "GLM-5.2 MoE reaches 2.23M downloads",
+      "Unsloth GGUF quantization follows DeepSeek-V4-Flash fast",
+      "Qwen3.6-35B-A3B fine-tunes hit 1.6M-1.9M downloads"
+    ],
+    "ai-community": [
+      "Dev.to: agent tool boundary failures top discussion",
+      "Anthropic sandbox breach report becomes concrete warning",
+      "Developers compare Qwen3.8-Max vs local models for PII",
+      "Lobste.rs debates Rocq vs Lean for verification",
+      "AirLLM 70B on 4GB GPU draws developer attention",
+      "Community mood: safety, observability, cost over hype"
+    ]
+  }
+}

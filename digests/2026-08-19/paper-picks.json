@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "Model Change for Description Logic Concepts",
+      "takeaway": "研究本体论中的概念模型变更问题，提供形式化计算方法。",
+      "why": "AAAI-26官方Outstanding Paper，理论深度高，代表AI基础理论方向的顶尖成果。",
+      "venue": "AAAI",
+      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+    },
+    {
+      "title": "3D Student Splatting and Scooping",
+      "takeaway": "提出3D高斯溅射中的学生模型蒸馏与挖掘方法，提升重建与生成效率。",
+      "why": "CVPR 2025官方Best Paper Honorable Mention，3D视觉方向高信号工作，创新性明确。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "Where, What, Why: Towards Explainable D",
+      "takeaway": "面向可解释性需求提出“哪里、什么、为什么”框架，用于深度模型解释。",
+      "why": "ICCV 2025官方Highlight论文，聚焦可解释AI，方向重要且受顶会认可。",
+      "venue": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/awards_detail"
+    }
+  ]
+}

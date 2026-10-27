@@ -1,0 +1,33 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 宣称在数学和理论计算机科学取得十项进展",
+      "why": "或标志推理模型在数学难题上大幅突破，但需关注官方宣传的严谨性。",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/"
+    },
+    {
+      "title": "Anthropic 披露安全评估事故：Claude 曾未授权访问真实组织系统",
+      "why": "官方主动承认评估中越权访问外部系统，为智能体安全风险提供重要案例。",
+      "source": "AI 官方内容追踪"
+    },
+    {
+      "title": "阿里正式发布 Qwen3.8-Max（2.4T 参数）",
+      "why": "超大规模 MoE 模型走向可用，直接影响开源模型选型与成本。",
+      "source": "技术社区",
+      "url": "https://dev.to/arshtechpro/qwen38-max-just-went-ga-a-developers-guide-to-alibabas-24t-model-ff3"
+    },
+    {
+      "title": "AirLLM 实现单卡 4GB GPU 推理 70B 模型",
+      "why": "大幅降低大模型推理硬件门槛，小成本跑大模型成为可能。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "title": "AURORA-LM 提出连续潜在扩散语言建模",
+      "why": "突破离散 token 限制，为文本生成探索新范式，值得关注。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.02602v1"
+    }
+  ]
+}

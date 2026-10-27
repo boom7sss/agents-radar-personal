@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting",
+      "takeaway": "提出3DGS中隐含意图、空间与常识推理的分割任务，构建双基准与CausalSplat框架。",
+      "why": "首个系统评测3DGS复杂推理，直指具身交互落地瓶颈，ECCV 2026接收。",
+      "venue": "ECCV",
+      "url": "http://arxiv.org/abs/2608.11150v1"
+    },
+    {
+      "title": "CARE: Confidence-Aware Reasoning for Reliable Medical VQA",
+      "takeaway": "用双阶段流程联合优化医学VQA的准确率与置信度校准，缓解过度自信。",
+      "why": "MICCAI 2026接收，面向临床信任的可校准医疗多模态推理。",
+      "venue": "MICCAI",
+      "url": "http://arxiv.org/abs/2608.10964v1"
+    },
+    {
+      "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "takeaway": "通过将视觉对象交错插入文本，提供显式目标级监督的MLLM预训练范式。",
+      "why": "解决全局图文对齐的指代歧义，提高数据效率与语义接地能力。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.11167v1"
+    },
+    {
+      "title": "PEAK: Precise and Persistent Concept Erasure via k-Sparse Autoencoders",
+      "takeaway": "用k稀疏自编码器精确定位概念相关激活，实现可靠且持久的概念擦除。",
+      "why": "同时解决语义误删和对抗可恢复，安全价值高且方法清晰。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.10985v1"
+    },
+    {
+      "title": "VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
+      "takeaway": "以面元索引的视图记忆提升长程交互式视频场景生成的跨视角一致性与连贯性。",
+      "why": "ICCV 2025 Highlight，缓解视频生成长期漂移与几何误差。",
+      "venue": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/awards_detail"
+    }
+  ]
+}

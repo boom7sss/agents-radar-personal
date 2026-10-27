@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "ai-monthly": [
+      "Anthropic深陷信任危机周，Claude Code会话缓存泄漏",
+      "GLM 5.2击败Claude，登顶网络安全基准测试",
+      "OpenAI发布GPT-5.6 Sol系列，引发全行业适配浪潮",
+      "Apple起诉OpenAI窃取商业机密，硅谷格局生变",
+      "Opus 5发布，Anthropic设2亿美元经济研究基金",
+      "OpenAI与Anthropic联合呼吁监管开源模型引争议"
+    ]
+  },
+  "en": {
+    "ai-monthly": [
+      "AI industry shifts from features to reliability",
+      "Agent Skills standardization wave accelerates",
+      "Anthropic faces 'darkest week' of crises",
+      "Microsoft disrupts with aggressive cost cuts",
+      "Apple launches legal offensive against OpenAI",
+      "Anthropic expands research, policy, enterprise"
+    ]
+  }
+}

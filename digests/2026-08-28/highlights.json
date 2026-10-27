@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.247发布，社区评论超150条，历史级热点#42776",
+      "OpenAI Codex rust-v0.150.1及8个alpha，Windows故障集中爆发",
+      "Gemini CLI v0.59.0-nightly，安全修复与技术提案密集",
+      "Copilot CLI v1.0.81正式版，插件生态加速但稳定性问题增多",
+      "Qwen Code 10个PR，多智能体修复进入闭环",
+      "OpenCode v1.18.23引发回归讨论，高赞43👍"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue+500 PR，无新版本，Beta blocker严重Bug推进中",
+      "PR #120900 支持管理员审查插件安装警告，加强安全边界",
+      "PR #126424 修复跨agent会话投递，涉及Discord/iMessage/Matrix等通道",
+      "PR #125471 修复Claude CLI OAuth在Gateway重启后的丢失问题",
+      "PR #123535 避免会话目录刷新风暴"
+    ],
+    "ai-trending": [
+      "Agent技能库爆发，scientific-agent-skills获+494 star",
+      "TradingAgents 多agent金融交易框架 +323 star",
+      "ponytail 压制代码生成冲动，+1610 star",
+      "archify 架构图转HTML动效，+4260 star",
+      "OpenMontage 开源视频制作系统，+1284 star"
+    ],
+    "ai-web": [
+      "Anthropic开放10,000科学家免费/优惠Claude订阅席位",
+      "发布Model Hardware Standard（MHS）研究预览，压缩硬件集成至数分钟",
+      "发布多智能体红队报告《Patterns and problems in multiagent systems》",
+      "开放Anthropic Insights外部研究试点，提供真实使用数据聚合分析",
+      "OpenAI更新涉及Hugging Face事件回应、教育产品及巴西市场"
+    ],
+    "ai-hn": [
+      "Show HN: Claude提示词承重词汇分析，221分/111评论",
+      "Show HN: TARE工具追踪Claude配额消耗，54分/41评论",
+      "HN讨论MHS标准，35分/15评论",
+      "METR发布OpenAI/Hugging Face事件独立调查",
+      "Concord通过MCP打通Claude Code、Codex和Cursor协作"
+    ],
+    "ai-arxiv": [
+      "论文提出LoRA秩-误差理论界，告别经验调参",
+      "论文分析量化对LLM人格影响，指导量化部署",
+      "论文研究剪枝对稀疏自编码器影响，平衡压缩与可解释性",
+      "R3训练机器人自然语言推理，扩展测试时计算",
+      "Agentic Autoresearch将ML设计层交给自主代理"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以345万+下载登顶，衍生十余变体",
+      "Kimi-K3获11,035赞，DeepSeek-V4-Flash下载近400万",
+      "LTX-2.5与MiniMax-H3视频模型突破千万级关注",
+      "GLM-5.3-Flash发布即获1300赞",
+      "Thomson-1.0-Small路透社首个开源MoE"
+    ],
+    "ai-community": [
+      "NexPath审查提示词质量，拦截模糊指令",
+      "AI时代维护成本未降，开发需重新规划技术债",
+      "89%的guard从未触发，审阅机制形同虚设",
+      "按任务难度路由模型，成本削减约48倍",
+      "公开审计暴露PlannerCritic v0.2.1自相矛盾"
+    ]
+  },
+  "en": {}
+}

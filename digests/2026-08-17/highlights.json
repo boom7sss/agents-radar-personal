@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Stripe 70亿美元收购OpenRouter，AI基础设施商业化引爆讨论",
+      "GPT-5.6 Sol Ultrafast模式发布，Cerebras合作实现14倍推理加速",
+      "Codex桌面应用登陆Linux预览，获445分HN热度评论300+",
+      "Anthropic发布Claude文本水印机制，定位为行业级合规基线",
+      "Claude披露黎曼猜想突破：零点下界从41.6%提升至67.2%",
+      "OpenClaw发布v2026.8.1-beta.2，新增Secret egress绑定与GPT-5.6 Ultra支持"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 PR 更新，384 个待合并",
+      "消息静默丢失与子代理状态不可靠成 OpenClaw 核心顽疾",
+      "维护者 steipete 密集提交修复，覆盖 RSS 诊断与 Unicode 迁移",
+      "OpenClaw PR #124961：8 处持久化校验统一迁移至 Zod",
+      "Gateway 控制面轮询停滞修复（#124891）待合并",
+      "新 Release pr-124528-profiles 提供 Gateway 性能分析证据包"
+    ],
+    "ai-trending": [
+      "unsloth 今日 +572 星，本地训练 LLM 门槛大降",
+      "affaan-m/ECC 达 24 万星，Claude Code 等 Agent 性能优化",
+      "hermes-agent 23 万星：可持续演进的 Agent 框架",
+      "Graphify-Labs/graphify 10.7 万星，RAG 无需向量库新路线",
+      "ollama 17.8 万星，一键跑 Kimi-K2.6、DeepSeek 等模型",
+      "claude-mem 9 万星，为十余种 Agent 提供跨会话记忆"
+    ],
+    "ai-hn": [
+      "Claude 系统提示词公开、水印争议、营收暴涨霸屏 HN",
+      "Stripe 70 亿美元收购 OpenRouter 引发热议",
+      "Nvidia 缩减 OpenAI 数据中心融资担保，AI 泡沫论再起",
+      "HN 高分：仅用五年级语料训练的 LLM 能力边界探究",
+      "Anthropic 研究梳理多智能体系统模式与问题，180 分",
+      "Show HN：DeepSeek V4 Flash 压缩至 57GB 在 Mac 跑通"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周赞 10768、下载 213 万，领跑 HF 榜单",
+      "Qwen3.8-2.4T-A95B：2.4T 参数 MoE 旗舰发布",
+      "DeepSeek 发布 V4-Pro 与 V4-Flash 双版本",
+      "NVIDIA Nemotron 3.5 Light 30B-A3B MoE 上线",
+      "MiniMax-H3 系列全面开花，权重/GGUF/ComfyUI 齐入榜",
+      "LiquidAI LFM2.5-2.6B 小而强模型受关注"
+    ],
+    "ai-community": [
+      "高赞文章：让 LLM 直接生成图表，无需像素渲染",
+      "Cursor 等 AI 生成代码被曝写入 CWE-78 安全漏洞",
+      "讨论 AI 上下文丢失根因是存储问题而非失忆",
+      "质疑\"AI 徽章\"意义，呼吁用可验证性重建信任",
+      "教程：用 Rust 的 rmcp 构建 MCP 服务器",
+      "'AI 工程师 2026 阅读清单'盘点 10 本必读书"
+    ]
+  },
+  "en": {
+    "ai-weekly": [
+      "Anthropic: Claude raises Riemann zero bound to 67.2%",
+      "OpenAI Daybreak models now available on AWS",
+      "Anthropic red team warns on multi-agent risks",
+      "Claude Sonnet 5: most agentic Sonnet, lower price",
+      "OpenAI details Claude text watermarking for EU Act",
+      "Stripe to acquire OpenRouter for $7B: Bloomberg"
+    ]
+  }
+}

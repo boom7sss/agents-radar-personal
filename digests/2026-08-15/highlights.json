@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 跨会话通信连续回归，社区高调关注 #24798",
+      "OpenAI Codex LSP 集成问题以 450👍 居首，#8745",
+      "Gemini CLI 多处代理挂起，v0.56.0-nightly 发布",
+      "GitHub Copilot CLI v1.0.81-0 支持模型配置",
+      "Kimi Code 记忆系统诉求 #1283 评论达 40 条",
+      "DeepSeek TUI 发布 v0.9.8，审批默认选项引热议"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 Issue 与 500 PR，活跃度高位",
+      "核心修复 PR 多等待验证，维护吞吐存瓶颈",
+      "安全加固：安装策略警告新增交互式确认机制",
+      "PR #124005 修复 Web UI 模型切换状态不一致",
+      "会话标题统一转为 sentence case 格式",
+      "当前无新版本发布，处于功能迭代冲刺阶段"
+    ],
+    "ai-trending": [
+      "github/spec-kit 今日 +1,160 stars，官方 Spec-Driven 工具",
+      "needle 仅 14MB 基础模型，专为端侧设备设计",
+      "holaOS 开源 All-in-One Agent 工作台，今日 +769 stars",
+      "unsloth 一键运行微调，支持 Qwen3.8、DeepSeek-V4",
+      "RAGFlow 持续霸榜，PageIndex 新范式 RAG 受关注",
+      "cursor/plugins 官方插件规范，Agent 生态标准化信号"
+    ],
+    "ai-web": [
+      "Anthropic 发布《How Claude's text watermarking works》",
+      "水印符合欧盟 AI 法案，不增成本不损质量",
+      "再培训元分析：就业率+2~3%，年收入+$1,000",
+      "56 项美国随机实验证明再培训效果温和",
+      "Anthropic 双线推进内容溯源与劳动力影响议题",
+      "OpenAI 当日无新增内容，Anthropic 独占更新"
+    ],
+    "ai-hn": [
+      "《Maximizing Claude Code sessions》161 分成今日最高",
+      "Anthropic 风险报告发布，AI 安全治理引热议",
+      "文本水印技术细节公开，评论区分歧明显",
+      "Mole：终端深度研究 Agent，Show HN 获 58 分",
+      "Graft hooks 削减 grep token 42%，获 39 分",
+      "Shoehorn 库将 LLM 量化适配 Mac VRAM"
+    ],
+    "ai-arxiv": [
+      "Synthetic Persona Pretraining 从 token 零开始对齐",
+      "DFM Mimir v1：1B 参数仅用合规许可数据训练",
+      "任务无关数据影响力度量方法提出，利于数据治理",
+      "SAEVerbalizer 直接从表征言语化 SAE 特征",
+      "OmniScientist 全模态全学科 AI 科学家亮相",
+      "Gricean Retreat 框架从语用学视角缓解幻觉"
+    ],
+    "ai-hf": [
+      "Kimi-K3 10,680 点赞领跑，下载近 200 万",
+      "DeepSeek-V4-Flash-0731 下载超 160 万",
+      "MiniMax-H3 系列 13 个条目霸榜",
+      "Qwen3.8-27B 一周狂揽 9,195 点赞",
+      "Qwen3.8-2.4T-A95B 旗舰 MoE，稀疏激活趋势",
+      "量化微调衍生模型占榜单近 40% 席位"
+    ],
+    "ai-community": [
+      "MCP 生态升温：架构、缓存安全、成本控制文章涌现",
+      "Qwen3.8-2.4T-A95B vLLM 部署指南，大型 MoE 稀缺参考",
+      "多篇质疑：是 benchmark 模型还是评测框架本身",
+      "文章披露从 LLM API 窃取推理轨迹的攻击原理",
+      "MCP cacheScope 解决跨用户数据泄露问题",
+      "社区转向让现有模型更可靠、更安全、更可控"
+    ]
+  },
+  "en": {}
+}

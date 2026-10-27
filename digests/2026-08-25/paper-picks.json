@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+      "takeaway": "将时序一致性建模为异常检测，提出TimeCatch基准测试VLM对帧序异常的敏感度",
+      "why": "揭示VLM时序理解与人类差距，提供受控评估范式，对视频理解具参考价值",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.23474v1"
+    },
+    {
+      "title": "How to Train a Critic Stably and Efficiently",
+      "takeaway": "提出BPCO配方稳定训练LLM critic，替代GRPO的多采样，支持token级优势估计",
+      "why": "解决RLHF中critic训练不稳定的核心难题，有望大幅提升训练效率",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.23566v1"
+    },
+    {
+      "title": "GeoWAM: Visual Geometry World Action Models for Autonomous Driving",
+      "takeaway": "以点云几何状态替代像素空间建模驾驶世界动态与自车动作，解耦外观与运动",
+      "why": "为驾驶世界模型提供更自然的几何状态空间，突破像素间接表达的局限",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.23486v1"
+    },
+    {
+      "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+      "takeaway": "让LLM反思自身轨迹生成密集token级训练信号，无需外部奖励模型",
+      "why": "ICML 2026录用，将人类自省机制引入强化学习，解决长程推理稀疏奖励难题",
+      "venue": "ICML",
+      "url": "http://arxiv.org/abs/2608.23493v1"
+    }
+  ]
+}

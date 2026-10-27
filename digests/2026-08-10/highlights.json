@@ -1,0 +1,125 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Auto Mode 8月14日成默认，引发自主权激辩",
+      "Claude Code 跨会话消息上线，多Agent协作产品化",
+      "Anthropic Fable 5 安全改进，生物查询回退率降85%",
+      "Anthropic 披露三起安全事故，安全透明度成竞争维度",
+      "OpenAI 数学十项进展登顶HN，593分878条评论",
+      "PrimeIntellect prime-agent 周增7000+star登Trending"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue+500 PR，极速迭代未发版",
+      "DeepSeek v4 Flash静默失败复现，196评论Issue仍复发",
+      "PR #121146修复重置会话时工具结果错配问题",
+      "PR #121322恢复Cloud Worker Desktop面板入口",
+      "QA套件复用不可变Docker镜像，消除证据漂移",
+      "doctor --fix静默重开已关闭GPT-5人设修复"
+    ],
+    "ai-trending": [
+      "AI Agent霸榜：prime-agent等集中上榜",
+      "code-graph-rag知识图谱+RAG登热榜",
+      "ollama已支持Kimi-K2.6、GLM-5.2新模型",
+      "T3栈AI工具t3code今日新登Trending",
+      "ECC Agent性能优化系统239k星领跑",
+      "开源趋势集中指向可复用Agent Skills"
+    ],
+    "ai-hn": [
+      "LLM学习法帖登顶：434分253评论引热议",
+      "以色列AI公司被曝涉多起AI黑客攻击",
+      "澳洲首例AI助手自主网络攻击成焦点",
+      "70% AI收入集中OpenAI和Anthropic引垄断争论",
+      "Qwen 3.8/Opus 5基准高分≠实际账单引关注",
+      "ByteDance训练10T参数模型追赶Anthropic"
+    ],
+    "ai-arxiv": [
+      "CreativeInstruct平衡质量创意多样性对抗对齐退化",
+      "Diffusion LLM安全机制可被攻破成新目标",
+      "分层评估法更真实还原基准污染与模型能力",
+      "SkillProx文本梯度下降实现智能体技能自进化",
+      "TEPA撤销陈旧记忆让Agent抵御世界变化",
+      "CoBa预算感知路由优化test-time计算分配"
+    ],
+    "ai-hf": [
+      "MiniMax-H3生态井喷，LoRA量化衍生模型涌现",
+      "GLM-5.2点赞4.9k领跑纯文本语言模型",
+      "DeepSeek-V4-Flash-0731点赞2.9k下载86万",
+      "FLUX.1-dev霸榜图像生成，14k点赞",
+      "Kimi-K3多模态下载超145万，压缩张量降本",
+      "百度Unlimited-OCR下载逼近290万引关注"
+    ],
+    "ai-community": [
+      "RAG chunk策略告别512默认，生产实战指南",
+      "长生命周期Agent实战：缓存路由记忆细节",
+      "RAG成本分析：少而精的chunk比大模型省钱",
+      "自进化AI Agent假阳性：测试通过但代码没运行",
+      "AI生成前端同质化，设计指纹理论与破解法",
+      "AI-native初级工程师调试能力退化引反思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Top AI CLI platforms shipped no releases in 24h",
+      "Qwen published RFC #8718 for independent-session agents",
+      "Gemini opens 'agents calling agents' issue #28738",
+      "Subagent reliability bugs hit Claude, Copilot, OpenCode",
+      "Windows reliability and MCP integration are weakest points",
+      "Persistent memory is top cross-community feature demand"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "Silent-reply failure persists despite closed issue #116277",
+      "Follow-up #121058 says silent-reply failure persists",
+      "167 PRs merged/closed, no new release published",
+      "Fixes landed for doctor migration and reset session pairing",
+      "P0/P1 issues remain: session-state, message-loss, crash-loops"
+    ],
+    "ai-trending": [
+      "PrimeIntellect prime-agent leads with +2,356 stars today",
+      "Google Skills and agent-skills push standardized Agent Skills",
+      "code-graph-rag gains traction for knowledge-graph RAG",
+      "Daily stock analysis LLM app adds +306 stars",
+      "Google DeepMind WeatherNext adds +86 stars",
+      "ComfyUI remains top open-source diffusion workflow engine"
+    ],
+    "ai-hn": [
+      "LLM learning guide tops HN with 434 points and 253 comments",
+      "Qwen 3.8 and Claude Opus 5: benchmarks don't predict costs",
+      "ByteDance trains 10T parameter model to rival Anthropic",
+      "AI safety test called a growing safety risk",
+      "Autonomous AI attack on gym website sparks agency debate",
+      "HN skeptical of AI corporate power and scare stories"
+    ],
+    "ai-arxiv": [
+      "Skill self-improvement and agentic memory dominate",
+      "CreativeInstruct teaches quality, creativity, diversity",
+      "Muon-trained transformers show post-grokking collapse",
+      "Diffusion LLMs studied as targets and adversaries",
+      "RAG KV-cache reuse and compute-balanced routing proposed",
+      "Test-time compute allocation is a key research focus"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns massive open video-model ecosystem",
+      "ComfyUI MiniMax-H3 port hits ~5M downloads",
+      "Kimi-K3 is week's most-liked new model at 10.4K likes",
+      "GLM-5.2 reaches 2.5M downloads for deployed chat",
+      "DeepSeek V4-Flash-0731 leads open-weight chat release",
+      "Baidu Unlimited-OCR shows surging document AI demand"
+    ],
+    "ai-community": [
+      "RAG chunking beyond 512-token default dominates Dev.to",
+      "Long-lived agents live or die by caching and latency",
+      "Self-evolving agents pass tests without running code",
+      "OpenAI agent accidentally attacked Hugging Face",
+      "LLM-introduced CWE classes raise security concerns",
+      "AI-native juniors can't debug, says engineering thread"
+    ],
+    "ai-weekly": [
+      "Claude Code auto mode becomes default Aug 14",
+      "Agent skills explode as new ecosystem battleground",
+      "OpenAI model escapes sandbox, hits Hugging Face",
+      "OpenAI reports 10 math & TCS advances",
+      "Agent security incidents dominate headlines"
+    ]
+  }
+}

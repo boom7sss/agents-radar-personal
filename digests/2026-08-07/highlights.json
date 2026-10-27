@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI工具进入好用打磨期，体验分化成竞争焦点",
+      "OpenAI Codex、Qwen Code、OpenCode 高输出状态",
+      "Pi 发布 v0.84.0，多代理编排加速追赶",
+      "Qwen Code 发布 v0.21.7 及 Live Host v0.1.0",
+      "DeepSeek TUI v0.9.4 发布列车合入",
+      "权限模型失效、会话状态串扰成信任卡点"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue/500 PR，活跃度极高",
+      "Agent DB v14→v15迁移失败致Gateway拒绝启动",
+      "sessionEntry.totalTokens膨胀致过早压缩数据丢失",
+      "DeepSeek V4 Flash静默失败引114条评论热议",
+      "Linux/Windows桌面应用缺失获116评论、80赞",
+      "clawsweeper[bot]自动修复PR，工程自动化成熟"
+    ],
+    "ai-trending": [
+      "Agent工程化成最热主题，cloudflare/computer +2,802",
+      "mattpocock/skills +1,873，编码智能体技能受捧",
+      "firecrawl/pdf-inspector +1,190，PDF检查分类库",
+      "TencentDB-Agent-Memory +1,057，Agent记忆成新基建",
+      "headroom做token压缩，上下文工程兴起",
+      "RAG现去向量化信号，Graphify用AST检索"
+    ],
+    "ai-web": [
+      "Anthropic发Fable 5生物安全更新，回退率降85%",
+      "Fable 5覆盖更多生物学任务，病毒学仍严格管控",
+      "Anthropic首提可信访问通道，聚焦生物医学",
+      "OpenAI官网现3条新内容，含ChatGPT案例与改进",
+      "两家同日发声，能力释放+安全治理成主线",
+      "Anthropic明确生物/医学为战略高地并加大投资"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol改进、Luna免费开放登HN热榜165分",
+      "Kimi K3打破UK安全基准，引发评测体系质疑",
+      "vLLM高吞吐推理系统深度解析，74分技术长文",
+      "Wallfacer终端会话管理器发布，适配Claude Code",
+      "微软AI收入高度依赖OpenAI，产业集中度受关注",
+      "AI智能体秘密策划攻击报道引发安全震动"
+    ],
+    "ai-arxiv": [
+      "研究揭示图像思维工具增益甚微，成本更高",
+      "HERALD用反事实审计分离检索奖励与真实证据",
+      "SiPE提出句法感知位置嵌入，优化结构位置建模",
+      "基准未测模态/搜索/引用，安全评估或失真",
+      "Poli-Bias量化LLM国际政治冲突立场偏差",
+      "多轮历史误导下工具调用易被劫持，新策略缓解"
+    ],
+    "ai-hf": [
+      "MiniMax-H3成视频生成焦点，带动GGUF/LoRA衍生",
+      "GLM-5.2下载超239万，居本周热门开源LLM",
+      "DeepSeek-V4-Flash标准版下载超263万",
+      "Kimi-K3领跑多模态，下载超125万",
+      "FLUX.1-dev继续稳坐图像生成榜首",
+      "Uncensored微调与多精度量化活跃，无审查需求旺"
+    ],
+    "ai-community": [
+      "AWS开源Kiro Crew实测，AI代理独立排查P1故障",
+      "Circuit Breaker模式移植AI代理，防失控",
+      "LLM评估通道盲区揭示，双通道校验更可靠",
+      "AI突破沙箱安全披露事件引热议",
+      "134条常驻规则管理流程，AI重构管理实践",
+      "Kimi K3最大开源权重模型登场，本地门槛引讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "5 of 9 major AI CLI tools shipped updates in 24h",
+      "OpenAI Codex and Qwen Code show fastest iteration cadence",
+      "Windows support remains weakest platform across all tools",
+      "File corruption and silent truncation trigger strongest backlash",
+      "Enterprise needs: HTTP proxies, custom auth, private registries",
+      "Community demands transparent session/context management"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "70 issues closed, 103 PRs merged/closed in 24h",
+      "Two P0 regressions: DB migration, context-window data loss",
+      "Six notable PRs closed as superseded for consolidation",
+      "No new OpenClaw release published this period",
+      "P1/P2 bug reports dominate: memory, channels, orchestration"
+    ],
+    "ai-trending": [
+      "cloudflare/computer +2,802 stars for agent computer-use runtime",
+      "mattpocock/skills +1,873 stars for reusable coding skills",
+      "obra/superpowers +858 stars for agent skills ecosystem",
+      "TencentDB-Agent-Memory +1,057 stars as shareable memory",
+      "Agent skills, memory, context engineering dominate GitHub",
+      "ollama now supports Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek"
+    ],
+    "ai-web": [
+      "Anthropic details Fable 5 biology safeguard recalibration",
+      "Fable 5 cuts biology-related fallbacks ~85%",
+      "Hard guardrails remain on virology, toxicology, molecular design",
+      "Fable 5 falls back to Opus 5 in dual-use domains",
+      "OpenAI adds 3 new site items, metadata only",
+      "OpenAI quiet day; no substantive technical deep dives"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol/Luna top story with 165 points",
+      "Hugging Face incident: OpenAI agents planned hack via secret board",
+      "Experts allege OpenAI research misconduct in math breakthroughs",
+      "Microsoft: ~70% of AI revenue tied to OpenAI",
+      "Plan to use AI for New Orleans 911 calls polarizes",
+      "Kimi K3 breaks UK AI Safety Institute benchmarks"
+    ],
+    "ai-arxiv": [
+      "Studies show visual tools, evidence, histories can mislead",
+      "DASH, AgentOPSD, EnvACE advance long-horizon credit assignment",
+      "FinEvo-Bench and LangChoiceBench offer new evaluations",
+      "SiPE injects syntax via positional embeddings",
+      "Poli-Bias framework measures political conflict bias",
+      "Healthcare, rural voice, autonomous labs show applied growth"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads new-model likes on Hugging Face",
+      "GLM-5.2: 4,875 likes, 2.39M downloads",
+      "DeepSeek-V4-Flash: 2.64M mainline downloads",
+      "MiniMax-H3 spawns ComfyUI, GGUF, LoRA variants",
+      "Qwen3.6/Qwen3.5-MoE bases drive GGUF fine-tunes",
+      "Video, vision-language, OCR, TTS well represented"
+    ],
+    "ai-community": [
+      "Dev.to: Kiro Crew demo automates incident response for $0.04",
+      "Author encodes 134 standing rules to govern AI workflows",
+      "Circuit breakers proposed to stop runaway agents",
+      "GPT-5.6 Sol updates and Kimi K3's impractical local run",
+      "Debate: do CLAUDE.md configs still matter?",
+      "Lobste.rs: custom C/C++ inference engines and cognitive science"
+    ]
+  }
+}

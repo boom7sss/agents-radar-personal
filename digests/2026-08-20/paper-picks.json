@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+      "takeaway": "统一预测表示与动作条件未来建模，使世界模型预测直接用于轨迹决策。",
+      "why": "决策信息性建模是驾驶世界模型的核心难题，方法新颖且影响自动驾驶决策。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.19085v1"
+    },
+    {
+      "title": "USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes",
+      "takeaway": "联合去噪三维高斯与检测框，统一动态重建与实例级感知的驾驶场景表示。",
+      "why": "弥合重建与检测任务鸿沟，为自动驾驶空间表示提供新范式。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.19036v1"
+    },
+    {
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "takeaway": "自博弈 RL 框架，LLM 同时生成可执行训练环境与推理智能体，实现持续自适应目标。",
+      "why": "解决语言智能体训练目标分布固定问题，开源代码与项目页促进复现。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.19197v1"
+    },
+    {
+      "title": "Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+      "takeaway": "揭示长上下文下教师逐token支持与验证器奖励错配，提出分组校准的蒸馏方法。",
+      "why": "诊断并解决长上下文推理蒸馏核心问题，具明确方法贡献与验证。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.19181v1"
+    }
+  ]
+}

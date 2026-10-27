@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.222 修复权限绕过安全漏洞",
+      "OpenAI Codex Linux 桌面支持诉求获 917👍 最高",
+      "Gemini CLI 同日修复 SSRF 与变量展开双漏洞",
+      "Copilot CLI 发布 v1.0.79-1 含破坏性配置变更",
+      "Kimi Code CLI 曝 500K 上下文指令漂移问题",
+      "OpenCode 发布 v1.18.13 修复 RTL 与 PR 显示"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时合并128条PR，修复管线稳定输出",
+      "macOS 端新增 realtime Talk relay，语音链路对齐 iOS",
+      "修复回复队列永久阻塞，模型无输出不再卡死",
+      "修复媒体附件误删，聊天历史引用文件不再丢失",
+      "macOS 状态菜单新增 Voice & Talk 设置入口",
+      "大量 P1 问题滞留维护者审阅，社区响应成瓶颈"
+    ],
+    "ai-trending": [
+      "Firecrawl pdf-inspector 今日涨 2,540★，Rust PDF 解析",
+      "reverse-skill 今日涨 2,297★，专攻逆向与渗透安全",
+      "AirLLM 今日 +1,711★，4GB GPU 可跑 70B 模型",
+      "DeepSeek-Reasonix 今日 +922★，终端 Coding Agent 崛起",
+      "Ollama 177.8k★，本地运行开源模型部署首选",
+      "多模态 Agent 加速落地实时语音与视频编辑场景"
+    ],
+    "ai-web": [
+      "Anthropic 任命 Tino Cuellar 为首位首席全球事务官",
+      "Cuellar 横跨司法、智库与学界，曾任加州高院大法官",
+      "此举标志 Anthropic 从技术安全升维至政策治理安全",
+      "OpenAI 官网新增经济学研究交流入口",
+      "OpenAI 疑似新增教育/产品入口，聚焦学习与编程",
+      "两大实验室今日均未发布模型能力更新"
+    ],
+    "ai-hn": [
+      "Apple 与 OpenAI 数据纠纷两帖合计 600+ 分、500+ 评论",
+      "OpenAI 因招聘歧视美国工人被司法部罚款 320 万美元",
+      "白宫高级 AI 测试框架排除开源模型引热议",
+      "adlc-team-skills 把团队规范注入 Claude Code，74分",
+      "得州暂停数据中心审批，AI 基础设施压力大增",
+      "OpenAI 公布第三方网络攻防评估，44分获关注"
+    ],
+    "ai-arxiv": [
+      "ALiBi 位置编码低精度浮点下溢，可致注意力头失明",
+      "WorldCup Arena 用 2026 世界杯做无泄漏 LLM 前瞻评测",
+      "跨模型 KV 缓存迁移，闭式线性映射复用预填充",
+      "形式化推导预预训练比 Dyck 语言更有益技能习得",
+      "TurnSight 提出回合级自蒸馏，优化工具集成推理",
+      "ReflectRL 从失败轨迹中学习反思信号"
+    ],
+    "ai-hf": [
+      "Kimi-K3 以 10,016 周点赞登顶 HF 趋势榜",
+      "DeepSeek-V4-Flash 周下载 273.7 万次领跑全榜",
+      "GLM-5.2 上线即获 4,821❤️，智谱 MoE 新模型",
+      "MiniMax-H3 首周即形成官方权重+ComfyUI+GGUF 生态",
+      "Qwen3.6/3.5 衍生 GGUF 与 Uncensored 微调大量上榜",
+      "LG 开源 750B 超大 MoE 模型，刷新榜单规模上限"
+    ],
+    "ai-community": [
+      "社区反思 benchmark 崇拜：模型选型应从任务出发",
+      "Anthropic 沙箱逃逸报告成 Agent 安全实践指南",
+      "MCP 工具设计实战：为 7B 小模型降低推理负担",
+      "文章：MCP 真正约束是上下文窗口，而非 API",
+      "推理效率比：模型花费应与营收挂钩防吞噬利润",
+      "新模型发布后，社区聚焦解码策略与 Agent 框架"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.222 ships security fixes",
+      "Gemini CLI gets security P1 patches",
+      "Codex releases four Rust alphas in 24h",
+      "Agent Client Protocol emerging as standard",
+      "BYOK/local-model support gaining traction",
+      "Subagent hangs and permission bypasses flagged"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in 24h",
+      "53 issues closed, 128 PRs merged/closed",
+      "DeepSeek v4 Flash silent reply thread hits 104 comments",
+      "Maintainers push LOC-reduction and QA automation",
+      "Reliability fixes queued behind 'needs proof'",
+      "No new releases despite P0/P1 stability work"
+    ],
+    "ai-trending": [
+      "reverse-skill surges +2,297 stars today",
+      "firecrawl/pdf-inspector gains +2,540 stars",
+      "TencentDB-Agent-Memory adds +1,111 stars",
+      "AirLLM runs 70B models on 4GB GPU",
+      "DeepSeek-Reasonix brings prefix-cache-stable coding",
+      "Agent middleware stack around coding agents emerging"
+    ],
+    "ai-web": [
+      "Anthropic hires Tino Cuéllar as Chief Global Affairs Officer",
+      "Cuéllar is former Carnegie Endowment president",
+      "OpenAI adds Economic Research Exchange index page",
+      "OpenAI expands Learn Teach ChatGPT Work Codex surface",
+      "Anthropic makes most significant policy hire to date",
+      "Frontier AI competitive dynamics shift with statecraft hire"
+    ],
+    "ai-hn": [
+      "Apple-OpenAI fight dominates HN with 600+ points",
+      "OpenAI settles $3.2M foreign-worker hiring case",
+      "White House excludes open models from AI testing",
+      "Third-party cyber evaluations of OpenAI models published",
+      "Hedge funds lose big in chip/stock selloff",
+      "Stanford offers free CS329A self-improving AI agents"
+    ],
+    "ai-arxiv": [
+      "ALiBi positional encoding has floating-point underflow bug",
+      "Test-time scaling methods systematically analyzed",
+      "Cross-model KV cache transfer via closed-form mapping",
+      "Failure-aware supervision improves credit assignment",
+      "New benchmarks target radiology, Bengali OCR, legal text",
+      "Live-tournament forecasting for prospective evaluation"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops week with 10,016 likes",
+      "DeepSeek-V4-Flash-0731 refresh released",
+      "GLM-5.2 hits 2.2M downloads",
+      "MiniMax-H3 breakout video-generation launch",
+      "Uncensored Qwen3.6-35B-A3B MoE hits 1.9M downloads",
+      "Baidu's Unlimited-OCR reaches 2.7M downloads"
+    ],
+    "ai-community": [
+      "Agent orchestrator burned 1-2M Opus tokens per task",
+      "Small models better for PII redaction, says dev",
+      "MCP tool design for 7B models now bottleneck",
+      "Anthropic sandbox breaches spur security posts",
+      "Custom C/C++ inference engines pitched on Lobste.rs",
+      "Qwen3.8-Max needs agent harness to succeed"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic为全球科学家开放10,000个免费/优惠Claude订阅席位",
+      "why": "大规模绑定科研人才生态，战略意义重大。",
+      "source": "AI官方内容追踪报告",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
+    },
+    {
+      "title": "Anthropic发布Model Hardware Standard（MHS）研究预览",
+      "why": "AI操作物理设备的共享规范，可能开启具身智能标准竞争。",
+      "source": "Hacker News AI社区动态日报",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+    },
+    {
+      "title": "archify：将架构图转化为自带动效的HTML图表，单日star+4260",
+      "why": "AI生成可视化内容需求强劲，交互体验惊艳。",
+      "source": "AI开源趋势日报",
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "title": "OpenMontage：世界首个开源Agent视频制作系统，+1284 star",
+      "why": "12条流水线+100+工具，多智能体视频生产新方向。",
+      "source": "AI开源趋势日报",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "title": "METR发布OpenAI/Hugging Face事件Agent行为独立调查报告",
+      "why": "首次独立调查Agent在安全事故中的行为，涉及安全边界。",
+      "source": "Hacker News AI社区动态日报",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+    },
+    {
+      "title": "论文：R3训练机器人用自然语言推理，扩展测试时计算",
+      "why": "将LLM推理能力迁移至机器人操控，推进具身智能。",
+      "source": "ArXiv AI研究日报",
+      "url": "http://arxiv.org/abs/2608.26053v1"
+    },
+    {
+      "title": "Qwen3.8-27B登顶Hugging Face，下载超345万",
+      "why": "旗舰多模态模型生态密度高，主导开源社区。",
+      "source": "Hugging Face热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenClaw修复跨agent会话投递PR #126424",
+      "why": "涉及Discord/iMessage等主流通道的消息可靠性修复。",
+      "source": "OpenClaw生态日报",
+      "url": "https://github.com/openclaw/openclaw/pull/126424"
+    }
+  ]
+}

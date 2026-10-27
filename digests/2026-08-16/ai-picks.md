@@ -1,0 +1,29 @@
+# 今日 AI 必看 · 2026-08-16
+
+1. **Anthropic 发布多智能体系统红队研究，揭示 Agent-Agent 交互的涌现性风险**
+   首次系统预研多智能体生态的全局性失败模式，为行业安全设计提供前瞻框架。
+   [来源：AI 官方内容追踪报告](https://www.anthropic.com/research/multiagent-systems)
+
+2. **Claude 文本水印机制公布，落实 EU AI Act 要求**
+   主流 AI 供应商首次以官方机制响应合规，直接影响内容溯源与产品合规路径。
+   [来源：AI 官方内容追踪报告](https://www.anthropic.com/news/claude-text-watermark)
+
+3. **OpenClaw 发布 v2026.8.1-beta.2：密钥出口主机绑定安全加固，支持 GPT-5.6 Ultra**
+   安全关键更新直击密钥泄露风险，体现开源智能体框架向企业级演进。
+   [来源：OpenClaw 生态日报](https://github.com/openclaw/openclaw)
+
+4. **cactus-compute/needle 以 14MB 超轻量模型切入端侧 AI；unsloth 本地训练 UI 获关注**
+   端侧 AI 与低成本微调趋势明确，降低 AI 部署门槛。
+   [来源：AI 开源趋势日报](https://github.com/cactus-compute/needle)
+
+5. **GitHub 官方发布 spec-kit，Spec-Driven Development 工具包单日暴涨 892 星**
+   官方规范驱动开发工具或重塑 AI 辅助编码工作流。
+   [来源：AI 开源趋势日报](https://github.com/github/spec-kit)
+
+6. **Kimi-K3 登顶 Hugging Face（10,728 赞）；DeepSeek-V4 系列下载量破 179 万**
+   头部中文团队多模态模型生态竞争白热化，端侧部署选择激增。
+   [来源：Hugging Face 热门模型日报](https://huggingface.co/moonshotai/Kimi-K3)
+
+7. **论文提出合成人格预训练：对齐从 Token 零开始（Synthetic Persona Pretraining）**
+   挑战将对齐放在后训练阶段的传统，若可行将深刻影响大模型安全。
+   [来源：ArXiv AI 研究日报](http://arxiv.org/abs/2608.13482v1)

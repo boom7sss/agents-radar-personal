@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+      "takeaway": "提出干预感知的临床世界模型，用结构化隐状态沿时间事件演化预测术后结局。",
+      "why": "MICCAI 2026 医学世界模型工作，时间事件建模新颖，直击术后轨迹预测痛点。",
+      "venue": "MICCAI",
+      "url": "http://arxiv.org/abs/2608.13518v1"
+    },
+    {
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "takeaway": "仅用许可数据从零训练1B分层推理模型，在英语和丹麦语上取得前沿性能。",
+      "why": "开源许可数据训练范式与1B规模前沿性能兼具，对开源LLM社区有明确价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.13517v1"
+    },
+    {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "takeaway": "揭示LLM编码智能体命令生成与执行传输之间的失败边界，提出精确验证基准。",
+      "why": "切中智能体评估盲区，56个任务跨14个事故族，对编码智能体可靠性有实际影响。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.13547v1"
+    },
+    {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "takeaway": "首个评估AI在多模块代码库上联合生成实现与机器检查证明的基准。",
+      "why": "推动可信AI生成软件的关键一步，填补函数级验证到仓库级验证的空白。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.13522v1"
+    },
+    {
+      "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+      "takeaway": "在冻结视觉基础模型表征上构建视频表征自编码器，提升生成潜空间的语义组织。",
+      "why": "重新审视视频生成潜空间设计，轻量时序池化去除冗余，对视频生成有普适启发。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.13556v1"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.228修复Windows Ctrl+C清空输入",
+      "OpenAI Codex连续三版alpha，插件更新即损坏成热点",
+      "Gemini CLI高频发布，安全响应快，Windows待加强",
+      "Copilot CLI插件安装Access denied，进入稳定期",
+      "Qwen Code盘符冒号被URL编码致文件链接失效",
+      "MCP多账户审批与授权持久化成跨工具攻坚点"
+    ],
+    "ai-agents": [
+      "OpenClaw 500条Issue/PR更新，社区活跃度极高",
+      "消息投递可靠性成焦点，#121058达69条评论",
+      "P0事故修复：beta包缺失companion插件致启动循环",
+      "221个PR合并，Claude CLI时间戳修复已合入",
+      "子代理投递失败及cron播报channel问题已解决",
+      "P1问题积压，维护者评审带宽成瓶颈"
+    ],
+    "ai-trending": [
+      "prime-agent日增1138星登顶Trending",
+      "Anthropic官方skills仓库上线，技能即分发单元",
+      "semantica与code-graph-rag重构RAG",
+      "DeepTutor日增812星，领跑教育AI",
+      "transformers等基础框架仍把持热度",
+      "addyosmani/agent-skills日增578星"
+    ],
+    "ai-web": [
+      "OpenAI Daybreak模型正式上架AWS",
+      "Anthropic今日零更新，处于发布间歇期",
+      "OpenAI信息仅元数据，标题由URL推断",
+      "今日无新模型无新安全政策，行业平静",
+      "Anthropic内容分类含Research等五类",
+      "未来Research密集更新或预示新模型临近"
+    ],
+    "ai-hn": [
+      "OpenAI伦理负责人入职一年内离职成热点",
+      "Claude Code curl请求泄露真实邮箱遭批",
+      "ChatGPT发布Linux桌面客户端",
+      "deep_think工具致隐藏思维链泄露",
+      "OpenAI API文档现Daybreak Blue模型标识",
+      "通用VLM视频检索超专用嵌入模型"
+    ],
+    "ai-arxiv": [
+      "跨语言安全在低资源语言中系统失效",
+      "ASMI注意力子网络互信息用作不确定性信号",
+      "微调涌现错位可归因于预训练persona特征",
+      "Surgical WAM实现数据高效手术机器人学习",
+      "测试时自适应GUI定位模型提新方法",
+      "跨语言工具策略保留度评估提出"
+    ],
+    "ai-hf": [
+      "MiniMax-H3生态多版本上榜，含ComfyUI和GGUF",
+      "Kimi-K3获10532赞，多模态热度最高",
+      "DeepSeek-V4-Flash下载破百万",
+      "百度Unlimited-OCR高下载高赞",
+      "NVIDIA Nemotron-3.5 NVFP4量化高吞吐",
+      "LiquidAI LFM2.5-2.6B轻量部署"
+    ],
+    "ai-community": [
+      "AI Agent误报完成、逃逸沙箱，可靠性受质疑",
+      "Claude新水印方案引发跨平台讨论",
+      "8层防护137条deny模式通过CISO批准",
+      "Pi Agent vs Claude Code 100小时实测",
+      "Weng's Harness Ladder评估器被证有盲区",
+      "RAG架构从零设计教程受关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Qwen Code ships stable release plus preview/nightly",
+      "OpenAI Codex pushes three Rust alphas",
+      "Windows-specific breakage hits 8 of 9 digests",
+      "MCP interoperability and session durability lead concerns",
+      "Agent orchestration trust emerges as key differentiator",
+      "Ecosystem converging on TUI + agent loop + MCP routing"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "Silent-reply failure #121058 draws 69 comments",
+      "P0 packaging boot-loop bug closed within a day",
+      "221 PRs merged/closed in last 24 hours",
+      "117 issues closed in the daily window",
+      "PR #119528 recovers Claude CLI history timestamps"
+    ],
+    "ai-trending": [
+      "Agent layer and agent skills dominate trending repos",
+      "Anthropic's official skills repo signals new packaging standard",
+      "Graph-native RAG semantica gains +893 stars today",
+      "Domain-specific agents move from demos to practical ROI",
+      "ollama/ollama reaches 178K stars",
+      "headroom compresses tool outputs before LLM"
+    ],
+    "ai-web": [
+      "OpenAI announces Daybreak models on AWS",
+      "Anthropic publishes no new content today",
+      "Daybreak model family expands enterprise distribution",
+      "OpenAI sitemap grows to 905 items",
+      "Anthropic sitemap remains at 432 pages",
+      "Article metadata only; analysis preliminary"
+    ],
+    "ai-hn": [
+      "OpenAI ethics head Chloé Bakalar exits after <1 year",
+      "COO Brad Lightcap departure rumors fuel pre-IPO speculation",
+      "OpenAI completes $7B employee tender offer",
+      "ChatGPT desktop app arrives for Linux",
+      "FAA hiring 2,000+ gamers as controllers sparks debate",
+      "Claude Code: User-Agent email leak and verbose comments"
+    ],
+    "ai-arxiv": [
+      "ASMI uses attention-path fragility for uncertainty",
+      "Emergent misalignment traced to latent persona features",
+      "Cross-lingual safety illusion in low-resource languages",
+      "New adversarial Fréchet objective for diffusion post-training",
+      "Sparse autoencoders meet concept erasure and interpretability",
+      "Embodied AI moves to task-adaptive test-time learning"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns ComfyUI, Turbo, LoRA, GGUF ecosystem",
+      "DeepSeek-V4-Flash-0731 tops 1M downloads",
+      "Moonshot Kimi-K3 earns 10.5K likes",
+      "Baidu Unlimited-OCR hits 2.9M downloads",
+      "unsloth GGUF makes DeepSeek-V4 local deployment easier",
+      "Trends focus on quantization and ComfyUI packaging"
+    ],
+    "ai-community": [
+      "Dev.to: agents lie about finishing tasks",
+      "AI agents break out of sandboxes, ignore repo context",
+      "CISO approval blueprint for Kiro Crew shared",
+      "Claude watermark story trends across Dev.to and Lobsters",
+      "Lobsters: compression as prediction discussion",
+      "AI data collection destroys rare books, Lobsters says"
+    ]
+  }
+}

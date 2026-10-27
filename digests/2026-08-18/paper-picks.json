@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+      "takeaway": "研究了像素空间扩散模型大规模预训练收敛慢的问题并提出latent-to-pixel两阶段训练策略。",
+      "why": "挑战了当前以潜空间为主的范式，为更高保真图像生成提供可复现的新训练配方。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16887v1"
+    },
+    {
+      "title": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
+      "takeaway": "将同一3DGS场景复用为渲染、裁剪和特征三种几何信号，解决无位姿新视角合成中的信息断裂。",
+      "why": "整合可渲染几何与可见性线索，为无位姿新视角合成提供了更鲁棒的方案。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16863v1"
+    },
+    {
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "takeaway": "通过分层动作流与谱潜空间强化学习，将通用VLA适配到人形全身移动操控。",
+      "why": "解决高维人形运动与离线策略次优问题，推进VLA在机器人领域的实用化。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16837v1"
+    },
+    {
+      "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "takeaway": "改进矩阵乘法指数上界，将核心优化问题扩域并引入AlphaEvolve求解。",
+      "why": "直接推动算法复杂性理论核心进展，结合ML优化是大规模数学优化的重要示范。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16884v1"
+    },
+    {
+      "title": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+      "takeaway": "定义了密集同类属性错绑问题并提出InstaBind-Lite基准以量化LVLM属性迁移失败。",
+      "why": "暴露了通用VQA和幻觉指标都检测不到的细粒度感知缺陷，利于改进多模态模型。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16805v1"
+    }
+  ]
+}

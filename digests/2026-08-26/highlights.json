@@ -1,0 +1,59 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex 密集发布 4 个 alpha，修复 step/turn 语义一致性",
+      "Gemini CLI 修复 2 个 CRITICAL CVE，Agent 挂起为 P1 焦点",
+      "OpenCode 沙箱安全与消息队列控制为长期高赞诉求（89评论/93赞）",
+      "Kimi Code CLI Edit/Write 假成功数据丢失 bug 为最高优先级",
+      "Claude Code v2.1.246，模型行为偏离与记忆透明度是双核心痛点",
+      "Qwen Code Agent Team 4 个 bug 同日爆发，0.22.1 权限白名单回归"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时吞吐 1000 条 Issue/PR 动态，无新版本发布",
+      "PR #116489 为 installPolicy 引入 warn 确认机制，强化安全边界",
+      "PR #126424 修复对话交付越过 agent 绑定，覆盖全部主流渠道",
+      "新开 P1 bug 指向会话持久化与进程生命周期管理薄弱环节"
+    ],
+    "ai-trending": [
+      "openai/codex 今日新增 1181 star，Rust 实现终端编码 Agent",
+      "Karpathy 经验提炼为 CLAUDE.md 配置，今日 +830 star",
+      "ponytail 引导极简代码风格，今日 +982 star，控 Token 成本",
+      "headroom 压缩输入 LLM 前 Token 最多 95%，7天 67,647 star",
+      "apache/maka 本地优先 Agent 工作区，7天 75,352 star",
+      "TradingAgents 金融垂直爆款应用，展示 Agent 真实业务落地"
+    ],
+    "ai-web": [
+      "Anthropic 启动 500 万美元开源 wellbeing 评估工具资助计划",
+      "Anthropic 推出 Economic Index 对话式 Claude Connector 查询入口",
+      "Clio 正式更名 Anthropic Insights，隐私分析工具产品化",
+      "代理式编码成为 Anthropic 经济研究新核心变量"
+    ],
+    "ai-hn": [
+      "OpenAI 自研芯片 Jalapeño 超 Nvidia Blackwell（499分/320评论）",
+      "Z.ai 确认 Ox Alpha 为 GLM 新模型并将开源权重",
+      "树莓派+Qwen 车载本地 AI 开源，获 142 分/45 评论",
+      "AMD MI300X 与 Nvidia H100 跨厂商字节级一致推理验证"
+    ],
+    "ai-arxiv": [
+      "Metaⁿ 框架突破元深度上限，实现更深层递归自改进",
+      "Recuris 提出递归经验-工作记忆架构解决长时程任务",
+      "有效学习率（ELR）主导预训练损失动态，ELR 崩溃现象",
+      "线性探针跨域泛化优于监督检测器，轻量检测机器文本",
+      "LAION-BVD 十万小时视频数据集领跑数据规模竞赛"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞第1，下载超 329 万，社区生态主导",
+      "MiniMax-H3 视频模型 4,474 点赞、下载近 480 万",
+      "Kimi-K3 11,003 点赞，采用压缩张量技术",
+      "DeepSeek-V4-Flash 3,726 点赞、385 万下载量",
+      "Escha-W2 2-bit 量化与 DFlash2 投机解码推动消费级落地"
+    ],
+    "ai-community": [
+      "实测 MCP 比 CLI 多消耗 4–32 倍 token，token 计数器漂移",
+      "\"写侧托管\"（Write-Side Custody）成高价值 RAG 安全架构理念",
+      "半数自称 ChatGPT 的请求实为秘密扫描，可辨别真伪爬虫",
+      "M5 Ultra Mac Studio 算力与成本核算，本地跑 AI 硬件参考"
+    ]
+  },
+  "en": {}
+}

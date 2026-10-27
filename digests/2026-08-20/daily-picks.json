@@ -1,0 +1,46 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 宣布前沿模型推出零数据留存选项",
+      "why": "企业级隐私合规成为商业化关键卖点，直接回应用户数据治理需求。",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 人气榜（11,610 赞）",
+      "why": "开源多模态新旗舰获压倒性关注，1.37M 下载验证社区热度。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "MiniMax-H3 视频模型周下载突破 330 万",
+      "why": "视频生成模型被大规模采用，与 Qwen3.8 共同标记本周多模态主导。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3"
+    },
+    {
+      "title": "腾讯开源 AI-Infra-Guard 全栈 AI 红队平台",
+      "why": "AI 安全从单点测试升级为全栈防御，覆盖 Agent/Skills/MCP/LLM。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/Tencent/AI-Infra-Guard"
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md（HN 273 分）",
+      "why": "开发者最强烈共识，AGENTS.md 标准化是跨工具互操作核心诉求。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://news.ycombinator.com/item?id=49367350"
+    },
+    {
+      "title": "Opus 5.0 因产出不连贯代码遭社区热议（HN 181 分）",
+      "why": "暴露前沿模型长上下文质量风险，影响 Claude Code 重度用户。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://news.ycombinator.com/item?id=49364658"
+    },
+    {
+      "title": "SPADE：自适应合成环境自博弈框架",
+      "why": "为语言智能体持续自我改进提供新路径，突破目标分布固定瓶颈。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.19197v1"
+    }
+  ]
+}

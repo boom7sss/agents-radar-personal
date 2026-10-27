@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modality Representation",
+      "takeaway": "用强大语言模型解锁更丰富的跨模态表示，改进CLIP训练",
+      "why": "AAAI 2026杰出论文，直接提升多模态检索与理解，开源可复现",
+      "venue": "AAAI",
+      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+    },
+    {
+      "title": "Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation",
+      "takeaway": "从图像像素元学习隐式网络，无需类别标签完成医学图像分割",
+      "why": "MICCAI 2025最佳论文，医学影像少样本分割的强基线",
+      "venue": "MICCAI",
+      "url": "https://conferences.miccai.org/2025/en/BEST-PAPER-AWARDS.html"
+    },
+    {
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "takeaway": "在连续潜在空间扩散建模语言，保留高容量可解码文本表示",
+      "why": "突破离散token范式，可能影响下一代语言模型架构",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.02602v1"
+    },
+    {
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "takeaway": "分层基准评估世界模型的视觉质量和内在反应性",
+      "why": "填补视频生成作为世界模型评估的空白，提供可靠诊断",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.02603v1"
+    }
+  ]
+}

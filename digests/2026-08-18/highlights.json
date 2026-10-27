@@ -1,0 +1,55 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 社区声量最高，单 Issue 获 138 👍",
+      "Codex 活跃 PR 10 个，rust-v0.148.0-alpha.21 发布",
+      "Gemini CLI 发布 v0.56.0-nightly",
+      "Qwen Code 多会话协作密集迭代，发布 v0.21.11-nightly",
+      "Kimi Code CLI 活跃度最低，仅 2 Issue/2 PR",
+      "生态竞争焦点转向多会话编排与计费透明性"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 Issue/500 PR，无新版本",
+      "PR #120900 为 UI 新增安装策略警告审核，XL 级安全变更",
+      "PR #125692 修复 Control UI 表格全屏渲染问题",
+      "讨论聚焦消息可靠性与会话状态管理，P1 问题积压"
+    ],
+    "ai-trending": [
+      "Agent 记忆层成最热赛道，多项目 Rust/自进化路线",
+      "omlx 面向 Apple Silicon 推理，今日新增 78 stars",
+      "ECC 提供 Agent 性能优化，stars 240,819",
+      "headroom token 压缩工具，减少 20%-95% 消耗",
+      "munder-difflin 本地多智能体编排，今日 +256 stars",
+      "ai-memory Rust 长时记忆方案，今日 +207 stars"
+    ],
+    "ai-web": [
+      "Anthropic 官方零更新，进入静默期",
+      "OpenAI 发布 Ports Pike 项目公告，仅元数据"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol 降价 50%，HN 469 分高居榜首",
+      "Roboflow 称 GPT-5.6 Sol 为最强视觉模型，340 分",
+      "Anthropic 开源争议、IPO 收入、信任危机成讨论热点",
+      "1667 终端写小说 UI，35 分但 90 评论热度高",
+      "Doberman 防止 Claude 误删数据库，引 agent 安全讨论"
+    ],
+    "ai-arxiv": [
+      "BATON 长时程机器人操纵，提出子任务探索机制",
+      "HAF 人形机器人全身控制，层次化动作流",
+      "Model Hypnosis 揭示弱提示组合可强控制 AI",
+      "Proteus 增量记忆激活用于长上下文建模"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，👍 10,928，下载 66.5 万",
+      "Kimi-K3 压缩权重黑马，下载 222.7 万",
+      "DeepSeek-V4-Flash-0731 下载 212.3 万",
+      "Qwen3.8-2.4T-A95B 超大 MoE 发布"
+    ],
+    "ai-community": [
+      "MCP 服务器测试全绿但实战失败的痛点引热议",
+      "Agent 忽略失败工具调用的 CI 拦截方案受关注",
+      "AI 工具可靠性成 Dev.to 最大议题"
+    ]
+  },
+  "en": {}
+}

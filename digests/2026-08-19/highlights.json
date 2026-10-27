@@ -1,0 +1,52 @@
+{
+  "zh": {
+    "ai-cli": [
+      "安全与稳定性成最高频主题，多款工具曝沙箱逃逸、命令注入等高危漏洞",
+      "Claude Code v2.1.235 正式发布，但曝出 cmd /c rd 绕过路径保护清空 C 盘漏洞",
+      "OpenAI Codex rust-v0.148.0 发布，含 8+ 项安全修复，涉 Seatbelt 逃逸、PowerShell 注入",
+      "Gemini CLI nightly 更新，修复 CVE-2026-28292、CVE-2026-9277 依赖漏洞",
+      "Copilot CLI 沙箱强制启用引争议，用户无法禁用沙箱（#4521）",
+      "多账号切换、多仓库支持、子代理主动调用成跨工具共性需求"
+    ],
+    "ai-agents": [
+      "会话状态丢失连续多日成为头号问题域，SQLite 转录存储缺陷集中暴露",
+      "P0 级 Issue #108435 Gateway 启动失败持续未闭环，需警惕回归",
+      "#88838 关闭预示存储层 SQLite 化迁移主线仍在推进",
+      "多个 P1 会话写锁、子代理唤醒问题已有关联修复 PR 跟进",
+      "#55334 关闭：sessions.json 无界增长导致 Gateway OOM 问题可关闭",
+      "安全策略 UI 重构、浏览器截图修复等高质量补丁已进入可审查状态"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC 以 241k stars 登顶，覆盖 agent harness 性能优化全栈",
+      "akitaonrails/ai-memory 日增 648 stars，Rust 编写解决 agent 任务交接",
+      "字节 OpenViking 开源自进化上下文数据库，统一管理 Agent 记忆与技能",
+      "Anthropic-Cybersecurity-Skills 日增 730 stars，技能包向垂直安全渗透",
+      "olmlx 面向 Apple Silicon 本地推理，支持 continuous batching",
+      "Agent 工程化（记忆、技能、优化）已取代模型微调成为社区核心焦点"
+    ],
+    "ai-web": [
+      "Anthropic 研究：Claude 蛋白质结合子设计成功率 22-35%，远超行业 10-15% 基准",
+      "Claude 在 NMR/LC-MS 分析化学自动解析中 23/19 分钟出结果，纯度判定与人工一致",
+      "Anthropic 以可复现定量对标证明'科研 AI'从概念走向可度量交付",
+      "OpenAI ChatGPT 广告业务扩展至欧洲市场",
+      "OpenAI 推出青少年专用产品线，同步讨论模型开发与网络能力节奏",
+      "OpenAI 内容仅获元数据，标题由 URL 推断，分析受限"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 11,298 赞和 100 万+下载量稳居榜首，多模态能力领跑",
+      "moonshotai Kimi-K3 以 10,843 赞成为黑马，下载量超 228 万",
+      "MiniMax-H3 视频生成模型以 305 万下载量领跑多模态赛道",
+      "DeepSeek-V4-Flash 以 233 万下载量印证社区对高性能推理的青睐",
+      "Qwen3.8-2.4T-A95B 旗舰 MoE（激活 95B）代表开源 LLM 技术上限",
+      "多模态大模型和量化生态成社区最活跃两大方向"
+    ],
+    "ai-community": [
+      "实测发现 Claude 与 tiktoken 对 MCP 上下文计数偏差高达 64%，影响成本估算",
+      "COSP 自评式提示技巧可显著提升 LLM 输出质量，用于代码审查工具",
+      "主流 agent 运行时脆弱骨架被剖析，事件日志架构提为新替代方案",
+      "双时态记忆引擎方案应对 Agent 长上下文'上下文退化'痛点",
+      "5 分钟构建 Kiro Crew App 教程走红，curl 一键安装快速搭建 agent"
+    ]
+  },
+  "en": {}
+}

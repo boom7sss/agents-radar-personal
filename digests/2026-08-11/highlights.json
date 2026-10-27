@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.227 高频修复发布",
+      "Codex 双 alpha 日更，稳定性待验证",
+      "Gemini CLI 日更 nightly 50 条议题",
+      "OpenCode /goal 获 128 赞，V2 推进中",
+      "Pi 全屏 TUI 功能密集，暂未发版",
+      "子代理挂起/误报在多仓库同步积压"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 500 议题 500 PR 极活跃",
+      "Telegram 等三端消息重复投递成焦点",
+      "OAuth 刷新超时假死，认证待修",
+      "#121058 48 评论成最热，仍复现",
+      "Ollama max thinking 支持已合并",
+      "Issue 关闭率仅 12.4%，积压增长"
+    ],
+    "ai-trending": [
+      "prime-agent 今日 +2,642 领跑",
+      "agency-agents 把 AI 机构塞进终端",
+      "RAG 与知识图谱升温，semantica +970",
+      "firecrawl Web 上下文 API 今日 +835",
+      "ollama 178k stars 本地 LLM 领跑",
+      "DeepMind weathernext 入榜引关注"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Claude Sonnet 5",
+      "Claude 黎曼 ζ 零点下界 67.2% 突破",
+      "Agent 工程经典文更新至 Managed Agents",
+      "OpenAI 今日更新均为元数据模式",
+      "Sonnet 5 定价 $2/百万 token",
+      "OpenAI 扩展 Daybreak 网络防御模型"
+    ],
+    "ai-hn": [
+      "Needle2 14MB Agentic LLM 登高分",
+      "Claude 数学能力引 115 条评论激辩",
+      "GPT-5.6-Cyber 主打防御引担忧",
+      "语音审讯 AI 嫌疑人游戏登顶 190 分",
+      "FPGA 上 21k tok/s，250 美元",
+      "OpenAI 硬件与 Nvidia 5000 亿融资受关注"
+    ],
+    "ai-arxiv": [
+      "HoloAegis 零样本安全护栏免微调",
+      "SESG 自进化护栏动态更新防御",
+      "VoxZip 压缩音频 KV Cache 显存",
+      "FailForge 用失败轨迹训练编码 Agent",
+      "低秩压缩误差传播获系统分析",
+      "新基准评测 LLM 时间演化文档理解"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频模型霸榜 11 条目",
+      "Kimi-K3 下载 151 万点赞破万",
+      "DeepSeek-V4-Flash 下载 95 万",
+      "Meta 开源 Muse-Glimmer-30B 多模态",
+      "百度 Unlimited-OCR 下载 292 万居首",
+      "Qwen 生态 5 衍生模型，组件复用成玩法"
+    ],
+    "ai-community": [
+      "AI Agent 过 2283 测试仍线上失败",
+      "蒸馏 Kimi 进 Qwen 只得字迹非能力",
+      "RAG 重排序器反致大量漏检",
+      "Meta 30B 编程模型重燃本地部署讨论",
+      "MCP 生态安全与调试成社区焦点",
+      "随机游走理论解析信息茧房效应"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.227 stable released",
+      "Copilot CLI v1.0.79 and OpenCode v1.18.16 shipped",
+      "Qwen Code v0.21.9 stable shipped",
+      "OpenAI Codex cut two alpha releases",
+      "Four stable releases across tools in one day",
+      "Ecosystem converging on sandboxing and MCP integration"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "OpenClaw closed 62 issues, merged 170 PRs",
+      "Silent message delivery failures dominate OpenClaw issues",
+      "OpenClaw auth-refresh regressions unresolved",
+      "Ollama fix adds max thinking for GLM 5.2, DeepSeek V4",
+      "Maintainer triage bottleneck on architectural decisions"
+    ],
+    "ai-trending": [
+      "prime-agent tops trending with +2,642 stars",
+      "Firecrawl positions as 'the context API', +835 stars",
+      "Code-graph-rag shifts RAG to knowledge graphs",
+      "ComfyUI remains top diffusion backend, +922 stars",
+      "DeepMind open-sources weathernext (+325 stars)",
+      "Semantica graph-native context infra gains +970 stars"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 unveiled: most agentic Sonnet yet",
+      "Sonnet 5 nears Opus 4.8 at lower price",
+      "Claude improves Riemann zeta bound to 67.2%",
+      "Anthropic refreshes agent guidance toward Managed Agents",
+      "OpenAI published four URLs, all metadata-only",
+      "Claude Sonnet 5 GA across all plans"
+    ],
+    "ai-hn": [
+      "Needle2: 14MB agentic LLM on HN",
+      "$250 FPGA pushes 21k tokens/s",
+      "Anthropic Riemann zeta claim sparks debate",
+      "OpenAI Texas letter draws 174 comments",
+      "GPT-5.6-Cyber release revives dual-use debate",
+      "OpenAI $300 hockey-puck device met with skepticism"
+    ],
+    "ai-arxiv": [
+      "Benchmark tests LLMs on evolving document dates",
+      "Reproducing RPC and LCF reasoning reliability methods",
+      "Hidden language consistency phenomena in reasoning LLMs",
+      "Safety research moves to self-evolving guardrails",
+      "Agent-skill ecosystems audited for reusability, security",
+      "KV-cache compression targets long-context speech LLMs"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 ecosystem dominates Hugging Face trends",
+      "DeepSeek-V4-Flash-0731 hits 954k downloads",
+      "FLUX.1-dev and Kimi-K3 top like counts",
+      "NVIDIA VoiceChat-11B and Baidu Unlimited-OCR debut",
+      "Quantization formats NVFP4, GGUF spreading fast",
+      "Muse-Glimmer-30B adds multimodal momentum"
+    ],
+    "ai-community": [
+      "Devs focus on making AI agents production-ready",
+      "MCP memory layers and attack classes discussed",
+      "Posts challenge evaluation theater in agent testing",
+      "Kimi-to-Qwen distillation doesn't transfer capability",
+      "OpenAI/Hugging Face agent incident covered from Black Hat",
+      "Reranker addition caused most RAG misses"
+    ]
+  }
+}

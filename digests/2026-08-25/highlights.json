@@ -1,0 +1,58 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.245，修复 glibc 2.44 崩溃",
+      "OpenAI Codex 发布 rust-v0.150.0-alpha.8 预发布版，社区活跃度最高",
+      "OpenCode 24小时内连发 v1.18.22/v1.18.23，但付费模型 503 阻塞月余",
+      "生态聚焦 MCP 集成、多代理编排与上下文压缩，成本透明化成新兴需求",
+      "Copilot CLI 仅 1 条无效 PR，社区参与度极低",
+      "Kimi Code CLI 今日近乎静默，无新版本发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日 500 条 Issue/PR，高输入高待办消化",
+      "steipete 修复实时语音桥接生命周期问题（PR #129249）",
+      "P0 级 SQLite 反复损坏（#126821）仍在追踪",
+      "Write 工具缺 append 模式，隔离 cron 会话破坏共享文件（#40001）",
+      "5 个 PR 合并/关闭，以稳定性补强为主，无新版本"
+    ],
+    "ai-trending": [
+      "OpenAI Codex 今日新增约 2000 stars 登顶热榜",
+      "Hermes Agent 日增近 900 stars，成长型 Agent 受关注",
+      "Headroom 压缩工具输出最高省 95% token，直击成本痛点",
+      "GPT-Image2 提示词引擎以 2449 stars 登顶增速榜",
+      "Claude Code 生态爆发，插件市场与技能合集密集登榜"
+    ],
+    "ai-web": [
+      "Claude 蛋白质设计 15 靶点 14 成功，单设计成功率 22%-35%",
+      "Anthropic 宣布未来 Claude 模型内置文本水印，合规欧盟 AI 法案",
+      "Fable 5 生物学安全回退率降低约 85%，前沿能力仍受限",
+      "Anthropic 并行推进科学前沿、经济实证与监管合规三条线"
+    ],
+    "ai-hn": [
+      "OpenAI 宣布 GPT 5.6 降价至 11 月 21 日，326 分 313 评论居首",
+      "LLM 可借推理引擎漏洞控制宿主机，引发安全边界担忧",
+      "Anthropic 拟 2 万亿美元估值 IPO 融资 1000 亿美元成焦点",
+      "Headlong 微测试框架发布，Agent 工程化兴趣上升"
+    ],
+    "ai-arxiv": [
+      "SRPO 将自我反思引入 LLM 后训练，用于长程推理",
+      "ProxyFormer 双流代理架构突破超长上下文二次增长瓶颈",
+      "ConvergeFlow 提供连续流语言模型收敛性证明",
+      "InjecMEM 等关注记忆系统注入攻击与推理诱发越狱"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周赞 12,600，生态衍生矩阵霸榜",
+      "Kimi-K3 周赞 10,983，压缩张量技术引关注",
+      "DeepSeek-V4-Flash-0731 下载量 352.8 万领先",
+      "MiniMax-H3 视频与 MiniMax-Music3 音乐双双上榜",
+      "社区涌现大量 Qwen3.8-27B 去审查微调版本"
+    ],
+    "ai-community": [
+      "多智能体失效根因常是记忆设计缺陷而非推理能力",
+      "RAG 助手幻觉虚构 API 的教训引发讨论",
+      "同一评测集四种 harness 得分从 13% 飙至 100%，直击 Agent 评测失真",
+      "开发者被 AI 推上审查者角色，审查能力缺乏验证"
+    ]
+  },
+  "en": {}
+}

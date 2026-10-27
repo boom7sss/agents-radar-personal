@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code与Codex社区关注度最高",
+      "社区聚焦资源消耗不透明与执行可靠性",
+      "Copilot CLI v1.0.81-8 与 Qwen Code 夜间版发布",
+      "OpenCode #20695 获136评论/105赞",
+      "Pi 与 Gemini CLI 探索AST感知与零依赖沙箱",
+      "共同关注用量与成本透明度功能方向"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.3 发布",
+      "GPT-5.6 全系推理支持（Sol/Terra/Luna/Ultra）",
+      "Control UI 首启流程优化减少手动步骤",
+      "Puppeteer 兼容 CDP 中继扩展浏览器自动化",
+      "多个铂金级安全问题集中在提示注入与子进程泄漏",
+      "PR #128689 新增 skills update --dry-run 预检能力"
+    ],
+    "ai-trending": [
+      "openai/codex 今日新增 2715 stars 登顶 Trending",
+      "mattpocock/skills 技能包新增 2447 stars 居第二",
+      "vllm、ollama 等本地推理基础设施持续升温",
+      "hermes-agent 登榜 Trending 获 454 stars",
+      "caveman、headroom 等 token 优化工具登上高星榜",
+      "智能体编排与 RAG 知识图谱化关注度上升"
+    ],
+    "ai-web": [
+      "Claude 蛋白质结合剂设计 14/15 靶点成功",
+      "单设计结合率 22%-35% 超行业常态 10-15%",
+      "Claude Opus 5 自动完成 NMR/LC-MS 分析",
+      "化学分析结果与实验室人工高度吻合",
+      "Mythos Preview 系此前未出现过的新模型名",
+      "Anthropic 正积极渗透生命科学与药物研发"
+    ],
+    "ai-hn": [
+      "吴恩达 AI 工程技能图谱为今日最高分（15分）",
+      "讨论重心偏向 AI Agent 工程实践",
+      "跨模型编排器让 Claude Code 调用 Codex 引发关注",
+      "Web 搜索延迟对 Agent 影响研究获讨论",
+      "OpenAI 高管警告持续性 AI 网络攻击受关注",
+      "社区对模型发布类资讯趋于疲劳"
+    ],
+    "ai-arxiv": [
+      "CLEAR 用连续适配器路由解决安全-能力权衡",
+      "RARE 解耦 MoE 表示操控与专家路由",
+      "情感上下文会放大 LLM 马屁精倾向",
+      "注意力头干预实现用户级隐私控制",
+      "AUSO 提出技能生命周期三阶段框架",
+      "OmniAssistBench 填补全模态助手评估空白"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 12411 周点赞登顶",
+      "Qwen3.8-27B 衍生生态占据榜单近半数席位",
+      "MiniMax-H3 视频生成模型下载量全榜第一（446万）",
+      "DeepSeek-V4-Flash 以 327 万下载领跑语言模型",
+      "Kimi-K3 周点赞第二达 10953",
+      "Ornith-1.5 系列 MIT 许可双尺寸布局引关注"
+    ],
+    "ai-community": [
+      "现场测试发现 10 个单测永远发现不了的问题",
+      "\"测试全过，但契约错了\"成今日最高赞文章",
+      "7 个 AI 应用过度工程化迹象引讨论",
+      "真实项目中 Claude Code 完整工作流分享",
+      "MCP 不解决授权与信任边界问题引发思辨",
+      "AI Agent 浪费一半上下文窗口引关注"
+    ],
+    "ai-weekly": [
+      "GPT-5.6 Sol 价格腰斩，被评迄今最强视觉模型",
+      "Claude 蛋白质设计 14/15 靶点成功，远超行业水平",
+      "Stripe 超 70 亿美元收购 OpenRouter，引爆热议",
+      "Claude Code AGENTS.md 标准化诉求获 4852 赞登顶",
+      "OpenAI 推出前沿模型零数据留存选项，主攻企业合规",
+      "OpenClaw v2026.8.1-beta.3 发布，支持 GPT-5.6 全系推理"
+    ]
+  },
+  "en": {
+    "ai-weekly": [
+      "GPT-5.6 Sol pricing cut 50%, called best vision model",
+      "AGENTS.md standardization gains cross-tool consensus",
+      "Claude Code Opus 5.0 output quality controversy on HN",
+      "OpenClaw v2026.8.1-beta.3 adds GPT-5.6 full support",
+      "Claude hits 14/15 protein design targets in research",
+      "Stripe acquires OpenRouter for $7B+, sparks debate"
+    ]
+  }
+}

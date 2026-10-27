@@ -1,0 +1,50 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态整体成熟度不足，安全过滤器误报、Agent状态不可靠、桌面集成不稳三大共性问题集中",
+      "Claude Code安全过滤器误报集中爆发，20+条合法开发操作被阻断",
+      "OpenAI Codex合并密集，Guardian机制加固5个PR，发布2个alpha版本",
+      "OpenCode 2.0架构升级期问题集中，含139👍高赞功能请求",
+      "DeepSeek TUI进行Tideline TUI栈集中重构，v0.9.12源码准备中",
+      "Qwen Code以自动化机器人驱动CI修复流，多PR待审"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.8.1，引入已知迁移回归：合法cron作业被误隔离(#133347)",
+      "OpenClaw过去24小时处理463条Issues，500条PR，处于高吞吐高关注状态",
+      "PR #134045提交修复，防止从已发布版本切回main分支时回归"
+    ],
+    "ai-trending": [
+      "Agent Skills成今日主题，多个skill库单日stars增量达570~1968颗",
+      "minimind以64M参数2小时从零训练LLM，今日新增472星",
+      "hermes-agent以23.8万星领跑智能体项目，今日最亮眼",
+      "ODS可将PC变AI服务器，今日新增331星，支持Agent、RAG等",
+      "pdf-inspector(C#/Rust)今日新增199星，非Python语言在AI生态应用扩展"
+    ],
+    "ai-web": [
+      "OpenAI发布新页面'Expanding Access To AI With ChatGPT Ads'(仅元数据，正文未获取)",
+      "Anthropic连续第二天官网零更新，或为重大发布蓄力"
+    ],
+    "ai-hn": [
+      "Breaking Claude Code Opus 5 Auto Mode(229分)攻破自动化模式安全漏洞，为今日最高分帖子",
+      "Claude Code存在提示注入漏洞，总结恶意网站即可绕过安全限制",
+      "社区情绪偏向怀疑抱怨，聚焦AI编程工具可靠性、用量限制与商业化争议"
+    ],
+    "ai-arxiv": [
+      "论文证明仅凭文本语料无法恢复说话者意图，对LLM能力上限提出根本性拷问",
+      "ElephantBench基准(1,094问)检验LLM长尾知识盲区，挑战单标准答案假设",
+      "实证表明滑动窗口注意力优于线性注意力，提供更简单的LLM内存优化路径",
+      "提出曲率条件化多尺度动量方法，为预训练提供AdamW/Muon之外新优化思路"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以13,428点赞、472万下载居首，衍生生态庞大",
+      "Kimi-K3以11,111点赞紧随其后，支持压缩张量",
+      "MiniMax-H3视频生成模型热度飙升(4,691点赞)，视频生成赛道竞争加剧",
+      "DeepSeek-V4-Flash-0731以3836点赞、456万下载证明高性价比"
+    ],
+    "ai-community": [
+      "开发者系统梳理Agent在生产中'静默失败'的9种形态及应对，获22赞19评",
+      "'一则bug传闻就足以触发安全漏洞'文章(33分)指向vibe coding安全隐患，为今日最具争议议题"
+    ]
+  },
+  "en": {}
+}

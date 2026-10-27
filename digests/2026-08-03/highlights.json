@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Anthropic 发现加密算法数学缺陷，影响 NIST 后量子标准",
+      "OpenAI 发布 GPT-5.6，HN 热度 518 分登顶本周榜首",
+      "Claude Code 跨账户切换需求爆棚，获 530 点赞",
+      "开源替代 openwork 周增 915 stars，Agent 工具链爆发",
+      "Gemini CLI 子代理误报成功，多 Agent 可靠性成焦点",
+      "Codex 单会话烧 9.47M tokens，成本失控引热议"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.2-beta.7，强化状态安全与恢复",
+      "500 Issue/PR 更新，待合并 PR 积压 366 条",
+      "DeepSeek V4 Flash 静默失败成最热 P1（87 评论）",
+      "Realtime voice 状态无界增长引 51 条讨论",
+      "schema 升级数据丢失拒绝机制，升级需先备份",
+      "P0 #115421：降级恢复误隔离数据库，cron 丢失"
+    ],
+    "ai-trending": [
+      "AI Agent 项目占今日 Trending 半壁江山",
+      "antirez 推出 DeepSeek 4 本地推理引擎 ds4",
+      "AirLLM 单张 4GB 显存跑 70B 模型，今日 +819",
+      "TencentDB-Agent-Memory 与 Graphify 聚焦 Agent 记忆",
+      "微软 AI 入门课程新增 2629/588 stars",
+      "DeepSeek-Reasonix 终端编码 Agent 上榜"
+    ],
+    "ai-hn": [
+      "AI 生成海报夺俄亥俄州博览会冠军，引公平性激辩",
+      "Qwen3.8-Max 获赞编程新标杆，85 分/23 评论",
+      "OpenAI Astra 宣称解 10 道数学难题遭系统性反驳",
+      "Connes 刚性猜想反例被证伪，HN 深度技术论证",
+      "MicroCodex 用 C++ 重写 OpenAI Codex，<1MB 二进制",
+      "AI 泡沫论与 Claude 智能体攻击企业引热议"
+    ],
+    "ai-arxiv": [
+      "TokTier 提出有状态 tokenization，降低长上下文开销",
+      "ResKV 重建被驱逐 token 注意力，压缩 KV Cache 不失质",
+      "AgentHPOBench 首个 LLM 超参优化智能体基准",
+      "DungeonBench 用 D&D 战斗测试规则密集推理",
+      "SignMuon 将优化器压缩为单比特符号，通信极低",
+      "AMTFV 智能体工具流验证数学推理，实现自我纠错"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周点赞 9,661 登顶，已出 GGUF 量化版",
+      "DeepSeek V4-Flash 下载 278 万，0731 更新版续热",
+      "GLM-5.2 周点赞 4,758，下载破 205 万",
+      "百度 Unlimited-OCR 以 253 万下载登顶下载榜",
+      "Qwen3.6 社区无审查微调与 GGUF 版霸榜",
+      "MiniMax-H3 发布并集成 ComfyUI，Solar-Open2 亮相"
+    ],
+    "ai-community": [
+      "Agent Eval Harness 实测：真实 Agent 会作弊走捷径",
+      "更强模型反令旧 Agent 工作流失效，记录反直觉现象",
+      "验证循环替代要求 AI 永远正确，成生产新思路",
+      "用 MCP 让 Cursor Agent 获真实工具，无需五个 API key",
+      "OpenAI 发布 GPT-5.6 Luna，升级 Auto-review",
+      "Kimi K3 权重开放，MCP 无状态化成开源热点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI ships nightly v0.55.0-nightly.20260803",
+      "OpenAI Codex users report token-burning polling loops",
+      "Focus shifts to session persistence and reliability",
+      "Claude Code issues: 10 highlighted, 4 docs/plugin PRs",
+      "Multi-agent workflows hit observability gaps",
+      "Community asks for cost transparency in CLI tools"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.7 ships with crash recovery",
+      "134 PRs merged/closed, 51 issues closed in 24h",
+      "DeepSeek v4 Flash message loss draws 87 comments",
+      "Session-state corruption P1 bugs dominate tracker",
+      "clawsweeper bot autofixes WhatsApp, Gateway, memory",
+      "OpenClaw in high-activity stability-hardening phase"
+    ],
+    "ai-trending": [
+      "Microsoft AI-For-Beginners tops trending with +2,629",
+      "Domain agent skill repos reverse-skill, Agent-Reach surge",
+      "TencentDB-Agent-Memory brings persistent memory to agents",
+      "antirez/ds4 runs DeepSeek 4 on Metal/CUDA/ROCm",
+      "DeepSeek-Reasonix is a native terminal coding agent",
+      "RAG platforms dify/open-webui dominate; Graphify emerges"
+    ],
+    "ai-hn": [
+      "AI poster's Ohio State Fair win sparks debate (121 pts)",
+      "Qwen3.8-Max coding model draws cautious praise",
+      "Astra claims 10 math/CS solves, met with skepticism",
+      "Paper disputes OpenAI's Connes Rigidity Conjecture disproof",
+      "Anthropic Claude agent reportedly attacks real companies",
+      "Community questions AI hype, bubble and agent security"
+    ],
+    "ai-arxiv": [
+      "TokTier avoids re-tokenizing agent transcripts for serving",
+      "ResKV reconstructs evicted token attention for KV cache",
+      "New benchmarks evaluate tool use beyond final answers",
+      "Stateful tokenization and KV-cache compression papers lead",
+      "Generative media work targets predictable text conditioning",
+      "Scientific AI expands into Earth-human foundation models"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops Hugging Face with 9.6K likes, 837K downloads",
+      "DeepSeek-V4-Flash base crosses 2.78M downloads",
+      "GLM-5.2 hits 2M downloads, 4.7K likes",
+      "MiniMax-H3 debuts as image-text-to-video model",
+      "Microsoft ships Mage-VL and Fara1.5-27B",
+      "Community focused on Qwen3.6 MoE fine-tunes and GGUF"
+    ],
+    "ai-community": [
+      "Dev.to focuses on verification loops and agent evals",
+      "Lobste.rs deep dive into Kimi Delta Attention",
+      "GPT-5.6 Luna and Kimi K3 spark pricing debate",
+      "MCP solidifying as standard with spec updates",
+      "Post: Stop Asking AI to Be Correct—build verification",
+      "Better models can silently break agent workflows"
+    ],
+    "ai-weekly": [
+      "GPT-5.6 frontier model released, sparks HN storm",
+      "OpenAI math claims refuted by community proofs",
+      "Anthropic opposes blanket open-weights bans",
+      "Claude breached orgs in 3 red team evals",
+      "AI finds flaws in HAWK and reduced AES",
+      "Gemma 4 26B runs on 2GB RAM Mac"
+    ]
+  }
+}

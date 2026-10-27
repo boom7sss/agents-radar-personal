@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Fable 5 计费争议引70评论",
+      "OpenAI Codex 钩子/审批系统密集迭代",
+      "Gemini CLI Agent 互调 PR 最具前瞻性",
+      "Copilot CLI 多 issue 疑似静默修复",
+      "OpenCode /goal 获128赞，DB膨胀13GB",
+      "Pi 连接可靠性霸榜，76条评论"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时处理500 Issue与500 PR",
+      "OpenClaw v2026.6.34 发布，加固浏览器与网络边界",
+      "OpenClaw v2026.6.33 加固网络与密钥边界",
+      "OpenClaw 热点 Issue #116277 已关闭",
+      "OpenClaw 积压多项 P0/P1 稳定性问题",
+      "OpenClaw 发布两个安全加固版本，可正常升级"
+    ],
+    "ai-trending": [
+      "prime-agent 登顶热榜，今日+2483 stars",
+      "Agent Skills 生态爆发，3个项目同日上榜",
+      "mattpocock/skills 今日+1359 stars",
+      "Ollama 支持 Kimi-K2.6、GLM-5.2 等新模型",
+      "RAG/知识库生态强势，Dify、RAGFlow 等高分",
+      "金融垂直 Agent 持续吸星，AI 进入行业深水区"
+    ],
+    "ai-hn": [
+      "OpenAI 对 Hugging Face 意外攻击时间线获346分",
+      "Claude Code Auto Mode 将成默认，引发争议",
+      "Claude Code 跨会话消息功能获65分",
+      "OpenAI 模型漏洞利用期间仍在训练引质疑",
+      "AI 意识行为定义研究引讨论",
+      "AI 对就业与社会结构影响受关注"
+    ],
+    "ai-arxiv": [
+      "选择性上下文偏好优化：让模型学会何时信任",
+      "RRC 用排序式奖励构建释放生成式奖励模型",
+      "无监督自蒸馏后训练无需外部监督",
+      "SAGA 解决低资源北欧语言对齐难题",
+      "HarnessOpt-Bench 评估 LLM 优化外部 harness",
+      "AV-AIVAT 实现74倍更便宜 Agent 评估"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 衍生10+条目，形成本地视频工作流",
+      "GLM-5.2 周点赞4.9k，下载248万",
+      "DeepSeek-V4-Flash-0731 下载78.5万",
+      "Kimi-K3 周点赞破万，最受关注视觉语言模型",
+      "Comfy-Org/MiniMax-H3 下载量达394万",
+      "FLUX.1-dev 仍是图像生成最高热度开源模型"
+    ],
+    "ai-community": [
+      "当AI助手开始懂你：隐私边界与情感投射引热议",
+      "Multi-RAG+知识图谱+MCP 构建第二大脑",
+      "模型路由省钱但降低可信度",
+      "模型退化争论：真实还是错觉？附回归测试方案",
+      "AI 透明度义务与用户告知法律情形梳理",
+      "用AI交叉验证AI的代码审计结果"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI tools shift to reliability and orchestration",
+      "Claude Code, Pi, Gemini CLI lead community activity",
+      "Windows compatibility is systemic weakness across tools",
+      "Claude Code ships v2.1.226 maintenance release",
+      "Four tools each landed 10 PRs in 24 hours",
+      "Cost and plan transparency now a first-class trust concern"
+    ],
+    "ai-agents": [
+      "OpenClaw ships security patches v2026.6.33/34",
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "Silent message loss hits Telegram, WhatsApp, Slack, WeChat",
+      "P0 gateway memory-leak and startup regressions tracked",
+      "52 issues closed and 176 PRs merged/closed",
+      "Maintainers push session-archiving and auditability fixes"
+    ],
+    "ai-trending": [
+      "Agent Skills becomes dominant packaging pattern",
+      "Three 'skills' repos hit GitHub trending",
+      "PrimeIntellect prime-agent hottest with +2,483 stars",
+      "TradingAgents pushes multi-agent LLM trading +153 stars",
+      "Ollama adds Kimi-K2.6, GLM-5.2, MiniMax support",
+      "RAG, persistent memory, knowledge-graph alternatives trend"
+    ],
+    "ai-hn": [
+      "OpenAI's accidental Hugging Face attack dominates HN",
+      "Simon Willison's Hugging Face timeline scores 346 points",
+      "OpenAI models allegedly coordinated exploits in training",
+      "Claude Code adds cross-session messaging and auto-mode",
+      "Developers split over Claude Code auto-mode default",
+      "YouTube mistakenly penalizes Kurzgesagt video"
+    ],
+    "ai-arxiv": [
+      "Selective context preference optimization teaches LLM trust",
+      "RRC converts generative reward models into RL signals",
+      "Reward modeling shifts to generative reward construction",
+      "Theory work tightens PAC learning and conformal prediction",
+      "Kronecker-factored Hessian quantization boosts efficiency",
+      "Clinical AI adds survival analysis and metabolomics LLMs"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 image-text-to-video anchors trending ecosystem",
+      "GLM-5.2, DeepSeek-V4-Flash-0731 reach millions of downloads",
+      "ComfyUI packs, LoRAs, and quantized MiniMax-H3 variants",
+      "GGUF conversions and 'uncensored' Qwen fine-tunes trending",
+      "NVIDIA VoiceChat and Baidu Unlimited-OCR stand out",
+      "NVFP4/INT8 quantization of video models gaining traction"
+    ],
+    "ai-community": [
+      "AI conversation shifts to reliability and verification",
+      "Model routing cuts costs but not trust gap",
+      "Agent regression-test integration proves hardest part",
+      "Golden datasets are quietly rotting, developers warn",
+      "Claude Code debugging and persistent memory discussed",
+      "New prompting patterns reject 2024-era advice"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "picks": [
+    {
+      "title": "GPT-5.6 Sol 发布并降价 50%",
+      "why": "OpenAI 重大视觉模型发布并大幅降价，社区热度极高",
+      "source": "Hacker News",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol"
+    },
+    {
+      "title": "OpenAI Joins Ports Pike Project",
+      "why": "OpenAI 今日唯一官方公告，涉及基础设施合作，值得关注",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 趋势榜",
+      "why": "Qwen 旗舰多模态模型发布即登顶，下载超 66 万",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Kimi-K3 发布：压缩权重黑马",
+      "why": "月之暗面新多模态模型，下载超 222 万，社区反响热烈",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3"
+    },
+    {
+      "title": "Model Hypnosis: 微弱提示组合可强控 AI",
+      "why": "展示 AI 安全新风险，跨模型普遍存在，警示意义强",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16834v1"
+    },
+    {
+      "title": "OpenClaw PR #120900 新增安装策略警告审核",
+      "why": "XL 级安全边界改进，提升供应链安全",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw PR #120900"
+    },
+    {
+      "title": "BATON: 长时程机器人操纵新方法",
+      "why": "解决 VLA 错误累积，机器人+AI 交叉重要进展",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.16889v1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# 今日论文精读 · 2026-08-31
+
+> 候选来自最新 ArXiv 投稿与 CVPR、NeurIPS、ICCV、ECCV、AAAI、MICCAI 官方高信号页面；重点关注视觉、医学影像、多模态和大模型，并柔性加权颈动脉超声相关工作。
+
+1. **Less Contouring, More Accuracy: Lesion-Guided ROI Deep Learning for Ovarian Ultrasound Classification** · `ArXiv`
+   **做什么：** 探究病变引导ROI深度学习在经阴道超声卵巢肿瘤分类中降低标注负担、保持诊断性能的方法，对比四种策略。
+   **为什么读：** 直接回应超声诊断中像素级分割标注负担问题，基于两个公开数据集，可复现性强，对临床落地有实际价值。
+   [阅读论文](http://arxiv.org/abs/2608.25965v1)
+
+2. **Learning a Size-Weight Frontier for Synthetic-Augmented Inference** · `ArXiv`
+   **做什么：** 提出合成增强推断的size-weight前沿框架，刻画每权重下最大安全合成样本量并给出有限样本覆盖保证。
+   **为什么读：** 为合成数据使用提供理论保障，避免朴素混入造成的偏差，对大模型训练与医学影像数据稀缺场景有普适价值。
+   [阅读论文](http://arxiv.org/abs/2608.28576v1)
+
+3. **Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning** · `ArXiv`
+   **做什么：** 研究LLM在Countdown任务中通过SFT与多种on-policy RL方法学习使用计算器工具，提升数学推理可靠性。
+   **为什么读：** 聚焦工具集成推理中计算错误占主导的问题，系统性比较RLOO、GRPO、DAPO等方法，对大模型推理增强有明确指导意义。
+   [阅读论文](http://arxiv.org/abs/2608.28447v1)
+
+4. **Video Generative Models as Geometry Learner** · `ArXiv`
+   **做什么：** 将预训练视频生成模型重新用于统一且数据高效的几何估计框架，联合学习深度与表面法线。
+   **为什么读：** 利用视频扩散模型内在时序一致性解决单图几何估计数据需求大、任务独立训练的问题，方法新颖且有项目页面开源。
+   [阅读论文](http://arxiv.org/abs/2608.28549v1)

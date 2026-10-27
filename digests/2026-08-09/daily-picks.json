@@ -1,0 +1,49 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 对 Hugging Face \"意外攻击\"完整时间线曝光",
+      "why": "揭示 AI 平台安全漏洞与攻击责任边界，HN 350+ 评论高居榜首，安全从业者必读。",
+      "source": "Hacker News AI 社区动态日报"
+    },
+    {
+      "title": "Claude Code Auto Mode 将默认开启：\"人类不可信\"引争议",
+      "why": "主流编码 Agent 默认转向全自主模式，直接影响开发者工作流与安全边界。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://thenewstack.io/claude-code-auto-mode/"
+    },
+    {
+      "title": "Agent Skills 生态爆发：Google 与社区同日发布技能包仓库",
+      "why": "Agent 从框架竞争转向可复用技能包，标志开发范式进入新阶段。",
+      "source": "AI 开源趋势日报"
+    },
+    {
+      "title": "PrimeIntellect prime-agent 登顶热榜：自我改进编码 Agent",
+      "why": "开源自我改进 Agent 单日新增 2483 stars，代表长时自主编程新方向。",
+      "source": "AI 开源趋势日报"
+    },
+    {
+      "title": "GLM-5.2 开源模型热度领跑 Hugging Face",
+      "why": "国产 MoE-DSA 大模型 248 万下载，中文开源权重获全球社区广泛采用。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/zai-org/GLM-5.2"
+    },
+    {
+      "title": "MiniMax-H3 视频生成模型生态爆发",
+      "why": "ComfyUI 封装下载 394 万次，本地视频生成工作流快速成熟。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3"
+    },
+    {
+      "title": "新论文提出选择性上下文偏好优化，让 LLM 学会何时信任外部信号",
+      "why": "解决盲目服从与完全无视的两难，对 Agent 安全与对齐有直接价值。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.06377v1"
+    },
+    {
+      "title": "OpenClaw 连发两个安全加固版本：强化浏览器与密钥边界",
+      "why": "主流 Agent 框架同日发布安全更新，针对网络边界与凭据泄漏加固。",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw/releases"
+    }
+  ]
+}

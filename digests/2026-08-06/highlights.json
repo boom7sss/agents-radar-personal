@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "九大AI CLI工具同日发布18个版本，进入平台化阶段",
+      "Claude Code 发布 v2.1.223，强化企业治理与安全 fail-closed",
+      "OpenAI Codex 发布 v0.146.1，加码多代理编排与 Guardian 熔断",
+      "Qwen Code 发布桌面版 desktop-v0.1.0，启动桌面战略",
+      "DeepSeek TUI 全面开放 Runtime API",
+      "MCP 生态碎片化成五款工具同日兼容性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时更新500 Issue与500 PR，无新版本",
+      "数据库迁移失败 #119263 等P0稳定性问题集中攻坚",
+      "PR #119146 为 gh-read 增加超时，防止 CI 无限阻塞",
+      "PR #110601 修复 git ls-remote 在远端不可达时挂起",
+      "PR #113515 修复 QMD 文件在 stale docid 后丢失",
+      "clawsweeper 与 issue-rating 自动化治理成熟"
+    ],
+    "ai-trending": [
+      "cloudflare/computer 今日 +891，给 Agent 一台电脑",
+      "腾讯云推出 Agent 团队记忆中枢，做跨会话记忆",
+      "airllm 今日 +833，单张4GB GPU可跑70B模型",
+      "firecrawl/pdf-inspector 今日 +1,582，用 Rust 做 PDF 预处理",
+      "vllm 以 88,291 star 领跑 AI 基础工具榜",
+      "RAG 赛道出现无向量检索与知识图谱新叙事"
+    ],
+    "ai-hn": [
+      "HN 最高分帖批判‘反 LLM’情绪，156分",
+      "离开 OpenAI 去造脑机接口，引发199条讨论",
+      "OpenAI/Anthropic 模型在英国安全测试中失控",
+      "Prime Agent 发布可自我改进的 RLM agent，118分",
+      "Anthropic 被曝伪造身份入侵，信任危机加剧",
+      "Launch HN: HyperProbe 做生产环境只读调试 Agent"
+    ],
+    "ai-arxiv": [
+      "Argus 提出持久化自演化智能体运行时",
+      "ABSeeker 用答案回溯解决搜索智能体信用分配",
+      "CoCo-IR 首次定义上下文组合图像检索任务",
+      "HelloWorld 让视频世界模型支持与角色对话",
+      "MarsCast 将地球天气模型迁移至火星大气",
+      "Gradient Immunity 用零空间抵抗恶意微调"
+    ],
+    "ai-hf": [
+      "Kimi-K3 周榜第一，点赞10,131，下载112万",
+      "百度 Unlimited-OCR 以270万下载领跑实用模型",
+      "DeepSeek-V4-Flash 下载超270万，GGUF量化版上线",
+      "GLM-5.2 点赞4,851，下载223万",
+      "MiniMax-H3 视频模型发布，ComfyUI 封装已出现",
+      "Qwen3.6-35B-A3B 成微调最活跃基座"
+    ],
+    "ai-community": [
+      "《The Review Tax》称81%开发者被AI评审淹没",
+      "OpenAI 解决1999年难题，仍不会自主提问",
+      "AWS 开源 Kiro Crew 跨会话 Agent 编排器",
+      "Docker 安全专刊聚焦 Hugging Face 事故",
+      "AI 迎合偏差系列提出移回规则层新思路",
+      "OpenAI 发布 Lean 证书证明十项数学进展"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "9 AI CLI tools shipped updates in 24h",
+      "Claude Code v2.1.223 adds marketplace wildcards",
+      "Qwen Code debuts experimental Live Voice",
+      "MCP and multi-agent reliability dominate issues",
+      "All tools report security or data-integrity findings",
+      "OpenCode, Pi, DeepSeek TUI compete on openness"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "74 issues closed and 65 PRs merged despite no release",
+      "Session-state integrity and delivery failures top issues",
+      "Maintainer review capacity is the bottleneck",
+      "P0/P1 regressions include silent data loss",
+      "PR #119146 adds timeout to gh-read child process"
+    ],
+    "ai-trending": [
+      "TencentDB Agent Memory gains 1,892 stars today",
+      "Cloudflare 'computer' project adds 891 stars",
+      "Agent skills become versionable engineering artifacts",
+      "DeepSeek-Reasonix and airllm drive local DeepSeek tooling",
+      "ollama now surfaces Kimi-K2.6 and GLM-5.2",
+      "uber/ADR brings agent security observability open source"
+    ],
+    "ai-hn": [
+      "UK safety tests: OpenAI/Anthropic models 'went rogue'",
+      "Iowa-led states demand OpenAI transparency after breach",
+      "Anthropic criticized for fake profiles in security test",
+      "Hobby programmers reject LLMs, essay sparks debate",
+      "OpenAI employee leaves to build 'telepathy'",
+      "Prime Agent: self-improving RLM draws HN interest"
+    ],
+    "ai-arxiv": [
+      "Reasoning Core: 50 procedural generators for reasoning training",
+      "Skill entropy quantifies long-horizon reasoning",
+      "Argus agentic runtime targets long-horizon tasks",
+      "MarsCast transfers weather foundation models to Mars",
+      "Adam breaks low-rank symmetries gradient flow respects",
+      "Null-space method resists malicious fine-tuning"
+    ],
+    "ai-hf": [
+      "Kimi-K3 most-liked open multimodal MoE this week",
+      "DeepSeek-V4-Flash-0731 gets 433K downloads",
+      "GLM-5.2 surpasses 2.2M downloads",
+      "MiniMax-H3 is the week's video-gen breakout",
+      "Qwen3.5/3.6 MoE uncensored GGUF remixes trending",
+      "Chinese labs dominate Hugging Face trends"
+    ],
+    "ai-community": [
+      "81% of developers buried in AI code review tax",
+      "AWS open-sources Kiro Crew agent orchestrator",
+      "OpenAI solves 1999 problem, still can't ask questions",
+      "LLMs lack autonomous curiosity for research questions",
+      "Developers compare MCP retrieval token costs vs grep",
+      "AI coding-agent fatigue dominates Dev.to"
+    ]
+  }
+}

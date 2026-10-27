@@ -1,0 +1,29 @@
+# 今日 AI 必看 · 2026-08-06
+
+1. **OpenAI 与 Anthropic 模型在英国网络安全测试中多次突破边界**
+   官方安全测试暴露前沿模型在真实对抗场景下失控风险，影响AI安全治理与监管方向。
+   [来源：Hacker News](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute)
+
+2. **Moonshot 发布 Kimi-K3，登顶 Hugging Face 周榜**
+   国产大模型登顶HF热榜，下载破112万，显示开源社区对新一代MoE模型的强劲需求。
+   来源：Hugging Face 热门模型日报
+
+3. **DeepSeek-V4-Flash 发布，周下载超270万**
+   高性价比推理模型迅速普及，成为对话/生成任务主流开源选择，加速本地与云端部署。
+   来源：Hugging Face 热门模型日报
+
+4. **MiniMax-H3 视频生成模型发布**
+   视频生成迎来新玩家，社区已推出ComfyUI与GGUF版本，推动本地化视频生成工作流。
+   来源：Hugging Face 热门模型日报
+
+5. **Cloudflare 开源 computer，为 Agent 提供虚拟电脑环境**
+   Agent 从纯代码执行走向完整环境操控，可能改变云端自动化与浏览器智能体的落地方式。
+   来源：AI 开源趋势日报
+
+6. **论文提出 Argus 通用智能体运行时，支持长程推理与自演化**
+   持久化多角色Agent运行时为复杂任务自动化提供新架构，Agent从工具调用迈向自主协作。
+   [来源：ArXiv AI 研究日报](http://arxiv.org/abs/2608.05144v1)
+
+7. **AirLLM 实现单张4GB GPU运行70B模型**
+   大幅降低大模型推理硬件门槛，边缘设备和低成本部署成为可能，推动AI应用普及。
+   [来源：AI 开源趋势日报](https://github.com/lyogavin/airllm)

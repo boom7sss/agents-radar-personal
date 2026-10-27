@@ -1,0 +1,25 @@
+# 今日 AI 必看 · 2026-08-03
+
+1. **阿里发布 Qwen3.8-Max 编程模型，社区评价为编码协作新标杆**
+   官方发布新一代编程模型，HN社区高分认可，提升AI编程协作能力上限。
+   [来源：Hacker News AI 社区动态日报](https://qwen.ai/blog?id=qwen3.8)
+
+2. **OpenAI Astra 数学突破宣称遭学界系统性反驳**
+   OpenAI称解决10道重大数学难题，随即被指存在逻辑错误，影响其科学宣称可信度。
+   [来源：Hacker News AI 社区动态日报](https://philarchive.org/archive/NIEWTCv17)
+
+3. **月之暗面 Kimi K3 权重开放，登顶 Hugging Face 周榜**
+   多模态模型权重开放，周点赞9661领跑HF，成为开源社区最热模型。
+   来源：Hugging Face 热门模型日报
+
+4. **智谱发布 GLM-5.2 MoE 对话模型**
+   最新MoE模型下载量破205万，延续GLM系列热度，丰富开源模型选择。
+   来源：Hugging Face 热门模型日报
+
+5. **antirez 发布 ds4：DeepSeek 4 本地推理引擎**
+   支持Metal/CUDA/ROCm，轻量运行DeepSeek 4，降低本地部署门槛。
+   [来源：AI 开源趋势日报](https://github.com/antirez/ds4)
+
+6. **OpenClaw 发布 v2026.7.2-beta.7，强化状态安全与恢复**
+   新增隔离存储、崩溃恢复SQLite快照与防数据丢失机制，提升Agent可靠性。
+   来源：OpenClaw 生态日报

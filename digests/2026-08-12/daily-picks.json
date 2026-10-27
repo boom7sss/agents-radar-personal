@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 伦理负责人与 COO 接连离职",
+      "why": "核心高管流失加剧外界对公司治理与伦理承诺的质疑。",
+      "source": "Hacker News AI 社区动态日报"
+    },
+    {
+      "title": "安全研究者称 deep_think 工具可致 OpenAI/Anthropic 泄露隐藏思维链",
+      "why": "触及思维链隐私与安全边界，影响模型可信与控制。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://twitter.com/_can1357/status/2087228354399265125"
+    },
+    {
+      "title": "Claude Code 在 curl User-Agent 中泄露真实邮箱",
+      "why": "开发者隐私随请求外泄，降低对 AI 编程工具的信任。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://github.com/anthropics/claude-code/issues/78431"
+    },
+    {
+      "title": "Anthropic 官方 Skills 仓库推动 Agent Skills 成为新分发单元",
+      "why": "技能包标准化将影响 AI Agent 复用与生态构建方式。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "title": "研究证实低资源语言上安全对齐系统性失效",
+      "why": "安全微调无法跨语言泛化，多语言模型需重新设计对策。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.11146v1"
+    },
+    {
+      "title": "DeepSeek-V4-Flash 下载量突破百万",
+      "why": "开源模型部署热度最高，反映低成本推理需求集中。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
+    }
+  ]
+}

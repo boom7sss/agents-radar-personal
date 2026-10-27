@@ -1,0 +1,52 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 发布 3 个 Rust 预发布版，安全转向架构级重构",
+      "Claude Code 发 v2.1.237/236，AGENTS.md 标准化 #6235（4852 👍）",
+      "Gemini CLI 发布 v0.56.0 正式版，修复代理链路",
+      "Copilot CLI 1.0.81 预发布系列现 7 个回归，社区质疑",
+      "OpenCode v1.18.19 发布，2.0 重构中，资源泄漏 #28089/#42700",
+      "Qwen Code 发 nightly.20260820，推审查管线"
+    ],
+    "ai-agents": [
+      "OpenClaw 合入 Control UI 安装策略审查与 Claude CLI OAuth 修复",
+      "合入 PR 覆盖 Apple 端会话路由与插件代际切换",
+      "OpenClaw 核心 issues 长期卡 needs-maintainer-review，响应积压",
+      "质量门槛高，多数 PR 带 needs proof 或 waiting on author"
+    ],
+    "ai-trending": [
+      "Agent Skills 生态爆发，5+ 项目上榜，成为方法论体系",
+      "Agent 持久记忆成刚需：ai-memory、claude-mem、mem0 齐上榜",
+      "Token 成本优化成赛道：caveman 砍 65%，headroom 压缩 20-95%",
+      "腾讯开源 AI-Infra-Guard，全栈 AI Red Teaming 平台",
+      "mattpocock/skills 今日 +1,894 星，obra/superpowers +557 星"
+    ],
+    "ai-hn": [
+      "'Support AGENTS.md' 273 分 171 评论，共识最强诉求",
+      "Opus 5.0 生产不连贯代码引争议，181 分 164 评论",
+      "Pine AI 75.4% 登顶 τ³-Voice 语音基准（SoTA）",
+      "论文：停止将中间 token 拟人化为思考轨迹",
+      "Launch HN: OneCLI——开源沙箱化 Agent 工具链"
+    ],
+    "ai-arxiv": [
+      "群组校准 On-Policy 蒸馏保长上下文全局约束（2608.19181）",
+      "SPADE：自适应合成环境自博弈，突破目标分布瓶颈",
+      "VLA 框架检测多智能体隐状态通信，AI 安全探索",
+      "Open-MOPD 诊断多教师蒸馏能力失衡并修复",
+      "GPT-2 124M 实验首次实测单样本对预训练影响"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶人气王（11,610 赞，137 万下载）",
+      "MiniMax-H3 视频模型周下载 330 万，成下载王",
+      "DeepSeek-V4-Flash 周下载 254 万，实用价值高",
+      "Kimi-K3 异军突起，10,870 赞，压缩张量多模态"
+    ],
+    "ai-community": [
+      "AGI 记忆权威性问题：'该信什么' 权限分级引热议",
+      "Prompt Caching 文章：数学推演可削减 LLM 账单 70-90%",
+      "Qwen3.8-27B 深入解析登陆 Dev.to",
+      "Gemma 4 E2B 纯 JAX 单 TPU 部署，验证 vLLM 替代路径"
+    ]
+  },
+  "en": {}
+}

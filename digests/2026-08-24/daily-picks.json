@@ -1,0 +1,40 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布 Claude 加速蛋白质设计与化学分析研究",
+      "why": "Claude 14/15 靶点蛋白质设计成功、自动化学分析媲美人工，标志 AI 科学家角色深化",
+      "source": "ai-web",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+    },
+    {
+      "title": "OpenClaw v2026.8.1-beta.3 发布，支持 GPT-5.6 全系",
+      "why": "新增 GPT-5.6 推理支持与 CDP 中继，Agent 生态头部项目重要版本更新",
+      "source": "ai-agents",
+      "url": "https://github.com/openclaw/openclaw/releases"
+    },
+    {
+      "title": "Qwen3.8-27B 以 12,411 周点赞登顶 Hugging Face",
+      "why": "现象级发布，衍生生态占据榜单近半数席位，下载超 264 万次",
+      "source": "ai-hf",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "openai/codex 单日新增 2,715 stars 登顶 GitHub Trending",
+      "why": "OpenAI 官方轻量终端编码智能体入局引发社区热度爆发",
+      "source": "ai-trending",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "CLEAR 论文提出连续适配器路由解决安全-能力权衡",
+      "why": "为 LLM 安全对齐同时保持能力提供新路线，回应核心难题",
+      "source": "ai-arxiv",
+      "url": "http://arxiv.org/abs/2608.21278v1"
+    },
+    {
+      "title": "MiniMax-H3 视频生成模型下载量全榜第一（446万）",
+      "why": "闭源厂商视频生成模型登顶下载榜首，应用需求强劲",
+      "source": "ai-hf",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression",
+      "takeaway": "在固定KV预算下引入残差缓存，重构被驱逐token对注意力分子分母的贡献。",
+      "why": "解决现有KV缓存驱逐/合并造成的信息丢失，针对大模型长上下文推理很实用。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.29591v1"
+    },
+    {
+      "title": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
+      "takeaway": "用程序化任务生成的中间状态监督循环视觉推理，使迭代逐步逼近正确变换。",
+      "why": "为ARC抽象推理提供步骤级监督，方法新颖，有望显著提升泛化能力。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2607.29586v1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "takeaway": "构建153小时人体动捕基准，用接触/支撑伪影修正纯运动学评估。",
+      "why": "ECCV 2026接收，评价与人类视频感知对齐，直接服务遥操作与全身模仿学习。",
+      "venue": "ECCV",
+      "url": "http://arxiv.org/abs/2608.13555v1"
+    },
+    {
+      "title": "Rasterized Edge Gradients: Handling Discontinuities Differentially",
+      "takeaway": "解决光栅化渲染中边缘不连续处的梯度计算，使离散边界可微。",
+      "why": "ECCV 2024官方荣誉提名，可微渲染底层进展，对网格/轮廓优化有广泛影响。",
+      "venue": "ECCV",
+      "url": "https://eccv.ecva.net/Conferences/2024/Awards"
+    },
+    {
+      "title": "VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions",
+      "takeaway": "提出神经体积人体模型，用体积占用/SDF高效建模交互、接触与碰撞。",
+      "why": "ICCV 2025 Highlight，验证比COAP快10倍、显存低6倍，输出SDF利于接触建模。",
+      "venue": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/awards_detail"
+    },
+    {
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "takeaway": "面向科学发现的智能体基座模型，统一多模态科学理解、推理与长程任务。",
+      "why": "大规模科学模型技术报告，展示LLM+多模态+工具在科研闭环中的完整范式。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.13505v1"
+    }
+  ]
+}

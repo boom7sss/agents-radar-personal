@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "UltraPIPS: Improving model perception in B-mode ultrasound with foundation models",
+      "takeaway": "提出用超声领域基础模型替代自然图像骨干，计算B模式超声图像的感知相似度LPIPS。",
+      "why": "MICCAI ASMUS 2026录用，指出超声斑纹特性使通用骨干失效，有跨任务验证。",
+      "venue": "MICCAI",
+      "url": "http://arxiv.org/abs/2608.26033v1"
+    },
+    {
+      "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+      "takeaway": "发现VLM中约1.7-2.6%的注意力头构成视觉检索头，因果负责文本到图像区域定位。",
+      "why": "首次揭示VLM视觉检索内部机制，统一设计空间下重估头部评分方法。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.27417v1"
+    },
+    {
+      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+      "takeaway": "跨具身动作条件视频生成框架，在互联网规模异构视频上训练通用物理模拟器。",
+      "why": "突破单具身限制，统一人与机器人动作表示，零样本迁移物理规律。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.27406v1"
+    },
+    {
+      "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+      "takeaway": "首个在LeJEPA无崩溃目标下训练的视频编码器，去除EMA目标编码器等启发式设计。",
+      "why": "SIGReg正则化提供可证明的防崩溃保证，显著降低视频预训练计算成本。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.27395v1"
+    },
+    {
+      "title": "Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps",
+      "takeaway": "用nnU-Net解剖先验重加权冻结的BiomedCLIP特征，检测扫查视频中胎儿腹围标准切面。",
+      "why": "针对阳性帧<3%的极端类别不平衡问题，结合解剖引导与原型监督的轻量方案。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2608.27051v1"
+    }
+  ]
+}

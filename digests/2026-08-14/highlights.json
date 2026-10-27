@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "9款AI CLI单日发布12个版本，高频迭代",
+      "Claude Code v2.1.232 默认开启 Subagent forking",
+      "Qwen Code v0.21.11 新增 /coordinate 多智能体命令",
+      "OpenAI Codex 实验线程队列 API，支持分页回滚",
+      "Copilot CLI 发布 v1.0.80，新增会话共享状态",
+      "DeepSeek TUI v0.9.7 品牌迁移，重构进行中"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时486 Issue/500 PR，无新版本发布",
+      "内存子系统架构改造：新增授权契约与读隔离",
+      "Anthropic 可选服务端压缩 compact-2026-01-12",
+      "多智能体编排稳定性成社区反馈最大痛点",
+      "Issue #121058 累积92条评论，用户不满关闭",
+      "安全修复：跨渠道审批泄漏与网关目录越权"
+    ],
+    "ai-trending": [
+      "Anthropic skills 仓库登榜，Agent技能生态爆发",
+      "needle 14MB基础模型今日 +769 stars",
+      "NVIDIA Switchyard 模型路由网关今日 +408 stars",
+      "RAGFlow 今日 +465 stars，RAG赛道持续霸榜",
+      "headroom 可减少60-95% token，成本优化走红",
+      "mem0 通用Agent记忆层，积累63,212 stars"
+    ],
+    "ai-web": [
+      "Anthropic 研究版 Claude 改进黎曼零点界 41.6%→67.2%",
+      "Claude 产出可机器验证的黎曼猜想正式证明",
+      "Anthropic 请来两位领域专家复核模型论文",
+      "OpenAI 新增 'Previewing Ultrafast' 条目，仅元数据",
+      "OpenAI 官网出现 Dali Rajic 新任首席营收官",
+      "Anthropic 定位数学能力加速，但规避过度预期"
+    ],
+    "ai-hn": [
+      "Codex 桌面应用登陆 Linux 预览，445分/300评",
+      "GPT-5.6 Sol Ultra 与 Cerebras 合作加速14倍",
+      "Anthropic 水印技术引发隐私与作弊担忧",
+      "Anthropic 被曝2万亿美元IPO估值，洽谈收 Decart",
+      "三星用 Claude 验证芯片设计不顺，社区怀疑AI价值",
+      "Anthropic 概念推理指数引热议，72分/51评"
+    ],
+    "ai-arxiv": [
+      "OmniScientist 发布全模态跨学科 AI 科学家系统",
+      "Intern-S2-Preview 科学智能体基础模型发布",
+      "Synthetic Persona Pretraining 将对齐前移到预训练",
+      "DFM Mimir v1 仅公开数据1B参数逼近前沿性能",
+      "Vero 让 Agent 同时生成代码与形式化证明",
+      "QuoteBench 揭示编码智能体命令路径失败被隐藏"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频模型生态爆发，衍生版下载破千万",
+      "Qwen3.8-2.4T-A95B 超大稀疏MoE，总参数2.4T",
+      "DeepSeek-V4-Flash 下载量143万，高效部署首选",
+      "Kimi-K3 周点赞10624登顶，采用压缩张量技术",
+      "NVIDIA Nemotron 3.5 Lightning 30B激活3B成本",
+      "Meta Muse-Glimmer-30B 图文对话，带动GGUF生态"
+    ],
+    "ai-community": [
+      "开发者自建 Gatekeeper，解决AI工具授权难题",
+      "警告：通过全部测试的AI代码仍可能危险",
+      "区分包装AI与基建AI，帮开发者定生态位",
+      "实测 OpenAI 验证防御者承诺，安全决策有分歧",
+      "提出Agent记忆系统公平基准评测框架",
+      "Gemma 4 在 EC2 G5g ARM+GPU 部署实录"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "12 releases, 63 PRs, ~90 issues across 9 AI CLI tools",
+      "Multi-agent orchestration emerges as key CLI direction",
+      "MCP reliability and Windows/Desktop regressions plague tools",
+      "Supply-chain CVEs, unsigned scripts, and SSRF reported",
+      "Claude Code adds @-session mentions",
+      "Qwen /coordinate, Codex thread-queue APIs debut"
+    ],
+    "ai-agents": [
+      "OpenClaw: 486 issues, 500 PRs updated in 24h",
+      "162 issues and 126 PRs closed/merged in a day",
+      "Silent reply failures persist in OpenClaw issue #121058",
+      "OpenClaw memory subsystem gets auth contract, read isolation",
+      "Mobile and web UI fixes ship in OpenClaw",
+      "P1 bugs: message loss, session corruption, auth timeouts"
+    ],
+    "ai-trending": [
+      "diagram-design gains 4,475 stars for Claude Code skills",
+      "anthropics/skills popularizes reusable agent skills (+312)",
+      "macro-inc/macro unifies email, chat, docs, and agents",
+      "cactus-compute/needle: 14MB foundation model targets edge",
+      "NVIDIA Switchyard: Rust LLM router adds +408 today",
+      "RAGFlow hits 88k stars, up +465 today"
+    ],
+    "ai-web": [
+      "Claude improves Riemann zeta bound from 41.6% to 67.2%",
+      "Anthropic result validated by external experts",
+      "Claude produced a formally verifiable proof",
+      "Claude attempted, but did not solve, Riemann hypothesis",
+      "OpenAI posts 'Previewing Ultrafast' update",
+      "OpenAI names Dali Rajic chief revenue officer"
+    ],
+    "ai-hn": [
+      "OpenAI Codex Linux desktop preview tops HN (445 pts)",
+      "Cerebras claims 14x faster GPT-5.6 Sol inference",
+      "Users angry over watermarking that exposes AI text",
+      "Anthropic reportedly eyes $2T IPO and $6B Decart deal",
+      "Anthropic publishes Conceptual Reasoning Index",
+      "OpenAI Ultrafast mode promises 14x GPT-5.6 speed"
+    ],
+    "ai-arxiv": [
+      "LittleLearner introduces 88B-token pretraining corpus",
+      "Synthetic Persona Pretraining aligns from token zero",
+      "DFM Mimir v1: frontier performance at 1B parameters",
+      "Agentic AI targets scientific discovery and verified coding",
+      "New theory sharpens transformer length generalization",
+      "Adversarial examples found in vision-language-action models"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads Hugging Face likes with 10.6k",
+      "MiniMax-H3 single-file package passes 10.3M downloads",
+      "DeepSeek-V4-Flash has 1.43M downloads",
+      "Qwen3.8-2.4T-A95B: 2.4T-param MoE with 95B active",
+      "LiquidAI LFM2.5-2.6B explores non-transformer architecture",
+      "GGUF quantization now covers multimodal models"
+    ],
+    "ai-community": [
+      "Developer builds gatekeeper for AI agent tool permissions",
+      "AI code that passes all tests can be most dangerous",
+      "AI coding agent trackers called self-report systems",
+      "MCP statelessness and agent identity remain unsolved",
+      "OpenAI-Hugging Face incident sparks Lobste.rs debate",
+      "AI companies destroying rare books in scanning rush"
+    ]
+  }
+}
