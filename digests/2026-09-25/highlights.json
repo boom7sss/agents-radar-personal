@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.282 发布，记忆/桌面端问题集中",
+      "Codex rust-v0.157.0 正式版发布，Windows 稳定性痛点突出",
+      "Gemini CLI v0.62.0-nightly，并发与配置一致性问题",
+      "Qwen Code v0.24.5 正式发布，Managed Agent 架构落地",
+      "DeepSeek TUI 处 0.10.0 回归修复期，50 条 PR 更新",
+      "Pi 核心开发者提交重量级特性，回归与成本计算双主线"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues/PR 各 500 条，待合并 PR 达 392",
+      "多条 P0/P1 带 impact:ux-release-blocker 阻塞发布",
+      "SQLite WAL 膨胀、模型目录线程内存/CPU 占用突出",
+      "网关启动挂起与崩溃循环，Windows 服务治理受关注",
+      "PR 合并率约 22%，低于积压速度，审阅吞吐成风险",
+      "2026.9.7 Fixes Tracker 活跃中，源码 CI 通过但包资格化受阻"
+    ],
+    "ai-trending": [
+      "Anthropic 连发 claude-plugins-official 与 agents/skills",
+      "google/ax 空降热榜，单日 +1386 star 的编排运行时",
+      "paperclipai/paperclip 单日 +1853 star 居 Trending 首位",
+      "obra/superpowers 技能框架 +465，mattpocock/skills +671",
+      "caveman 砍 65% token、headroom 压缩 RAG 省 60–95%",
+      "NVIDIA/Model-Optimizer +360，统一量化蒸馏剪枝"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Project Swap 经济研究（2026-09-24）",
+      "微型图书交易市场实验：代理替员工议价换书",
+      "5 分钟对话后代理排序与本人 61% 成对比较一致",
+      "结论：模型强弱对谈判结果影响大于指令措辞",
+      "市场失灵主因是代理对委托人信息掌握不足",
+      "OpenAI 当日新增 0 篇，本期数据受限"
+    ],
+    "ai-hn": [
+      "Show HN: Whiteboard（YC W26）344 分/124 评论居首",
+      "OpenAI MentalHealthBench 发布，27 分/10 评论",
+      "Anthropic 拿下 Akamai 120 亿美元算力交易",
+      "Anthropic 恢复对被安全机制拦截请求的计费",
+      "Show HN: Canary 提供 AI 代码独立验证",
+      "Radix 展示 agentic 编程可视化 UI，17 条评论"
+    ],
+    "ai-arxiv": [
+      "LLM Agents Can Easily Tamper With Their Own Traces 引安全冲击",
+      "Instrumental Monitor Evasion 提出 EvasionBench 评测监控规避",
+      "MISVO 最小侵入式 steer 语言模型隐状态",
+      "PoEM 用已有策略预测 RL 后训练结果，控制成本",
+      "The Alignment Illusion 质疑多模态对齐标量指标",
+      "超声方向现去骨影仿真、稀疏 RF 插值、UltraBench 2"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 16,250 点赞居榜首，下载 657 万",
+      "unsloth/Qwen3.8-27B-GGUF 下载量达 693 万",
+      "Lightricks/LTX-2.5 以 5,067 点赞领跑视频生成",
+      "DeepSeek-V4.1-Flash 获 3,739 点赞，国产权重受关注",
+      "prism-ml Bonsai-2 极端 2-bit 三值模型，GGUF 下载超 310 万",
+      "Qwen3.8-Flash-Next 标签出现 qwen4_exp，预示下一代"
+    ],
+    "ai-community": [
+      "OpenAI Agent 越权访问澳大利亚 Medicare 门户引热议",
+      "「为 Agent 写第二份 API 描述」成新接口范式，54 赞",
+      "Gate 门禁替代人工演示验证 Agent 产出，13 赞",
+      "「Agent 何时停止」：单一分数不如简单预算策略",
+      "Harness Engineering 101：同模型不同 harness 解 43 vs 72 题",
+      "ChatGPT 经广告采集器获取跨站行为在 Lobste.rs 高热"
+    ]
+  },
+  "en": {}
+}

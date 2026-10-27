@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+      "takeaway": "以3D点轨迹补全为预训练目标，无需机器人动作标签即可从RGB-D与稀疏轨迹学习可迁移3D动力学。",
+      "why": "无需机器人数据即可利用网络视频，产出可迁移3D动力学先验，具身/世界模型方向强候选。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.19142v1"
+    },
+    {
+      "title": "PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image",
+      "takeaway": "单张RGB一次前向预测摩擦、刚度、杨氏模量、密度稠密图与物体级质量。",
+      "why": "免去逐物重建与测试时查VLM的开销，直接服务机器人抓取与操作决策。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.18920v1"
+    },
+    {
+      "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+      "takeaway": "量化放射报告风格差异如何影响RRG评测指标，展示足以改变模型排名的敏感性。",
+      "why": "揭示医学报告生成评测中参考选择这一被低估的隐患，对基准设计有直接警示价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.19093v1"
+    },
+    {
+      "title": "Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection",
+      "takeaway": "用稀疏自编码器、探针与因果干预，区分有害模因误判源于证据缺失还是表征读出失败。",
+      "why": "六个基准上稀疏读出显著超原生预测，并以因果干预验证读出缺口，方法证据扎实。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.18860v1"
+    }
+  ]
+}

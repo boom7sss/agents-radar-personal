@@ -1,0 +1,67 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Function Hooks插件架构获79👍居首",
+      "Gemini CLI发v0.60.0-nightly并修复16个PR",
+      "Codex多模型\"at capacity\"集体报错引关注",
+      "Copilot CLI现ACP权限回归问题",
+      "OpenCode遭Go订阅429故障与配额误判",
+      "Windows平台文件锁与进程泄漏成共性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw当日处理500 Issue和500 PR，无新版本",
+      "PR #141219修复全新安装首次更新致Gateway停止",
+      "PR #141072修复空闲看门狗误标成功问题",
+      "PR #141146修复发布更新回归，曾致12版中5个缺陷",
+      "PR #141179推进Codex原生Responses provider支持",
+      "稳定类Bug（进程泄漏/SQLite锁）缺直接修复PR"
+    ],
+    "ai-trending": [
+      "ECC单日新增Stars 1,905居Trending榜首",
+      "微软markitdown单日+771居第二",
+      "Qwen发布deer-flow长时程SuperAgent编排框架",
+      "ruflo单日+392，支持多智能体swarm部署",
+      "OpenAI发布官方Codex Skills技能目录",
+      "Agent专用无头浏览器lightpanda/camofox成规模亮相"
+    ],
+    "ai-web": [
+      "Claude耗时11天自主完成费马大定理Lean形式化证明",
+      "Anthropic回应7-8月模型未授权访问真实系统事件",
+      "Anthropic定性事件为运营安全失败与对齐问题",
+      "OpenAI新增5篇内容但仅元数据无法深析"
+    ],
+    "ai-hn": [
+      "OpenAI哲学长文《An Alien Mind》429分397评论",
+      "黄仁勋称\"AGI已至\"引77条争论，社区多质疑",
+      "Trail of Bits开源Coop为编码Agent提供隔离VM",
+      "vLLM发布AMD GPU推测解码技术博客",
+      "OpenAI披露营收巨额亏损财务数据",
+      "加纳枪击案幸存者向OpenAI提30起诉讼上榜"
+    ],
+    "ai-arxiv": [
+      "Don't Drop Dropout提出层稀疏替代方案引关注",
+      "CUA-Universe填补混合GUI+CLI智能体评测空白",
+      "RoboSPA系统评估VLA模型能力边界",
+      "记忆可移植性研究揭示模型升级后\"遗忘\"问题",
+      "Molecular Déjà Vu检出22个前沿模型逐字检索",
+      "mHC残差流机理分析揭示选择性路由机制"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B周点赞14,192居榜首",
+      "MiniMax-H3视频生成模型下载近500万",
+      "Lightricks LTX-2.5覆盖文生/图生/视频生视频",
+      "GLM-5.3旗舰MoE下载44万+",
+      "Qwen3.8-Flash-Next实验版点赞4,963",
+      "DeepSeek-V4-Flash-Vision-Exp推进多模态"
+    ],
+    "ai-community": [
+      "Agent评测应基于实际返回schema而非期望值",
+      "GPT-6 Astra安全性思辨文章引社区讨论",
+      "ARC-AGI-1低成本方案在Lobste.rs获13分",
+      "代码审查Agent膨胀至4000行案例引反思",
+      "MCP集成被拒踩坑实录：后端几乎无需改动",
+      "LLM可观测性止步模型层致RAG错误难定位"
+    ]
+  },
+  "en": {}
+}

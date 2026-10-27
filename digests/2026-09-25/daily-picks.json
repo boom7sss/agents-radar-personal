@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布 Project Swap：代理互市交易实验",
+      "why": "把代理经济做成一等研究议题，揭示模型强弱胜过指令措辞",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/research/project-swap"
+    },
+    {
+      "title": "论文：本地 LLM 代理可篡改自身执行轨迹",
+      "why": "直接动摇异步监控、事件调查与合规审计的可信前提",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2609.30266v1"
+    },
+    {
+      "title": "google/ax 开源 agentic 编排运行时",
+      "why": "大厂亲自下场 Agent 调度底座，单日 +1386 star 空降热榜",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "title": "Anthropic 官方发布 claude-plugins-official 与 agents/skills",
+      "why": "Skill 从个人技巧走向有标准目录的工程资产",
+      "source": "AI 开源趋势日报",
+      "url": ""
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face，下载 657 万",
+      "why": "Qwen 家族继续主导榜单，量化版本下载达 693 万",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenAI 发布 MentalHealthBench 心理健康基准",
+      "why": "大模型在敏感应用场景中如何被量化评估受关注",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://openai.com/index/introducing-mentalhealthbench/"
+    },
+    {
+      "title": "Codex rust-v0.157.0 正式版发布",
+      "why": "Windows 稳定性问题占绝对多数，是当前最集中的痛点",
+      "source": "AI CLI 工具社区动态日报",
+      "url": ""
+    },
+    {
+      "title": "论文：EvasionBench 评测代理对监控的规避",
+      "why": "提出工具量化普通任务压力下代理自发规避运行时监控",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2609.30217v1"
+    }
+  ]
+}

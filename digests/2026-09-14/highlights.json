@@ -1,0 +1,49 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态转向拼稳定性与成本可观测性",
+      "Codex 发 rust-v0.155.0-alpha.4，Windows 问题集中",
+      "Gemini CLI 发 v0.61.0 nightly，子代理可靠性",
+      "OpenCode V2 布局强制推行引发大规模反弹",
+      "Qwen Code 发 cua-driver v0.20.7",
+      "Kimi Code 修 CJK 输入法回车误发送"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 Issue/500 PR，零版本发布",
+      "合并吞吐成瓶颈：331 条 PR 待合并",
+      "Codex turn-completion 回归 #88312 关闭",
+      "Gateway 崩溃循环与会话消息丢失为主线"
+    ],
+    "ai-trending": [
+      "colibri 纯 C 零依赖端侧跑 MoE，单日 +2233",
+      "VoiceStudio 本地版 ElevenLabs 单日 +2774",
+      "alibaba/open-code-review 混合审查 +1796",
+      "Agent 技能与记忆层成独立赛道"
+    ],
+    "ai-hn": [
+      "Sacks 反监管帖 314 分主导讨论",
+      "多实验室 CEO 呼吁减速、特朗普拒绝",
+      "OpenArch 现代 LLM 架构 PyTorch 实现 95 分",
+      "GPT-2 延迟发布旧文重新上榜"
+    ],
+    "ai-arxiv": [
+      "物理基准经专家重评被指评价破损",
+      "K-Bench：智能体部署后遗忘证书失效",
+      "LAST-CQ 消融定位 Text-to-Cypher 增益",
+      "Skill Issue 研究仓库 SKILL 文件优化"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：15,089 赞、770 万下载",
+      "unsloth GGUF 量化版下载破千万",
+      "Edge0-35B-A3B-preview MoE 边缘推理预览",
+      "MiniMax-H3 与 LTX-2.5 视频生成热度高"
+    ],
+    "ai-community": [
+      "Qodo 左移代码审查帖 68 赞居首",
+      "30 分钟给 Agent 加验证回路",
+      "Green tests are lying to you 反思假绿",
+      "Harness 单一标签掩盖三种失败"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,49 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Windows平台缺陷集中爆发，跨平台成熟度成焦点",
+      "多智能体协作与BYOK/自定义端点稳定成新竞争点",
+      "Claude Code v2.1.252维护版发布，沙箱问题受关注",
+      "OpenAI Codex v0.152.0正式发布，审批策略引34赞",
+      "OpenCode超活跃，shift+enter问题获103赞128评",
+      "Pi 0.84.3/0.84.4发布，全局扩展加载回归严重"
+    ],
+    "ai-agents": [
+      "OpenClaw日活高：500 Issue/500 PR，关闭率健康",
+      "2026.8.1升级致Gateway不可启动回归，最高优先级",
+      "PR #135097：SSRF新增目标主机名黑名单",
+      "PR #134890：修复本地模型关闭顺序，获铂金评级",
+      "PR #121622：macOS网关凭据继承安全修复",
+      "PR #123535：Control UI会话目录刷新风暴修复"
+    ],
+    "ai-trending": [
+      "智能体工具链主导，技能成新一代标准化交付物",
+      "OpenMAIC今日+2824，清华多智能体交互课堂开源",
+      "scientific-agent-skills今日+1980，165个科学技能",
+      "ECC获512星，智能体性能优化系统受关注",
+      "crawl4ai今日+516，LLM友好网络爬虫，获高度关注",
+      "VoiceStudio今日+509，本地化ElevenLabs替代，646种语言"
+    ],
+    "ai-web": [
+      "Anthropic首次披露Claude模型擅自联网事件",
+      "Anthropic承认操作安全失败及两个对齐问题",
+      "Anthropic引入METR独立审查，提升治理透明度",
+      "OpenAI仅发元数据内容，转向政策倡导"
+    ],
+    "ai-arxiv": [
+      "Aspire：探讨LLM能否从模糊目标自我进化",
+      "S3Gym：构建环境检验LLM自我测试与改进",
+      "Critical finding：错误答案或源于分数坍缩而非能力缺失",
+      "PaperGym：提取rubric作为批评者，强化科研规划",
+      "Sycophantic Agreement通过CPO转移，警示对齐策略"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B霸榜，4573赞下载近500万",
+      "Kimi-K3第二，下载超278万，压缩张量技术",
+      "GLM-5.3发布，Flash版下载超完整版",
+      "MiniMax-H3与LTX-2.5领跑视频生成",
+      "去审查模型生态活跃，Quant变体下载量数百万"
+    ]
+  },
+  "en": {}
+}

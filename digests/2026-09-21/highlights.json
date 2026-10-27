@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态进入可信阶段：静默失败、配置语义不一致成高热议题",
+      "Qwen Code 发布 v0.24.2 正式版，无破坏性变更",
+      "Pi 发布 v0.86.1，新增 Meta Muse provider",
+      "OpenAI Codex 连发 5 个 rust-v0.156.0-alpha 预发布",
+      "OpenCode 免费额度问题评论达 47 条",
+      "跨工具标准 AGENTS.md 与 MCP 兼容成共同主线"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issue/PR 各更新 500 条，无新版本",
+      "WAL 无限增长、网关 RSS 膨胀等 P0/P1 崩溃集中",
+      "286 个 PR 待合并，积压压力显著",
+      "插件构建临时目录泄漏约 7.5 GB/天已关闭",
+      "steipete 提交多项性能与修复 PR（会话游标批处理等）",
+      "升级 2026.9.5/9.4/9.3 出现多起回归"
+    ],
+    "ai-trending": [
+      "trycua/cua 单日 +1018 star 登顶 computer-use 基建",
+      "ai-memory 支持跨 Agent 厂商会话交接（+114）",
+      "coder/coder 安全隔离环境 +379 star",
+      "headroom 压缩输出：编码省 20% token，JSON 省 60–95%",
+      "Codex-X 提供 Codex 桌面/CLI 可视化管理（+210）",
+      "跨厂商中立工具层同时兼容 Claude Code/Codex/Gemini CLI"
+    ],
+    "ai-hn": [
+      "Mini-AGI 在 8GB 显存做动态持续学习，108 分登顶",
+      "jevals 用带类型判定替代 LLM-as-judge",
+      "Claude 被指发现主流哈希函数种子无关碰撞",
+      "Linux 内核补丁中 AI 生成代码占比达 17.25%",
+      "Sam Altman 将向联合国安理会做简报引热议",
+      "libjpeg-turbo 讨论开源基础设施资金可持续性"
+    ],
+    "ai-arxiv": [
+      "超声基础模型集中爆发：SonoCorpus、FreqDINO++",
+      "Abstention 与噪声过滤被论证为 softmax 注意力缺失原语",
+      "MintAct 统一视觉智能体覆盖 2B/4B/8B 规模",
+      "语音开源：NemotronLabs 全双工语音模型原生支持工具调用",
+      "提出语言模型测谎：用隐藏信息测试检测 sandbagging",
+      "Moral Entropy 主张把标注者分歧建模为不确定性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周榜第一：15,907 赞、715 万下载",
+      "DeepSeek-V4.1-Flash 获 3,474 赞、51 万下载",
+      "GLM-5.3-Flash 2,505 赞、330 万下载",
+      "MiniMax-H3 视频模型 5,546 赞、405 万下载",
+      "低比特新范式：三元 2-bit Ternary-Bonsai-2 与 GSQ-RCO 上榜",
+      "MiniCPM5-2B 端侧小模型 1,633 赞"
+    ],
+    "ai-community": [
+      "浏览器内 Agent 方案：MCP + TypeScript 演示（33 赞）",
+      "企业级 DevSecOps 四阶段 CI/CD 架构给 Agent 落地蓝图",
+      "专文应对“AI 自信交付坏代码”的可复用模式",
+      "Planner/Implementer 用任务规格契约拆分多 Agent",
+      "reranker CLI 引出“检索尚未决定什么”讨论",
+      "反思 Agent 编码对开发者心流的影响"
+    ]
+  },
+  "en": {}
+}

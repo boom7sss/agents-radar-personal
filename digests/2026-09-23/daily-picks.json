@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "Claude Opus 5.5 发布，居 HN 当日最高热度",
+      "why": "新旗舰模型发布并迅速成为社区评测与定价争论焦点",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6 Sol and Luna 双变体",
+      "why": "与 Opus 5.5 同日对撞，是当日最重要的模型发布之一",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+    },
+    {
+      "title": "GPT-6 Astra 宣称破解 2005 年未解 Enigma 消息",
+      "why": "兼具技术惊叹与真伪争议，社区要求可复现验证",
+      "source": "Hacker News",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+    },
+    {
+      "title": "Google 开源 agentic 编排运行时 google/ax",
+      "why": "单日 +2305 stars 登顶，标志大厂切入 Agent 底座层",
+      "source": "AI 开源趋势",
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "title": "OpenClaw 密集修复稳定性回归",
+      "why": "SQLite WAL 膨胀、MCP 超时崩溃等 P1/P0 故障进入修理队列",
+      "source": "OpenClaw 生态"
+    },
+    {
+      "title": "Flash-dLLM：扩散 LLM 的 IO 感知 KV 缓存与并行解码",
+      "why": "补齐扩散 LLM 推理工程短板，是走向实用部署的关键",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.26796v1"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "本周榜单被 Qwen 家族主导，量化与微调版本全面铺开",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Dev.to 复盘 1200 个 agent 的 Hugging Face 事件",
+      "why": "少见的多智能体安全深度复盘，直指 swarm 安全边界",
+      "source": "技术社区",
+      "url": "https://dev.to/hiper2d/the-swarm-that-kept-coming-back-7ie"
+    }
+  ]
+}

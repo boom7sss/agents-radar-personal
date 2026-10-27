@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "When Online Adaptation Hurts: Parameter-Frozen Test-Time Ensembling for Continual Medical Image Segmentation",
+      "takeaway": "医学分割跨中心域偏移下，用解剖保持的尺度/翻转视图集成，冻结权重与归一化统计",
+      "why": "在M&Ms心脏MRI跨厂商流上对比CTTA，指向不更新模型也能抗漂移的实用推理方案",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.21412v1"
+    },
+    {
+      "title": "GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments",
+      "takeaway": "跨本体VLA预训练用3D末端执行器几何运动增强隐动作建模，捕捉手指级articulation",
+      "why": "针对异构动作空间与灵巧手细粒度几何变化，是隐动作模型的关键补强方向",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.21948v1"
+    },
+    {
+      "title": "MintAct: A Unified Visual Agent for Digital Environments",
+      "takeaway": "2B/4B/8B统一视觉语言模型，覆盖UI grounding、跨端多步导航与视觉工具调用",
+      "why": "配套异步RL基建与数百并发环境，匹配各领域专家性能，工程与规模信号明确",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.22083v1"
+    },
+    {
+      "title": "PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models",
+      "takeaway": "为自动驾驶VLA引入情境记忆反馈，使感知查询被下游推理与导航目标条件化",
+      "why": "打破感知-推理-规划单向前馈，聚合历史潜表征的闭环机制值得关注",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.22040v1"
+    },
+    {
+      "title": "Similarity Memory Prior is All You Need for Medical Image Segmentation",
+      "takeaway": "以相似性记忆先验网络与动态记忆权重损失注意力做医学图像分割，含双相似度增强模块",
+      "why": "ICCV 2025 Highlight，四项公开数据集优于同期方法，代码已匿名开源",
+      "venue": "ICCV",
+      "url": "https://iccv.thecvf.com/virtual/2025/awards_detail"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.276 回归修复版",
+      "Codex 发布 rust-v0.155.0 实质版本",
+      "Copilot CLI 升至 v1.0.86，但 PR 挂零",
+      "Gemini CLI 发布 v0.62.0-nightly",
+      "多 Connector 账号 #27302 获 381👍",
+      "配置被读取但不被遵守成 8 款工具共性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.33 扩展稳定版",
+      "24 小时 500 Issue、500 PR 更新",
+      "修复 Homebrew 安装下 openclaw update 失败",
+      "Gateway 启动与 SQLite 完整性成 P0/P1 风险",
+      "Windows 更新快照失败并致 Gateway 超时",
+      "维护者 steipete 集中提交 Gateway/Windows 修复 PR"
+    ],
+    "ai-trending": [
+      "cloudflare/security-audit-skill 单日 +3607 stars 登顶",
+      "alibaba/open-code-review 今日 +3286 stars",
+      "Tencent/BrowserSkill 今日 +1302 stars",
+      "affaan-m/ECC 今日 +1171 stars",
+      "addyosmani/agent-skills 今日 +680 stars",
+      "智能体记忆压缩成第二条主线"
+    ],
+    "ai-web": [
+      "Claude 4 周优化 30+ 生物分子模型，提速约 4x",
+      "Anthropic 开源全部优化代码并办蛋白设计竞赛",
+      "LSVP 生命科学验证计划开放申请",
+      "对齐评估披露四起未授权访问真实系统事件",
+      "排查范围扩至约 4.81 亿条转录本",
+      "OpenAI 新增 4 篇聚焦 ChatGPT Work 企业落地"
+    ],
+    "ai-hn": [
+      "OpenAI Astra 法律产品 510 分登顶 HN",
+      "OpenAI 内部仓库被攻破，涉堆溢出与 SSO 配置错误",
+      "微软内部文件解封，涉 AI 抓取版权争议",
+      "Skillsync (YC W26) 56 分，讨论跨 agent 会话迁移",
+      "ZCode 被指静默上传 Git 历史，58 分",
+      "MCPJam 提供 MCP 服务器测试与评估"
+    ],
+    "ai-arxiv": [
+      "dQwen3.5 提出混合注意力扩散语言模型",
+      "On-Demand Attention 实现按需读取历史",
+      "Harm Laundering 质疑表层分类器安全评估",
+      "编码智能体机器人控制脚手架安全性评估",
+      "量化前沿 LLM 智能体过度声称倾向",
+      "超声医学影像基础模型化主线"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：15594 赞、735 万下载",
+      "Qwen3.8-Flash-Next 发布，qwen4_exp 标签",
+      "unsloth Qwen3.8-27B-GGUF 拿下 762 万下载",
+      "DeepSeek V4.1-Flash 催生社区无审查分支",
+      "Edge0-35B-A3B 预览版面向边缘 MoE",
+      "m-a-p/YuE2-3B 等音频模型活跃扩张"
+    ],
+    "ai-community": [
+      "TypeSafe Jev：只输出类型化置信度决策",
+      "Jev 定价输入 $0.042/MTok、输出免费",
+      "AMD MI300X 每小时 $1.99 部署 Gemma 4 实测",
+      "8GB 内存本地模型选型策略",
+      "AI 生成 69 个测试全过却零捕获 bug",
+      "Dario Amodei《We Must Pace the Frontier》38 评论"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Domain-adaptive Zero-Shot Image Enhancement via Locality-Constrained Diffusion Guidance",
+      "takeaway": "用局部约束的扩散引导做跨域零样本图像增强，兼顾目标域真实感与源域特征保真",
+      "why": "发表于 Computers & Graphics 的正式接收稿，局部可控性对低质成像增强有直接价值",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.35289v1"
+    },
+    {
+      "title": "Style-Driven Data Synthesis and Degradation-Aware Enhancement for Ultrasound Image Restoration",
+      "takeaway": "两阶段框架合成像素对齐低质-高质超声数据集，再训练退化感知增强模型",
+      "why": "针对掌上超声复合退化，免像素对齐配对，切中跨设备成像落差痛点",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.35120v1"
+    },
+    {
+      "title": "Uncertainty Quantification in Cardiac Model Personalisation from Ultrafast Ultrasound",
+      "takeaway": "以仿真推断从超快超声剪切波弹性成像反演个体化心肌力学参数后验",
+      "why": "MICCAI STACOM 2026 接收，显式处理反问题不适定性与参数不确定性",
+      "venue": "MICCAI",
+      "url": "http://arxiv.org/abs/2609.35214v1"
+    },
+    {
+      "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
+      "takeaway": "端到端流式从第一视角视频联合估计手部MANO参数、相机轨迹与手部世界位置",
+      "why": "免标定、免SLAM级联，缓解误差累积，适合实时可穿戴交互场景",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.35743v1"
+    },
+    {
+      "title": "The Devil is in the Spectrum Bias: Spectrum-Balanced Feature Matching for Robust Representation Distillation",
+      "takeaway": "揭示L2特征匹配偏袒主谱方向，提出谱平衡SpecMatch蒸馏目标",
+      "why": "分析清楚且方法简洁，对视觉基础模型压缩与端侧部署有普适价值",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.34106v1"
+    }
+  ]
+}

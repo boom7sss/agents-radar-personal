@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "Discriminative World Models for Web Agents",
+      "takeaway": "提出预测状态匹配目标，训练世界模型区分真假结果以提升网页智能体测试时动作选择。",
+      "why": "直接修正世界模型训练与下游排序器的目标错配，对智能体可靠决策影响明确。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.02885v1"
+    },
+    {
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "takeaway": "开源多源数据引擎与骨干适配框架，构建可扩展长时程交互视频世界模型。",
+      "why": "覆盖来自异构数据训练视频世界模型的工程与研究缺口，开源基础设施价值突出。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.02886v1"
+    },
+    {
+      "title": "Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation",
+      "takeaway": "提出RIG-BENCH基准，在概念、变换、模式等四类认知领域系统评测推理驱动图像生成。",
+      "why": "首个系统评测推理到生成能力的基准，为统一生成模型与视觉推理提供可靠测量。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.02864v1"
+    },
+    {
+      "title": "RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models",
+      "takeaway": "提出无需训练的解码框架，在单次解码中统一令牌稀疏化与语义空间视觉检索以缓解视觉幻觉。",
+      "why": "免训练即插即用，统一稀疏化与检索于一次解码，简化了视觉幻觉缓解流程。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.02731v1"
+    }
+  ]
+}

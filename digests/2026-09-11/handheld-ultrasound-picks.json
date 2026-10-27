@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D v5.10.1 修复斜位数据体绘制视口徒手 ROI 与依赖安全覆盖",
+      "why": "免费手绘ROI在斜位体视口可用性修复，并修复toml依赖安全告警，利于集成稳定性",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.10.1"
+    }
+  ]
+}

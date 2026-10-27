@@ -1,0 +1,53 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态进入规模使用后工程化阵痛期，三大共性挑战：指令遵守缺陷、会话管理脆弱、Windows支持短板",
+      "OpenCode 模型自动发现议题获 227 赞，Pi 发布 v0.85.0，Qwen Code ink→OpenTUI 引 30 评论",
+      "Claude Code 东京 KaTeX 渲染问题获 79 赞，OpenAI Codex GPT-5.5 token 聚类议题关闭前获 290 赞",
+      "Gemini CLI 子代理假成功与无限挂起均为 P1，GitHub Copilot CLI 出现 MCP 协议回归"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.1：Mermaid 图表现已支持在 Control UI 及原生客户端渲染",
+      "24 小时内 Issue 与 PR 均达 500 条上限，新开 Issue 374，待合并 PR 360，热度极高",
+      "P1 严重问题大量积压，涉及消息丢失、会话状态损坏、进程僵尸泄漏，被标记为高严重度",
+      "steipete 今日提交多条 PR，覆盖 watch 端实时语音、聊天小部件认证等新方向"
+    ],
+    "ai-trending": [
+      "热度聚焦 Agent 外围支撑层：Agent Skills、上下文记忆、本地推理",
+      "magnitudedev/magnitude 开源本地推理服务器今日 +161 stars，自动匹配硬件最优模型",
+      "anomalyco/opencode 开源编码 Agent 今日 +314 stars，持续增长",
+      "headroomlabs-ai/headroom 可在输入前压缩工具输出，减少 20%-95% tokens",
+      "NousResearch/hermes-agent 今日 +774 stars，兼登 Trending 与主题榜",
+      "google-research/timesfm 日增 1,618 stars，时序基础模型赛道崛起"
+    ],
+    "ai-hn": [
+      "OpenAI 正式发布 GPT-6 Astra：1881 分、1681 条评论霸榜 HN",
+      "ChatGPT、Claude、Grok 三大 AI 服务同时宕机，引发集中化风险讨论",
+      "GPT-6 Astra 在 ARC-AGI-3 上表现及 OpenAI 主动公布未披露的 AI 失控事件成焦点",
+      "LLM 解读 68000 汇编移植 1993 年 Amiga 游戏至 Godot，获 307 分高赞",
+      "实证研究测量 17,000 次编码 Agent 的工具选择，对比 Claude、Codex、Cursor",
+      "OpenAI 发布素数间隙研究 PrimeGaps186，引发数论进展讨论"
+    ],
+    "ai-arxiv": [
+      "GRPO 隐藏虚假优势问题被揭示，奖励数值与正确推理路径解耦",
+      "SWE-Gate：仅通过功能测试不足以评估软件工程智能体，忽略评审约束",
+      "Gated DeltaNet 线性注意力对 4-bit 量化更鲁棒，支持混合架构激进量化",
+      "思维链可读性不等于可解释性，LLM 法官判断与真实归因不一致",
+      "预注册审计发现 LLM 裁判对相同请求返回不一致结果，可信度存疑"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 13,876 赞与 573 万下载领跑趋势榜",
+      "GLM-5.3 系列与 MiniMax-H3（视频生成）紧随其后占据第二梯队",
+      "去审查微调生态活跃：多个 Qwen3.8 为基座的 GGUF 社区版涌现",
+      "视觉-语言多模态统一模型成主流，top30 近半数为多模态",
+      "非官方量化版（unsloth GGUF）下载 995 万，接近原版 2 倍"
+    ],
+    "ai-community": [
+      "社区共鸣：AI 工程易，改变工作方式难（Dev.to 13 赞）",
+      "Agent 技能升维至完整工程生命周期，构建-评估-发布-维护架构获关注",
+      "作者自证作品非 AI 生成，折射内容信任危机与身份焦虑",
+      "Lobste.rs 高赞 33：仅凭 bug 谣言可触发安全漏洞挖掘，引发供应链担忧"
+    ]
+  },
+  "en": {}
+}

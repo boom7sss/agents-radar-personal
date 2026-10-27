@@ -1,0 +1,54 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GPT-6 Astra 发布日引发 CLI 工具大规模服务过载",
+      "各工具核心痛点：稳定性不足与会话生命周期缺陷",
+      "安全议题扩展至 .env 注入、CI 最小权限与沙箱逃逸",
+      "Gemini CLI v0.60.0-nightly 发布，P1 Bug 密度最高",
+      "OpenAI Codex rust-v0.154.0-alpha.6 与语音 PR 集群",
+      "Qwen Code v0.23.0-nightly 与 cua-driver-rs-v0.20 发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 活跃：471 Issues、500 PRs，P0/P1 集中",
+      "今日无新版本，2026.9.1/9.2 回归缺陷待修复",
+      "核心 PR 未合并，聚焦 CI 与发布流程修复",
+      "项目健康度评估：偏紧张，需谨慎升级"
+    ],
+    "ai-trending": [
+      "Agent 基础设施持续霸榜，生态转向工程化",
+      "隐形浏览器与反爬突破成新星，Token 压缩成热点",
+      "ECC 日增 1897 星，AutoHedge +517、FckSignups +501",
+      "openai/skills 官方技能目录发布，大厂入场标准化",
+      "headroom 压缩 token 60-95%，JSON 场景高效"
+    ],
+    "ai-hn": [
+      "Mistral 30 亿欧元融资，DeepSeek v4.1 Flash 内测",
+      "Emacs Bedrock 2.0 发布，AI 特性联动受关注",
+      "TradingAgents 金融交易框架登榜获 50 分",
+      "OpenAI 恢复 5 小时用量限制引抱怨",
+      "社区对 AI 数学突破宣称持高度警惕"
+    ],
+    "ai-arxiv": [
+      "Molecular Déjà Vu：模型分数或来自记忆非预测",
+      "记忆可移植性研究：模型升级致记忆失效",
+      "GUT 用图复杂度量化 LLM 推理不确定性",
+      "ROBORMBENCH 揭示 VLM 奖励模型缺乏释义不变性",
+      "RoboSPA 评测 VLA 模型的泛化极限"
+    ],
+    "ai-hf": [
+      "GLM-5.3 MoE 基座发布，点赞 1757、下载 47 万",
+      "GLM-5.3-Flash 轻量多模态，点赞 2149",
+      "Qwen3.8-27B 点赞 14,318，带动量化生态",
+      "DeepSeek-V4-Flash-Vision-Exp 实验版发布",
+      "MiniMax-H3 视频生成系列大量涌现",
+      "MiniCPM5-2B 面壁智能端侧模型登榜"
+    ],
+    "ai-community": [
+      "多文质疑 Agent 本质，称其为循环或条件判断",
+      "Agent 可观测性与安全护栏缺失成高频痛点",
+      "低成本构建 Agent 成趋势，预算低至 67 美分",
+      "美国政府表态 OpenAI 诉《纽约时报》案受关注"
+    ]
+  },
+  "en": {}
+}

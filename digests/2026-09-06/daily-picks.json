@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布公共 Agent Skills 仓库 anthropics/skills",
+      "why": "官方推动 Agent 技能开源标准化，标志生态进入标准化阶段，今日热榜日增475星。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "title": "arXiv 论文：LLMs as a Cognitive Virus 引发热议",
+      "why": "以282分204评论居HN榜首，体现社区对AI安全与认知影响的强烈关注。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://arxiv.org/abs/2609.03344"
+    },
+    {
+      "title": "OpenAI GPT-6 Astra 演示机器人手臂操控",
+      "why": "多模态模型进机器人领域，获202分146评论，是AI应用边界的标志性事件。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://openai.robocurve.org/gpt-6-astra/"
+    },
+    {
+      "title": "预注册研究揭示黑盒 LLM 裁判结果不稳定",
+      "why": "实证动摇 LLM-as-judge 评测可靠性，对AI评估方法论有直接影响。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2609.04198v1"
+    },
+    {
+      "title": "Qwen3.8-27B 周点赞超1.4万，社区衍生多量化变体",
+      "why": "旗舰模型周下载超619万，催生超8个社区微调变体，生态统治力显著。",
+      "source": "Hugging Face 热门模型日报",
+      "url": ""
+    },
+    {
+      "title": "mattpocock/skills 开源个人 .agents 目录，日增2692星",
+      "why": "真实工程师技能集登顶 GitHub 热榜，展示 Agent Skills 最佳实践范式。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "title": "GPT-6 Astra 登上机器人手臂，社区热议其评测指标调整",
+      "why": "机器人应用与评测透明度问题同热，牵动公众对 OpenAI 产品可信度审视。",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://news.ycombinator.com/item?id=49578568"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.9.2 补丁，优化长会话性能",
+      "why": "主流开源 Agent 项目关键补丁，解决对话延迟和 Gateway 事件循环阻塞问题。",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw/pull/136862"
+    }
+  ]
+}

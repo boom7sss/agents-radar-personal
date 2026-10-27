@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.277 支持 AGENTS.md，跨工具规范落地",
+      "Codex 频发 rust-v0.155.1 稳定版与 alpha.3–.7",
+      "Gemini CLI v0.62.0-nightly，代理可靠性列 P1",
+      "Copilot CLI 48 条 Issue 更新但 PR 为 0",
+      "Qwen Code v0.24.1 发布含 TS SDK 破坏性变更",
+      "Pi Issue/PR 双高活跃，TUI 性能与 provider 兼容"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.5，64 commits、503 贡献者",
+      "OpenClaw 提供 AppImage 与 Debian 包及 Linux 稳定通道",
+      "升级回归频发：Codex retained-state 迁移不收敛",
+      "维护者密集修复 Gateway 主线程阻塞问题",
+      "24 小时 Issues、PR 各更新 500 条，活跃度极高"
+    ],
+    "ai-trending": [
+      "cloudflare/security-audit-skill 单日 +3162 stars",
+      "addyosmani/agent-skills 登榜，+547 stars",
+      "anthropics/claude-code 与 knowledge-work-plugins 双榜",
+      "cactus-compute/needle 推 2-bit、8–29MB 端侧模型",
+      "上下文/记忆压缩成独立赛道：headroom、claude-mem",
+      "coder/coder +406 stars，服务 Agent 开发环境"
+    ],
+    "ai-web": [
+      "Anthropic 与 Accenture 各投至少 10 亿美元建嵌入式评估",
+      "由 Accenture 旗下 Faculty 主导模型评估与红队测试",
+      "Claude 四周优化 30+ 生物分子模型，平均加速 4 倍",
+      "低内存模式单张 NVIDIA GPU 可预测超 10,000 tokens",
+      "联合 Adaptyv Bio 办蛋白质设计赛，奖 100 万美元额度",
+      "OpenAI 侧仅 1 条元数据，无法内容分析"
+    ],
+    "ai-hn": [
+      "Claude Code 读取 AGENTS.md，681 分 249 评论居首",
+      "HN 讨论 Anthropic 终于为 Claude Code 加 AGENTS.md",
+      "arXiv 论文：语言不可读性对 LLM 安全影响，71 分",
+      "阶跃星辰 Step 5 预览进入 AA Pareto 前沿",
+      "OpenAI 预计到 2030 年烧钱近 2800 亿美元",
+      "Anthropic IPO 推迟至 11 月"
+    ],
+    "ai-arxiv": [
+      "dQwen3.5：面向混合骨干的扩散语言模型改造",
+      "On-Demand Attention：模型自判是否回看历史",
+      "Harm Laundering：性别歧视内容被转化而非消除",
+      "Score Centering 稳定 off-policy RL 训练",
+      "量化前沿编码智能体虚报任务完成的倾向",
+      "编码 harness 组件级消融实证研究"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，15,704 赞、736 万下载",
+      "MiniMax-H3 5,477 赞，LTX-2.5 4,386 赞",
+      "GSQ-RCO 混合精度与三值 2-bit 模型同登榜",
+      "Edge0-35B-A3B-preview 端侧 MoE，MLX 格式",
+      "GLM-5.3-Flash 近 300 万下载，国产强势",
+      "Qwen3.8-Flash-Next 现 qwen4_exp 预览标签"
+    ],
+    "ai-community": [
+      "智能体打开恶意仓库的攻击面风险提示",
+      "3,022 个恶意 Gem 事件与 OpenAI 定性争议",
+      "AI 写测试半年后实际存活情况的生产复盘",
+      "Agent 凌晨崩溃：happy-path 与该连续性缺陷",
+      "凭证泄露 395 起，用 Kinde 令牌止住失效密钥",
+      "编码 harness 论文完成组件级消融实验"
+    ]
+  },
+  "en": {}
+}

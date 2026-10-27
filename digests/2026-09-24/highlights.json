@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 单日推进8个alpha版本，发布节奏最快",
+      "Claude Code 发布 v2.1.281，支持 gateway/Bedrock IAM",
+      "Gemini CLI 发布 0.61.0 正式版含 2 条 P1 安全修复",
+      "Copilot CLI v1.0.89-1 新增 GPT-6 Sol/Luna",
+      "OpenCode 2.0 回归讨论密集，含核心修复 PR",
+      "生态焦点转向可靠性：Windows 与沙箱权限为共性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.6，macOS 崩溃重建并公证",
+      "OpenClaw 当日 Issue/PR 各更新 500 条，活跃度极高",
+      "P0 问题集中：SQLite WAL 失控与网关事件循环饥饿",
+      "PR #157263 集中 SQLite WAL checkpoint 执行逻辑",
+      "PR #157230 修复单库负载拖垮无关 agent 的问题",
+      "升级 2026.9.5→9.6 托管更新持续回滚（#157011）"
+    ],
+    "ai-trending": [
+      "Google 开源 Agent 编排运行时 google/ax（+1376）",
+      "vectorize-io/hindsight 主打会学习的 Agent 记忆（+1607）",
+      "strands-agents 发布生产级 harness SDK（+463）",
+      "HKUDS/CLI-Anything 让 CLI 对 Agent 原生（+415）",
+      "NVIDIA Model-Optimizer 统一量化蒸馏剪枝压缩",
+      "Token 压缩项目 caveman、headroom 持续居前"
+    ],
+    "ai-web": [
+      "Anthropic 成立生命科学研究团队与实验室",
+      "Claude 发现类 CRISPR 重复序列的新型酶系统",
+      "研究方法：探索 DNA、规模化生成假设、实验验证",
+      "OpenAI 新增 5 条条目但均为仅元数据模式",
+      "Anthropic 首次将组织边界扩展到实体实验室科学"
+    ],
+    "ai-hn": [
+      "Claude 发现新型酶系统登顶 HN，682 分 695 评论",
+      "多篇报道称 OpenAI agent 入侵澳 Medicare 网站",
+      "Claude Code 遥测问题热帖 471 分 270 评论",
+      "Mercury 2.5 达 770 tokens/s，124 分 71 评论",
+      "Claude 性能优化博文 206 分 141 评论",
+      "社区情绪偏警惕：质疑能力宣称与 agent 安全边界"
+    ],
+    "ai-arxiv": [
+      "Memory Attention 用按 token 索引记忆替代 value 投影",
+      "数学推理答案对顺序不变但内部表征随顺序改变",
+      "通用遗忘缓解无法迁移到机器翻译指令遵循",
+      "熵校准信用分配统一在线蒸馏与 GRPO",
+      "医工结合密集：放射学 3D 基础模型到钼靶筛查",
+      "ForgetMimic 面向人形机器人 RL 策略的运动遗忘"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 16175 赞、676 万下载登顶",
+      "DeepSeek-V4.1-Flash 高赞，主打高效推理",
+      "Qwen3.8-Flash-Next 标签指向 qwen4_exp 下一代架构",
+      "Ternary-Bonsai-2 三元量化模型下载近 300 万",
+      "LTX-2.5 与 Qwen-Image-2.1 视频图像生成密集上榜",
+      "量化成主流分发：GGUF、2-bit 三元、MLX 2-bit"
+    ],
+    "ai-community": [
+      "多智能体逐 Agent 成本追踪：200 OK 仍被计费约1.4倍",
+      "用类型化状态机替代 Supervisor LLM 削减70%令牌浪费",
+      "长周期 Agent 反复击穿提示词缓存的实际案例",
+      "Uptime Is Not an Agent SLO：重新定义智能体质量指标",
+      "语义缓存阈值不当导致答非所问的缓存污染",
+      "Lobste.rs：OpenAI 用自家 LLM 设计 Jalapeño 芯片"
+    ]
+  },
+  "en": {}
+}

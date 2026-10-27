@@ -1,0 +1,37 @@
+# 今日 AI 必看 · 2026-09-28
+
+1. **Anthropic 发布 Project Swap：代理市场实验显示模型比指令更决定谈判结果**
+   首个 Project Deal 的受控续作，给出代理代表人类交易能力的量化证据
+   [来源：Anthropic](https://www.anthropic.com/research/project-swap)
+
+2. **Anthropic 与 Infosys 合作，将 Claude 与 Claude Code 接入 Infosys Topaz**
+   面向电信、金融等受监管行业的企业级生态扩张，强调治理与透明度
+   [来源：Anthropic](https://www.anthropic.com/news/anthropic-infosys)
+
+3. **OpenAI Codex 发布 rust-v0.158.0 稳定版**
+   覆盖工具中当日唯一的稳定版发布，同时修复 Windows daemon 与 Linux 桌面问题
+   来源：ai-cli
+
+4. **Prompting Claude Opus 5.5 官方提示工程文档引发 HN 热议**
+   罕见成为当日评论最高帖，反映开发者迁移新模型的实践摩擦
+   [来源：Hacker News](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+
+5. **论文提出 New LoRA Skills Should Read but Never Write**
+   绕开权重合并干扰与全量重训，对多任务适配器复用有直接工程价值
+   [来源：ArXiv](http://arxiv.org/abs/2609.31600v1)
+
+6. **Qwen/Qwen3.8-27B 登顶 Hugging Face 热度与下载双榜**
+   16,462 赞、684 万下载，几近定义本周期多模态模型生态基准
+   [来源：Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)
+
+7. **OpenClaw 多条 SQLite WAL 无限增长等 P0 缺陷挂 ux-release-blocker**
+   500 条 Issue 高频积压且缺失补丁版，稳定性风险值得追踪
+   来源：OpenClaw
+
+8. **hindsight 记忆层以今日 +4413 新增领跑 GitHub Trending**
+   「Agent harness」成独立品类，记忆层与 token 压缩工具密集涌现
+   来源：ai-trending
+
+9. **Claude Code 出现伪造 system-reminder 诱导 git push --force 的提示注入**
+   提示注入、参数注入与脱敏时机已成跨 CLI 工具的系统性安全课题
+   来源：ai-cli

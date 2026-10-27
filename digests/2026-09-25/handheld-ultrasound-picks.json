@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D v5.11.0：浏览器端医学影像渲染库新增多种压缩解码",
+      "context": "Cornerstone3D 是网页端显示 DICOM 医学影像的开源渲染库，本次新增 JPEG XL、封装未压缩等格式的解码支持。",
+      "relevance": "直接影响掌超 App 或网页端查看云端/院内 DICOM 图像的回放模块，尤其是非常规压缩格式的兼容性。",
+      "action": "进入影像查看与 DICOM 集成开发时再评估；若现有链路只传标准 JPEG，无需立即升级。",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.11.0",
+      "kind": "open-source-release"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex 发布 rust-v0.158.0 稳定版",
+      "Pi 核心维护者推进 Virtual models / Codemode+MCP / 托管 llama.cpp",
+      "Claude Code 遭伪造 system-reminder 诱导 git push --force 的提示注入",
+      "Gemini CLI 出现 grep 参数注入（CWE-88）与 Auto Memory 脱敏时机错误",
+      "Qwen Code 推出 Managed Agent 双路径架构",
+      "Claude Code 服务端 Auto mode 分类器不可用，阻断 Bash/Edit"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时内 500 条 Issue、500 条 PR 更新，无新版本发布",
+      "SQLite WAL 无限增长等多条 P0 缺陷挂上 ux-release-blocker 标签",
+      "PR #160299 修复慢速 worker 阻塞无关 session 调度",
+      "缺陷集中于 2026.9.2–9.6 各版本，补丁版需求迫切"
+    ],
+    "ai-trending": [
+      "hindsight 记忆层以 +4413 今日新增领跑热榜",
+      "paperclip Agent 管理应用今日 +3185 star",
+      "openrig 将 Claude Code 与 Codex 协同为多智能体 harness，+781 today",
+      "univer 定位「Agent 的 Office 运行时」，+1105 today",
+      "caveman 压缩编码智能体 65% token",
+      "headroom 在 LLM 前压缩工具输出，JSON 场景省 60–95% token"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Project Swap：代理市场实验续作",
+      "Project Swap 发现模型比指令更决定谈判结果",
+      "五分钟对话即可让代理书籍排序与本人匹配率达 61%",
+      "Anthropic 与 Infosys 合作，面向电信等受监管行业",
+      "Claude 模型与 Claude Code 集成 Infosys Topaz"
+    ],
+    "ai-hn": [
+      "Prompting Claude Opus 5.5 官方文档成当日评论最高帖（181 评论）",
+      "NYT 质疑 Anthropic 宣称的 AI 独立科学发现",
+      "Show HN: OpenAPPA 开源确定性护栏，强调不破坏 Agent",
+      "Understanding LLMs 交互式教程上首页"
+    ],
+    "ai-arxiv": [
+      "New LoRA Skills Should Read but Never Write 提出只读不写组合范式",
+      "自监督置信度训练替代显式早停，压缩冗长推理链",
+      "Multi-agent Scaling 指出多智能体规模收益依赖任务结构",
+      "Weight Pair Encoding 让权重可被更小文法描述",
+      "超声方向形成数据—模型—评测闭环，含 UltraG-Bench"
+    ],
+    "ai-hf": [
+      "Qwen/Qwen3.8-27B 以 16,462 赞、684 万下载双冠",
+      "convaiinnovations/laya 以 4,223 赞登顶本周榜首",
+      "Qwen-Image-2.1 衍生 GGUF、ComfyUI、LoRA 等至少六个版本",
+      "Ternary-Bonsai-2-27B-gguf 下载达 345 万",
+      "Lightricks/LTX-2.5 获 5,385 赞",
+      "yandex 开源 80B 总参、A3B 激活的 AliceAI-Foundation 基座"
+    ],
+    "ai-community": [
+      "Dev.to 直言一半生产 AI 代理是「带 GPU 账单的 if 语句」",
+      "AI 秒修 Bug 剥夺开发者理解过程，被指更危险",
+      "ToolTrap 实测代理工具调用中的安全陷阱",
+      "Lobste.rs《Goodbye Google》以 107 分成为绝对热点"
+    ]
+  },
+  "en": {}
+}

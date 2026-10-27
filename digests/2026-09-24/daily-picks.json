@@ -1,0 +1,58 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 宣布成立生命科学研究团队，Claude 发现类 CRISPR 新型酶系统",
+      "why": "官方宣称 AI 参与科学发现并首次扩展至实体实验室，社区高度分化",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+    },
+    {
+      "title": "Google 开源 Agent 编排运行时 google/ax",
+      "why": "大厂以 Go 栈切入 agentic runtime，今日最重的基础设施信号",
+      "source": "GitHub Trending",
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "title": "vectorize-io/hindsight 主打会学习的 Agent 记忆",
+      "why": "今日新增 stars 最高，直击 Agent 长期记忆痛点",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.9.6，macOS 崩溃构建重建并公证",
+      "why": "发布链路可靠性成最大风险点，升级回滚问题并行",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "Claude Code 遥测争议：AGENTS.md 仅在遥测开启时被读取",
+      "why": "HN 热议 471 分，触及开发者对工具隐性行为的信任",
+      "source": "Hacker News",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门榜",
+      "why": "16175 赞、676 万下载断层领跑，量化衍生版同步霸榜",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "ArXiv：数学推理答案对顺序不变但内部表征随顺序改变",
+      "why": "揭示结果正确背后表征不稳定的机制性问题",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28442v1"
+    },
+    {
+      "title": "Memh Attention 提出按 token 索引记忆替代 value 投影",
+      "why": "注意力机制参数效率的结构性探索，具方法学价值",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28399v1"
+    },
+    {
+      "title": "用类型化状态机替代 Supervisor LLM 削减 70% 多智能体令牌浪费",
+      "why": "多智能体成本与可靠性痛点，给出确定性架构替代方案",
+      "source": "Dev.to",
+      "url": "https://dev.to/anasbuilds997/how-we-cut-70-of-multi-agent-token-waste-by-replacing-supervisor-llms-with-typed-state-machines-4alk"
+    }
+  ]
+}

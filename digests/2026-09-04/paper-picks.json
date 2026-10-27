@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "takeaway": "将在线三维重建重构为多参考相对位姿查询，用轻量token注入冻结主干。",
+      "why": "ECCV 2026；分离局部几何与全局位姿，解决长视频重建漂移。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04201v1"
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "takeaway": "统一多模态架构联合建模物理、几何与外观三种原生3D世界状态。",
+      "why": "引入Omni-Camera统一表征并跨帧传播物理动态，支持生成重建。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04196v1"
+    },
+    {
+      "title": "The Shape of Time: Video-Token Contrast for Temporal Understanding in VideoLMs",
+      "takeaway": "面向VideoLM视频token表征的时间反事实对比目标，监督事件动态。",
+      "why": "EMNLP 2026 main；针对时间理解捷径，直接监督内部视频表征。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04110v1"
+    },
+    {
+      "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+      "takeaway": "提出OPD-then-RL两阶段方案以替代OPD与RLVR的联合加权融合。",
+      "why": "经验证明两阶段优于纯OPD、纯RLVR及所有联合基线，含机理分析。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04108v1"
+    },
+    {
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "takeaway": "对含48层Gated DeltaNet的混合27B模型实现全线性层NVFP4 W4A4量化。",
+      "why": "多任务匹配BF16精度（5任务均值-0.52），实测推翻递归误差累积假设。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04098v1"
+    }
+  ]
+}

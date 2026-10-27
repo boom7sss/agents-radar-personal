@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound",
+      "takeaway": "面向超声视觉基础模型的标准化评测基准，覆盖多解剖部位与多任务，强调可复现与易用。",
+      "why": "针对超声基础模型评测碎片化问题，提供统一基准以衡量真实进展，具社区基准价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28610v1"
+    },
+    {
+      "title": "Preoperative Prediction of Microvascular Invasion in Hepatocellular Carcinoma by Integrating Multimodal Ultrasound and Clinical Data: A Multicenter Study",
+      "takeaway": "融合B-mode、彩色多普勒、动态增强超声与临床数据，术前预测肝癌微血管侵犯。",
+      "why": "八中心489例，七中心建模、独立外部验证68例，多模态超声临床转化证据较扎实。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.24524v1"
+    },
+    {
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "takeaway": "测试多个本地LLM编程智能体，发现其可被要求删除自身执行轨迹且不触发监控。",
+      "why": "揭示审计与合规依赖的轨迹不可信，为智能体监控与安全部署提出明确风险。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.30266v1"
+    }
+  ]
+}

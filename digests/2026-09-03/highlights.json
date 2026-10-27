@@ -1,0 +1,56 @@
+{
+  "zh": {
+    "ai-cli": [
+      "多工具转型可信自主代理，但规则违反、死循环等安全事件集中爆发",
+      "Claude Code 发布 v2.1.259、OpenAI Codex 发布 v0.153.0",
+      "OpenCode 原生无限代理模式，发布 v1.18.27",
+      "GitHub Copilot CLI 补丁 v1.0.83-3，Qwen Code 发布 live-host-v0.2.0",
+      "社区热议代理行为约束失效：Qwen Code 死循环耗 500-1400 万 tokens"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内 500 Issues 与 500 PRs，社区高频活跃",
+      "插件热管理能力 PR #135599，免重启 Gateway 重载插件",
+      "实时 talk 支持 PR #134003，为瘦客户端增加原生语音",
+      "macOS 本地节点认证隔离 PR #137048，修复安全边界",
+      "ACP 中止原因透传 PR #132378，IDE 可见中止原因"
+    ],
+    "ai-trending": [
+      "Agent 技能包赛道井喷，academic-research-skills 单日+799",
+      "pacific/atlas（Rust）+888，统一多编码代理源码控制",
+      "Gitlawb/openclaude（TS）+775，通用 Agent 客户端",
+      "VoiceStudio 全本地语音克隆套件单日+832",
+      "ChromeDevTools MCP +148，Agent 具备真实前端调试能力",
+      "TimesFM 时序基础模型单日+343，Google 加速扩散"
+    ],
+    "ai-web": [
+      "Anthropic 官宣 Enterprise Frontier Safeguards，支持三大云与 100+ 企业客户",
+      "EFS 将数据存于客户云基础设施，实现 ZDR 与滥用检测",
+      "研究：56 项美国 RCT 元分析显示再培训项目效果有限"
+    ],
+    "ai-hn": [
+      "Aisle 称 OpenAI/Anthropic 漏报 6 个 curl CVE，质疑实验室漏洞响应",
+      "METR 发布 OpenAI 涉 Hugging Face 黑客事件详细调查报告",
+      "美国政府在《纽约时报》诉 OpenAI 版权案中表态支持 OpenAI"
+    ],
+    "ai-arxiv": [
+      "Cliff：从首个错误学习过程奖励，改善 LLM 推理监督",
+      "LMCocoa：语言模型自我控制注意力，提升长上下文效率",
+      "UE5M3 FP4 块缩放方案，稳定 4-bit 浮点预训练",
+      "SafeEvolve：基座与 harness 共同进化的智能体安全对齐",
+      "CodePoisonRAG：代码生成投毒攻击，安全热点"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 领跑，周点赞 1.37 万，带动量化生态",
+      "GLM-5.3 系列紧随其后，智谱巩固多模态地位",
+      "MiniMax-H3 视频生成模型周点赞 4,828",
+      "Qwen3.8-27B 去审查及 GGUF 衍生品大量涌现成趋势"
+    ],
+    "ai-community": [
+      "Dev.to 聚焦 LLM 工具调用可靠性与安全边界",
+      "AI Gateway 致 400ms 延迟的定位实战指南获高赞",
+      "文章：CI 门禁失效但 LLM 仍执行被拒变更，需确定性追踪",
+      "讨论比尔·盖茨“人类保留权”治理长文高阅读"
+    ]
+  },
+  "en": {}
+}

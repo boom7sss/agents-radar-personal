@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Open ultrasound foundation model for robust segmentation and clinical measurement across heterogeneous settings",
+      "takeaway": "超声分割基础模型SonoBase，融合53个公开数据集与162万专家掩码，交互式跨器官跨设备分割。",
+      "why": "15个评测集全部超越SAM2/MedSAM2/MedSAM3，含新器官、新设备与跨地域外推验证。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.19230v1"
+    },
+    {
+      "title": "Compression Hurts, Pooling Helps: Information Loss in Rayleigh-Scale Estimation from B-Mode Ultrasound",
+      "takeaway": "用Fisher信息分析证明B-mode对数压缩严重损失Rayleigh尺度σ信息，池化可缓解。",
+      "why": "定量超声组织表征需从已压缩临床B-mode图像反推，揭示采集物理约束下的可行性边界。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.19525v1"
+    },
+    {
+      "title": "Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation",
+      "takeaway": "指出固定步数测试时适配的群体均值掩盖逐例伤害，提出预测碎片化控制与有害接受面积指标。",
+      "why": "跨厂商心脏MRI上均值ΔDice近零却58.7%病例变差，动摇既定TTA实践。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.20700v1"
+    },
+    {
+      "title": "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis",
+      "takeaway": "频率引导多任务路由的超声视觉基础模型，联合处理病灶分割与良恶性分类，减轻重编码器微调开销。",
+      "why": "作者备注Accepted by TBME，针对自然图像到超声的域差共享多任务共性。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.20340v1"
+    },
+    {
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "takeaway": "基于正交预测分解的域无关世界模型框架，跨视觉、生物、临床轨迹等七个领域预测。",
+      "why": "把JEPA推广为通用预测学习原则，并给出跨异构系统的统一评估与开源代码。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.20800v1"
+    }
+  ]
+}

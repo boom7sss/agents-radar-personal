@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning",
+      "takeaway": "胎儿超声整体检查级先心病筛查，自监督MAE预训练后检索心脏帧并做多实例聚合",
+      "why": "去掉\"已挑好关键帧\"假设，贴近真实筛查流程，价值在流程级重构",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.31376v1"
+    },
+    {
+      "title": "UltraG-Bench: A Multi-task Benchmark for assessing Large Vision-Language Models on Pixel-level Evidence Grounding in Ultrasound",
+      "takeaway": "整合40个公开超声分割集、13类解剖，评测VLM像素级证据定位",
+      "why": "超声VLM细粒度grounding此前缺标尺，可复现评测资产价值高",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.30928v1"
+    },
+    {
+      "title": "MBFormer: Microbubble Transformer for 3D Time-Series Da-ta Processing to Improve Bound Bubble Detection in Nonde-structive Ultrasound Molecular Imaging",
+      "takeaway": "无位置编码层次Transformer处理3D时空视频，区分成簇结合微泡与游离微泡",
+      "why": "直击超声分子成像假阳性痛点，无需破坏性成像，临床系统可用",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.30618v1"
+    },
+    {
+      "title": "Trust Guided Decision Transformer",
+      "takeaway": "用下一状态预测误差加分裂保形校准，筛选上下文后再做价值引导",
+      "why": "把长程rollout分布漂移变为可校准信号，NeurIPS 2026接收",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2609.31586v1"
+    },
+    {
+      "title": "Online Learning via Learned Latent Bayesian Tracking",
+      "takeaway": "学习低维潜动力系统，使贝叶斯滤波可扩展到深度模型在线学习",
+      "why": "指出瓶颈为缺合适低维动力学表示，NeurIPS 2026接收",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2609.31559v1"
+    }
+  ]
+}

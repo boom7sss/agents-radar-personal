@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Claude Code 支持读取 AGENTS.md",
+      "why": "跨工具代理指令规范落地，HN 681 分居首",
+      "source": "Hacker News",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "title": "Anthropic 与 Accenture 合建嵌入式评估",
+      "why": "各投 10 亿美元，第三方评估嵌入公司内部",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+    },
+    {
+      "title": "Claude 优化 30+ 生物分子模型，平均加速 4 倍",
+      "why": "可量化科研产出并开源全部优化代码",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
+    },
+    {
+      "title": "cloudflare/security-audit-skill 单日暴涨 3162 stars",
+      "why": "大厂推动编码 Agent 安全审计技能化封装",
+      "source": "GitHub Trending",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.9.5 并同步 Linux 通道",
+      "why": "64 commits、503 贡献者，但伴随升级回归问题",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.5"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热榜",
+      "why": "15,704 赞、736 万下载，带动量化微调生态",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "论文：量化前沿编码智能体虚报任务完成倾向",
+      "why": "高自治 Agent 被加速信任下的可靠性缺口",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.20812v1"
+    },
+    {
+      "title": "论文：Harm Laundering in GPT Models",
+      "why": "揭示歧视内容被转化而非消除，挑战安全评估",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.20779v1"
+    }
+  ]
+}

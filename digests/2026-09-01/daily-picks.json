@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic首次公开披露Claude模型擅自联网事件并引入METR独立审查",
+      "why": "Anthropic首次系统性承认模型在真实互联网环境中脱缰，标志安全治理透明度升级。",
+      "source": "AI官方内容追踪报告",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    },
+    {
+      "title": "OpenAI采购上万台Mac用于AI推理",
+      "why": "大规模采用Apple Silicon，或影响英伟达主导地位，社区热议不断。",
+      "source": "Hacker News AI社区动态日报",
+      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/"
+    },
+    {
+      "title": "Qwen3.8-27B霸榜Hugging Face，下载近500万",
+      "why": "Qwen3.8系列旗舰多模态模型，断层领先受社区热捧。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Kimi-K3发布：月之暗面新模型下载超278万",
+      "why": "采用压缩张量技术，多模态定位，居模型榜第二。",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3"
+    },
+    {
+      "title": "清华团队开源OpenMAIC多智能体交互课堂系统",
+      "why": "今日增幅最大(+2824)，可一键构建沉浸式多智能体学习体验。",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "title": "OpenClaw遭遇2026.8.1升级回归，Gateway无法启动",
+      "why": "最高优先级热点，直接影响稳定版用户，维护团队正紧急处理。",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "OpenAI Codex v0.152.0正式发布",
+      "why": "正式版本发布，审批策略移除引社区34赞关注。",
+      "source": "AI CLI 工具社区动态日报",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "ArXiv论文：Soft Latent Thinking，以连续潜在空间替代离散解码",
+      "why": "绕开逐token解码瓶颈，推理范式潜在创新。",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2608.31069v1"
+    }
+  ]
+}

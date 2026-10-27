@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "9 个工具中 6 个 24 小时内发版，多为 Bug 修复",
+      "Claude Code 发布 v2.1.271/272",
+      "OpenAI Codex 连发 3 个 rust 0.155.0 alpha 版",
+      "GitHub Copilot CLI 发 v1.0.84-6/7/8，无 PR 更新",
+      "OpenCode 发 v1.18.31，含新功能与生态文档",
+      "Qwen Code 发 v0.23.4 及 nightly、CUA 共 4 版"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issues 429、PR 500，无新版本",
+      "当日重心为 Gateway 内存泄漏等稳定性问题",
+      "关闭 172 条 Issue，含 Telegram 消息静默丢弃",
+      "合并 PR 以内部重构与测试精简为主",
+      "多个 P0/P1 带 needs-maintainer-review 仍开放",
+      "升级回滚可靠性问题持续，见 #145252 跟踪"
+    ],
+    "ai-trending": [
+      "编码智能体基础设施五项目同日登榜",
+      "colibri 纯 C 流式跑 MoE，+2173 stars",
+      "earendil-works/pi 统一 LLM API+Agent CLI，+437",
+      "headroom 压缩工具输出，JSON 场景省 60–95% token",
+      "RAG 与 Agent 记忆层为最密集成熟赛道",
+      "hermes-agent、ECC 显示 Agent harness 升温"
+    ],
+    "ai-hn": [
+      "OpenAI 与 RubyGems 缓存漏洞引供应链安全争议",
+      "Anthropic 多线叙事：盈利预告与被指监管俘获",
+      "ML 研究智能体为何不过拟合，130 分 77 评论",
+      "Opus 迁移自托管 Ollama 的 35KB 预提示实战，133 分",
+      "Sunk Cost 工具算本地 LLM 回本周期，88 评论",
+      "AgentDrive 提供智能体持久化版本化文件存储"
+    ],
+    "ai-arxiv": [
+      "主线为 LLM 可靠性与可验证性：引用核查到评估审计",
+      "BPO 提出无 critic 的 RLVR 策略优化方法",
+      "分段感知 listwise 对齐修补推理链安全隐患",
+      "元评估论文质疑事实性评估工具自身可信度",
+      "智能体自我进化：RSIAgent、EMR、RESKILL、HypoEvolve",
+      "Inoculation Midtraining 用新造词考察对齐时序"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 15,200 赞、770 万下载登顶",
+      "Qwen3.8 量化与微调衍生合计下载超千万",
+      "DeepSeek-V4.1-Flash 与 GLM-5.3-Flash 热度居前",
+      "视频生成由 MiniMax-H3 与 LTX-2.5 双雄占据",
+      "端侧 MoE 密集：Edge0-35B-A3B 以 mlx 格式发布",
+      "老模型 all-MiniLM-L6-v2、gpt2 仍贡献最大下载"
+    ],
+    "ai-community": [
+      "跨平台焦点：Dario Amodei“放慢前沿”长文",
+      "讨论模型超越评测基准后如何衡量 AI，85 赞",
+      "AI 编码能力反思文章引发开发者共鸣",
+      "Agent 工程化落地：MCP 服务器、死循环与记忆",
+      "OpenAI agent swarm 攻击 RubyGems 被讨论",
+      "10 项 AI 会跳过的 SDLC 检查可转为 CI 卡点"
+    ]
+  },
+  "en": {}
+}

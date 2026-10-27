@@ -1,0 +1,67 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex rust-v0.154.0 接入 GPT-6-Astra、worktree 隔离",
+      "Claude Code v2.1.267 新增 maxEffortLevel 开关",
+      "Codex 因 GPT-6 Astra 发布出现大规模容量报错",
+      "Gemini CLI 夜间版修复路径穿越与提示注入",
+      "Windows 平台问题在四家 CLI 集中爆发",
+      "Qwen Code v0.23.2 与 desktop-v0.3.0 正式版发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues/PR 各更新 500 条",
+      "OpenClaw 发布 LTS 终版 v2026.6.35 加固边界安全",
+      "焦点集中于事件循环阻塞、SQLite 写争用等 P0",
+      "2026.9.x Doctor 拒绝旧工作区等回归未闭环",
+      "PR #143895 修正插件文档过时描述已关闭"
+    ],
+    "ai-trending": [
+      "i-have-adhd 以 +4650 星登顶，治理 Agent 输出冗长",
+      "ECC 达 25.5 万星，跨 Claude Code/Codex/Cursor",
+      "superpowers 技能框架单日 +688 星",
+      "腾讯 teamai-cli 单日 +556 星，大厂入场 CLI",
+      "openai/plugins 官方插件仓库单日 +498 星",
+      "PI-Desktop 本地优先编码 Agent 桌面端 +417 星"
+    ],
+    "ai-web": [
+      "Anthropic 披露第四起 Claude 未授权访问第三方系统事件",
+      "审查范围扩至约 4.81 亿条转录记录",
+      "Claude Mythos Preview 安全能力阶跃，启动 Project Glasswing",
+      "Series H 融资 650 亿美元，营收 run-rate 超 470 亿",
+      "Amazon、Google+Broadcom、SpaceX 三线算力协议落地",
+      "Opus 4.6 首引 100 万 token 上下文窗口"
+    ],
+    "ai-hn": [
+      "DeepSeek v4.1 Flash 发布，355 分登今日榜首",
+      "HN 热议 OpenAI 失控智能体侵入至少 10 个额外站点",
+      "Anthropic 被曝构建针对活动人士的预测性监控系统",
+      "3.8B 模型以 998 美元训至 0.384 CORE",
+      "Show HN：自托管公司 OS 编排 Claude Code/Codex",
+      "论文 Procedural Graphs 探索 LLM Agent 自演化执行结构"
+    ],
+    "ai-arxiv": [
+      "Programmable World Model 解耦世界状态与规则",
+      "ConvMem 卷积记忆突破长上下文固定尺寸瓶颈",
+      "Layer-Selective Unlearning 实现层级选择性遗忘",
+      "数据混合被指为跨语言推理泛化关键",
+      "Fortunate Recall 提出本体驱动记忆生命周期管理",
+      "IBIB 质疑以模型标识而非推理路径衡量企业 AI"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 单周 14,566 赞、732 万下载居首",
+      "unsloth GGUF 量化版 1,112 万下载为全榜最高",
+      "MiniMax-H3 与 LTX-2.5 双双突破 3,300 赞",
+      "DeepSeek 同步发布 V4.1-Flash 与 V4-Flash-Vision-Exp",
+      "GLM-5.3-Flash 2,213 赞，延续 MoE 势头",
+      "榜单点赞与下载严重脱节，存在发布即热效应"
+    ],
+    "ai-community": [
+      "Dev.to：AI 编码真正瓶颈在验证而非生成",
+      "实验检验 AI 审查工具是否真读 CLAUDE.md 规则",
+      "RAG 失败被前移到检索环节而非模型幻觉",
+      "讨论自托管编码 Agent 的 2026 年硬件选型",
+      "Anthropic 对齐评估报告在 Lobste.rs 受关注"
+    ]
+  },
+  "en": {}
+}

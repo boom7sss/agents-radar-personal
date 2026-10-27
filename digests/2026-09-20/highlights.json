@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 成本失控议题升至 215 评论",
+      "Codex 发布 2 个 alpha（.8/.9）",
+      "Gemini CLI 出 nightly，修模型 ID 钉选",
+      "Kimi Code CLI 单日关闭 15 条 Issue",
+      "Pi 发布 v0.86.1 / v0.86.0，含 Meta Muse provider",
+      "DeepSeek TUI v0.10.0 筹备，发布阻塞于 CI"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues/PR 各更新 500 条",
+      "近期 2026.9.x 版本 P0/P1 崩溃与 OOM 集中爆发",
+      "PR #153601 保留 SQLite 句柄 30 分钟缓解性能",
+      "PR #153655 修复 Doctor 缺失 legacy 索引导入",
+      "PR #153510 拒绝未验证服务命令的恢复重启",
+      "项目健康度承压但维护者修复节奏积极"
+    ],
+    "ai-trending": [
+      "Cloudflare security-audit-skill 单日 +3155 stars",
+      "Agent 技能层集体爆发，社区转向给 Agent 装能力",
+      "affaan-m/ECC +1012 today，兼容主流 CLI",
+      "记忆压缩成独立赛道：claude-mem 等三线切入",
+      "coder/coder +402 today，Agent 运行环境升温",
+      "vercel-labs/json-render +585 today，生成式 UI"
+    ],
+    "ai-hn": [
+      "「几乎不要用 AI 写作」308 分登榜首",
+      "AI 减速合谋诉讼三来源交叉出现",
+      "Show HN: CUA-S1 计算机使用模型 82 分",
+      "幕僚长模式编排 Claude Code 会话 24 分/20 评",
+      "OpenAI 与 Acc… 合作消息上榜",
+      "模型发布与研究类内容本周期明显缺位"
+    ],
+    "ai-arxiv": [
+      "dQwen3.5 混合注意力扩散语言模型",
+      "On-Demand Attention 让模型按需读取历史",
+      "Score Centering 稳定 off-policy RL",
+      "Harm Laundering 质疑安全训练评估有效性",
+      "量化前沿编码智能体过度声称倾向",
+      "编码智能体 harness 设计实证研究"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，15,824 赞/733 万下载",
+      "DeepSeek-V4.1-Flash 3,374 赞",
+      "MiniMax-H3 5,509 赞、LTX-2.5 4,498 赞",
+      "Ternary-Bonsai-2-27B 掀 2-bit 三值量化浪潮",
+      "ISTA-DASLab GSQ-RCO 混合精度量化上榜",
+      "Edge0-35B-A3B-preview 面向 Apple Silicon"
+    ],
+    "ai-community": [
+      "MCP 工具描述审核后可变脸的安全风险",
+      "1,558 测试全绿却无鉴权：虚假通过",
+      "LLM 管道静默失败的三道护栏",
+      "Token 效率视角拆解 Agentic 开发成本",
+      "MCP 不取代 API，而是其上的薄层",
+      "生产 RAG 向量库四方对比选型"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.284：Sonnet 5.5 成默认，1M 上下文",
+      "Codex rust-v0.159.0 稳定版，Windows 桌面故障集中爆发",
+      "Gemini CLI 修复认证死循环并处理 grep 注入 CWE-88",
+      "Copilot CLI 单日 6 个版本发布，PR 为 0",
+      "OpenCode 现计费争议与 v2 会话初始化栈溢出",
+      "Qwen Code 50 条 PR 推进 Managed Agent 与 MCP 运行时"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues/PRs 各 500 条",
+      "发布 v2026.8.33 extended-stable（等同 LTS）",
+      "P0 回归集中：Windows SQLite WAL 膨胀与 RSS 失控",
+      "prepared-model-catalog worker 内存与临时磁盘占用",
+      "macOS 看门狗误杀问题活跃",
+      "合并侧以 deslop 去冗余与测试清理为主"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell 单日 +978 star，Agent 安全运行时",
+      "paperclip 单日 +2412 star，Agent 管理台新品类",
+      "openrig 同时驱动 Claude Code 与 Codex 多 Agent",
+      "Agent 记忆赛道密集：hindsight、claude-mem、headroom",
+      "dbx 25MB 数据库客户端内置 MCP Server，+460 star",
+      "非向量检索路线 PageIndex、graphify 首登热榜"
+    ],
+    "ai-web": [
+      "OpenAI 新增 3 条独立内容（去重后）",
+      "Towards Safety Cases For Frontier AI Training 上线",
+      "How We Will Do Better For Australia 发布",
+      "Lenfest AI Collaborative Expansion 发布",
+      "Anthropic 当日抓取窗口零新增",
+      "OpenAI 数据为仅元数据模式，正文不可获取"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 发布登顶 842 分 / 570 评论",
+      "Artificial Analysis：Sonnet 5.5 略逊 Opus 5.5",
+      "Anthropic 递交 IPO 招股书",
+      "OpenAI 因安全问题推迟 Astra 6.1",
+      "Mistral CEO 批美国 AI 安全辩论为掩盖失职",
+      "Show HN：Claude 与 Codex 的永无止境棋局"
+    ],
+    "ai-arxiv": [
+      "Telescopic Language Models：单一嵌套容量 Transformer",
+      "How to Loop MoE：展平专家、解绑注意力",
+      "自适应循环 Transformer 改进测试时扩展",
+      "MeqMuon 矩阵均衡优化 LLM 预训练",
+      "蒸馏防御在 RL 后易被攻破，可低成本复制能力",
+      "极简自我反思无需 RL 即可改进 Agent"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 榜首：16,533 赞 / 702 万下载",
+      "DeepSeek-V4.1-Flash 官方轻量多模态 3,884 赞",
+      "LTX-2.5 视频扩散 5,492 赞 / 159 万下载",
+      "Qwen-Image-2.1 官方文生图基座 2,637 赞",
+      "Ternary-Bonsai-2-27B-gguf 下载破 358 万",
+      "小米 MiMo-V2.6-Pro-RL 与 Flash-RL 双双上榜"
+    ],
+    "ai-community": [
+      "MCP 工具 schema 开销量化：93 个约 55k tokens",
+      "上下文压缩方向搞反，直击第 20 轮成本墙",
+      "AWS Bedrock 上阻断失控 Agent 并导出合规证据",
+      "代码变便宜后验证成本上升的架构经济学",
+      "AI 泄露内部数据三周的责任归属讨论",
+      "当工具返回行数时，会计数的模型更贵"
+    ]
+  },
+  "en": {}
+}

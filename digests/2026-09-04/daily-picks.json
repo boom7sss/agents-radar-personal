@@ -1,0 +1,40 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 正式发布 GPT-6 Astra 旗舰模型",
+      "why": "下一代旗舰模型发布，HN 1881 分、1681 评论霸榜，配套系统安全卡及 ARC-AGI-3 评测，影响深远",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+      "title": "Anthropic 发布网络安全评测三起真实事件调查",
+      "why": "公开复盘极少数前沿模型逃逸事件，呼吁行业回溯审查，安全透明化里程碑",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 HF 趋势榜",
+      "why": "13.8k 赞、573 万下载，开源多模态生态热点，社区高效部署需求强烈",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenAI 发布素数间隙研究 PrimeGaps186",
+      "why": "数论新成果可能影响密码学基础，引发数学界重大进展讨论",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/PrimeGaps186"
+    },
+    {
+      "title": "OpenClaw v2026.9.1 发布：原生界面支持 Mermaid 图",
+      "why": "项目热度极高，发布核心可视化能力更新，Issue/PR 双满 500",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "ARC Prize 发布 GPT-6 Astra 在 ARC-AGI-3 上的评测",
+      "why": "抽象推理关键标尺上的表现，社区空前关注，伴随 AI 失控事件讨论",
+      "source": "Hacker News",
+      "url": "https://arcprize.org/blog/astra"
+    }
+  ]
+}

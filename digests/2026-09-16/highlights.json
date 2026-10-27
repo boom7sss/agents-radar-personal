@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态进入可靠性打磨期，聚焦回归bug与状态语义",
+      "Claude Code v2.1.273，规则契约失效引31条评论",
+      "Codex 连发4个alpha，Windows/WSL失败71评论",
+      "Gemini CLI 发布v0.60.0，子代理误报成功列为p1",
+      "Copilot CLI v1.0.85全面开放Vim模式",
+      "Qwen Code v0.23.5-preview.0，TUI崩溃React #185"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500 Issue更新、500 PR更新",
+      "无新版本，重心为Gateway内存泄漏与僵尸进程修复",
+      "PR #149913 修复旧版更新器提前报成功",
+      "PR #149741 Doctor迁移保留会话历史",
+      "PR #149971 阻止会话列表读取阻塞Gateway"
+    ],
+    "ai-trending": [
+      "Agent技能仓库同日多厂上榜，技能即插件成标准",
+      "colibri 纯C零依赖流式加载专家权重跑MoE",
+      "headroom 压缩上下文，JSON省60–95% token",
+      "ECC 面向多CLI的agent harness优化系统",
+      "Cloudflare 开源security-audit-skill多阶段审计技能"
+    ],
+    "ai-web": [
+      "OpenAI 新增1条business元数据，正文不可获取",
+      "Anthropic 本次增量新增0篇",
+      "已披露信息量显著低于常规水平"
+    ],
+    "ai-hn": [
+      "Hugging Face 向OpenAI索1亿美元算力赔偿（145分）",
+      "Anthropic 联创提议强制AI杀开关",
+      "Anthropic 博客：agentic coding正压垮CI",
+      "监管与伦理争议占据 HN 榜单近半"
+    ],
+    "ai-arxiv": [
+      "CoSQ：无需训练的选择性拒答与风险控制",
+      "LLM 上下文学习呈现信念状态几何结构",
+      "OPEN-1B 实现完全可审计的训练运行",
+      "研究对比上下文/参数/潜在表征注入知识",
+      "Agentic Societies Need a Social Harness"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 居首：15,332赞、766万下载",
+      "Qwen 社区量化版（unsloth GGUF等）同步冲榜",
+      "MiniMax-H3 5,362赞、LTX-2.5 4,048赞",
+      "Edge0-35B-A3B 2,980赞但下载仅2.7万"
+    ],
+    "ai-community": [
+      "Dev.to 主线：AI生成代码质量与验证",
+      "AI生成测试通过仍误导开发者",
+      "智能体学会钻测试空子，审查器成橡皮图章",
+      "三个月后AI代码维护账单显现"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.268，出口白名单回归集中爆发",
+      "Codex 单日多个 Rust 0.155.0-alpha 并发布 Python SDK 0.154.0",
+      "Qwen Code 发布 v0.23.3 稳定版与 TS SDK v0.1.12，含破坏性变更信号",
+      "OpenCode Issue #6231 达 57 评论、232 👍，热度最高",
+      "Gemini CLI 发布 v0.61.0-nightly.20260911，无重大变更",
+      "Pi 性能与压缩机制问题集中，10 条 Issue 加 3 条补充"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.4，高亮为从失败更新中恢复",
+      "P0 Issue #144712：npm 全局安装下更新卡在 global install swap",
+      "24 小时内 Issues 更新 455 条、PR 更新 500 条",
+      "合并/关闭 PR 与 Issue 约 383 条",
+      "修复 Mattermost 固定账号下模型菜单错显问题 #144880",
+      "升级路径与运行时稳定性仍是主要风险点"
+    ],
+    "ai-trending": [
+      "i-have-adhd 单日 +3882，位居榜首",
+      "github/spec-kit +985，Spec-Driven Development 走热",
+      "headroom 在工具输出与 RAG chunk 前置压缩省 token",
+      "vastsa/PI-Desktop +624，本地优先 Agent 运行时",
+      "obra/superpowers +732，Agentic skills 框架",
+      "ollama 星标 180,651，本地推理默认入口"
+    ],
+    "ai-web": [
+      "Anthropic 发布情报瞄准与传统武器能力评估研究",
+      "核保障分类器初步测试准确率 96%",
+      "Claude 完成费马大定理首个机器可验证证明",
+      "黎曼 ζ 零点下界从 41.6% 提升至 67.2%",
+      "Claude Code 上线六个月达 10 亿美元 run-rate",
+      "MCP 捐赠给 Linux 基金会下 Agentic AI Foundation"
+    ],
+    "ai-hn": [
+      "OpenAI Agents API 官方指南 275 分、154 评论，今日最高",
+      "OpenAI Navier-Stokes 成果含 Lean 4 形式化证明，167 分",
+      "Anthropic 负面舆情集中，威胁报告帖 207 条评论",
+      "GPT-Live-1 in the API 发布，39 分、34 评论",
+      "RTK 声称省 token，成本基准测试提出质疑"
+    ],
+    "ai-arxiv": [
+      "MoE 比稠密 Transformer 更易对重复数据过拟合",
+      "医学 LLM 研究 45 倍增长与临床证据滞后鸿沟",
+      "目标泄漏而非模型类别解释心血管筛查高精度",
+      "AdamX：余弦相似度驱动的自适应优化器",
+      "Augustinian BabyLM 检验指物定义能否教小模型词义",
+      "Thinking with Looped Flows 探索推理时算力投入"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 14,696 赞领跑，下载 7,563,763",
+      "MiniMax-H3 与 LTX-2.5 领跑视频生成赛道",
+      "GLM-5.3 与 GLM-5.3-Flash 同日上榜",
+      "DeepSeek-V4.1-Flash 点赞增速居前",
+      "Qwen3.8-27B GGUF 量化版下载达 11,339,637",
+      "27B 级去审查/量化变体集中上榜"
+    ],
+    "ai-community": [
+      "讨论聚焦 Agent 交接断裂与指令未真正执行",
+      "AI 代码审查与护栏成第二热点",
+      "HNSW ef_search 被指为 RAG 漏检真凶",
+      "TS Evidence Graph 用证据图强制指令执行",
+      "LangChain 清单式护栏，源自 Replit Agent 删数据事件",
+      "LLM 采样参数澄清教程受关注"
+    ]
+  },
+  "en": {}
+}

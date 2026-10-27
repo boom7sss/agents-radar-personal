@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex 24h 密集发布 9 个 Rust alpha",
+      "Claude Code 发布 v2.1.274，Windows 问题主导",
+      "Qwen Code 发 v0.24.0，含破坏性变更",
+      "生态进入可靠性与集成质量打磨期",
+      "Pi、OpenCode、DeepSeek TUI 集中接入新模型",
+      "Copilot CLI 发 v1.0.86-0/1/2，零 PR 动态"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 更新 500 Issues、500 PR",
+      "今日无新版本发布，重心转向发布验证",
+      "205 条 PR 合并/关闭，CI 与 Doctor 为主",
+      "P0–P1 崩溃与会话丢失问题密集",
+      "多个问题含复现源，可排队快速修复",
+      "发布类型证明与安全清单验证持续迭代"
+    ],
+    "ai-trending": [
+      "阿里 open-code-review 单日 +3290 star",
+      "Cloudflare 安全审计技能单日 +3606 star",
+      "腾讯 BrowserSkill 让 Agent 用真实浏览器 +1350",
+      "ECC 成 Agent harness 性能优化系统",
+      "headroom 压缩工具输出，JSON 场景省 60–95%",
+      "竞争焦点从造 Agent 转向能力与安全"
+    ],
+    "ai-web": [
+      "Anthropic 侧今日零新增内容",
+      "OpenAI 新增 57 条，全部为元数据",
+      "50 余条集中于恶意使用治理系列",
+      "新增失配报告框架等少量非系列条目",
+      "正文缺失，无法做实质技术判断",
+      "报告提醒连续零新增需区分故障与未发布"
+    ],
+    "ai-hn": [
+      "三值 LLM 突破 1.58-bit 障碍获 213 分",
+      "Claude 产品整合帖 225 分、222 评论居首",
+      "OpenAI 一次披露六起模型行为事件",
+      "GLM 自建推理基础设施引发 77 条评论",
+      "DeepSeek-v4.1 Flash KV Cache 压缩获关注",
+      "讽刺帖折射社区对安全叙事的疲劳"
+    ],
+    "ai-arxiv": [
+      "今日投稿最密集方向为 Agent 系统化落地",
+      "Tokeniser 解耦分析归因 BPE 与 UnigramLM",
+      "零阶方法用于 LLM 偏好对齐",
+      "MoE 专家高阶剪枝缓解内存瓶颈",
+      "架构干预可改变预训练 scaling 指数",
+      "用 Fisher-Rao 视角防合成数据模型崩溃"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 点赞 15,475、下载 745 万领跑",
+      "其 GGUF 量化版单周下载达 820 万",
+      "DeepSeek-V4.1-Flash 上榜，下载 39 万",
+      "Qwen3.8-Flash-Next 预告 Qwen 4 世代",
+      "GLM-5.3-Flash 下载 244 万表现稳定",
+      "MoE 与端侧推理成新标签热点"
+    ],
+    "ai-community": [
+      "实测 32 次迁移，旧代码复用率 0%",
+      "170 个规划目标重复犯同样 3 个错误",
+      "AI 代码修复的可验证性成最贵缺口",
+      "AGENTS.md 引发渐进式披露上下文讨论",
+      "工具调用从零讲解成 MCP 入门读物",
+      "Lobste.rs 前沿模型节奏讨论 35 条评论"
+    ]
+  },
+  "en": {}
+}

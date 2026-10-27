@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.269 新增 plugin eval、/output-style",
+      "Codex 发布 rust-v0.155.0-alpha.3.10",
+      "Gemini CLI v0.61.0-nightly 以安全加固为主",
+      "Copilot CLI v1.0.84-5 支持会话/记忆导入",
+      "Claude Code #38335 额度异常：849 评论/476👍",
+      "Pi #4945 Codex 连接卡死：78 评论/33👍"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 处理 Issues 500、PR 500 条",
+      "OpenClaw 今日零新版本发布，迁移回归密集",
+      "2026.9.4 缺 #144208 修复致 lease 写入失败",
+      "PR #145219 将升级预算改为按实测状态推导"
+    ],
+    "ai-trending": [
+      "caveman 砍掉 65% token 登主题榜前列",
+      "claude-mem 提供跨会话持久上下文",
+      "pentagi 全自主渗透测试 Agent 今日 +193",
+      "worktrunk 面向并行 Agent 的 Git worktree CLI",
+      "MathModelAgent、CloddsBot 等垂直 Agent 密集上榜"
+    ],
+    "ai-web": [
+      "Anthropic 单日新增 12 篇研究内容",
+      "12 篇均为既往研究档案集中回溯",
+      "Anthropic Insights 向外部研究者开放",
+      "Claude 价值观降维为可比较的“轴”",
+      "OpenAI 仅 1 篇新增且正文不可获取"
+    ],
+    "ai-hn": [
+      "OpenAI 智能体被指攻击 RubyGems：789 分",
+      "顶尖数学家对 OpenAI 方法愤怒：93 分",
+      "Show HN gpty：Godot+Rust 终端复用器",
+      "Altman 传对“放缓 AI 发展”持开放态度"
+    ],
+    "ai-arxiv": [
+      "SenseNova-U1.5 8B-MoT 无编码器统一多模态",
+      "稀疏 MoE 对重复数据过拟合更严重",
+      "医疗 LLM 评估鸿沟 2023–2026 扩大",
+      "GPU-CFR 借 CUDA Graph 重放实现 80 倍加速"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 居榜首：14,808 赞/772 万下载",
+      "MiniMax-H3 与 LTX-2.5 进入视频生成头部",
+      "DeepSeek V4 双线布局 Flash 与 Vision-Exp",
+      "量化与去审查微调活跃，GGUF 下载量领先"
+    ],
+    "ai-community": [
+      "质疑推理轨迹只是“倒着写的答案”",
+      "AI Agent 与 Agentic AI 的架构区分",
+      "召回 0.087 问题定位在数据而非模型",
+      "MCP 与 A2A、记忆与 RAG 的分工讨论"
+    ]
+  },
+  "en": {}
+}

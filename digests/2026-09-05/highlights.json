@@ -1,0 +1,63 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态聚焦 GPT-6-Astra/Fable 5 接入，模型选择器、多模型回退密集开发",
+      "头部工具高频发版：Claude Code v2.1.261、Codex rust-v0.153.4",
+      "三大共性问题：Windows 稳定性差、计费不透明、多代理可靠性存疑",
+      "社区反馈 GPT-6-Astra 智能提升但自主完成率下降（Codex #42937）",
+      "Codewhale (DeepSeek TUI) 发布 v0.9.12 正式版，ACP 协议仍待完善",
+      "Kimi Code CLI 活跃度低（仅 2 Issues），关注 IDE 渲染丢字问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 内 500 Issues/500 PRs，关闭 22 Issues、109 PRs",
+      "无新版本发布，但 P0/P1 Bug 存量较大（Windows 网关 #137813 等）",
+      "PR #138850 修复本地模型误触发全局 lean mode 及能力移除问题",
+      "PR #139020 修复父进程终止导致子进程失控/孤儿问题",
+      "核心维护者 steipete 等提交子进程生命周期、Control UI 插件发现大改"
+    ],
+    "ai-trending": [
+      "Agent Skills 爆发：mattpocock/skills 等 4 仓库日增 stars 超 5500",
+      "OpenClaw、Clawdbot 等单体 Agent 项目集体跌出 Trending 前五",
+      "skills 生态跨模型适配（Claude Code、Codex、Gemini CLI 等），平台中立化",
+      "magnitudedev/magnitude 日增 stars 391，本地推理服务器兼容主流 Agent",
+      "headroomlabs-ai/headroom star 68,975，Token 压缩省 20-95%",
+      "RL 类仓库显著减少，仅 DeepSeek-R1 相关，应用层投资降温"
+    ],
+    "ai-web": [
+      "Claude 11 天基本自主完成费马大定理首个完整 Lean 形式化证明",
+      "Anthropic 发布印度经济指数简报：印度占 Cluade.ai 用量 5.8%（全球第二）",
+      "印度人均使用量仅列全球第 101 位，显示新兴市场 adoption 仍存缺口",
+      "Anthropic 发布职业再培训 RCT 元分析：就业率仅提升 2-3 个百分点"
+    ],
+    "ai-hn": [
+      "费马大定理 Lean 4 形式化证明登 HN 榜首（625 分/389 评论）",
+      "GitHub 仓库 anthropics/fermats-last-theorem 获 113 分，Lean 专家审视方法论",
+      "Kevin Buzzard 团队承认 Anthropic 先完成形式化（Xena 项目博客）",
+      "CodeRabbit 实测 GPT-6 Astra 代码审查：增益、隐私与成本并存",
+      "Portal by Spotify 声称砍掉 Claude Code 90% token 用量"
+    ],
+    "ai-arxiv": [
+      "预注册审计揭示 LLM-as-a-judge 根本假设失败，动摇评测可靠性",
+      "S³T 框架（如有）首个无需监督的视频状态追踪",
+      "GRPO 隐藏偏差：奖励正确回答时无意强化不当推理",
+      "思维链可读性≠可解释性：实证挑战 CoT 忠实性假设",
+      "多家机构推进终端 Agent 环境生成（Terminal-Universe 等）",
+      "Gated DeltaNet 无需降精度即可承受 4-bit 量化，指导混合部署"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 断层领跑：周点赞 1.4 万、下载超 600 万",
+      "GGUF 版本累计下载破千万，量化竞争白热化",
+      "MiniMax-H3 与 LTX-2.5 双雄霸榜下载前十，视频生成大热",
+      "GLM-5.3 官方与 Uncensored 微调版同榜，Flash 版受青睐",
+      "围绕 Qwen3.8-27B 涌现至少 5 个去审查变体，形成生态现象",
+      "unsloth、DavidAU 等提供差异化 GGUF 量化方案"
+    ],
+    "ai-community": [
+      "GPT-6 Astra 安全影响成 Dev.to 最热趋势：从威胁模型视角解读",
+      "'10,000 Agents, Zero Tokens' 探讨绕过 LLM 的架构设计",
+      "FreeLLMAPI 聚合 34 家免费 LLM 提供商，统一 OpenAI 兼容接口",
+      "实战帖分享 Agent token 成本优化与生产落地失败剖析"
+    ]
+  },
+  "en": {}
+}

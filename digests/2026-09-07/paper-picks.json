@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "Attention-guided super-resolution of 4D flow MRI in carotid arteries",
+      "takeaway": "用注意力机制和多尺度特征增强4D血流MRI，提升颈动脉血流动力学生物标志物评估精度。",
+      "why": "120名患者、240例狭窄数据的较大规模训练集，直接针对颈动脉临床评估的低分辨率瓶颈。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04891v1"
+    },
+    {
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "takeaway": "从视频生成含数百物体的组合式3D场景，输出共享世界坐标系下的独立物体网格集合。",
+      "why": "解决严重遮挡场景下组合式重建难题，面向游戏、AR/VR、仿真与机器人等明确下游应用。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.05416v1"
+    },
+    {
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "takeaway": "拓扑感知扩散Transformer，从绑定3D资产和文本提示合成任意骨架的关节运动，免测试时优化。",
+      "why": "SIGGRAPH Asia 2026接收，解决自动骨骼绑定规模化后运动生成瓶颈，无需逐骨架微调。",
+      "venue": "SIGGRAPH Asia 2026",
+      "url": "http://arxiv.org/abs/2609.05415v1"
+    },
+    {
+      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+      "takeaway": "通过改造的CRT电视和物理天线操控，让用户具身化体验扩散模型的去噪生成过程。",
+      "why": "XAIxArts 2026论文，以过去/现在/未来物种三频道叙事融合生态主题，体现AI艺术交互新范式。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.05404v1"
+    }
+  ]
+}

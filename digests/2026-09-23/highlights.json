@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.280 接入 Opus 5.5，含50条更新",
+      "OpenAI Codex 发布 rust-v0.156.1 热修复并修沙箱回归",
+      "Gemini CLI v0.62.0-nightly 接入 Gemini 3.8 Flash",
+      "Pi v0.87.1 同时支持 Opus 5.5 与 GPT-6",
+      "Qwen Code 发布 v0.24.4 正式版及预览/nightly",
+      "GitHub Copilot CLI 发 v1.0.88，聚焦 OOM 与凭据链路"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时 Issues 与 PR 各更新500条",
+      "修复 SQLite WAL 无限增长致网关启动失败",
+      "MCP 初始化超时崩溃进入 P1/P0 修理队列",
+      "合并 PR #156357 复用上游 TLS 信任与连接",
+      "关闭 Issue #156009，插件构建产生44GB临时文件",
+      "待评审：子代理并发隔离 PR #156381"
+    ],
+    "ai-trending": [
+      "google/ax 单日 +2305 stars 登顶 Trending",
+      "headroom 压缩工具输出，JSON 可减 60-95% token",
+      "codebase-memory-mcp 宣称减少 99% token 用量",
+      "BuilderIO/agent-native 单日 +609 stars",
+      "obra/superpowers 单日 +528 stars 做 skills 框架",
+      "金融场景簇集：TradingAgents、OpenBB、PanWatch"
+    ],
+    "ai-web": [
+      "OpenAI 新增3条独立条目，全为元数据模式",
+      "出现 introducing-gpt-6-sol-and-luna 路径",
+      "另有 better-prompt-caching-for-gpt-6 条目",
+      "Anthropic 侧当日新增为 0 篇"
+    ],
+    "ai-hn": [
+      "Claude Opus 5.5 登顶：1603 分 / 989 评论",
+      "GPT-6 Sol and Luna：1594 分 / 766 评论",
+      "GPT-6 Astra 宣称破解 2005 年未解 Enigma 消息",
+      "Artificial Analysis 发布 Opus 5.5 价格与性能分析",
+      "Jev in 25 Lines of Python：253 分 / 84 评论"
+    ],
+    "ai-arxiv": [
+      "Agensh 扩展至 1024 个 agent 的多智能体编排",
+      "CliffCompaction：长程编码智能体上下文压缩",
+      "Flash-dLLM：扩散 LLM 的 IO 感知 KV 缓存与并行解码",
+      "SWE-Serve：生产推理服务基准",
+      "A2M 聚焦 MCP 生态安全",
+      "研究反思：编译率作漏洞修复指标不可靠"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 16106 赞登顶 Hugging Face 榜",
+      "MiniMax-H3 获 5616 赞 / 366 万下载",
+      "LTX-2.5 视频生成获 4851 赞",
+      "Ternary-Bonsai-2-27B-gguf 单周下载达281万",
+      "DeepSeek-V4.1-Flash 获 3642 赞",
+      "Qwen3.8-Flash-Next 主打 Flash 级推理效率"
+    ],
+    "ai-community": [
+      "Lobste.rs：ChatGPT 经广告采集器获知跨站行为",
+      "Dev.to：AI 产出代码增多但开发者担责更重",
+      "复盘 1200 个 agent 的 Hugging Face 事件",
+      "将 2490 次 agent 测试削减至 206 次保同覆盖",
+      "讨论如何防止 LLM 在代码中泄露 API 密钥",
+      "llm-guard 归档后出现确定性替代方案"
+    ]
+  },
+  "en": {}
+}

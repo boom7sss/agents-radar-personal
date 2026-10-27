@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D v5.10.2 修复 AI 推理与数据集适配",
+      "why": "修正 ONNX wasm 路径解析与未编号数据集适配，影响边缘侧 AI 集成稳定性",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.10.2"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos",
+      "takeaway": "面向随意拍摄的动态视频，快速稳健估计相机内参与运动结构。",
+      "why": "CVPR 2025 Best Paper Honorable Mention，实用场景验证充分。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "Navigation World Models",
+      "takeaway": "以世界模型预测导航未来观测，支撑具身智能体的路径决策。",
+      "why": "CVPR 2025 Honorable Mention，LeCun等参与，具身方向强信号。",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver",
+      "takeaway": "用重建式视觉语言动作模型提升机器人对目标区域的感知精度。",
+      "why": "AAAI-26官方Outstanding Paper Award，VLA方向获奖级工作。",
+      "venue": "AAAI",
+      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+    },
+    {
+      "title": "LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modality Representation",
+      "takeaway": "把大语言模型接入CLIP文本侧，解锁更强的跨模态表征能力。",
+      "why": "AAAI-26官方Outstanding Paper Award，多模态表征代表作。",
+      "venue": "AAAI",
+      "url": "https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/"
+    }
+  ]
+}

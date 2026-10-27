@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "nnFoundation: 3D Foundation Models for Radiology",
+      "takeaway": "在2.1M例CT/MRI/PET体数据上预训练卷积与Transformer双路3D放射基础模型",
+      "why": "覆盖125个数据集、跨108项下游任务评估，规模与广度明确，检验域偏移鲁棒性",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.26924v1"
+    },
+    {
+      "title": "On the Diffusibility of High-Dimensional Latents",
+      "takeaway": "分析表征自编码器微调后潜空间维度收缩，指出高维流匹配需拟合正交噪声方向",
+      "why": "ECCV 2026接收并附项目页，揭示生成建模中潜几何与生成质量的因果联系",
+      "venue": "ECCV",
+      "url": "http://arxiv.org/abs/2609.28473v1"
+    },
+    {
+      "title": "Recursive Uncertainty-Gated Image Registration for Learning-based Algorithms",
+      "takeaway": "用学习不确定性门控迭代精修形变场，仅在难配准区域集中更新",
+      "why": "结合传统算法鲁棒性与深度学习效率，针对域移样本的OOD配准问题给出方案",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28081v1"
+    },
+    {
+      "title": "GenMC: Real-Time Generative Monte Carlo Surrogate for Quantitative Photoacoustic Imaging",
+      "takeaway": "条件GAN代理蒙特卡洛光传输，从组织解剖与光学属性估计光通量分布",
+      "why": "针对光声定量中谱着色误差，以生成代理替代昂贵MC模拟，面向实时成像",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28261v1"
+    },
+    {
+      "title": "HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning",
+      "takeaway": "利用RSGR与反向RSGR双曝光扫描，兼顾动态范围平衡与HDR光序列重建",
+      "why": "针对CMOS卷帘快门几何畸变与动态范围压缩，提出可落地的双扫描采集方案",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.28439v1"
+    }
+  ]
+}

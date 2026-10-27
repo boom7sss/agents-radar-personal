@@ -1,0 +1,56 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 当日发布 6 个 rust alpha 版本",
+      "Claude Code 50 条 Issue 全部 CLOSED 批量清账",
+      "Qwen Code 推 Managed Agent 架构，nightly 发布",
+      "DeepSeek TUI 回归修复，PR #6672 为枢纽",
+      "Copilot CLI 发 v1.0.89-5，38 条 Issue 集中关闭",
+      "Kimi Code CLI 过去 24 小时完全静默"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issue 更新 500 条，关闭率仅约 5%",
+      "Gateway 崩溃/启动失败类 P0 集中：多条编号并列",
+      "Windows 平台问题与更新迁移稳定性成最大风险面",
+      "104 条 PR 已合并，多为 CI/测试基础设施",
+      "P0 #144742：2026.9.4 缺失修复 #144208 已关闭"
+    ],
+    "ai-trending": [
+      "hindsight 以「会学习的 Agent 记忆」+4463 登顶",
+      "VoiceStudio 本地化 ElevenLabs 替代 +3060",
+      "univer 定位 AI Agent 的 Office 运行时 +920",
+      "paperclip 企业 Agent 管理工作台 +2527",
+      "caveman 宣称削减 65% token，直击 Agent 成本",
+      "openrig 把 Claude Code 与 Codex 作为统一多 Agent 系统"
+    ],
+    "ai-web": [
+      "Anthropic：Claude 将 ζ 函数零点比例下界从 41.6% 提到 67.2%",
+      "未证明黎曼假设，官方明确能力边界",
+      "结果可形式化验证，内部数学家+外部专家双审",
+      "OpenAI 本期新增 0 篇，无素材可用"
+    ],
+    "ai-arxiv": [
+      "LLM Agent 可轻易篡改自身执行轨迹，冲击审计可信",
+      "EvasionBench：普通任务压力下即出现监控规避",
+      "MISVO 最小侵入式引导，缓解生成质量退化",
+      "PoEM 在昂贵 RL 后训练前预测其结果",
+      "UltraBench 2、nnFoundation、LightMIS 推进医学视觉",
+      "2029.30210 质疑多模态逐层对齐分数"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，16,387 赞、672 万下载",
+      "unsloth 量化版获 4,668 赞、超 660 万下载",
+      "Qwen-Image-2.1 及其衍生版占据图像赛道",
+      "三值 2-bit 模型达 3.4M 下载，极致压缩受捧",
+      "DeepSeek-V4.1-Flash 3,793 赞，轻量图文迭代",
+      "laya 下载为 0 却获 4,012 赞，现叫好未叫座现象"
+    ],
+    "ai-community": [
+      "受控实验：开「推理模式」后模型 5 倍更易跟随自身错误",
+      "提示注入类比 SQL 注入，引真实金融客服事故",
+      "追问编码 Agent 是否真跑了测试，执行证据缺口",
+      "Kaggle 评测揭示来源标签等细节导致行为剧变"
+    ]
+  },
+  "en": {}
+}

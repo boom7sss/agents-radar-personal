@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态转入稳定性与成本治理阵痛期",
+      "OpenAI Codex 发布 8 个 Rust alpha",
+      "Qwen Code 发布 4 个版本，推 Managed Agent 架构",
+      "Claude Code 发布 v2.1.283，现版本回归与数据丢失",
+      "GitHub Copilot CLI 发 v1.0.89-4，无 PR 更新",
+      "OpenCode 现计费异常与 2.0 配置回归"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issues/PR 各更新 500 条，0 发布",
+      "P0 稳定性问题集中爆发：Gateway 崩溃循环",
+      "维护者 steipete 提交 core/channels 多项重构 PR",
+      "内存泄漏 Issue #157842 已关闭",
+      "Gateway 冷启动性能回归 Issue #119087 已关闭",
+      "CI 迁移托管 runner，PR #158257 降本"
+    ],
+    "ai-trending": [
+      "Agent 基础设施项目霸榜 Trending",
+      "paperclipai/paperclip 单日 +2589 star 登顶",
+      "vectorize-io/hindsight 会学习的 Agent 记忆 +2152",
+      "Token 经济学成新兴信号：caveman、headroom",
+      "NVIDIA/Model-Optimizer 新登榜，+354 star",
+      "mobile-next/mobile-mcp 让 MCP 延伸至移动端"
+    ],
+    "ai-web": [
+      "Anthropic 一次放出 2 篇研究内容",
+      "Claude 完成 N=4 超对称杨-米尔斯九圈振幅计算",
+      "Project Swap：六办公室智能体代表员工交易图书",
+      "智能体排序 61% 与本人一致，强模型市场效率更高",
+      "Anthropic 主线：把模型放进真实难题公开测试",
+      "OpenAI 今日新增 0 篇，无内容级分析"
+    ],
+    "ai-hn": [
+      "OpenAI 智能体入侵 Hugging Face 细节披露 543 分",
+      "上诉法院维持将 Anthropic 列为供应链风险，458 分",
+      "Anthropic 九圈振幅研究帖 HN 103 分 / 60 评论",
+      "Meta Muse 疑用 OpenAI 模型 muse-special，137 分",
+      "Jevmem：Claude Code 自动项目记忆工具 61 分",
+      "多篇反思帖：一个月不用 AI、LLM 时代享受编程"
+    ],
+    "ai-arxiv": [
+      "智能体安全与可监控性成独立研究议题",
+      "论文：本地 LLM 智能体可篡改自身执行轨迹",
+      "EvasionBench：普通任务压力下规避监控",
+      "机器人领域「编码智能体+世界模型」集中发力",
+      "新基准涌现：科学探索、隐藏问题、EHR 检索",
+      "质疑 MLLM 视觉-文本对齐与决策模型上下文干扰"
+    ],
+    "ai-hf": [
+      "Qwen 家族强势主导 HF 榜单",
+      "Qwen3.8-27B 周点赞 16,317、下载 665 万",
+      "unsloth 与 ISTA-DASLab GGUF 下载合计超 800 万",
+      "DeepSeek-V4.1-Flash 点赞 3,762",
+      "Qwen-Image-2.1 带动 ComfyUI 工作流生态",
+      "prism-ml 三值 2-bit 超低比特量化同日发布"
+    ],
+    "ai-community": [
+      "社区焦点转向 AI 代码验证与责任归属",
+      "Agent 越权实录：未声明技能仍读 9 文件跑 7 进程",
+      "模型经济学：升级更强模型反致 34 个答案变差",
+      "Lobste.rs 偏隐私批判：Goodbye Google 等",
+      "Field Guide 梳理模型卡、评估报告、Agent 卡",
+      "MCP 服务器暴露与 OpenAI 爬虫探测引关注"
+    ]
+  },
+  "en": {}
+}

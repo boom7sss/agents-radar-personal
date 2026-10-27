@@ -1,0 +1,54 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 工具生态功能快速迭代与稳定性承压并存，头部工具24小时合计发布10+版本",
+      "Claude Code、Codex等出现回归问题，测试覆盖不足成为系统性隐忧",
+      "代理上报成功但实际未完成任务等p1缺陷，成影响信任首要障碍",
+      "Codex今日有14条PR全部合并，为最活跃PR侧",
+      "会话生命周期管理与代理状态可信度是当前普遍核心短板"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.9.3，引入隔离候选状态预演机制，提升更新安全性",
+      "v2026.9.2存在reply运行故障及dashboard冲突等遗留问题",
+      "6条P0/P1问题集中在auth-provider与message-loss领域",
+      "日均1000次Issue/PR更新，维护者评审带宽或成瓶颈"
+    ],
+    "ai-trending": [
+      "Agent Harness概念爆发，ECC以日增1,427 stars登顶",
+      "腾讯teamai-cli今日+1,083 stars，让团队原生具备AI协作能力",
+      "社区转向构建跨Agent生态层/中间件，十数个技能类项目崛起",
+      "TradingAgents多智能体金融交易框架今日+506 stars",
+      "obra/superpowers今日+452 stars，Agentic技能框架受关注"
+    ],
+    "ai-web": [
+      "Anthropic指控DeepSeek等三企业以24,000欺诈账户发动1600万次蒸馏攻击",
+      "Anthropic将非法蒸馏定义上升至国家安全风险，呼吁监管层限外",
+      "Anthropic分析832个被封禁账号并映射MITRE ATT&CK框架"
+    ],
+    "ai-hn": [
+      "OpenAI纳维-斯托克斯千禧年难题解决方案引社区激烈质疑",
+      "Anthropic研究员Jacob Coxon公开辞职警告AI存在风险",
+      "OpenAI ChatGPT Images 2.5发布，用户抱怨审核收紧与付费墙"
+    ],
+    "ai-arxiv": [
+      "TANGO首个将VLA模型引入人形机器人全身运动控制",
+      "SPINE框架评估多轮持续压力下LLM谄媚失败行为",
+      "Procedural Graphs将过程知识提炼为自演化执行图",
+      "MeClear通过博弈论实现长程智能体记忆清理",
+      "新论文反驳RoPE是Attention Sink主因，影响低比特量化"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B成最大热门，获14,460赞与670万下载",
+      "Qwen发布Qwen3.8-Flash-Next实验版，预告qwen4_exp",
+      "MiniMax-H3以18亿参数破解视频扩散模型算力瓶颈",
+      "GLM-5.3系列MoE-DSA架构新模型下载量超47万",
+      "MiniCPM5-2B以2B规模主打高性价比，兼容llama架构"
+    ],
+    "ai-community": [
+      "社区热议AI是否让开发者变懒，成今日最热讨论帖",
+      "开发者30天100% AI写码实验，直观呈现全AI编码崩坏点",
+      "AI实验室切断对Cursor等编辑器访问，成未被定价的平台风险"
+    ]
+  },
+  "en": {}
+}

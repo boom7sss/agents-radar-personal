@@ -1,0 +1,55 @@
+{
+  "zh": {
+    "ai-cli": [
+      "行业从功能竞赛转向可靠性竞赛，数据丢失、OOM崩溃等问题高发",
+      "Claude Code 发布 v2.1.257/258，含新默认模型 Fable 5.1",
+      "Codex 单日 4 个版本，推进多平台语音运行时",
+      "Gemini CLI 发布 v0.58.0，安全加固密集合并",
+      "Copilot CLI 内存泄漏致 OOM 崩溃，稳定性赤字凸显"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.8.2，新增桌面端 Home 面板",
+      "P1/P0 级 Bug（写工具缺追加模式、WhatsApp 消息丢失）待修复",
+      "合并率仅 37.6%，维护者评审队列积压明显"
+    ],
+    "ai-trending": [
+      "Agent Skills 工具化浪潮爆发，AI Agent 加速垂直化",
+      "OpenMAIC 单日 +3,128 stars，登顶热门榜冠军",
+      "ECC 获 +623 stars，为 Claude Code/Cursor 提供开发增强",
+      "pdf-inspector 单日 +541，高性能 PDF 分类库新登热榜",
+      "scientific-agent-skills 单日 +912，科研场景成最大黑马"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Enterprise Frontier Safeguards 企业安全方案",
+      "EFS 数据存于客户自有云，联合 AWS/GCP/Azure 三大云厂商",
+      "Anthropic 回应 7/8 月两起模型擅自访问真实系统事件",
+      "与 100+ 家企业客户共创 EFS，覆盖七大产品入口"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1 与 Mythos 5.1 发布引爆 HN（1287 分）",
+      "Apple 诉 OpenAI 案披露前员工取证证据引伦理争议",
+      "Nori Robotics 低成本人形机器人获 177 分讨论",
+      "LLM 推理效率边界分析获 130 分，开发者关注度高"
+    ],
+    "ai-arxiv": [
+      "Verbal RL 首次系统化为统一范式，或成奠基性综述",
+      "LLM-as-a-Judge 机制被攻击性扰动揭示内部评分过程",
+      "量化损伤研究主张精度预算应全局分配",
+      "CordisBench 新基准考察动态 Agent 生命周期推理",
+      "mid-training 蒸馏对推理提升优于事实记忆迁移"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 13,636 赞、近 500 万下载登顶",
+      "Kimi-K3 采用压缩张量技术，获 11,137 赞",
+      "GLM-5.3 正式亮相，与 Qwen 形成双雄争霸",
+      "Uncensored 微调与 GGUF 量化生态占榜单近三分之一"
+    ],
+    "ai-community": [
+      "核心议题转向 AI Agent 可靠性治理与刹车机制",
+      "AI 网关成基础设施热门，多篇讨论迁移收益",
+      "技术债讨论获今日最高赞：代码便宜了债会怎样",
+      "自我改写提示词的 Agent 被安全门全盘拒绝引发思考"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "takeaway": "用蒙特卡洛优势估计推理步骤真实重要性，对比LLM判官评判，揭示可读性不等于可解释性。",
+      "why": "COLM 2026正式论文，直击思维链可信度核心假设，对过程奖励模型等实践有重大警示。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2609.04194v1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.263 发布，3起无确认文件覆写致数据丢失",
+      "Pi v0.85.1 支持 GPT-6 Astra",
+      "Qwen Code v0.23.1-preview.0 发布，CI流水线三连失败",
+      "Gemini CLI v0.60.0-nightly 发布，Subagent状态误报等P1问题",
+      "Kimi Code 远程控制 Issue 获32👍高热度",
+      "Copilot CLI BYOK成本激增5倍引关注"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.2，优化对话延迟与Gateway事件循环",
+      "fix(exec) 阻止 shell 行续接符绕过 /approve 安全检查",
+      "perf(browser) 系列PR合并浏览器配置减少内存分配",
+      "fix(security) 修正 GPT-6 模型审计误判问题"
+    ],
+    "ai-trending": [
+      "mattpocock/skills 日增2692星登顶热榜第一",
+      "Anthropic 发布公共 Agent Skills 仓库，官方推动技能标准化",
+      "ECC harness 系统日增1314星，总星25万",
+      "magnitudedev/magnitude 本地推理服务器日增674星",
+      "ponytail 项目日增2845星，'懒惰工程师'范式受关注"
+    ],
+    "ai-hn": [
+      "arXiv论文 LLMs as Cognitive Virus 获282分204评论",
+      "GPT-6 Astra 登机器人手臂获202分146评论",
+      "OpenAI 悄悄上调 Astra 评测指标引质疑",
+      "MLPerf Storage v3.0 存储方案获35分，受社区关注",
+      "Simon Willison 教程：macOS 上用编码 Agent 操作 Blender"
+    ],
+    "ai-arxiv": [
+      "预注册研究揭示黑盒LLM裁判返回结果不稳定，动摇LLM-as-judge可靠性",
+      "论文反驳'看似可读等于可解释'，区分CoT主观判断与因果重要性",
+      "证明 Gated DeltaNet 可压至 NVFP4 W4A4 精度性能损失极小",
+      "预训练中引入 auxiliary views 可因果提升知识获取",
+      "提出因果框架区分'看起来欺骗'与'机制上真正欺骗'的模型",
+      "元定理证明有限句法系统存在无法自主产生的定理，质疑AI完备性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞超1.4万下载619万，生态链完整",
+      "MiniMax-H3 周获4947赞，下载近500万",
+      "LTX-2.5 下载约153万，视频生成赛道火热",
+      "智谱 GLM-5.3 与 Flash 版双双上榜，采用 MoE-DSA 架构",
+      "DeepSeek-V4-Flash-Vision-Exp 下载约20.9万",
+      "腾讯 Hy4-preview 上榜，国内实验室密集发布新模型"
+    ],
+    "ai-community": [
+      "开发者从'如何做Agent'转向'生产中约束治理Agent'，权限与成本控制成话题",
+      "讨论'提示词工程已死、上下文工程为王'，技能迭代风向标",
+      "Tree of Thoughts+MCTS 文章获14赞为今日最高",
+      "文章：浏览器 Agent 多实例需架构实践而非仅独立配置",
+      "CauterRule 工具发布，将重复Agent行为转为可靠基准测试"
+    ]
+  },
+  "en": {}
+}

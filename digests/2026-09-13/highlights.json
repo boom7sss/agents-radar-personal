@@ -1,0 +1,49 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.270 回归修复",
+      "Claude Code 多账号请求成最热议题（246 评论）",
+      "Codex 本窗口更新 50 Issues / 22 PR，聚焦 Windows 沙箱",
+      "Gemini CLI 发 v0.61.0-nightly，无功能变更",
+      "Qwen Code 发 cua-driver-rs v0.20.6 与 v0.23.3-nightly",
+      "DeepSeek TUI 维护者集中提交运行时能力提案"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 Issues/PR 各更新 500 条",
+      "Swarm 子智能体修复分批落地，29 项聚焦修复已合并",
+      "微信渠道热重载后回复失效 P0 bug 获修复 PR",
+      "维护者 steipete 单日提交大量修复 PR"
+    ],
+    "ai-trending": [
+      "colibri：纯 C 零依赖 MoE 推理引擎（+652）",
+      "headroom 压缩上下文，JSON 场景省 60–95% token",
+      "caveman 技能削减 Claude Code 约 65% token",
+      "agent-skills：AI 编码 Agent 技能注册表（+215）",
+      "alibaba/open-code-review 混合架构代码审查（+264）",
+      "pentagi 自主渗透测试 Agent（+613）"
+    ],
+    "ai-hn": [
+      "Dario Amodei 呼吁放慢 AI 发展，多版本登首页",
+      "Sam Altman 称 2026 年不宜让 OpenAI 上市",
+      "Ask HN：默认模型选型讨论（57 分 / 97 评论）",
+      "Apple 第三代 Foundation Models 引隐私争议",
+      "Norton Neo AI 浏览器讨论（24 分 / 44 评论）"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：14,907 赞、776 万下载",
+      "Qwen3.8-27B GGUF 量化版下载破 1,100 万",
+      "MiniMax-H3 视频生成 5,216 赞、482 万下载",
+      "Lightricks LTX-2.5 覆盖文/图/视频生视频",
+      "DeepSeek 推出 V4.1-Flash 与 V4-Flash-Vision-Exp",
+      "Edge0-35B-A3B 用 mlx 格式面向端侧推理"
+    ],
+    "ai-community": [
+      "AI 互审 30 天仍漏掉人类 5 分钟发现的 bug",
+      "4,768 次 LLM 运行：超时、挂起与成本加固复盘",
+      "AI Agent 消息板遭非人类垃圾信息攻击",
+      "争议贴：Vibe Coding 不是问题，称其为工程才是",
+      "以删减指令实现技能演进的反直觉观点"
+    ]
+  },
+  "en": {}
+}
