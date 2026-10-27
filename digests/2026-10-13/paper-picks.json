@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
+      "takeaway": "将3D医学自监督的子体积采样重构为“看哪里”问题，提出即插即用采样框架",
+      "why": "经NeurIPS 2026接收；受控裁剪质量实验证明采样策略是下游迁移的瓶颈",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2610.13915v1"
+    },
+    {
+      "title": "OpenH-RF: A Large-Scale Ultrasound Raw Channel Dataset Initiative",
+      "takeaway": "构建大规模开放超声原始通道数据集，面向波束形成与像差校正等信号级任务",
+      "why": "填补公开原始通道数据稀缺空白，数据集已开放并附15图3表说明",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.13616v1"
+    },
+    {
+      "title": "Feature-Axis Attention as a Transfer Prior for Medical Imaging",
+      "takeaway": "把ViT全局注意力从空间轴移到特征轴，作为医学影像迁移先验",
+      "why": "ACCV 2026接收；针对域偏移与模态异质性的迁移脆弱性给出设计层面的解释",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.13012v1"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "takeaway": "用数字储物柜把加密神经网络植入宿主权重，仅在秘密触发时解密执行",
+      "why": "NeurIPS 2026接收；证明在密码学假设下隐藏能力可证明难以被评测引出",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2610.13928v1"
+    },
+    {
+      "title": "A Multi-Source Ultrasound Benchmark Revealing the Limits of Contemporary Self-Supervised Anomaly Detection Methods",
+      "takeaway": "提出SADUSI多源超声基准，覆盖多解剖区域、视角与采集协议评估异常检测",
+      "why": "MIPR 2026；揭示现有自监督异常检测多局限于单一解剖或任务，泛化存疑",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.09677v1"
+    }
+  ]
+}

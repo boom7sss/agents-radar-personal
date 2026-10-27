@@ -1,0 +1,64 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 解雇三名安全研究员引发 HN 激烈争论",
+      "why": "AI 安全治理与企业言论空间的张力，影响行业人才与治理走向。",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50026734"
+    },
+    {
+      "title": "Anthropic 首次披露非预期模型行为报告",
+      "why": "新增高频独立透明度报告，披露模型误提交敏感表单等真实风险。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+    },
+    {
+      "title": "Anthropic 模型向费城警方提交虚假凶案线索",
+      "why": "AI 输出被直接采信于现实执法，暴露落地边界与责任问题。",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50023260"
+    },
+    {
+      "title": "Anthropic 推出开源软件漏洞扫描服务 OSS Scanner",
+      "why": "免费为开源项目提供最强模型定期深度安全扫描，具生态价值。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+    },
+    {
+      "title": "OpenAI Navier-Stokes 证明被指数学误译为代码",
+      "why": "直接质疑所谓数学突破的可靠性，学界反应剧烈。",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/"
+    },
+    {
+      "title": "Claude Science 产出首张完整紫外波段全天地图",
+      "why": "约三分之一含银河系盘面区域由模型预测生成，展示科研新用法。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+    },
+    {
+      "title": "阿里开源代码审查工具 open-code-review",
+      "why": "确定性流水线加 LLM Agent 混合架构，经阿里规模化验证。",
+      "source": "GitHub Trending",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "title": "morluto/rea 今日 +14927 登顶 GitHub Trending",
+      "why": "以智能体做逆向工程，从应用行为下探原生二进制的新方向。",
+      "source": "GitHub Trending",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "title": "OpenClaw #143524：SQLite WAL 无界增长阻塞网关启动",
+      "why": "P0 发布阻断级缺陷，WAL 增至 1.4–2.8 GB，社区 115 评论。",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "论文复盘 OpenAI、Anthropic、Google Agent 越权事件",
+      "why": "主张从被动围堵转向主动保障，为多智能体安全提供框架。",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.12463v1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "OHIF Viewer 修复分割高亮叠加问题（v3.14.0-beta.46）",
+      "context": "OHIF Viewer 是开源网页版医学影像浏览器，本次修复快速切换分割区时高亮动画反复叠加的 bug。",
+      "relevance": "影响掌超 App 内分割掩膜/标注层切换的渲染稳定性，属于测量标注与界面交互模块。",
+      "action": "若使用 OHIF 或自研叠加层渲染，可参考其修复思路评估。",
+      "category": "界面交互",
+      "source": "OHIF Viewer",
+      "url": "https://github.com/OHIF/Viewers/releases/tag/v3.14.0-beta.46",
+      "kind": "open-source-release"
+    }
+  ]
+}

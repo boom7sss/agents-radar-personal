@@ -1,0 +1,63 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 公布蒸馏攻击防御进展，点名智谱 GLM-5.3",
+      "why": "技术攻防与地缘竞争直接挂钩，为模型窃取提供量化防御",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
+    },
+    {
+      "title": "Anthropic 开设新加坡办公室并与新加坡政府签署 MOU",
+      "why": "安全叙事加政府背书，亚太第五据点落子",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
+    },
+    {
+      "title": "Anthropic 工程博客：自研版本控制系统 Scion",
+      "why": "披露日合并量五个月增十倍，官方给出工程侧自我加速证据",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+    },
+    {
+      "title": "OpenAI 工程师涉嫌在会议室安装窃听设备被捕",
+      "why": "头部实验室内部安全事件，引发人员审查讨论",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "17,669 赞断层第一，Qwen 家族主导今日榜单",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Lightricks LTX-2.5 视频生成模型热度爆发",
+      "why": "7,723 赞、超 182 万下载，视频生成赛道焦点",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "论文提出 Self-Evolving Agent Harness 自进化脚手架",
+      "why": "冻结权重下自改提示与工作流，系统化表述智能体自进化",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2610.18813v1"
+    },
+    {
+      "title": "OpenClaw 出现 SQLite WAL 无限增长与 gateway 启动阻塞",
+      "why": "关键路径数据库问题积压，项目健康度承压",
+      "source": "OpenClaw 生态日报"
+    },
+    {
+      "title": "开源基准 Parsimony 量化 AI 为代码库新增多少代码",
+      "why": "切中 AI 编码缺乏质量度量的痛点，可量化对比",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://parsimony.lasu.dev/"
+    },
+    {
+      "title": "context-mode 单日新增 946 星，沙箱化工具输出",
+      "why": "上下文工程成 Agent 基础设施热点，直击 Token 成本",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/mksglu/context-mode"
+    }
+  ]
+}

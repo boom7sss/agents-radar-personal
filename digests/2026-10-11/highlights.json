@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "仅 OpenCode v1.19.0、Qwen Code v0.25.1-preview.2 发布新版本",
+      "Windows 沙箱与跨平台可靠性成普遍阻断问题",
+      "Codex 11 条 PR 全部由 bot 关闭，无正式发布",
+      "Gemini CLI 性能 PR 基准 291.95ms 降至 10.26ms",
+      "OpenCode #8501 获 244 赞，全站最高",
+      "上下文压缩与长会话记忆成竞争焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.1，含 3055 commits",
+      "OpenClaw 待合并 PR 380 条，积压压力显著",
+      "多个 P0 级 ux-release-blocker Issue 仍未修复",
+      "steipete 提交大量重构与修复类 PR",
+      "SQLite/WAL 膨胀、Gateway 崩溃为热点问题",
+      "PR #169029 修复 doctor 畸形 UTF-8 memory"
+    ],
+    "ai-trending": [
+      "morluto/rea 单日 +25793 stars，做 agent 逆向工程",
+      "上下文压缩工具密集上榜：context-mode、headroom、caveman",
+      "mattpocock/skills 单日 +1736 stars，技能包开源",
+      "Anthropic 官方知识工作插件与社区技能包同日上榜",
+      "caveman 以原始人说话削减 65% token",
+      "headroom 压缩工具输出，JSON 省 60–95% token"
+    ],
+    "ai-hn": [
+      "Anthropic 政策争议帖 121 评论成最大争论场",
+      "500B token 让 AI Agent 反编译 FPS 游戏，90 分 70 评论",
+      "Anthropic 模型向警方提交虚假谋杀线索",
+      "Tom Brown 借 GOP 关系促成 SpaceX 算力大单",
+      "Nadella 称所有模型都已被攻陷",
+      "Littleguys 将多个编码 Agent 收进菜单栏"
+    ],
+    "ai-arxiv": [
+      "METR 时间视界指标统计效度检验论文",
+      "4-bit AdamW 优化器状态量化重新设计",
+      "白盒探针检测欺骗与未言明欺骗，迄今最大数据集",
+      "单一 Transformer 块多深度循环匹配全深度精度",
+      "复盘 OpenAI、Anthropic、Google 智能体安全事件",
+      "智能体种群协作起飞阈值定量框架"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 单周 17,461 赞、684 万下载，主导榜单",
+      "Qwen3.8-Flash-Next 获 6,095 赞被二次创作最多",
+      "deepseek-ai/DeepSeek-V4.1-Flash 获 4,338 赞",
+      "Lightricks/LTX-2.5 获 7,214 赞，视频生成领跑",
+      "ISTA-DASLab GSQ-RCO 混合精度 GGUF 系列",
+      "无审查与 abliterated 模型占据显著下载份额"
+    ],
+    "ai-community": [
+      "12/13 模型知道新名字却仍写旧名，26 赞",
+      "模型该弃答却产生幻觉的失败模式讨论",
+      "给 9 个模型销毁按钮考察 Agent 工具使用判断",
+      "RAG 还是微调是错误提问，架构选型反思",
+      "8-bit 量化单个离群权重可毁掉整个模型",
+      "Lobste.rs 关注字节级语言模型与 Burn 版本更新"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Pi v1.2.0 正式发布，其余工具无稳定版",
+      "Claude Code 嵌套 subagent 编排失控",
+      "Codex Windows daemon 终端闪烁 152 评论",
+      "Gemini CLI 发 v0.65.0-nightly，子代理误报成功",
+      "OpenCode Snapshot 仓库膨胀至 15 GB",
+      "Qwen Code Managed Agent 双路径架构 57 评论"
+    ],
+    "ai-agents": [
+      "OpenClaw 连发 beta.2 / beta.3，聚焦更新恢复",
+      "更新交接失败卡在 update-recovery-pending",
+      "内存泄漏、SQLite 膨胀等 P0/P1 长跑问题持续",
+      "Issues 关闭率 43%、PR 待合并仍积压 294 条"
+    ],
+    "ai-trending": [
+      "morluto/rea 单日 +54706 stars 登顶双榜",
+      "mksglu/context-mode 工具输出减少 98%",
+      "vercel-labs/skills 以 npx 分发 Agent 技能",
+      "airllm 称单张 4GB GPU 跑 2.8T 参数推理",
+      "headroom 压缩工具输出，JSON 省 60–95% token",
+      "本地化 VoiceStudio 主打完全本地版 ElevenLabs"
+    ],
+    "ai-web": [
+      "Anthropic 称蒸馏防御削减窃取数据 90%–99%",
+      "点名 Zhipu 在 GLM-5.3 开发中蒸馏 Claude",
+      "红队论文：9B 模型已在 8/9 种硬件上跑通推理",
+      "成立生命科学研究组，Claude 发现新酶系统",
+      "OpenAI 今日新增 0 篇内容"
+    ],
+    "ai-hn": [
+      "Codex CLI 默认装常驻自更新守护进程引反弹",
+      "OpenAI FFT 数学证明遭逐条审视 172 分",
+      "Anthropic 自我复制研究评论数超分数",
+      "蒸馏防御帖低分高议，质疑损害开放生态",
+      "Character.ai 申请破产、AI 音乐欺诈量刑"
+    ],
+    "ai-arxiv": [
+      "论文证明模型可构造性隐藏任意能力",
+      "VLM 空间表征低于词汇先验，提出 EICS 指标",
+      "RATED 提出执行动态的可靠性感知工具检索",
+      "X-AgentRed 对个人智能体做红队测试",
+      "检验机器能否进行非言语推理",
+      "条件扩散模型有限样本保证等理论推进"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：17,609 赞、711 万下载",
+      "Lightricks/LTX-2.5 以 7,552 赞冲上第二",
+      "Uncensored/GGUF 微调下载量普遍超原版",
+      "Cloudflare 以 clef / clef-flash 双模型入场",
+      "Aleph-Alpha Kolibri-1 主打 MoE 推理",
+      "LiquidAI d1-3B 延续高效多模态路线"
+    ],
+    "ai-community": [
+      "讨论 AI 代理认证通过后仍越界操作",
+      "质疑 SWE-bench 无法回答本地模型能否替代 Claude Code",
+      "高互动：AI 复刻付费应用后什么能存活",
+      "把生产数据交给 AI 构建应用是否可信",
+      "llamadart 填补 Dart/Flutter 本地嵌入空白"
+    ]
+  },
+  "en": {}
+}

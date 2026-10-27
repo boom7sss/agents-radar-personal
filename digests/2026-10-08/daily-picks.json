@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 向美国 Genesis Mission 三年投入 1.5 亿美元",
+      "why": "金额与政府色彩最强的 AI+科学承诺，覆盖 15+ 联邦机构",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+    },
+    {
+      "title": "Claude Haiku 5.5 发布",
+      "why": "当日 HN 最高分帖子，小模型性价比讨论引爆 453 条评论",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/claude-haiku-5-5"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6 与 Intelligent UI",
+      "why": "与 Haiku 5.5 同刻发布，焦点转向交互范式变化",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/gpt-6-for-everyone/"
+    },
+    {
+      "title": "OpenAI 撤回三篇数学论文",
+      "why": "仓库历史记录直接曝光，牵出学术诚信争议与 AHM 声明",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/math/blob/main/history.md"
+    },
+    {
+      "title": "Claude 发现具 CRISPR 类似重复的新型酶系统",
+      "why": "AI 主导基础生物学发现的实质进展，配套生命科学实验室",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+    },
+    {
+      "title": "OpenClaw 发布稳定版 v2026.9.9 支持 GPT-6.1 Sol",
+      "why": "托管 Codex app-server 可发现并运行新模型",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.9"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门榜",
+      "why": "17,259 赞、684 万下载，本周生态关注度基准",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "EngramEdit：用条件记忆解耦 LLM 知识更新",
+      "why": "为知识编辑提供超越权重微调的结构化路径",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.10533v1"
+    }
+  ]
+}

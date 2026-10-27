@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "Neural Inverse Rendering from Propagating Light",
+      "takeaway": "从传播光的时间分辨测量中做神经逆向渲染，重建场景几何与材质",
+      "why": "CVPR 2025 Best Student Paper，任务新颖且有官方最高奖项背书",
+      "venue": "CVPR",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos"
+    },
+    {
+      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+      "takeaway": "解耦相机集合表示与动作学习，统一场景 token 支持任意数量与位姿相机",
+      "why": "NeurIPS 2026 接收，直接针对部署时相机变化导致的脆弱性问题",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2610.12451v1"
+    },
+    {
+      "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+      "takeaway": "融合生成与语义基础表征做稠密对应匹配，突破平滑运动与刚性假设",
+      "why": "NeurIPS 2026 接收，面向图像编辑与参考引导生成的通用匹配问题",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2610.12421v1"
+    },
+    {
+      "title": "Beyond Report Imitation: Clinically Aware Multi-Image Ultrasound Report Generation from Visible Evidence",
+      "takeaway": "从多图可见证据出发生成超声报告，避免诊断反转与不可验证内容",
+      "why": "BMVC 2026 接收并开源代码，聚焦超声报告中的临床行为对齐问题",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.11610v1"
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "takeaway": "用跨层跨 token 聚合的白盒探针检测 LLM 欺骗，覆盖前沿监控场景",
+      "why": "SHADE-Arena 达 98.8% AUC，超过 Opus 5.5 文本监控基线，随规模提升",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.12445v1"
+    }
+  ]
+}

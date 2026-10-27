@@ -1,0 +1,63 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发 v2.1.293/v2.1.294，修 hooks 判定",
+      "OpenAI Codex 发 rust-v0.161.0 及 4 个 alpha",
+      "Codex Windows sandbox 失败集群 #51601，86 评论",
+      "Copilot CLI 单日出 5 个补丁版，PR 为 0",
+      "OpenCode Windows Bun 段错误 #33742，61 评论",
+      "Qwen Code 发 v0.25.0-nightly，Managed Agent #12380"
+    ],
+    "ai-agents": [
+      "OpenClaw 发稳定版 v2026.9.9 与 beta 热修复",
+      "v2026.9.9 支持托管 Codex 运行 GPT-6.1 Sol",
+      "P0 僵尸进程泄漏 #97616 持续更新",
+      "PR 待合并 335、合并/关闭 165，清障阶段",
+      "升级需留意 v2026.9.8 托管更新回滚 #164066"
+    ],
+    "ai-trending": [
+      "mattpocock/skills 单日 +1770 star，聚焦 Agent Skills",
+      "cathrynlavery/diagram-design 单日 +1163，42 种图表",
+      "caveman 以原始人语言削减 65% token 消耗",
+      "headroom 压缩工具输出，编码省 20% token",
+      "ponytail 158,267 star，主打少写代码",
+      "ollama 182,575 star，本地推理多极格局"
+    ],
+    "ai-web": [
+      "Anthropic 三年 1.5 亿美元支持 Genesis Mission",
+      "Claude 覆盖 NASA、NIH、NSF 等 15+ 联邦机构",
+      "Anthropic 新设生命科学研究组与实验室",
+      "Claude 发现 CRISPR 类似重复的新型酶系统",
+      "CVP 扩展三层、LSVP 开放申请",
+      "Barclays 2026 年底 Claude Code 覆盖 50% 开发者"
+    ],
+    "ai-hn": [
+      "Claude Haiku 5.5 发布，969 分 453 评论登顶",
+      "GPT-6 与 Intelligent UI 发布，705 分 412 评论",
+      "OpenAI 撤回 3 篇数学论文，265 分",
+      "AHM 与 Terry Tao 就撤回事件发声",
+      "LLM 将 TypeScript 编译器移植 Rust，186 评论"
+    ],
+    "ai-arxiv": [
+      "EngramEdit 用条件记忆解耦知识更新",
+      "Long-WAM、RoboJEPA、UltraWorld 世界模型升温",
+      "PHRBench 评估后幻觉推理传播",
+      "RLVR 探索与优化解耦遭方法论质疑",
+      "Society of Researchers 设计多智能体制度"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 居首，17,259 赞 684 万下载",
+      "Lightricks/LTX-2.5 视频生成 6,880 赞",
+      "Ternary-Bonsai-2-27B 下载达 434 万",
+      "GLM-5.3 去审查 EXL3 低位宽量化上榜",
+      "LiquidAI/d1-3B 小参数多模态发布"
+    ],
+    "ai-community": [
+      "OpenAI Decisions API 与 Strands Agents 集成教程",
+      "「AI 提速≠工程成熟」反思帖获高分",
+      "llamadart 让 Dart/Flutter 本地 AI 更易用",
+      "149k 杂乱图像训练端侧 YOLO26n 实录"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,67 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.299：新增环境变量与空闲自动压缩",
+      "Codex 连发 3 个 rust alpha，修 Windows 兼容",
+      "Gemini CLI 一日 3 版，含 3 个 P1 挂起问题",
+      "Copilot CLI 发 4 版但 PR 为 0，聚焦新模型 JSON 报错",
+      "OpenCode 无发布，V2 迁移回归与 MCP 凭证迁移成主线",
+      "Qwen Code 推进 Managed Agent 分阶段交付"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 Issue/500 PR，无新版本",
+      "SQLite WAL 无限增长致 gateway 启动阻塞成焦点",
+      "插件捕获引发严重 I/O 与 SSD 磨损",
+      "2026.10.1 启动显著变慢，多个 P0/P1 待维护者审",
+      "合并侧以 Web UI 重构与内存/性能修复为主",
+      "Android/Wear OS 修复推进"
+    ],
+    "ai-trending": [
+      "context-mode 单日 +946 星，沙箱化工具输出",
+      "headroom 7.5 万星，压缩工具输出省 Token",
+      "rea 单日 +41,187 星登顶，Agent 逆向工程",
+      "xtool +1510 星，跨平台构建 iOS 应用",
+      "scientific-agent-skills 提供 177 个科研技能",
+      "iFixAi、pentagi 登榜，Agent 审计与安全成新赛道"
+    ],
+    "ai-web": [
+      "Anthropic 开设新加坡办公室并签政府 MOU",
+      "Anthropic 称蒸馏防御可削减窃取量 90%–99%",
+      "内部日合并量从 2500 升至 30000+，自研 Scion",
+      "蒸馏防御文中点名智谱 GLM-5.3 与 Claude Fable 5",
+      "OpenAI 本期新增 0 篇"
+    ],
+    "ai-hn": [
+      "Anthropic 重构源代码控制长文 827 分 883 评",
+      "OpenAI 会议室被装窃听设备，涉事工程师被捕",
+      "Parsimony 开源基准：量化 AI 给代码库新增多少代码",
+      "The Register 质疑 Anthropic 安全叙事",
+      "FrontierML 端到端 ML 基准热度低"
+    ],
+    "ai-arxiv": [
+      "Self-Evolving Agent Harness：冻结权重下自改脚手架",
+      "Tev 用密集进度奖励扩展长时程智能体环境",
+      "DoubtLess 免训练对比解码缩短思维链",
+      "Two Clocks 揭示 RLVR 大批量 rollout 失效机制",
+      "Where Do LLM Ensemble Gains Come From 分解集成增益",
+      "Hybrid Reasoning Agents 融合文本与隐空间推理"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 17,669 赞断层居首",
+      "LTX-2.5 视频生成 7,723 赞、182 万下载",
+      "DeepSeek-V4.1-Flash 与 sam3 下载破两百万",
+      "百度 Unlimited-OCR 高赞高下载，文档刚需",
+      "Qwen3.8 去审查与 GGUF 量化衍生密集涌现",
+      "google/embeddinggemma-2 面向 RAG 检索"
+    ],
+    "ai-community": [
+      "Dev.to「AI Fatigue」76 赞成当日最高互动",
+      "三周末加固 AI Agent：约 600 行有效方案",
+      "An Agent's Plan Isn't Permission：计划≠授权",
+      "GGUF vs safetensors：运行时而非格式决定",
+      "浏览器端 RAG 与 16.9 MB 语音转文字落地实践",
+      "Lobste.rs OpenFatigue™ 讽刺站呼应 AI 疲劳"
+    ]
+  },
+  "en": {}
+}

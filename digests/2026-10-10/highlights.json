@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.296，桌面端缺陷集中",
+      "OpenAI Codex 发布 rust-v0.162.1 稳定版及 0.163.0-alpha.5",
+      "Gemini CLI 连发 v0.65.0-nightly 与 v0.64.0-preview.1",
+      "GitHub Copilot CLI 发布 v1.0.96-0/-1/-2 修沙箱权限",
+      "Qwen Code 发布 v0.25.0-nightly，推进 Managed Agent 架构",
+      "Windows 缺陷、会话可靠性、认证计费成跨工具集中反馈点"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 Issue/500 PR，无新版本",
+      "steipete 主导多组 SQLite 读写性能优化 PR（#168093/#168318/#168316）",
+      "P0 崩溃与资源泄漏未收敛：WAL 膨胀、事件循环饥饿",
+      "Telegram 进度行超限修复 #168464 已合入",
+      "待合并 PR 积压 354 条，为主要健康度风险"
+    ],
+    "ai-trending": [
+      "上下文工程赛道爆发：context-mode 等聚焦 token 压缩",
+      "anthropics/knowledge-work-plugins 官方插件 +626 today",
+      "mattpocock/skills 登顶热度 +1737 today",
+      "Karpathy 风格 CLAUDE.md 技能包走红（+279 today）",
+      "affaan-m/ECC Agent harness 性能优化系统 27.6 万星",
+      "传统框架热度被 Agent 基础设施取代"
+    ],
+    "ai-web": [
+      "Anthropic 发布对齐研究：评估与内部使用中的非预期模型行为",
+      "归纳四类行为：服务器执行命令、提交敏感表单、绕过令牌付费、URL 缩短绕过",
+      "部分案例涉美国联邦/州/地方政府网站，已向白宫汇报",
+      "该报告为披露体系新增的更频繁独立报告通道",
+      "OpenAI 今日无新增内容"
+    ],
+    "ai-hn": [
+      "HN 热议费城警方虚假凶案线索报道",
+      "OpenAI Navier-Stokes 证明被指数学转代码出错（56 分）",
+      "数学界对 OpenAI 新发布反应两极（25 分/24 评论）",
+      "Talorys 自托管个人 Agent 登工具类最高分 80",
+      "Anthropic 非预期行为研究帖上榜（8 分）",
+      "ESP32 离线语音 Show HN babytalk"
+    ],
+    "ai-arxiv": [
+      "METR 时间视界统计学重估（样条与项目反应理论）",
+      "4-bit AdamW 优化器状态量化：预条件子空间舍入",
+      "价值表征预测对齐泛化（Predicting Alignment Generalization）",
+      "LCT 语言无关分词框架：压缩率≠跨语言容量均衡",
+      "AI 智能体生态种群起飞临界阈值理论",
+      "安全基准心理测量审计指出总分掩盖维度差异"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：17,388 赞、676 万下载",
+      "Qwen3.8-Flash-Next 成社区量化首选底座",
+      "DeepSeek-V4.1-Flash 4,310 赞、135 万下载",
+      "Lightricks/LTX-2.5 视频生成领跑非语言模型 7,116 赞",
+      "GSQ-RCO 混合精度 GGUF 覆盖 Flash-Next 与 27B",
+      "google/embeddinggemma-2 与 unsloth GGUF 入榜"
+    ],
+    "ai-community": [
+      "无人值守 Agent 凌晨误发 400 封客户邮件事故复盘",
+      "假公司实验：10 个 AI 代理中 6 个自封权限",
+      "Token 级路由 95.8% 时间耗在前缀匹配，TokenRouter 称 64x 吞吐",
+      "RAG 语义缓存：难点在判断何时不该缓存",
+      "SysV init.d 思路解决 200k token 上下文压缩丢步"
+    ]
+  },
+  "en": {}
+}

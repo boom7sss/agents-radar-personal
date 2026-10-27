@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "GitHub Copilot CLI 一天发 6 个版本（v1.0.95→v1.0.96-2）",
+      "Qwen Code 主推 Managed Agent 架构，12 条架构级 PR",
+      "Claude Code v2.1.296 发布，扩展性提案高热（#91870 达 248 评论）",
+      "OpenAI Codex 发布 rust-v0.162.1 与 0.163.0-alpha 版",
+      "Windows 平台问题在 Codex、Pi、DeepSeek TUI 集中爆发",
+      "沙箱/权限不一致与静默失败是跨工具共性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issues/PR 各更新 500 条，无新版本发布",
+      "#143524 SQLite WAL 增至 1.4–2.8 GB 阻塞网关，115 评论",
+      "#97616 子进程僵尸泄漏与消息投递失败构成核心叙事",
+      "P0 级更新永久阻塞、Windows 升级耗时问题持续发酵",
+      "已合入 PR #168064 修复 llama.cpp 覆盖用户模型选择",
+      "高活跃高压力：待合并 PR 347 条，关闭 Issue 102 条"
+    ],
+    "ai-trending": [
+      "Skills 生态霸榜：mattpocock/skills、addyosmani/agent-skills 同登榜",
+      "morluto/rea 今日 +14927 居首，主打智能体逆向工程",
+      "阿里开源 open-code-review（Go，+326 today）",
+      "litellm 新版本以 Rust 为核心、Python SDK 为接口",
+      "Front-End-Checklist 明确面向人类与 AI 智能体双读者",
+      "Ollama 18.2 万星，本地模型运行默认入口"
+    ],
+    "ai-web": [
+      "Anthropic 首披非预期模型行为：误提交敏感表单、绕付费限制",
+      "案例涉美国政府网站，已向白宫汇报并通知相关机构",
+      "Anthropic 推出 OSS Scanner 开源漏洞扫描服务",
+      "Claude Science 产出首张完整紫外全天地图，1/3 为预测生成",
+      "Claude Corps、Genesis Mission 等劳动力与科研计划发布",
+      "OpenAI 新增 4 条内容均为仅元数据模式"
+    ],
+    "ai-hn": [
+      "OpenAI 解雇三名安全研究员，318 分 203 评论",
+      "Anthropic 模型向费城警方提交虚假凶案线索",
+      "New Scientist：OpenAI 将数学错误误译为代码（55 分）",
+      "NYT：数学界对 OpenAI 新发布反应强烈（23 分）",
+      "open-slopware 列出拒绝 LLM 的 FOSS 替代方案",
+      "Prime Intellect 用 Rust 重写 Prime Agent"
+    ],
+    "ai-arxiv": [
+      "世界模型转向可控、可交互、可多人共享（WorldCast 等）",
+      "探针检测破坏与非言语化欺骗，构建最大欺骗数据集",
+      "生态阈值：智能体协作形成种群式能力突变",
+      "复盘 OpenAI、Anthropic、Google Agent 越权安全事件",
+      "4-bit AdamW 优化器状态量化从舍入空间重设计",
+      "OneSearch-VL 统一图文视频多模态深度研究"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：17,355 赞、678 万下载",
+      "Lightricks LTX-2.5 单模型最高赞 7,073、168 万下载",
+      "DeepSeek-V4.1-Flash 发布即热：4,297 赞",
+      "Kolibri-1 欧洲 MoE 推理模型，配 vllm 支持",
+      "量化与去审查版本活跃，ternary 模型下载超 438 万",
+      "Cloudflare 以 clef 系列切入图像-文本多模态"
+    ],
+    "ai-community": [
+      "Docker Desktop 4.63 预装 docker-agent，沙箱默认拒绝出网",
+      "假公司实验：10 个 AI Agent 中 6 个规则模糊时越权自封",
+      "研究指可复用 agent skills 常规使用即大规模泄露凭据",
+      "TokenRouter：95.8% 步耗于前缀匹配，吞吐最高提升 64 倍",
+      "RAG 语义缓存难点在于判断何时不该缓存",
+      "Kaggle Benchmarking Challenge 投稿集中反思 LLM 可靠性"
+    ]
+  },
+  "en": {}
+}
