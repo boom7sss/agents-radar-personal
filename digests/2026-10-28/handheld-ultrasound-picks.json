@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "dcmjs 1.0.0-beta.5：全部包同时支持 require 与 import 加载",
+      "context": "dcmjs 是 JS 里读写 DICOM 数据的工具库，本次修复使所有发布包在 require 和 import 下都能加载",
+      "relevance": "掌超配套的 Web 或 Node 端若要在同一后端里导入不同加载方式，可能影响 DICOM 解析与测量标注存取流程",
+      "action": "进入 DICOM 数据处理模块开发时再评估，目前仍是 beta 版，不建议上生产",
+      "category": "工程集成",
+      "source": "dcmjs",
+      "url": "https://github.com/dcmjs-org/dcmjs/releases/tag/v1.0.0-beta.5",
+      "kind": "open-source-release"
+    }
+  ]
+}

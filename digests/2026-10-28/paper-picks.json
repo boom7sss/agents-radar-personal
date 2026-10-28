@@ -1,0 +1,39 @@
+{
+  "picks": [
+    {
+      "title": "When Should We Intervene at Test Time?",
+      "takeaway": "提出PORTAL控制器，决定是否执行测试时干预、标注哪些输入、何时停止。",
+      "why": "针对干预可能伤及某些批次的问题，超越平均精度盲区，方法具部署价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37658v1"
+    },
+    {
+      "title": "Understanding the limits of latent world models",
+      "takeaway": "提出潜空间展开一致性LRC指标，衡量学习到的潜动力学是否符合环境转移等变。",
+      "why": "对多个先进潜世界模型评估后发现无一满足该忠实性条件，对世界模型评估有警示价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37588v1"
+    },
+    {
+      "title": "The Structure Gap: When More Data Cannot Replace Structured Reasoning",
+      "takeaway": "定义结构编码问题与结构鸿沟，分析有限数据下识别、外推与认证的局限。",
+      "why": "对“更多数据即可替代显式领域知识”的普遍信念给出理论性反例分析。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37523v1"
+    },
+    {
+      "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+      "takeaway": "以多模态理解为代理，重新审视量化误差与离散视觉token语义保真度的关系。",
+      "why": "发现量化误差不可靠、有效比特预算更关键，挑战连续表示天然更优的假设。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37662v1"
+    },
+    {
+      "title": "Longitudinal retinal imaging and auxiliary tasks for discrete-time survival prediction of referable diabetic retinopathy and maculopathy: a retrospective cohort study",
+      "takeaway": "用时序离散生存模型结合多次随访视网膜图像与辅助任务，预测糖网/黄斑病变进展。",
+      "why": "大型筛查队列（开发7万余眼、测试近1.8万眼）回顾性验证，具临床预后价值。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37544v1"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.312 发布，支持 OIDC claim 与 click to send",
+      "多工具共同痛点：token 消耗与配额不透明",
+      "Codex 发布 rust-v0.165.0 及 4 个 alpha 版本",
+      "Pi 24 条 PR 更新，聚焦压缩成本优化",
+      "Qwen Code 发布 v0.26.2 稳定版与 SDK",
+      "OpenCode v2.2.0 更新，修复 MCP OAuth"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.8，强化更新恢复能力",
+      "OpenClaw 24 小时 Issue/PR 各 500 条，维护强度高",
+      "待合并 PR 294 条，修复确认明显滞后",
+      "核心痛点：Gateway 事件循环阻塞与内存膨胀",
+      "高优先级 Bug 多带 no-new-fix-pr 标签，尚未闭环",
+      "更新迁移仍有失败场景：state-migrated 回滚问题"
+    ],
+    "ai-trending": [
+      "hallmark 单日新增 2830 star，登顶 Trending",
+      "impeccable 单日新增 1449 star，主打设计约束",
+      "JetBrains thinkrail 单日新增 1204 star，进入 IDE 竞争",
+      "headroom 在 LLM 前压缩工具输出，省 20% token",
+      "superpowers 推动技能层工程化，单日新增 617 star",
+      "热度集中于编码智能体技能层与上下文层"
+    ],
+    "ai-web": [
+      "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
+      "GSA 协议扩至州与地方政府，全线产品 40% 折扣",
+      "联邦文职机构一年 Claude 用量增长约 20 倍",
+      "Claude 独立发现新型 CRISPR 酶系统",
+      "安全研究：专家在 Claude Code 辅助下是否让渡判断权",
+      "未发布研究模型发现五条完整攻击链"
+    ],
+    "ai-hn": [
+      "HN 首要热点：Claude 训练数据版权争议，504 分",
+      "Liquid AI 发布全模态 LFM3，136 分 53 评论",
+      "Survival LLM 本地应急助手 291 分，主打离线隐私",
+      "Anthropic 数据训练政策页热度紧随版权争议",
+      "Artificial Analysis 发布 Intelligence Index v5.0",
+      "Anthropic formal-math 仓库出现 3-SAT 算法条目"
+    ],
+    "ai-arxiv": [
+      "SynthAPI 给出工具调用智能体数据缩放规律",
+      "多篇论文质疑离散视觉 token 语义无损假设",
+      "《The Structure Gap》反驳“更多数据替代结构”",
+      "MuonGS 以累积视角统一解释 Muon 范数控制",
+      "多状态线性注意力引入广义二阶路由",
+      "效率方案：线性注意力、扩散 LM 自适应解码等"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：18,560 赞、752 万下载",
+      "Lightricks LTX-2.5 视频生成 9,606 赞",
+      "flux-3 系列继续强势，下载 75 万",
+      "DeepSeek-V4.1-Flash 衍生量化与微调生态",
+      "ComfyUI 与 GGUF 量化下载量惊人，本地部署旺",
+      "NVIDIA Nemotron-3.5 轻量版下载 44,651"
+    ],
+    "ai-community": [
+      "实测 11 个生产 agent：9 个最贵步骤非模型",
+      "MCP 工具描述泄露基准：top-1 泄露率 13.8%→7.8%",
+      "生产 agent 提示注入防御：恶意文本检测终将失效",
+      "Dart/Flutter 栈 agent 教程，示范人工审批闸门",
+      "MoE 与 Dense 实测：快 3 倍但多步任务失败",
+      "共识：AI 输出需可审计的工程约束包裹"
+    ]
+  },
+  "en": {}
+}

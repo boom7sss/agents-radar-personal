@@ -809,7 +809,7 @@
     "https://vscanair-support.gehealthcare.com/support/home": "59edcc23028ab05dbf7a6cefb65a4705f4427a8bc8b57382d889c0339dae8e01",
     "https://www.butterflynetwork.com/ai-developers": "0e88f2ebb288ef432d6b50efd56d77569aa2abc9b54f6795bea2a52cf47d25a8",
     "https://clarius.com/": "9ecc578536de086f5129a9dea08efa918fe92c068b2a0b5b327800925cd1ec91",
-    "https://www.mindray.com/na/products/ultrasound/portable-ultrasound-machines/handheld-ultrasound/te-air-e5m-handheld-ultrasound/": "5e93b838a1057c3190929065644be25633d950fd17aab68643f399125ec0a885",
+    "https://www.mindray.com/na/products/ultrasound/portable-ultrasound-machines/handheld-ultrasound/te-air-e5m-handheld-ultrasound/": "c1cc1059a0c2cba9ef23b40498229dd1e29e5a4202d6b3c1f9164a69d793666d",
     "https://www.usa.philips.com/healthcare/sites/lumify-handheld-ultrasound/products/whats-new": "74b851de762e4f03d82b6d645fa31e4cdb4e2a3ba10ea515e0a8b0f902c8628d"
   },
   "seenReleases": {
@@ -850,7 +850,17 @@
     "OHIF/Viewers@v3.14.0-beta.50": "2026-10-09T14:14:27Z",
     "OHIF/Viewers@v3.14.0-beta.49": "2026-10-09T00:52:02Z",
     "OHIF/Viewers@v3.14.0-beta.53": "2026-10-14T12:19:00Z",
-    "dcmjs-org/dcmjs@v0.52.1": "2026-10-13T21:55:25Z"
+    "dcmjs-org/dcmjs@v0.52.1": "2026-10-13T21:55:25Z",
+    "cornerstonejs/cornerstone3D@v5.13.2": "2026-10-23T15:37:54Z",
+    "OHIF/Viewers@v3.14.0-beta.65": "2026-10-27T21:22:36Z",
+    "OHIF/Viewers@v3.14.0-beta.64": "2026-10-27T15:57:59Z",
+    "OHIF/Viewers@v3.14.0-beta.63": "2026-10-27T15:30:45Z",
+    "OHIF/Viewers@v3.14.0-beta.62": "2026-10-27T01:54:11Z",
+    "OHIF/Viewers@v3.14.0-beta.61": "2026-10-23T14:09:16Z",
+    "OHIF/Viewers@v3.14.0-beta.60": "2026-10-21T15:33:36Z",
+    "dcmjs-org/dcmjs@v1.0.0-beta.5": "2026-10-27T01:43:28Z",
+    "dcmjs-org/dcmjs@v1.0.0-beta.4": "2026-10-23T21:45:26Z",
+    "dcmjs-org/dcmjs@v1.0.0-beta.3": "2026-10-23T21:04:42Z"
   },
   "pendingItems": []
 }
