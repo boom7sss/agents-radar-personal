@@ -49,7 +49,7 @@ const FOCUSED_SEARCH =
 
 /** Ultrasound restoration and reconstruction work can sit outside cs.CV. */
 const ULTRASOUND_RECONSTRUCTION_SEARCH =
-  '(all:ultrasound OR all:sonography) AND (all:"super resolution" OR all:super-resolution OR all:reconstruction OR all:beamforming OR all:denoising OR all:enhancement OR all:"inverse problem")';
+  '(all:ultrasound OR all:sonography OR all:ultrasonography) AND (all:"super resolution" OR all:super-resolution OR all:reconstruction OR all:beamforming OR all:denoising OR all:despeckling OR all:speckle OR all:enhancement OR all:"inverse problem" OR all:"image quality assessment" OR all:"quality evaluation" OR all:"no-reference" OR all:"blind image quality")';
 
 /**
  * Favor deployment papers with a medical-imaging or ultrasound connection;
@@ -100,7 +100,40 @@ const RECONSTRUCTION_TERMS = [
   "beamforming",
   "inverse problem",
   "denoising",
+  "denoise",
+  "despeckl",
+  "speckle reduction",
+  "speckle suppression",
 ];
+
+const QUALITY_ASSESSMENT_TERMS = [
+  "image quality",
+  "quality assessment",
+  "quality evaluation",
+  "no-reference",
+  "blind quality",
+  "gcnr",
+  "contrast-to-noise",
+  "equivalent number of looks",
+];
+
+/** Prioritize the current ultrasound restoration / evaluation project before truncation. */
+export function paperFocusScore(paper: ArxivPaper): number {
+  const text = `${paper.title} ${paper.summary}`.toLowerCase();
+  const ultrasound = ULTRASOUND_FOCUS_TERMS.some((term) => text.includes(term));
+  const medical = MEDICAL_IMAGING_TERMS.some((term) => text.includes(term));
+  if (
+    ultrasound &&
+    [...RECONSTRUCTION_TERMS, ...QUALITY_ASSESSMENT_TERMS].some((term) => text.includes(term))
+  ) {
+    return 3;
+  }
+  if (ultrasound) return 2;
+  if (medical && [...CAUSAL_ROBUSTNESS_TERMS, ...EDGE_DEPLOYMENT_TERMS].some((term) => text.includes(term))) {
+    return 1;
+  }
+  return 0;
+}
 
 const EDGE_DEPLOYMENT_TERMS = [
   "model compression",
@@ -243,22 +276,9 @@ export async function fetchArxivData(): Promise<ArxivData> {
     (p) => new Date(p.published).getTime() > Date.now() - 7 * 24 * 60 * 60 * 1000,
   );
   const candidates = fresh.length ? fresh : fallback;
-  const isFocused = (paper: ArxivPaper): boolean => {
-    const text = `${paper.title} ${paper.summary}`.toLocaleLowerCase();
-    const isUltrasoundFocused = ULTRASOUND_FOCUS_TERMS.some((term) => text.includes(term));
-    const isMedicalImaging = MEDICAL_IMAGING_TERMS.some((term) => text.includes(term));
-    const isCausalMedicalImaging =
-      isMedicalImaging && CAUSAL_ROBUSTNESS_TERMS.some((term) => text.includes(term));
-    const isReconstructionFocused =
-      isUltrasoundFocused && RECONSTRUCTION_TERMS.some((term) => text.includes(term));
-    const isDeploymentFocused =
-      (isUltrasoundFocused || isMedicalImaging) && EDGE_DEPLOYMENT_TERMS.some((term) => text.includes(term));
-    return isUltrasoundFocused || isCausalMedicalImaging || isReconstructionFocused || isDeploymentFocused;
-  };
-  const papers = [...candidates.filter(isFocused), ...candidates.filter((paper) => !isFocused(paper))].slice(
-    0,
-    ARXIV_MAX_RESULTS,
-  );
+  const papers = candidates
+    .sort((a, b) => paperFocusScore(b) - paperFocusScore(a))
+    .slice(0, ARXIV_MAX_RESULTS);
 
   console.log(
     `  [arxiv] ${papers.length} papers (from ${seen.size} unique${fresh.length ? "" : ", 7-day fallback"})`,

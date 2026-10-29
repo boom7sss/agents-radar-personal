@@ -440,7 +440,10 @@ describe("buildPaperPicksPrompt", () => {
     expect(result).toContain("Accepted at CVPR 2026");
     expect(result).toContain("不能猜测或改写标题");
     expect(result).toContain("MICCAI");
-    expect(result).toContain("视觉、医学影像、多模态和大模型，这四类同等重要");
+    expect(result).toContain("超声去噪、超声重建、超声去噪后的图像质量评价");
+    expect(result).not.toContain("这四类同等重要");
+    expect(result).toContain("无参考/盲图像质量评价");
+    expect(result).toContain("尚无超声验证");
     expect(result).toContain("颈动脉超声");
     expect(result).toContain("柔性加权而非固定配额");
     expect(result).toContain("跨设备验证");
