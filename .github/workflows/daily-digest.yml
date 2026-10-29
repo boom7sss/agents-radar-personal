@@ -3,13 +3,14 @@ name: Daily Agents Radar
 on:
   schedule:
     # GitHub 会严重延迟、甚至丢弃高频 schedule。改用分散在非整点的多次正式尝试：
-    # 17:17、19:29、21:41、23:53 CST；次日 09:13 再兜底检查前一天。
+    # 18:17、19:29、21:41、23:53 CST；次日 08:13 再兜底检查前一天。
+    # 避开 DeepSeek 工作日 09:00–12:00、14:00–18:00 的高峰计费时段。
     # 已有日报时会在安装依赖和调用 DeepSeek 前退出，不会重复花费 token。
-    - cron: "17 9 * * *"
+    - cron: "17 10 * * *"
     - cron: "29 11 * * *"
     - cron: "41 13 * * *"
     - cron: "53 15 * * *"
-    - cron: "13 1 * * *"
+    - cron: "13 0 * * *"
   workflow_dispatch:
     inputs:
       target_date:
