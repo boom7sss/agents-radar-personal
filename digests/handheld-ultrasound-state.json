@@ -802,7 +802,8 @@
     "https://www.butterflynetwork.com/press-releases/kcu-pocus-case-study": "seen",
     "https://www.butterflynetwork.com/press-releases/midjourney-scanner-ultrasound-chip": "seen",
     "https://www.butterflynetwork.com/press-releases/rutgers-butterfly-preliminary-findings": "seen",
-    "https://www.butterflynetwork.com/press-releases/rutgers-butterfly-research": "seen"
+    "https://www.butterflynetwork.com/press-releases/rutgers-butterfly-research": "seen",
+    "https://clarius.com/press/clarius-leads-handheld-ultrasound-ai-with-industrys-largest-integrated-portfolio-of-30-models/": "2026-10-28T08:13:56+00:00"
   },
   "pageHashes": {
     "https://www.butterflynetwork.com/compassai": "8003a96c3ab12a8c81262b5d99ba6222cb3dbe282ca6c562c32ce3a68fef72ab",
@@ -860,7 +861,10 @@
     "OHIF/Viewers@v3.14.0-beta.60": "2026-10-21T15:33:36Z",
     "dcmjs-org/dcmjs@v1.0.0-beta.5": "2026-10-27T01:43:28Z",
     "dcmjs-org/dcmjs@v1.0.0-beta.4": "2026-10-23T21:45:26Z",
-    "dcmjs-org/dcmjs@v1.0.0-beta.3": "2026-10-23T21:04:42Z"
+    "dcmjs-org/dcmjs@v1.0.0-beta.3": "2026-10-23T21:04:42Z",
+    "cornerstonejs/cornerstone3D@v5.14.0": "2026-10-28T12:13:54Z",
+    "OHIF/Viewers@v3.14.0-beta.67": "2026-10-29T12:10:22Z",
+    "OHIF/Viewers@v3.14.0-beta.66": "2026-10-28T18:29:40Z"
   },
   "pendingItems": []
 }

@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "Claude Code 后台Agent转录数据外发引隐私争议",
+      "why": "527分、213评论，直指Agent数据流向与隐私边界",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50284255"
+    },
+    {
+      "title": "Anthropic 红队披露5条真实攻击链",
+      "why": "用内部研究模型在五大平台实现RCE与锁屏绕过",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "title": "Anthropic 药物研发合作与自研进展",
+      "why": "与6家机构深度合作，并计划大幅扩大自研规模",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "title": "OpenClaw 发布安全补丁 v2026.10.9",
+      "why": "修复MCP URI校验、Zod集合与IMAP发件人伪造风险",
+      "source": "ai-agents"
+    },
+    {
+      "title": "Grace Blackwell 新调度器提升27% GPU可用率",
+      "why": "同机架可用GPU显著提升，直接影响大规模训练成本",
+      "source": "Hacker News",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热度榜",
+      "why": "18,667赞、750万下载，同时成为大量微调基座",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "JetBrains 推出 Vibe coding 工具 thinkrail",
+      "why": "传统IDE厂商正式拥抱Agent原生开发形态",
+      "source": "GitHub Trending",
+      "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "title": "日志文件成为AI间接提示注入载体的讨论",
+      "why": "对将日志接入LLM的团队有直接警示价值",
+      "source": "Dev.to",
+      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk"
+    }
+  ]
+}

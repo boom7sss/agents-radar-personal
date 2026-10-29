@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "The Noise Plane: A Diffusion Bridge Across Exponent and Dispersion",
+      "takeaway": "提出p-Bridge索引化扩散框架，统一建模Tweedie族信号相关噪声",
+      "why": "Poisson/Gamma/高斯建噪与去噪物理解释清晰，可迁移超声散斑，尚无超声验证",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.37576v1"
+    }
+  ]
+}

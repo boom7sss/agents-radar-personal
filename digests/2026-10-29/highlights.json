@@ -1,0 +1,59 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 长期用户系统化错误汇总贴引发116条评论",
+      "OpenCode 免费额度主追踪帖101条评论，v2.2.1发布",
+      "Qwen Code 发布v0.26.4及Desktop、SDK v0.1.26",
+      "GitHub Copilot CLI 企业403无法列模型问题31条评论",
+      "Codex 两枚Rust alpha标签，VS Code扩展UI无法启动获48赞",
+      "Gemini CLI 子代理MAX_TURNS误报success为P1问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布安全补丁v2026.10.9，修复fast-uri等依赖",
+      "OpenClaw 24小时Issues更新500条，积压仍在扩大",
+      "Gateway会话存储层P0/P1问题集中，多数尚无fix PR",
+      "社区讨论聚焦短期记忆与会话状态一致性"
+    ],
+    "ai-trending": [
+      "Qwen3.8-27B登顶HF双榜，18,667赞、750万下载",
+      "headroom 以压缩LLM输入减少60–95% token，⭐78,241",
+      "ECC 覆盖skills、memory、security，⭐292,454",
+      "JetBrains thinkrail 单日+1116星，主打Vibe coding",
+      "obra/superpowers 技能框架单日+1037星",
+      "openbot 本地优先多Agent工作台单日+705星"
+    ],
+    "ai-web": [
+      "Anthropic AI for Science 计划扩张至20家科研机构",
+      "Anthropic 披露与6家机构药物研发合作并自研药物发现",
+      "Anthropic 红队披露5条真实攻击链，走协同披露流程",
+      "OpenAI 新增3条索引元数据，均无正文"
+    ],
+    "ai-hn": [
+      "Claude Code 后台Agent转录外发帖527分、213评论登顶",
+      "Claude 被指推出面向管理者的员工行为监控报告",
+      "据称AI初创公司入侵Anthropic获取员工信息",
+      "Grace Blackwell 新调度器可提升27% GPU可用率"
+    ],
+    "ai-arxiv": [
+      "今日40篇论文均无超声去噪或重建相关研究",
+      "世界模型与视觉推理解释成为今日最集中方向",
+      "智能体训练环境工程化：EnvSched、SynthAPI、TeamGym",
+      "不确定性量化在临床类别不平衡下被指结构性失效",
+      "MuonGS 提出预训练放宽权重范数控制"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶，18,667赞、750万下载",
+      "Lightricks LTX-2.5 获9,814赞，为单模型最高",
+      "DeepSeek-V4.1-Flash 原版、GGUF、微调版同榜",
+      "flux-3 ComfyUI 单文件版下载83万",
+      "facebook/sam3 视频分割模型5,419赞"
+    ],
+    "ai-community": [
+      "日志文件能否劫持AI成今日最热帖，35赞21评论",
+      "讨论指出人类审批不绑定操作就不构成安全边界",
+      "Agent代码洪流正倒逼Git类基础设施改造",
+      "复盘称90%编码代理返工源于工单描述本身"
+    ]
+  },
+  "en": {}
+}
