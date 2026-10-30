@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "官方 Claude Code 扩展被指植入后门并投递 SSH 后门",
+      "why": "官方分发链路遭投毒，影响全球开发者机器，AI 工具供应链信任危机",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50302334"
+    },
+    {
+      "title": "Anthropic 提出 Managed Agents 设计：决策层与执行层解耦",
+      "why": "官方公开托管式 agent 架构原则，接口需比具体模型实现更长寿",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/managed-agents"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热度与下载双榜",
+      "why": "762 万下载的新一代国产主力模型，同时具备图像-文本理解",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenClaw 发布 beta.5 与 gateway-only 稳定版 v2026.9.36",
+      "why": "LTS 线安全与可靠性更新，同时放宽 Node 版本硬性要求",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "LocalAI 实测：MoE 卸载并非总是更快",
+      "why": "实测数据推翻直觉，为 16GB 显存本地部署提供选型依据",
+      "source": "Dev.to",
+      "url": "https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a"
+    },
+    {
+      "title": "Anthropic 扩大与 GSA 合作，政府客户获全产品线 40% 折扣",
+      "why": "AI 厂商加速渗透美国公共部门，披露政府侧使用增长数据",
+      "source": "Anthropic"
+    },
+    {
+      "title": "ArXiv：单算法统一预训练、中训练、SFT 与 RL",
+      "why": "挑战分阶段训练默认假设，把训练流程统一为最大似然 RL 目标",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.40564v1"
+    },
+    {
+      "title": "腾讯 HKUDS/DeepTutor 单日增加 2282 星登顶 Trending",
+      "why": "教育垂直 agent 成为今日增长最快项目，Agent 加速向细分场景下沉",
+      "source": "GitHub Trending",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    }
+  ]
+}

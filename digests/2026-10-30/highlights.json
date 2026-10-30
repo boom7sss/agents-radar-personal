@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.314，焦点是桌面端 UI 改版争议",
+      "OpenCode 发布 v2.2.3、v2.2.2 及 process-daemon v0.4.0",
+      "Codex 发布 rust-v0.166.0，Windows/macOS 出现回归",
+      "Gemini CLI 发布 v0.67.0 nightly，子代理可靠性 P1",
+      "Qwen Code 发布 cua-driver-rs v0.27.0，CI 稳定性集中爆发",
+      "DeepSeek TUI main 不可编译，代码压缩流程异常"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.10-beta.5，放宽 Node 版本要求",
+      "OpenClaw 发布 v2026.9.36 gateway-only 稳定版",
+      "24 小时内更新 Issues 500 条、PR 500 条，积压严重",
+      "P0/P1 缺陷包括启动阻塞事件循环 40–200 秒",
+      "焦点集中在状态数据库与会话状态一致性",
+      "维护者评审带宽成为主要瓶颈"
+    ],
+    "ai-trending": [
+      "HKUDS/DeepTutor 单日增加 2282 星，为今日最高",
+      "skill 类仓库集中上榜：obra/superpowers 增加 1255 星",
+      "mattpocock/skills 增加 882 星，个人技能集开源成风",
+      "CopilotKit/OpenBot 增加 707 星，每 Agent 配独立计算环境",
+      "lightpanda-io/browser 增加 559 星，Zig 无头浏览器",
+      "jailbreaks 类仓库增加 2053 星，安全话题升温"
+    ],
+    "ai-web": [
+      "Anthropic 发布长文：Managed Agents 主张决策与执行解耦",
+      "Claude Code 最佳实践博客停更，迁移至官方文档站",
+      "Anthropic 扩大与 GSA 合作，政府客户获 40% 折扣",
+      "OpenAI 更新 Model Spec 与青少年保护、社区安全报告",
+      "Anthropic 今日新增 3 篇，OpenAI 新增 3 篇（仅元数据）",
+      "Anthropic 节奏偏工程化落地与公共部门渗透"
+    ],
+    "ai-hn": [
+      "官方 Claude Code 扩展被指植入后门，HN 最高 644 分",
+      "Cursor 市场 VSX 投毒木马讨论帖 355 条评论",
+      "攻击手法披露：植入持久化 SSH 后门",
+      "Anthropic 收紧用 Claude 重写游戏，引发边界争议",
+      "OpenAI 宣布 Pro 100/200/500 档用量翻倍"
+    ],
+    "ai-arxiv": [
+      "Common Offset Gathers：频域多静态波束形成降内存方案",
+      "彩色血流超声灌注指标经激光散斑跨模态验证",
+      "RepConTUR 以报告为条件引导腹部肿瘤分割",
+      "Multi-View MoE 提出多视角路由改进专家计算",
+      "单算法统一预训练、中训练、SFT 与 RL",
+      "TextSeal2 提出无失真 LLM 水印"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 18,783 赞、762 万下载登顶双榜",
+      "Lightricks LTX-2.5 以 9,925 赞领跑生成类模型",
+      "LiquidAI LFM3 系列四款小模型同日上榜",
+      "DeepSeek-V4.1-Flash GGUF 下载 174 万，远超原版",
+      "Mistral-Large-4-1T-A52B 旗舰 MoE 上榜",
+      "uncensored/abliterated 微调仍高下载"
+    ],
+    "ai-community": [
+      "Dev.to Hacktoberfest 集中产出 Gemma、Ollama 创意项目",
+      "Lobste.rs：在 Qwen3.5 内构建 RISC-V CPU 领跑",
+      "多篇复盘 AI 代理的成本、安全与记忆管理",
+      "实测反驳‘MoE 卸载必然更快’直觉",
+      "Claude Code 后门 7 点审计清单，附 IOC 与脚本",
+      "主张代理记忆大部分应是关系型表，而非向量库"
+    ]
+  },
+  "en": {}
+}
