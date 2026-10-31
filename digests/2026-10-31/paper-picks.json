@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection",
+      "takeaway": "无训练零样本异常检测，单次前向，免提示学习与滑窗。",
+      "why": "WACV 2027接收，代码开源；医学等专用域缺掩码时可迁移，尚无超声验证。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.40580v1"
+    },
+    {
+      "title": "Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation",
+      "takeaway": "无真值分割质控引擎，三阶段检查掩码质量与过度自信。",
+      "why": "与“无干净参考品质评价”思路贴近；仅牙科X光验证，无超声实验。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.40587v1"
+    }
+  ]
+}

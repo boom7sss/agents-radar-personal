@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode 发布 v2.2.5 + v2.2.4，修复网络适配与计费限流",
+      "Claude Code 发布 v2.1.316，当日 PR 为 0",
+      "Gemini CLI 发布 nightly v0.67.0，Agent 挂起问题仍在修复",
+      "配置写了但不生效是跨工具最强共性，Codex、Gemini 均有相关 Issue",
+      "Windows/WSL/Wayland 跨平台裂痕与版本回归是共同痛点",
+      "DeepSeek TUI 24 条 PR 为单日最高，集中渲染与本地化"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 内 486 条 Issue、500 条 PR 更新，活跃度高",
+      "P0/P1 稳定性问题集中在 Windows 启动、SQLite 协调、消息丢失",
+      "doctor --fix 在 openclaw.sqlite 上的自死锁已关闭",
+      "Feishu 跨会话发送 reply anchor 导致 400 的问题已关闭",
+      "2026.9.8 macOS 发布日志绑定拒绝更新问题已关闭",
+      "今日无新版本发布，核心可靠性债务未清算"
+    ],
+    "ai-trending": [
+      "claude-mem 位列 Trending 第一，新增 1723 star",
+      "mattpocock/skills 单日新增 882 star，技能即资产成趋势",
+      "impeccable 单日新增 1339 star，为编码智能体定义设计词汇",
+      "headroom 在 LLM 前压缩工具输出，宣称 JSON 省 60–95% token",
+      "graphify 主打无向量库确定性知识图谱，显现去向量化信号",
+      "Ollama 185,454 star，仍是本地推理默认入口"
+    ],
+    "ai-web": [
+      "Anthropic 开放 Claude 真实使用数据给外部研究者的试点",
+      "Managed Agents 提出用小型稳定接口解耦 brain 与 hands",
+      "Frontier Red Team 用 Claude 挖出五条真实软件攻击链",
+      "OpenAI 仅一条 fair-use 元数据，无正文无法判断",
+      "Anthropic 指 Sonnet 4.5 接近上下文上限会提前收尾"
+    ],
+    "ai-hn": [
+      "Anthropic IPO 后或难获投资级评级，313 分 267 评论",
+      "OpenAI 最新一轮融资不足 300 亿美元目标一半",
+      "报道称 Anthropic IPO 后将获高垃圾级信用评级",
+      "Sam Altman 称个人拥有 DRAM 很糟，应集中到数据中心",
+      "Show HN：约 25 行 SQL 自动推导 FlashAttention kernel"
+    ],
+    "ai-arxiv": [
+      "50 篇投稿无一篇聚焦超声去噪、重建或质量评价",
+      "单算法统一预训练到 RL 全流程，最具结构性意义",
+      "Multi-View MoE 在固定激活预算下重新分配专家计算",
+      "PIVOT 用在线教师纠偏缓解 RLVR 全失败无奖励问题",
+      "投机解码下保形水印、成员推断难度校准等可靠性工具出现"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 18,838 赞、758 万下载断层领跑",
+      "Lightricks/LTX-2.5 获万级点赞与 244 万下载",
+      "LiquidAI 一次性铺开 LFM3 全模态小参数矩阵",
+      "DeepSeek-V4.1-Flash 官方权重发布，4,071 赞",
+      "Mistral-Large-4 为 1T 总参、52B 激活多模态模型"
+    ],
+    "ai-community": [
+      "ChatGPT 账户接管攻击链复盘：postMessage 缺校验",
+      "GhostCache 揭示 RAG 删文件后向量与密文仍留存",
+      "按 config.json 估算 KV Cache，架构比参数量更影响成本",
+      "LLM 价格下调最高 80%，社区重算应用成本",
+      "Lobste.rs 出现「在 Qwen3.5 内构建 RISC-V CPU」讨论"
+    ]
+  },
+  "en": {}
+}
