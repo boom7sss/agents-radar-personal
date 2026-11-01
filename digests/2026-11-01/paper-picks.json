@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+      "takeaway": "单目视频生成可探索4D视听场景，含360°背景、物体轨迹与一致声场",
+      "why": "在缺乏超声候选时，这是一个明确可复现的新任务设定，思路可以迁移到超声视频世界建模",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.40640v1"
+    },
+    {
+      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "takeaway": "通过潜动力学学习机制性世界模型，无需奖励，聚焦系统辨识",
+      "why": "标题与摘要称参数量比DreamerV3、TD-MPC2少一个数量级，并在71个吸引子上做系统辨识",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2610.40637v1"
+    }
+  ]
+}

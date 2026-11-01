@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "ai-cli": [
+      "9 个工具中有版本发布：Gemini CLI v0.67.0-nightly、Copilot CLI v1.0.106、Qwen Code v0.26.5",
+      "Windows 平台与 IDE 扩展是最集中的故障面，涉及 Codex、Pi、Claude Code、OpenCode",
+      "Gemini CLI #22323 子代理误报成功、#21409 挂起",
+      "Copilot CLI #3709 BYOK 切换（13 评论，34 赞）",
+      "OpenCode #59387 免费层主帖 186 评论，为全场最高",
+      "Qwen Code #14724 CI 失败 138 评论，CI 问题占比极高"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时内 Issue/PR 更新 1000 条，无新版本发布",
+      "PR #190526 为 X API 与媒体响应设 16 MiB 上限，修复 Gateway 无界缓冲",
+      "PR #190497 修复 doctor 合并失败清空 MEMORY.md 的持久记忆损坏",
+      "多为 P0/P1 长期开放，并标记 needs-repro，复现链路未打通",
+      "社区输入量远超合并吞吐，积压治理是主要健康风险"
+    ],
+    "ai-trending": [
+      "claude-mem 今日新增 1527 星，Agent 记忆层集中爆发",
+      "t3code 今日新增 3100 星，居当日首位但无描述",
+      "lightpanda/browser 新增 827 星，面向 AI 的无头浏览器",
+      "hex 新增 1329 星，macOS 本地语音听写",
+      "headroom 在内容进入 LLM 前压缩，编程 Agent 省约 20% token",
+      "本地优先三箭齐发：Handy、hex、FreeToken"
+    ],
+    "ai-hn": [
+      "Anthropic 封禁触及训练更大模型的用户，426 分 237 评论居首",
+      "OpenAI 合并 ChatGPT 与 Codex 用量额度引热议",
+      "Anthropic 疑似 Mythos 级模型泄露于 Hugging Face，仅 16 分待核实",
+      "OpenIDEA 用 Rust 重写 IDE，49 评论质疑其差异化",
+      "Anthropic 官方说明以自评估扩大滥用检测"
+    ],
+    "ai-arxiv": [
+      "共偏移距道集降低多静态频率域波束形成的运算与内存开销",
+      "定量超声灌注指标以激光散斑成像跨模态验证",
+      "未见散斑抑制与无参考超声去噪论文，方向存在空白",
+      "单算法统一预训练、SFT 与 RL 的训练框架",
+      "MoE 多视图路由与可扩展监督设计进展"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 点赞 18,896、下载 789 万，双双居首",
+      "LTX-2.5 视频生成 10,165 赞、243 万下载居榜首",
+      "DeepSeek-V4.1-Flash 4197 赞，量化衍生版下载达 342 万",
+      "LiquidAI 一次发布 LFM3 文本、VL、Omni、Audio、GGUF 全系",
+      "Mistral-Large-4-1T-A52B 为 1T 参数、52B 激活稀疏模型",
+      "NVIDIA Nemotron-3.5 与百度 Unlimited-OCR-2 补强专用场景"
+    ],
+    "ai-community": [
+      "间接提示注入攻击面梳理成 Agent 安全实用清单",
+      "Agent 任务通过但删除实验成果，评测需关注副作用",
+      "MoE offloading 基准复测后作者修正原结论",
+      "Agent skill 在检查全绿时静默漂移，提出反馈闭环",
+      "OpenAI 12 月合并 ChatGPT 与 Codex 额度成共同话题"
+    ]
+  },
+  "en": {}
+}
