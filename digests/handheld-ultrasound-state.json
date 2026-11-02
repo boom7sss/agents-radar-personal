@@ -865,7 +865,8 @@
     "cornerstonejs/cornerstone3D@v5.14.0": "2026-10-28T12:13:54Z",
     "OHIF/Viewers@v3.14.0-beta.67": "2026-10-29T12:10:22Z",
     "OHIF/Viewers@v3.14.0-beta.66": "2026-10-28T18:29:40Z",
-    "OHIF/Viewers@v3.14.0-beta.68": "2026-10-29T23:50:45Z"
+    "OHIF/Viewers@v3.14.0-beta.68": "2026-10-29T23:50:45Z",
+    "dcmjs-org/dcmjs@v1.0.0-beta.6": "2026-11-01T16:59:33Z"
   },
   "pendingItems": []
 }

@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI发布v0.67.0-nightly，50条Issue几乎全在agent",
+      "Qwen Code发布v0.26.6及sdk-typescript v0.1.27",
+      "Pi发布v1.5.0含破坏性移除，引发兼容争议",
+      "OpenCode缓存退化被两次独立报告，#59387达211评论",
+      "Codex rust-v0.167.0-alpha.3发布，Windows问题高频",
+      "Claude Code #97074达64评论，cyber误报集中关闭"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时Issues/PR各500条，无新版本发布",
+      "doctor在Linux/macOS挂起等运维缺陷为主风险",
+      "P0级transcript脱敏污染#142821及沙箱逃逸#173058",
+      "修复dev profile端口错配PR #191428已合入",
+      "iMessage更新后授权丢失问题#186107关闭",
+      "稳定性修复供给落后于缺陷报告速度"
+    ],
+    "ai-trending": [
+      "vercel-labs/agent-desktop单日+2243 star居首",
+      "claude-mem获110,586 star，日增1799",
+      "colibri纯C零依赖磁盘流式MoE，日增655",
+      "worktrunk面向并行Agent的Git worktree CLI",
+      "Kronos尝试金融市场垂类基础模型",
+      "karpathy/nanochat延续百美元级ChatGPT叙事"
+    ],
+    "ai-web": [
+      "Anthropic新增3篇研究博文，聚焦AI做科学",
+      "Claude对15个靶点中14个成功设计结合体",
+      "单设计成功率22%–35%，高于行业10%–15%",
+      "BootLoops工具包用于定量科学精确计算",
+      "物理项目Claude两周完成通常一年工作",
+      "OpenAI两条新条目仅元数据无正文"
+    ],
+    "ai-hn": [
+      "Anthropic Q3营收170亿美元，支出承诺8950亿",
+      "内部AI使用成本超员工薪资引热议",
+      "Claude Opus 5.5可绘制审批级建筑图纸",
+      "OpenAI发布GPT-Rosalind-6系统卡补充",
+      "Momentic用Agent操作应用发现Bug，80分",
+      "本地LLM硬件配置讨论热度高"
+    ],
+    "ai-arxiv": [
+      "频域波束形成按共偏移距道集降内存开销",
+      "DiffUltra任务引导病理合成肺超声数据",
+      "院训胎儿头围模型迁移手持探头性能退化",
+      "定量超声灌注指标经激光散斑跨模态验证",
+      "无参考去噪后质量评价指标仍属空白",
+      "超长上下文稀疏注意力出现两条并行路线"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶，18,999点赞/791万下载",
+      "LTX-2.5获10,342点赞，视频生成热度高",
+      "DeepSeek-V4.1-Flash-1017支持图文到文本",
+      "Mistral-Large-4-1T-A52B为1T参数MoE",
+      "facebook/sam3分割模型5,716点赞",
+      "LiquidAI单日贡献6个模型形成系列节奏"
+    ],
+    "ai-community": [
+      "确定性安全闸门架构帖获15赞为今日最高",
+      "AI代码审查非第二意见，闭环风险受关注",
+      "可信扩展名经Cursor商店植入SSH后门",
+      "200K Claude会话闲置重购缓存0.04→1.00美元",
+      "bf16舍入丢弃99%的RL策略更新",
+      "哈希工具调用无法检测Agent循环"
+    ]
+  },
+  "en": {}
+}

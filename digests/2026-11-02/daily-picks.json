@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic修订版S-1：Q3营收170亿美元，支出承诺8950亿美元",
+      "why": "AI资本支出可持续性争论核心，HN当日评论数最高",
+      "source": "Hacker News",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    },
+    {
+      "title": "Anthropic研究：Claude加速蛋白质设计与分析化学",
+      "why": "15靶点成功14个，成功率显著高于行业典型水平",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+    },
+    {
+      "title": "Vibe physics：Claude两周完成通常一年的高能物理论文计算",
+      "why": "端到端科研边界与AI局限的一手实证",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/vibe-physics"
+    },
+    {
+      "title": "Qwen3.8-27B登顶Hugging Face热榜",
+      "why": "近1.9万点赞、超791万下载，当日最热模型",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "vercel-labs/agent-desktop单日新增2243 star",
+      "why": "Agent操作桌面的computer-use基础设施开源化",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "title": "thedotmack/claude-mem：跨CLI的Agent记忆层",
+      "why": "11万star，兼容多家CLI，Agent记忆层焦点",
+      "source": "GitHub Trending",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "title": "OpenClaw P0级transcript脱敏污染与沙箱逃逸报告",
+      "why": "高活跃项目的重要安全缺陷，修复供给滞后",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "Colibri：纯C零依赖磁盘流式MoE推理引擎",
+      "why": "极致轻量路线下探本地推理硬件门槛",
+      "source": "GitHub Trending",
+      "url": "https://github.com/JustVugg/colibri"
+    }
+  ]
+}
