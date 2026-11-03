@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.317 发布，安全护栏成焦点",
+      "Codex 模型被指示重启服务器致损失超 1 万美元",
+      "Gemini CLI 多条 P1 子代理挂起或假成功",
+      "Copilot CLI 连发 4 个补丁版修复企业策略",
+      "OpenCode 免费额度争议主帖评论达 245 条",
+      "Qwen Code 发布 v0.26.6 与 TS SDK v0.1.27"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.10，累计 4825 次提交",
+      "OpenClaw 仍有 282 条 PR 待合并，审查压力大",
+      "doctor 命令挂起等 P0/P1 稳定性问题跨平台复发",
+      "Android Talk 复用归档会话致 GPT-Live 咨询被拒",
+      "Codex 模型发现硬编码版本号，忽略外部配置",
+      "CDP WebSocket 凭证可能泄露进模型标签页结果"
+    ],
+    "ai-trending": [
+      "agent-desktop 今日新增 3792 星，全场最高",
+      "colibri 用纯 C 在消费级硬件跑前沿 MoE",
+      "claude-mem 提供跨会话持久上下文，兼容多客户端",
+      "worktrunk 解决多 Agent 并发修改同一仓库冲突",
+      "caveman 让编码 Agent 极简说话，省 65% token",
+      "headroom 在输入端压缩，JSON 省 60–95% token"
+    ],
+    "ai-web": [
+      "Anthropic 发布可验证推理研究，提出 FlashProve",
+      "该研究联合 EPFL、MIT、StarkWare 等机构署名",
+      "密码学证明可验证每条回复确由承诺模型生成",
+      "可验证推理被挂钩 AI pacing 合规性",
+      "OpenAI 新增 Scaling Git At OpenAI 等 3 条条目",
+      "OpenAI 条目仅元数据无正文，内容受限"
+    ],
+    "ai-hn": [
+      "SEC 应阻止 Anthropic IPO 帖 387 分 305 评论",
+      "Scaling Git at OpenAI 得 257 分 175 评论",
+      "Anthropic IPO 文件警示接近递归自我改进",
+      "OpenAI 被指悄然重启 Codex 聊天训练",
+      "Anthropic IPO 话题占据前十中四席",
+      "可证明推理研究 HN 讨论零评论被冷落"
+    ],
+    "ai-arxiv": [
+      "Muon 与 AdamW 微调差距随预训练规模反转",
+      "多轮预训练缩放理论应对数据受限时代",
+      "Layer of Layers 运行时自适应排列 Transformer 层",
+      "两篇 LoRA 工作挑战每任务一分支范式",
+      "时序基础模型不确定性校准仍缺理解",
+      "RLVR 可泛化性与调度策略有三篇可统读"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，1.9 万点赞、801 万下载",
+      "LTX-2.5 视频生成点赞 1.05 万、下载 248 万",
+      "LiquidAI 一次铺开 LFM3 全系列六款模型",
+      "DeepSeek-V4.1-Flash-1017 催生大量社区微调",
+      "Mistral-Large-4 达 1T 参数、52B 激活",
+      "百度 Unlimited-OCR-2 下载 19 万远超点赞"
+    ],
+    "ai-community": [
+      "Agent 答对却自记答错，暴露记忆可靠性问题",
+      "322M 小模型安全微调：三跑两败的一手经验",
+      "全天监督 AI 令人疲惫，呼吁规范化值班",
+      "Lobste.rs 热议模型内部运行 RISC-V CPU",
+      "OpenRouter 替代：2026 五款 AI API 网关对比",
+      "LLM Explained 43 页交互教程从 token 到 Agent"
+    ]
+  },
+  "en": {}
+}

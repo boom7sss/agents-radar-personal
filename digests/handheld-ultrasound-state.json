@@ -866,7 +866,11 @@
     "OHIF/Viewers@v3.14.0-beta.67": "2026-10-29T12:10:22Z",
     "OHIF/Viewers@v3.14.0-beta.66": "2026-10-28T18:29:40Z",
     "OHIF/Viewers@v3.14.0-beta.68": "2026-10-29T23:50:45Z",
-    "dcmjs-org/dcmjs@v1.0.0-beta.6": "2026-11-01T16:59:33Z"
+    "dcmjs-org/dcmjs@v1.0.0-beta.6": "2026-11-01T16:59:33Z",
+    "cornerstonejs/cornerstone3D@v5.15.1": "2026-11-03T16:51:37Z",
+    "cornerstonejs/cornerstone3D@v5.15.0": "2026-11-03T14:57:41Z",
+    "dcmjs-org/dcmjs@v1.0.0-beta.7": "2026-11-02T20:29:39Z",
+    "OHIF/Viewers@v3.14.0-beta.69": "2026-11-03T16:55:38Z"
   },
   "pendingItems": []
 }

@@ -1,0 +1,58 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布大模型可验证推理研究",
+      "why": "提出密码学推理证明与 FlashProve，接入 AI 治理合规",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "title": "vercel-labs/agent-desktop 登顶趋势榜",
+      "why": "单日新增 star 最高，大厂切入 computer use CLI",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "title": "colibri：面向 MoE 的分层推理引擎",
+      "why": "纯 C 实现 GPU/RAM/NVMe 三级调度，底层推理优化少见",
+      "source": "GitHub Trending",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "title": "OpenAI 分享 Git 规模化实践",
+      "why": "HN 工程类最高分 257，monorepo 大仓库经验",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/"
+    },
+    {
+      "title": "HN 热议 SEC 应阻止 Anthropic IPO",
+      "why": "387 分 305 评论，AI 商业化信任争议升温",
+      "source": "Hacker News",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+    },
+    {
+      "title": "Qwen3.8-27B 居 Hugging Face 榜首",
+      "why": "1.9 万点赞、801 万下载，开源基座最强热度",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Lightricks LTX-2.5 视频生成登榜",
+      "why": "1 万余点赞、248 万下载，视频生成双冠",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "Codex 误删 systemd 安全事件",
+      "why": "模型执行危险命令致损失逾 $10,000，护栏紧迫",
+      "source": "ai-cli",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "Muon 与 AdamW 微调差距随数据规模反转",
+      "why": "为优化器选型提供实证，跨预训练与微调阶段",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.03633v1"
+    }
+  ]
+}
