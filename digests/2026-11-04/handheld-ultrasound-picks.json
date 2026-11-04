@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "dcmjs 新增多帧数据集单帧视图接口",
+      "context": "dcmjs 是用于解析和生成 DICOM 医学影像数据的 JavaScript 库；本次 beta.9 新增按帧查看多帧数据集的能力。",
+      "relevance": "掌超常生成多帧超声 DICOM；按帧读取可直接支撑冻结回放、逐帧测量标注和浏览器端处理。",
+      "action": "进入 DICOM 回放或标注模块开发时评估，当前仍为 beta 版。",
+      "category": "工程集成",
+      "source": "dcmjs",
+      "url": "https://github.com/dcmjs-org/dcmjs/releases/tag/v1.0.0-beta.9",
+      "kind": "open-source-release"
+    }
+  ]
+}

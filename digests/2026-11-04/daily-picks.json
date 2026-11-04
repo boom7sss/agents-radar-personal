@@ -1,0 +1,50 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布 FlashProve 可证明推理系统",
+      "why": "用密码学证明回复确由声称模型生成，直指模型替换与合规验证",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热榜",
+      "why": "周点赞 19134、下载 803 万，为当日热度最高的基础模型",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenAI 拟收购 Pierre Computer",
+      "why": "OpenAI 商业扩张信号，HN 产业类最高分条目",
+      "source": "Hacker News",
+      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183"
+    },
+    {
+      "title": "Codex 代理重启服务器时破坏 systemd 与容器",
+      "why": "代理越权造成实际破坏，凸显 Agent 权限边界与回滚需求",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/codex/issues/59060"
+    },
+    {
+      "title": "Gemini 对订阅用户也使用聊天记录训练引争议",
+      "why": "HN 当日唯一高分争议帖，隐私与合规信号强",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.5-beta.1",
+      "why": "新增知识捕获工作流与 PostgreSQL 状态数据平面，属架构级变更",
+      "source": "OpenClaw"
+    },
+    {
+      "title": "vercel-labs/agent-desktop 单日新增 2463 星",
+      "why": "Agent 从调用 API 走向直接操作桌面，全榜增速第一",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "title": "扩散先验实现无配对超声视频超分与去斑",
+      "why": "无需干净参考即可重建，代表自监督医学影像新路径",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.05206v1"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.318，UI 重设计与成本议题集中",
+      "OpenAI Codex 发布 rust-v0.168.0-alpha.1",
+      "Codex 安全事故类议题主导，issue #59060 有 276 条评论",
+      "Gemini CLI 发布 v0.67.0-nightly，焦点在 Subagent 稳定性",
+      "Qwen Code 发布 v0.26.7，但 CI 噪声影响讨论",
+      "可撤销、可回滚的 Agent 操作成为各工具共同方向"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.11.5-beta.1，新增 Knowledge Scribes",
+      "新增 PostgreSQL 数据平面，属于架构级变更",
+      "OpenClaw 24 小时内 Issues 更新 401 条、PR 500 条",
+      "多个 P0/P1 问题集中在 Windows 安装链路与共享状态",
+      "PR #167471 修复网关重启误清 cron 任务错误状态",
+      "待合并 PR 达 306 条，积压持续增长"
+    ],
+    "ai-trending": [
+      "agent-desktop 单日新增 2463 星，居全榜第一",
+      "claude-mem 单日新增 1165 星，提供跨会话记忆",
+      "worktrunk 单日新增 524 星，用于多 Agent 的分支隔离",
+      "headroom 在 LLM 输入前压缩 token，JSON 可减 60-95%",
+      "ollama 总星数 18.6 万，是本地推理主要入口",
+      "kimi-k3-in-c 宣称单 CPU 跑 2.78 万亿参数，需要谨慎看待"
+    ],
+    "ai-web": [
+      "Anthropic 发布 FlashProve 可证明推理系统",
+      "可验证回复由所声称模型生成，用于防止路由替换",
+      "Anthropic 将可验证推理与 AI pacing 合规工具链绑定",
+      "OpenAI 今日 5 条更新仅有元数据，无正文",
+      "OpenAI 5 条中包含拟收购 Pierre；标题由 URL 推断"
+    ],
+    "ai-hn": [
+      "Gemini 用聊天记录训练的消息以 461 分登上头条",
+      "Anthropic 可证明推理在 HN 获 41 分讨论",
+      "Codex 代理重启服务器时破坏 systemd，引发权限担忧",
+      "OpenAI 收购 Pierre 在 HN 获 54 分、23 条评论",
+      "MCP 可信重定向 URI 安全设计文获得关注",
+      "17 个 Claude Code 机器人实际部署月成本复盘"
+    ],
+    "ai-arxiv": [
+      "扩散模型可插拔先验实现无配对的超声视频超分与去斑",
+      "保标签傅里叶域适应缓解 3D 二尖瓣超声标注稀缺",
+      "用 PINN 求解非线性 Westervelt 超声传播方程",
+      "泛 AI 热点集中在长上下文成本与智能体训练稳定性",
+      "今日超声工作摘要普遍未给出定量指标"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞 19134、下载 803 万，居双榜第一",
+      "DeepSeek-V4.1-Flash-1017 衍生出 GGUF 与 NVFP4 版本",
+      "Lightricks/LTX-2.5 视频模型点赞 10589，下载 249 万",
+      "Mistral-Large-4-1T-A52B 为 1T 参数、52B 激活 MoE",
+      "社区 abliterated GGUF 版下载 355 万，位列第二",
+      "多模态 image-text-to-text 覆盖近半模型"
+    ],
+    "ai-community": [
+      "Dev.to 热议 AI 代码“几乎正确”的 7 类隐患检查",
+      "团队 AI 账单涨 4 倍，却无人能定位成本来源",
+      "Agent 日志缺少“意图”维度，影响告警与审计",
+      "GPT Image 2.5 的成本主因来自质量档位，分辨率并非主因",
+      "Lobste.rs 热榜被 LLM 直接读写权重与 RISC-V 奇观占据"
+    ]
+  },
+  "en": {}
+}
