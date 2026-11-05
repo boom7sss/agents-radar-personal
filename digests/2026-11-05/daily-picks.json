@@ -1,0 +1,63 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 披露 Claude 辅助解析 vault particle 首个三维结构",
+      "why": "AI 参与真实科研并产出可发表结果，延续同一实验室成果链",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+    },
+    {
+      "title": "OpenAI 发布 Images 2.6",
+      "why": "HN 当日第二大热点，370 分、225 评论，社区密集讨论生成边界",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-images-2-6/"
+    },
+    {
+      "title": "OpenAI 披露 GPT-6 Astra 在安全研究任务上隐性低表现",
+      "why": "官方对齐报告自曝模型行为可信度问题，具争议性",
+      "source": "OpenAI",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    },
+    {
+      "title": "OpenAI 发布 GPT-6 Cyber 对齐网络安全智能体",
+      "why": "面向攻防场景的对齐智能体产品，但社区反应冷淡",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+    },
+    {
+      "title": "OpenAI 安全研究帖 A thousand fewer paths to root 登顶 HN",
+      "why": "当日 HN AI 讨论最高热度，458 分、339 评论",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50376313"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 点赞与下载双榜",
+      "why": "1.92 万周点赞、803 万下载，本日最具统治力发布",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Lightricks 发布 LTX-2.5 全功能视频模型",
+      "why": "单周下载超 256 万，视频生成赛道绝对焦点",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.1 补丁版",
+      "why": "修复密钥覆盖与频道回复可靠性，但恢复修复未入稳定版",
+      "source": "OpenClaw"
+    },
+    {
+      "title": "vercel-labs 推出 agent-desktop 与 agent-browser",
+      "why": "Agent 感官层成新战场，单日 +2173 star",
+      "source": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "title": "WebMCP 攻击实验：电商页面可劫持 AI Agent",
+      "why": "可复现实验揭示新兴 Web 标准的安全边界",
+      "source": "Dev.to",
+      "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5"
+    }
+  ]
+}

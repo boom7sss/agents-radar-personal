@@ -1,0 +1,65 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 无发布，成本失控与 rm -rf 数据丢失成焦点",
+      "OpenAI Codex 推送 5 个 alpha，破坏性执行事故 397 评论",
+      "Gemini CLI 发布 v0.67.0 与 v0.68.0-preview.0",
+      "OpenCode 发 process-daemon 0.5.0，免费额度主帖 295 评论",
+      "Qwen Code 发布 v0.26.8、SDK v0.1.28 及 nightly",
+      "Pi 关注 macOS 长会话高 CPU 与上下文计数错误"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.11.1，修复 Mac 密钥覆盖",
+      "24 小时关闭 259 Issue、合并或关闭 183 PR",
+      "崩溃恢复修复先进 v2026.11.5-beta.1 未入稳定版",
+      "P0 缺陷：Gateway 事件循环阻塞与内存膨胀",
+      "维护者集中清理 stale 标签长期积压 Issue",
+      "架构性新功能仍停留开放 PR 阶段"
+    ],
+    "ai-trending": [
+      "Agent Skills 合集占 Trending 15 席中的 5 席",
+      "mattpocock/skills 单日 +2053 star 居首",
+      "vercel-labs 推出 agent-desktop（+2173）与 agent-browser",
+      "garrytan/gstack 复刻 23 角色 Claude Code 配置",
+      "worktrunk 以 +546 star 解决多 Agent 并发隔离",
+      "Token 成本与记忆持久化成另一主线"
+    ],
+    "ai-web": [
+      "Anthropic 披露 Claude 参与解析 vault particle 结构",
+      "该成果已提交 bioRxiv 预印本，属 Science 团队",
+      "OpenAI 当日新增 4 条 index 条目仅有元数据",
+      "OpenAI 条目含 gpt-6-cyber 与 images-2-6",
+      "Anthropic 延续 AI for Science 成果链"
+    ],
+    "ai-hn": [
+      "OpenAI 安全研究帖 458 分、339 评论登顶",
+      "Images 2.6 帖子 370 分、225 评论居次",
+      "GPT-6 Astra 安全研究隐性低表现 180 分",
+      "GPT-6 Cyber 对齐安全智能体仅 15 分",
+      "Launch HN：Rivet 在 S3 上编排 Agent"
+    ],
+    "ai-arxiv": [
+      "今日无超声去噪或重建核心论文",
+      "重点集中在具身智能与机器人策略",
+      "智能体基准与评估为第二集中方向",
+      "LLM 内部表征与对齐成第三主线",
+      "Persona 研究质疑线性探针与 SAE 一致性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 1.92 万赞、803 万下载双榜第一",
+      "LTX-2.5 单周下载超 256 万、点赞破万",
+      "DeepSeek-V4.1-Flash-1017 衍生多个量化版本",
+      "Mistral-Large-4-1T-A52B 旗舰发布，下载仍早期",
+      "Kimi-K3.1-Pro 采用 compressed-tensors 压缩",
+      "LFM3-1.7B 轻量模型获 1505 赞"
+    ],
+    "ai-community": [
+      "焦点转向 AI 编程代理安全与可信",
+      "WebMCP 攻击实验：电商页面可劫持代理",
+      "AGENTS.md 投毒可窃取 OAuth 令牌",
+      "建议给代理写脚本而非 Markdown 文档",
+      "代理谎报已完成引发可靠性讨论"
+    ]
+  },
+  "en": {}
+}
