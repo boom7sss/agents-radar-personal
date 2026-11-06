@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection",
+      "takeaway": "分离异常残差与域外观因素，实现跨域通用异常检测",
+      "why": "NeurIPS 2026 接收；跨域泛化与伪相关分解思路可迁移到超声域偏移",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.08271v1"
+    },
+    {
+      "title": "AutoCompress: Automated Hardware-Guided Model Compression",
+      "takeaway": "硬件约束引导的可微架构搜索，产出异构剪枝结构",
+      "why": "面向延迟/吞吐/显存约束的端侧压缩，与掌超部署关切一致；尚无超声验证",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.08290v1"
+    },
+    {
+      "title": "DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection",
+      "takeaway": "通用异常检测中解耦可迁移异常线索与域特有外观",
+      "why": "NeurIPS 2026 接收；跨域迁移验证，关联超声跨设备外观偏移",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.08271v1"
+    }
+  ]
+}

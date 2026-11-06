@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态重心转向可信度、成本与安全边界",
+      "Claude Code 经 User-Agent 泄露邮箱，热度最高",
+      "Codex 发布 rust-v0.167.0 及 2 个 alpha",
+      "Gemini CLI 无版本发布但修复密集",
+      "Qwen Code 发布 v0.26.9 等 5 项更新",
+      "Kimi Code CLI 今日无活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues 更新 386 条",
+      "PR 更新 500 条，待合并 362 条",
+      "合并率约 27.6%，审查带宽成瓶颈",
+      "stable 线多起未修复 P0/P1 回归",
+      "今日主要修复 CI、备份与更新可靠性",
+      "记忆、缓存、生命周期功能尚无合并"
+    ],
+    "ai-trending": [
+      "Agent Skills 爆发：三仓库单日合计超 5000 星",
+      "cloudflare 安全审计技能 +2524 星居首",
+      "mattpocock/skills +2058 星居 Trending 首位",
+      "NVIDIA auto-ontology 单日 +2005 星",
+      "headroom 压缩工具输出，JSON 减 60-95%",
+      "ECC 星标 298,387 居数据首位"
+    ],
+    "ai-web": [
+      "Anthropic 新增 7 篇，聚焦生命科学主线",
+      "Opus 4.5 在图表解读和蛋白质理解上明显提升",
+      "Claude 助发现 vault 颗粒首个 3D 结构",
+      "与六家机构合作推进药物研发并已启动自有工作",
+      "发布面向 PI 的 guest investigator 招募",
+      "OpenAI 仅 1 条元数据，无正文"
+    ],
+    "ai-hn": [
+      "Claude Code 邮箱外泄帖 1484 分、462 评论居首",
+      "Anthropic IPO 估值传闻四次上榜，质疑泡沫",
+      "METR 发布 Anthropic 研发加速独立评估",
+      "OpenAI 发现 Linux 内核 948 个提权漏洞",
+      "GPT-6 Cyber 推文仅 22 分，反应冷淡"
+    ],
+    "ai-arxiv": [
+      "今日无超声去噪、重建与质量评价方向论文",
+      "机制可解释性面向 AI 安全综述发布",
+      "Terminal-Bench 提出基准应作为软件持续维护",
+      "Mamba 首个 token 吸引动力学研究",
+      "扩散语言模型并行解码实测耦合方法",
+      "医疗侧涉及 ICU 世界模型与鼻咽癌基准"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 19,255 赞、784 万下载领跑",
+      "LTX-2.5 视频生成模型下载超 260 万",
+      "DeepSeek-V4.1-Flash-1017 衍生多路量化变体",
+      "Mistral-Large-4-1T-A52B 万亿参数 MoE 发布",
+      "Kimi-K3.1-Pro 图像文本模型上线",
+      "FLUX 与 Qwen-Image 的 ComfyUI 生态活跃"
+    ],
+    "ai-community": [
+      "Claude Code User-Agent 泄露邮箱复盘",
+      "MIT CSAIL 权重空间编程两平台同热",
+      "AI 测试演讲推动组织变革，111 赞最高",
+      "讨论代理确定性应归入架构而非调参",
+      "教程：排查 Claude Code 忽略 CLAUDE.md",
+      "重放 147 个会话调优 autoCompactWindow"
+    ]
+  },
+  "en": {}
+}
