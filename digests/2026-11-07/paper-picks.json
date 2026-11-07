@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching",
+      "takeaway": "构建闭环超声探头导航测试床，比较分割器、控制器与奖励的20种已发表方法",
+      "why": "统一模拟器评测多组件组合，代码开源且基于60例留出患者",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.08352v1"
+    },
+    {
+      "title": "Conformal Prediction for Time-Dependent PDEs",
+      "takeaway": "针对时变PDE代理模型，证明近时刻分布互奇异并给出共形预测修正",
+      "why": "NeurIPS 2026接收，含形式化不可能性证明，可用于成像逆问题不确定性",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.08409v1"
+    },
+    {
+      "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+      "takeaway": "鼻咽癌多模态诊疗路径基准，覆盖指南知识、病例规划与纵向随访",
+      "why": "NeurIPS 2026评测集，4777项与100例患者，适合医学VLM系统评估",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.08369v1"
+    },
+    {
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "takeaway": "用稀疏自编码器将用户嵌入分解为可解释行为模式叠加",
+      "why": "NeurIPS 2026接收，给出线性生成模型下的结构性理论解释",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.08487v1"
+    }
+  ]
+}

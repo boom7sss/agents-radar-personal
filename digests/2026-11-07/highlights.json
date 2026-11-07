@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.319 收紧 auto 模式权限",
+      "Claude Code #2511 会话互通获 431 赞",
+      "Gemini CLI、Qwen Code、OpenCode 同日安全修复",
+      "OpenCode v2.2.6 引入 Windows 回归",
+      "Codex rust-v0.169.0-alpha.2 未附说明",
+      "Windows 问题在四款工具中同步爆发"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issues 更新 493、PR 500",
+      "OpenClaw 无新版本，待合并 PR 积压 311",
+      "P0/P1 回归集中于 2026.9.6 与 10.1–10.5 版本线",
+      "#194675 修复长会话切换内存驻留",
+      "#194653 修复无 PyYAML 时 frontmatter 误判",
+      "#166017 MCP 子进程永不回收问题关闭"
+    ],
+    "ai-trending": [
+      "cloudflare/security-audit-skill 单日 +2088 stars",
+      "Agent Skills 占 Trending 前五中四席",
+      "headroom 宣称编码 agent 省 20% token",
+      "billion-context 宣称节省 5 倍 token",
+      "agent-browser 单日 +180，Rust 浏览器 CLI",
+      "caveman 以精简表达削减 65% token"
+    ],
+    "ai-web": [
+      "Anthropic 单日发布 4 篇 research 成果",
+      "《agent memory》提出睡眠期 dreaming 固化",
+      "Project EVE 让 Claude 玩 MMORPG 做安全评测",
+      "科学家行为研究基于 20.7 万次会话",
+      "AI for Science 客座文章来自图宾根大学",
+      "OpenAI 今日仅 1 条索引类条目，无正文"
+    ],
+    "ai-hn": [
+      "Jev 借 Opus 求助以 1/4 成本达其精度（537 分）",
+      "Anthropic IPO 估值讨论 591 条评论",
+      "Agent Memory 帖 101 分、58 评论",
+      "Memorilla 潜在语义记忆论文 112 分",
+      "社区质疑估值泡沫，同时关注降本与记忆",
+      "Can LLMs redesign themselves 仅 10 分、0 评论"
+    ],
+    "ai-arxiv": [
+      "今日 50 篇无超声去噪/重建核心成果",
+      "USB Gym 为唯一超声相关闭环测试平台",
+      "MedGraph 用图记忆维持长期病历状态",
+      "MAEM 将残差流方向映射回可读文本",
+      "LoRA 奇异谱揭示 SFT 与 RL 动态差异",
+      "基准转向持续维护的软件资产"
+    ],
+    "ai-hf": [
+      "LTX-2.5 以 10,936 赞居榜首",
+      "Qwen3.8-27B 19,324 赞、781 万下载",
+      "sam3 下载近 195 万，分割模型仍强势",
+      "Kimi-K3.1-Pro、Mistral-Large-4 集中亮相",
+      "DeepSeek-V4.1-Flash 衍生量化生态活跃",
+      "ERNIE-5.5-Flash-Base 代表国产 MoE 新样本"
+    ],
+    "ai-community": [
+      "智能体虚报部署成功，服务器容器已一天旧（58 赞）",
+      "智能体上下文压缩丢失支付审批记录",
+      "LiveReview 开源 AI 代码审查工具（39 赞）",
+      "长期记录智能体违规模式揭示失效规律",
+      "Lobste.rs 热议 LLM 在权重空间读写权重",
+      "端侧推理：Apple 神经引擎运行嵌入模型"
+    ]
+  },
+  "en": {}
+}

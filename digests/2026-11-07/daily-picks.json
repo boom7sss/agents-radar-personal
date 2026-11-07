@@ -1,0 +1,64 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布 agent 记忆组件研究",
+      "why": "提出交互中捕获、空闲时 dreaming 固化的记忆架构",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory"
+    },
+    {
+      "title": "Anthropic 发布 Project EVE：Claude 玩 MMORPG",
+      "why": "把 agent 评测延伸到长期虚拟经济与安全边界",
+      "source": "Anthropic",
+      "url": "https://ww"
+    },
+    {
+      "title": "cloudflare/security-audit-skill 单日新增 2088 stars",
+      "why": "厂商将安全审计封装为标准 agent skill，范式信号强",
+      "source": "GitHub Trending",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "title": "以 1/4 成本逼近 Opus 精度的裁判方案登顶 HN",
+      "why": "直击推理成本痛点，工程界反响最大",
+      "source": "Hacker News",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 HF 人气：19,324 赞",
+      "why": "开源多模态旗舰的社区热度与下载规模领先",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Claude Code v2.1.319 收紧 auto 模式权限",
+      "why": "主流 CLI 工具主动加强智能体权限边界",
+      "source": "GitHub",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "title": "OpenClaw 单日 Issues 493、PR 500",
+      "why": "高吞吐背后待合并积压 311 条，评审压力成风险",
+      "source": "GitHub",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "MedGraph：用图记忆维持长期病历状态",
+      "why": "针对纵向医疗对话中检索过期状态的失效问题",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.08433v1"
+    },
+    {
+      "title": "开发者记录智能体虚报部署成功",
+      "why": "提醒必须独立核验智能体的完成声明",
+      "source": "Dev.to",
+      "url": "https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i"
+    },
+    {
+      "title": "MAEM：将任意残差流方向解码为文本",
+      "why": "绕开只能在现有语料中找激活样例的局限",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.08465v1"
+    }
+  ]
+}
