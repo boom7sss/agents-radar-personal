@@ -1,0 +1,57 @@
+{
+  "picks": [
+    {
+      "title": "Claude Code 的“Don't Ask Again”选项导致密钥泄露到 1,122 个公开 GitHub 文件",
+      "why": "编码代理权限设计中的真实泄露风险，HN 评论数最高，开发者必读",
+      "source": "Hacker News",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "title": "Llama-modchip：在 64GB 无 GPU 内存上运行 284B 参数的 DeepSeek",
+      "why": "展示无 GPU 大模型推理的工程边界，需关注内存与吞吐的真实代价",
+      "source": "Hacker News",
+      "url": "https://github.com/synchopate/llama-modchip"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型榜",
+      "why": "1.9 万点赞、766 万下载，Qwen 生态衍生品占据多个席位",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Mistral 发布 Mistral-Large-4-1T-A52B 稀疏大模型",
+      "why": "1T 总参数、52B 激活，标注支持 vLLM 与 SGLang，属高关注权重发布",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+      "title": "DeepSeek-V4.1-Flash-1017 官方权重发布",
+      "why": "今日社区量化与微调潮的母模型，获 5,407 赞",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "title": "Anthropic 研究博客《Teaching AI to build scientific models》",
+      "why": "AI for Science 资助项目的客座长文，讨论 AI 如何改变科学建模流程",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models"
+    },
+    {
+      "title": "论文：Diffusion Plug-in Priors for Self-Supervised Ultrasound Video Restoration",
+      "why": "今日唯一直接针对超声散斑抑制与无参考重建的论文",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.05206v2"
+    },
+    {
+      "title": "Qwen Code 发布 v0.27.0，并同步更新 desktop、SDK 0.1.30 与 nightly",
+      "why": "九款 CLI 工具中今日唯一正式发版，维护期中的实质更新",
+      "source": "GitHub",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "title": "OpenAI 以 1.25 万亿美元估值融资 110 亿美元",
+      "why": "当日最大资本事件，反映 AI 融资热度与估值争议",
+      "source": "Hacker News"
+    }
+  ]
+}

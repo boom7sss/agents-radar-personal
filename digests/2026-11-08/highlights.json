@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code 发布 v0.27.0，并更新 desktop、SDK 0.1.30 与 nightly，是今日唯一正式发版",
+      "Gemini CLI 与 OpenCode 各集中提交 10 条 PR，安全修复密集，围绕权限与认证链路展开",
+      "Claude Code Issues 更新 50 条，高赞需求 #84862 获 169 赞",
+      "OpenAI Codex 最热议题 #20161 获 211 条评论与 139 赞，已关闭",
+      "Windows 平台稳定性成为多款工具的共同痛点，涉及沙箱锁与路径空格崩溃",
+      "Agent 可观测性缺口被反复提出，包括状态误报、静默失败与上下文计量失真"
+    ],
+    "ai-agents": [
+      "OpenClaw 过去 24 小时 Issues 与 PR 各更新 500 条，零新版本发布",
+      "OpenClaw 待合并 PR 堆积 306 条，评审吞吐成为瓶颈",
+      "OpenClaw 合并 macOS appcast PR #195240，推进 2026.11.2 稳定版 in-app 更新",
+      "Signal 首次配置改由 setup QR 链接首个账号，替代手工 signal-cli link",
+      "OpenClaw CI 优化：恢复测试跳过 legacy inventory，减少 9 次 inventory 调用",
+      "2026.11.5-beta.1 已含 SQLite header-probe 修复，但受影响安装无法通过 update 抵达"
+    ],
+    "ai-trending": [
+      "上下文与 token 效率成为独立赛道，billion-context 今日新增 460 个 star",
+      "vercel-labs/agent-browser 今日新增 812 个 star，把浏览器操作做成 CLI 原语",
+      "anthropics/skills 今日新增 793 个 star，成为 Agent 技能扩展的关键入口",
+      "ollama/ollama 累计 186,355 个 star，仍是本地推理的事实标准之一",
+      "NousResearch/hermes-agent 累计 261,666 个 star，在 agent 框架层领跑",
+      "affaan-m/ECC 累计 299,524 个 star，覆盖 Claude Code、Codex、Cursor 的 harness 优化"
+    ],
+    "ai-web": [
+      "Anthropic 仅新增 1 篇研究博客，OpenAI 无新增内容",
+      "新文《Teaching AI to build scientific models》发表于 2026-11-06",
+      "文章由 ELLIS Institute Tübingen 与图宾根大学研究者客座撰写，共五节连载",
+      "该文属 Anthropic 的 AI for Science 资助项目叙事线，暂无完整技术结论",
+      "今日无产品发布、模型更新或安全政策动向"
+    ],
+    "ai-hn": [
+      "Claude Code 的“Don't Ask Again”导致密钥泄露到 1,122 个公开 GitHub 文件，获 496 分、356 条评论",
+      "开发者宣布弃用 Claude 转投 Pi，该帖获 533 分",
+      "284B DeepSeek 在 64GB 无 GPU 内存上运行的实验项目获 162 分、53 条评论",
+      "HN 报道 OpenAI 以 1.25 万亿美元估值融资 110 亿美元",
+      "HN 报道 Anthropic 天然气供电交易与 IPO 估值下滑",
+      "社区情绪转向审慎，聚焦代理信任与 LLM 编码价值质疑"
+    ],
+    "ai-arxiv": [
+      "Diffusion Plug-in Priors 实现无配对数据下超声视频超分辨与去散斑",
+      "研究审计选择性预测只约束错误发生率、不约束误差幅度",
+      "Task-Aware Bitrate Thresholds 主张以分割性能设定压缩码率阈值，服务远程超声",
+      "Every Pixel Is an Option 将卡尺放置重构为逐像素预测，降低操作者间变异",
+      "USB Gym 提供闭环超声探头引导的统一 Gymnasium 测试床",
+      "超声研究评价重心从图像观感转向任务可用性与定量地标"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶，获 1.9 万点赞、766 万次下载",
+      "Lightricks/LTX-2.5 获 1.1 万点赞、266 万次下载，视频生成为最热方向之一",
+      "DeepSeek-V4.1-Flash-1017 官方权重发布，获 5,407 赞、29.5 万次下载",
+      "Kimi-K3.1-Pro、Mistral-Large-4-1T-A52B、ERNIE-5.5-Flash-Base 旗舰模型集中发布",
+      "Mistral-Large-4-1T-A52B 为 1T 总参数、52B 激活，并标注支持 vLLM 与 SGLang",
+      "uncensored 微调与 GGUF 量化仍是社区最热话题"
+    ],
+    "ai-community": [
+      "Dev.to 实验证明“请小心”类惩罚提示弃答率为 0%，附完整可复现代码",
+      "Lobste.rs 最热为 LLM 直接读写神经网络权重的权重空间编程研究，获 50 分",
+      "文章将多数 RAG 失败归因于检索架构，而非模型本身",
+      "有文章以“混淆代理”模型解释提示注入与 AI 驱动入侵，并给出防御规则",
+      "Agent 记忆固化错误，Anthropic 以转录驱动的“dreaming”修复笔记",
+      "社区讨论从“如何用 AI”转向如何验证、约束与质疑 AI"
+    ]
+  },
+  "en": {}
+}
