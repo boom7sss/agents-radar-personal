@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 新增心电图视口：掌超波形显示可参考",
+      "context": "Cornerstone3D 是网页端医学影像渲染库；本版新增带波形布局、校准幅值和时间滚动的通用心电视口。",
+      "relevance": "掌超浏览器端界面若要同屏显示心电或生理波形，可参考其校准幅值与时间滚动交互；普通B模式渲染不受直接推动。",
+      "action": "暂不需要动作；仅在规划波形或生理信号显示模块时评估。",
+      "category": "界面交互",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.16.0",
+      "kind": "open-source-release"
+    }
+  ]
+}

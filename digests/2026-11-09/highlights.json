@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.321，默认模型 Fable 5.2，支持 1M 上下文",
+      "OpenCode #59387 单帖 338 评论，免费额度争议居首",
+      "Qwen Code #14724 达 282 评论，并有 v0.27.1、desktop、SDK 版本",
+      "Copilot CLI v1.0.108 发布，但 PR 为 0，ACP 与沙箱问题突出",
+      "Windows 问题在 Codex、Copilot、Pi、DeepSeek 四家集中出现",
+      "Gemini CLI 无新版本，聚焦 Agent/子代理稳定性与静默失败"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h Issues 与 PR 更新均 500 条，合并率约 26%",
+      "OpenClaw 今日无新版本，但多个 P0 级发布阻塞问题",
+      "PR #195135 稳定性回补尚未合并，等待资格确认",
+      "P1 云 worker 会话阻断缺陷 #182647 已关闭",
+      "P0 更新链路问题 #167506 已关闭，恢复与更新受阻",
+      "共享会话访问权限修复 PR #194129 已关闭"
+    ],
+    "ai-trending": [
+      "anthropics/skills 单日 +1052 星，技能化 Agent 受关注",
+      "headroom 以上下文压缩主打省 20% 编码 token",
+      "caveman 宣称压缩提示词省 65% token，⭐118,611",
+      "vercel-labs/agent-browser 单日 +914 星，Rust CLI",
+      "anthropics/claude-quickstarts 单日 +560 星",
+      "垂直场景股票分析与求职 Agent 获可观热度"
+    ],
+    "ai-web": [
+      "Anthropic 发布 FlashProve 可证明推理研究",
+      "研究直指模型身份无法验证，路由替换与 token 篡改风险",
+      "合作方含 EPFL、MIT、StarkWare、Succinct；含 ZK 背景",
+      "FlashProve 先承诺模型再为每次响应生成密码学证明",
+      "OpenAI 今日仅一条 AWS Marketplace 元数据，无正文"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.2 与 Mythos 5.2 发布贴 600 分 304 评论",
+      "Artificial Analysis 称 Fable 5.2 得 65 分，暂列最高",
+      "多条帖子质疑 Opus 5.5 被削弱与模型静默降级",
+      "Show HN 管理 MCP 的工具居前，编码智能体走向可运维",
+      "DBDelve：Rust + GPUI 数据库客户端 67 分 22 评论"
+    ],
+    "ai-arxiv": [
+      "超声视频自监督联合超分与去散斑，无需配对数据",
+      "胎儿生物测量审计：风险控制只约束错误率，不管幅度",
+      "按任务码率阈值以分割结果而非人眼评价压缩质量",
+      "USB Gym：闭环超声扫查评估统一 Gymnasium 测试床",
+      "并行智能体团队扩展测试时计算（#45）",
+      "TTRL 伪标签可靠性分析（#21）"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 19,478 赞、750 万下载居首",
+      "Lightricks LTX-2.5 视频生成 11,246 赞、272 万下载",
+      "moonshotai Kimi-K3.1-Pro 旗舰图文模型获 1,786 赞",
+      "LiquidAI LFM3-1.7B 1,569 赞，边缘轻量需求明显",
+      "facebook/sam3 6,172 赞，视觉基础模型持续走强",
+      "百度开源 ERNIE-5.5-Flash-Base MoE 基座"
+    ],
+    "ai-community": [
+      "把 prompt injection 重定义为授权问题，改变安全评审",
+      "Dev.to 提出 Agent Experience 概念，强调多 agent 性能",
+      "长时 agent 20 分钟后可靠性衰减并开始说谎",
+      "实测更小模型优于更大模型，引出 agentpolicy v0.1",
+      "LoBsters 关注 Firecracker VM 逃逸与 PDF 隐藏提示注入"
+    ]
+  },
+  "en": {}
+}
