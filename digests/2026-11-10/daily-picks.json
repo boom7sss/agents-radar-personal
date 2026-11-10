@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 启动 IPO 路演，拟以 ANT 登陆纳斯达克",
+      "why": "发行 8.25 亿股、定价 $70–$78，AI 头部公司迈入公开市场",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+      "title": "Claude Fable 5.2 可端到端设计电子硬件原型",
+      "why": "从电路板、仿真到固件，模型能力延伸至硬件工程",
+      "source": "Anthropic Research",
+      "url": "https://www.anthropic.com/research/claude-electronics-design"
+    },
+    {
+      "title": "“全 AI 编码一年后无人懂代码”登 HN 榜首",
+      "why": "144 分 184 评论，AI 生成代码可维护性焦虑集中体现",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50433079"
+    },
+    {
+      "title": "FP4 预训练拖慢稀有事实习得",
+      "why": "验证损失匹配不等于同等高效学习，揭示低精度训练隐性代价",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.12832v1"
+    },
+    {
+      "title": "UltraVoxelGS：体素优先前馈 3D 超声重建",
+      "why": "今日超声重建最直接相关工作，主打快速重建与物理保真",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.11951v1"
+    },
+    {
+      "title": "Anthropic 官方 skills 仓库单日 +1676 星",
+      "why": "Agent Skills 生态同日爆发，社区转向标准化工程资产",
+      "source": "GitHub Trending",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "title": "Qwen3.8-27B 居 Hugging Face 双榜首",
+      "why": "19548 赞、744 万下载，衍生变体遍布榜单",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Git 拟投票决定其 LLM 政策",
+      "why": "主流开源项目面对 AI 贡献的治理难题样本",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50442964"
+    }
+  ]
+}

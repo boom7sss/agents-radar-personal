@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 5.17 增加多分辨率体纹理",
+      "context": "Cornerstone3D 是开源的网页端医学影像渲染库，本次新增多分辨率体纹理，可分层加载大体数据。",
+      "relevance": "影响掌超在手机或平板上做三维、多帧渲染与内存调度，关系到网页端阅片和回放体验。",
+      "action": "进入三维或移动端渲染模块开发时再评估，当前无需动作。",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.17.0",
+      "kind": "open-source-release"
+    }
+  ]
+}

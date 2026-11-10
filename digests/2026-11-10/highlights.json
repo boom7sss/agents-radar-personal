@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Fable 5.2 同日接入 Claude Code、Copilot CLI、Pi",
+      "Claude Code v2.1.321/v2.1.322：Fable 5.2 默认、Vertex 快速模式",
+      "OpenCode v2.2.7 新增 GitHub Copilot Auto 路由，计费问题待修",
+      "Qwen Code #14724 CI 失败单 287 评论，CI 治理成焦点",
+      "Copilot CLI v1.0.109 加沙箱 CIDR，当日 PR 为 0",
+      "多工具同日回归（OpenCode 2.2.6、Copilot 1.0.108）"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 364 Issue、500 PR，无新版本",
+      "待合并 PR 326 条，合并吞吐成主要瓶颈",
+      "关闭 P0 更新死锁 #193962 与 #167506",
+      "会话状态、数据丢失、SQLite 膨胀为高危问题"
+    ],
+    "ai-trending": [
+      "Anthropic 官方 skills 仓库今日 +1676 星",
+      "meta/astryx 今日 +3111 星居热榜首位",
+      "mattpocock/skills 今日 +1223 星，个人技能集走热",
+      "vercel-labs/agent-browser 今日 +775 星",
+      "上下文与 token 优化成第二主线",
+      "mujoco 今日 +453 星，具身智能基础设施"
+    ],
+    "ai-web": [
+      "Anthropic 启动 IPO 路演，拟发行 8.25 亿股",
+      "发行区间 $70–$78，拟以 ANT 登陆纳斯达克",
+      "Claude Fable 5.2 可端到端设计电子硬件",
+      "与 Diode 合作验证扬声器、语音中枢等设备",
+      "OpenAI 当日新增 4 条站点条目，仅元数据"
+    ],
+    "ai-hn": [
+      "“全 AI 编码一年后无人懂代码”144 分居首",
+      "Anthropic IPO 相关帖占 20 条中 10 条",
+      "研究称可一键压缩任意 LLM 3 倍引质疑",
+      "Git 拟投票决定其 LLM 政策"
+    ],
+    "ai-arxiv": [
+      "UltraVoxelGS：体素优先前馈高斯泼溅做 3D 超声",
+      "仿真探针压迫下血管形变，含体模验证",
+      "FP4 预训练拖慢稀有事实习得",
+      "多教师 on-policy 蒸馏改善视觉智能体",
+      "今日无散斑抑制与无参考质量评价专稿"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 赞 19548、下载 744 万双榜首",
+      "LTX-2.5 单周下载 279 万，视频生成最热",
+      "Kimi-K3.1-Pro 发布，采用 compressed-tensors",
+      "NVIDIA Nemotron 转写与 TTS 活跃",
+      "社区 heretic/UNCENSORED 微调仍高频"
+    ],
+    "ai-community": [
+      "Agent 配置缺 lockfile，供应链安全受关注",
+      "审批门禁过严致团队形式化放行",
+      "125 次提示注入测试帖 48 评论最热",
+      "Markdown 文件管理并行编码 Agent",
+      "13 篇 Agent 记忆论文：保留原始记录"
+    ]
+  },
+  "en": {}
+}

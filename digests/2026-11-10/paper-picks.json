@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction",
+      "takeaway": "前馈预测体素优先高斯场景，免逐场景优化，加速3D超声重建",
+      "why": "摘要称首次兼顾快速重建与物理可信渲染，支持扫描中实时空间反馈",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.11951v1"
+    },
+    {
+      "title": "Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation",
+      "takeaway": "在Isaac Sim用Neo-Hookean体素块模拟探头压致静脉可压塌",
+      "why": "体模验证预测动脉误差各处不超5个百分点，面向机器人交互实时性",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.12818v1"
+    }
+  ]
+}
