@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 发布7个版本，含 rust-v0.167.1",
+      "Qwen Code 发布 v1.0.0-preview 等4版",
+      "Claude Code #27302 获 307 评论、461 赞",
+      "各工具的权限模型可控性成为共同议题",
+      "OpenCode 讨论免费额度，主帖有 353 条评论",
+      "Copilot CLI 发布 v1.0.110-0/1，PR 活动极低"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 内 ISSue 更新 423 条、PR更新500条",
+      "OpenClaw 发布 v2026.11.3，私有子任务结果不再进入聊天流",
+      "OpenClaw 待合并 PR 累积 322 条，评审吞吐成瓶颈",
+      "gateway-only v2026.9.37 为 extended-stable 退役线",
+      "Windows 启动与 SQLite/WAL 链路为 P0 稳定性焦点",
+      "claude-cli 转录路径 P1 #145309 已关闭"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills 今日 +788 星",
+      "vercel-labs/agent-browser 今日 +712 星",
+      "shadcn/improve 主打贵模型规划、廉价模型执行",
+      "openai/codex-security 将安全审计产品化",
+      "headroom 在 LLM 前压缩 token 成本",
+      "趋势从造 Agent 转向 Agent 基础设施"
+    ],
+    "ai-web": [
+      "OpenAI 官网新增 6 篇，Anthropic 零更新",
+      "4/6 篇属 /business/learn 企业内容",
+      "/index/ 出现 Businesses ChatGPT 与 Plus for Veterans",
+      "6 篇均仅元数据，无正文可分析",
+      "企业内容集中于 2026-11-10 发布"
+    ],
+    "ai-hn": [
+      "VulnCheck 追踪 Anthropic 漏洞帖 438 分/211 评论",
+      "Jane Street 数据中心因误报火警近乎被淹（121 分）",
+      "Anthropic 传 1.4 万亿美元估值 IPO 目标",
+      "OpenAI 营收达 100 亿美元但仍巨亏",
+      "苹果发布 Attention to Mamba 跨架构蒸馏研究",
+      "Show HN：Klad 可被编码智能体驱动"
+    ],
+    "ai-arxiv": [
+      "本期无超声去噪/重建直接相关论文",
+      "医学分割提示词存在掩码派生信息泄漏",
+      "后训练策略优化理论：覆盖坍塌与参考重置",
+      "UTF-8 变长编码影响跨语言模型性能",
+      "MaLoRA 从 margin 视角抗灾难性遗忘",
+      "重叠块去噪改进扩散语言模型"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：1.96 万赞、723 万下载",
+      "Lightricks/LTX-2.5 单周下载 284 万",
+      "Kimi-K3.1-Pro 与 DeepSeek-V4.1-Flash 上架",
+      "ERNIE-5.5-Flash-Base MoE 基座首次开放",
+      "去审查微调与 GGUF 量化叠加成分发主流",
+      "腾讯发布 Qwen3.8 投机解码草稿模型"
+    ],
+    "ai-community": [
+      "QA 群聊反思 AI 生产力帖 68 赞/31 评论",
+      "Strands Agents + Gemini 定位 flaky 测试根因",
+      "AWS 沙箱实跑 npm 包捕获 postinstall 行为",
+      "Agent 会话默认持久化引 GDPR 隐患",
+      "「Agent 需要 runtime 而非又一个框架」",
+      "Lobste.rs 热议 Rust 在 LLM 时代的角色"
+    ]
+  },
+  "en": {}
+}

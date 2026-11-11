@@ -1,0 +1,64 @@
+{
+  "picks": [
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门榜",
+      "why": "1.96 万赞、723 万下载，并衍生出完整量化与微调链",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Kimi-K3.1-Pro 与 DeepSeek-V4.1-Flash 开放权重上架",
+      "why": "旗舰闭源级模型开放权重，进一步挤压中间层模型",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.3",
+      "why": "私有子智能体结果不再进入流式聊天，修复隐私外泄",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "OpenAI Codex 连发 7 个版本",
+      "why": "含 rust-v0.167.1，是当日 AI CLI 中最密集的发布",
+      "source": "AI CLI 工具社区动态日报",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "title": "Qwen Code 发布 v1.0.0-preview",
+      "why": "预览版进入 1.0 线，同时更新 v0.27.2 与 SDK",
+      "source": "AI CLI 工具社区动态日报",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "title": "agent-skills：面向编码 Agent 的技能包走热",
+      "why": "单日近 800 星，代表 Agent Skills 新兴形态",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "title": "VulnCheck 追踪 Anthropic 发现的漏洞",
+      "why": "当日 HN 唯一大规模讨论，安全议题热度突出",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://news.ycombinator.com/item?id=50453171"
+    },
+    {
+      "title": "苹果发布 Attention to Mamba 跨架构蒸馏研究",
+      "why": "把注意力到 Mamba 的蒸馏配方公开为原始研究",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation"
+    },
+    {
+      "title": "医学分割提示词存在掩码派生信息泄漏",
+      "why": "在结肠镜与乳腺超声数据上验证，质疑基准可信度",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2611.13970v1"
+    },
+    {
+      "title": "OpenAI 官网新增 6 篇，4 篇为企业内容",
+      "why": "当日仅 OpenAI 单边更新，企业侧占绝对多数",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+    }
+  ]
+}

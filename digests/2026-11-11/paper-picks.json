@@ -1,0 +1,32 @@
+{
+  "picks": [
+    {
+      "title": "Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation",
+      "takeaway": "反事实检验文本提示泄漏：超声等数据用掩码派生尺寸词",
+      "why": "保留尺寸词即可复现84–98%增益，揭示基准虚高",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.13970v1"
+    },
+    {
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "takeaway": "DINOv2多级微调对比从头U-Net，跨站点评估分割",
+      "why": "质疑单基线比较，考察基础模型在新临床站点表现",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.14519v1"
+    },
+    {
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "takeaway": "PyTorch库将B样条与Legendre曲线作为可学习基元",
+      "why": "可复现开源，适合配准、曲线拟合与连续表示重建",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.14516v1"
+    },
+    {
+      "title": "DnNP: Denoising Input Uncertainty in Neural Processes",
+      "takeaway": "变分推断联合去噪含噪输入并做元学习预测",
+      "why": "NeurIPS接收并公开代码，可迁移至噪声观测建模",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.14424v1"
+    }
+  ]
+}

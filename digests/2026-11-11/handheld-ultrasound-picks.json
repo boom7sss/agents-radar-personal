@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "医学影像查看器 OHIF 测试版：超声方向工具改用秒/毫伏显示心电测量",
+      "context": "OHIF 是开源的网页医学影像查看器，本次测试版改动了超声方向性测量工具对心电信号的测量显示。",
+      "relevance": "涉及掌超冻结回放后的测量标注与心电显示模块，可能影响界面数值单位与标注逻辑。",
+      "action": "进入超声测量标注模块设计时再评估，暂不必接入此测试版。",
+      "category": "界面交互",
+      "source": "OHIF Viewer",
+      "url": "https://github.com/OHIF/Viewers/releases/tag/v3.14.0-beta.72",
+      "kind": "open-source-release"
+    }
+  ]
+}

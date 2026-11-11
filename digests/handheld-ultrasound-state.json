@@ -879,7 +879,11 @@
     "dcmjs-org/dcmjs@v1.0.0-beta.10": "2026-11-05T00:10:24Z",
     "OHIF/Viewers@v3.14.0-beta.71": "2026-11-09T14:20:08Z",
     "cornerstonejs/cornerstone3D@v5.16.0": "2026-11-09T20:03:46Z",
-    "cornerstonejs/cornerstone3D@v5.17.0": "2026-11-10T13:24:38Z"
+    "cornerstonejs/cornerstone3D@v5.17.0": "2026-11-10T13:24:38Z",
+    "OHIF/Viewers@v3.14.0-beta.73": "2026-11-11T01:05:43Z",
+    "OHIF/Viewers@v3.14.0-beta.72": "2026-11-10T19:07:01Z",
+    "cornerstonejs/cornerstone3D@v5.17.1": "2026-11-10T20:22:09Z",
+    "dcmjs-org/dcmjs@v0.52.3": "2026-11-11T14:56:00Z"
   },
   "pendingItems": []
 }
