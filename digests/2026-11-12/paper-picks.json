@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "takeaway": "把单一假设换成互斥完备对比集，用实验证据重分配信念",
+      "why": "NeurIPS 2026 接收，55页含项目页，方法框架完整可复现",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.14514v1"
+    },
+    {
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "takeaway": "3.2万亿token蛋白-配体预训练，单一表征空间涌现三类零样本能力",
+      "why": "NeurIPS 2026 主会 Oral，功能/残基/键层级能力均跨分布验证",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.14504v1"
+    },
+    {
+      "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+      "takeaway": "以可微渲染碰撞检测任务对标CNN与RAFT，检验连接组约束的鲁棒与能效",
+      "why": "NeurIPS 2026 接收，把对抗鲁棒与感知错觉统一评估，比较设计清晰",
+      "venue": "NeurIPS",
+      "url": "http://arxiv.org/abs/2611.14498v1"
+    }
+  ]
+}

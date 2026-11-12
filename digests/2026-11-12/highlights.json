@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态重心转向权限沙箱、成本透明度与跨平台稳定性",
+      "六个工具均有子代理编排议题，成熟度差异明显",
+      "Codex 发布 rust-v0.167.2 及 4 个 alpha 版本",
+      "OpenCode 主帖 #59387 达 362 评论，免费层热度高",
+      "Qwen Code 发布 v1.0.0-preview.1，CI 稳定性成最大噪音源",
+      "Claude Code 今日 50 条 Issue 更新但无 PR 活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues 483 条、PR 500 条，维护压力高",
+      "发布 v2026.11.5-beta.2：长会话双向分页历史",
+      "macOS 应用改为保留已保存的密钥",
+      "#197835 稳定 session 系统提示词，保住 Anthropic 缓存",
+      "仍有 Gateway 事件循环阻塞等 P0/P1 Issue 未关闭",
+      "历史状态恢复修复未进入 latest 稳定通道"
+    ],
+    "ai-trending": [
+      "热点集中于编码 Agent 配套层：skills、memory、harness",
+      "OpenAI 发布 codex-security 安全 CLI 与 TypeScript SDK（+663）",
+      "affaan-m/ECC 以 301,876 star 居 Agent 调优层首位",
+      "meta/astryx 设计系统首入热榜前列（+1,789）",
+      "addyosmani/agent-skills 提供生产级工程技能包（+812）",
+      "TensorFold 用 Zig 实现 Metal/CUDA/Vulkan 推理（+94）"
+    ],
+    "ai-web": [
+      "Anthropic 向 SEC 递交 S-1，拟以代码 ANT 登陆 Nasdaq",
+      "发行股数与价格区间未定，注册声明尚未生效",
+      "承销商为 Goldman Sachs 与 Morgan Stanley",
+      "6 月保密递交草案，11 月进入公开递交阶段",
+      "PBC 形式加公开上市，使命约束将受市场审视",
+      "OpenAI 今日新增 0 篇，无可分析内容"
+    ],
+    "ai-hn": [
+      "黄仁勋相关新闻 1677 分、1739 评论断层领先",
+      "Anthropic IPO 以 637 分、649 评论位居第二",
+      "多条负面角度帖：安全警报、Sony 诉讼、反对 IPO",
+      "Google 发布 Gemini 4 Hydrogen，热度温和（76 分）",
+      "smolmaxxing 让 LLM 跑在小型旧设备上（113 分）",
+      "Lambda Web Functions 末次请求后仍计费内存约 7 分钟"
+    ],
+    "ai-arxiv": [
+      "今日无超声去噪、重建或质量评价的直接论文",
+      "医学分割基础模型适配 vs 任务专用训练的系统比较",
+      "EM-DETR 用示例定位应对标注稀缺的病灶检测",
+      "Contrastive Discovery 改在竞争假设间做对比推断",
+      "ReTrace 将工具型 Agent 蒸馏为无规划器工作流",
+      "后训练策略优化理论提出覆盖塌缩与参考重置"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 19,712 赞、709 万下载居首",
+      "Qwen3.8-Flash-Next 超 300 万下载，衍生版本众多",
+      "LTX-2.5 视频模型 11,598 赞、278 万下载",
+      "MiniMax-H3 下载 646 万，已有 ComfyUI 与社区改版",
+      "Kimi-K3.1-Pro 采用 compressed-tensors 压缩发布",
+      "tencent 发布 Qwen3.8-27B 推测解码草稿模型"
+    ],
+    "ai-community": [
+      "MCP 工具泛滥静默消耗上下文窗口成共识话题",
+      "RAG 权限须落在检索层而非提示词层",
+      "LLM 流水线“HTTP 200 + 合法 JSON”式静默劣化",
+      "Agent 可靠性关键在 schema 与数据契约而非提示词",
+      "安全升温：PDF 隐藏提示注入与 Firecracker 逃逸",
+      "OpenAI 单季营收 100 亿美元却亏损 109 亿美元"
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 递交 S-1，拟以代码 ANT 在 Nasdaq 上市",
+      "why": "头部模型公司转入公开市场，治理与财务披露将成新信息源",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+      "title": "OpenAI 发布 codex-security 安全 CLI 与 TypeScript SDK",
+      "why": "模型厂商亲自下场补齐 Agent 安全漏洞发现与修复环节",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "title": "Google 发布 Gemini 4 Hydrogen",
+      "why": "又一旗舰模型发布，但 HN 讨论热度明显低于公司新闻",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热度榜",
+      "why": "19,712 赞、709 万下载，当前生态核心基座之一",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.5-beta.2",
+      "why": "长会话双向分页历史落地，但稳定通道暂缺关键修复",
+      "source": "OpenClaw 生态日报"
+    },
+    {
+      "title": "后训练策略优化理论：覆盖塌缩与参考重置",
+      "why": "给出样本与梯度复杂度刻画，为 RL 后训练提供理论抓手",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2611.14467v1"
+    },
+    {
+      "title": "MCP 工具泛滥静默消耗上下文窗口",
+      "why": "工具挂载过多拉低推理质量并推高账单，影响 Agent 设计",
+      "source": "技术社区 AI 动态日报",
+      "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl"
+    },
+    {
+      "title": "smolmaxxing：让 LLM 跑在小型与老旧设备上",
+      "why": "HN 当日技术类最高分帖，端侧部署关注度上升",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    }
+  ]
+}

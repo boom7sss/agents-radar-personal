@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "OHIF 阅片器修复影像数据源绝对地址处理",
+      "context": "OHIF 是开源的浏览器端医学影像阅片器，本次修复 DICOMweb 数据源对绝对 BulkDataURI 未应用 transform 的问题",
+      "relevance": "掌超若通过浏览器或 WebView 加载 PACS 图像、像素数据走 BulkDataURI，可避免拉图失败或路径错误",
+      "action": "进入 PACS/Web 阅片集成阶段再评估，并验证该版本；当前仍属 beta",
+      "category": "工程集成",
+      "source": "OHIF Viewer",
+      "url": "https://github.com/OHIF/Viewers/releases/tag/v3.14.0-beta.85",
+      "kind": "open-source-release"
+    }
+  ]
+}
