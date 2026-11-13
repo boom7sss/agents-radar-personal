@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Llama.cpp 发布 v1",
+      "why": "本地推理生态标志性节点，影响大量自托管开发者",
+      "source": "Hacker News",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "title": "openai/codex-security 登上 Trending",
+      "why": "OpenAI 将漏洞发现与修复做成官方 CLI+SDK 工具链",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "title": "Claude 全系服务大规模故障",
+      "why": "claude.ai、Claude Code、API 同时中断，暴露平台依赖风险",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50477704"
+    },
+    {
+      "title": "Anthropic 发布 Claude Fable 5 与 Mythos 5",
+      "why": "新一代模型线，宣称软件工程与科研基准 SOTA",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-new-constitution"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热度榜",
+      "why": "点赞与下载双第一，带动量化与微调生态",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "LTX-2.5 视频生成模型放量",
+      "why": "单文件形态下载近 278 万，本地视频生成热度高",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "Langfuse 开源 Rust LLM 网关",
+      "why": "开源可追踪每次 LLM 调用，切中可观测性刚需",
+      "source": "Hacker News",
+      "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway"
+    },
+    {
+      "title": "实测 37,000 个 MCP 服务器可用性",
+      "why": "给出 Agent 生态真实可用率与垃圾比例的一手数据",
+      "source": "Dev.to",
+      "url": "https://dev.to/nestdaddy/we-tested-37000-mcp-servers-heres-how-many-actually-work-1pne"
+    }
+  ]
+}

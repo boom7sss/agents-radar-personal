@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.323 发布，PR 更新仅 1 条",
+      "Codex rust-v0.168.0/v0.169.0 密集发版",
+      "Copilot CLI v1.0.111 发版，36 条 Issue 更新",
+      "Qwen Code v0.27.3 及 SDK/Desktop/Nightly 发布",
+      "OpenCode v2.3.0 发版，PR 双向活跃",
+      "生态共性痛点：进程生命周期与静默失败"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h：Issue 298、PR 500，无新版",
+      "维护者聚焦升级保配置与内存占用治理",
+      "PR #198288 修复非聊天模型误入选择列表",
+      "Issue #126950 Telegram 回调被静默丢弃已关",
+      "Issue #192009 支持 cron 跨 provider 授权",
+      "Issue #140244 新增 --prompt-file 读提示词"
+    ],
+    "ai-trending": [
+      "modern-web-guidance-src 单日 +1875 居首",
+      "openai/codex-security +754，漏洞发现修复 CLI+SDK",
+      "chrome-devtools-mcp +145，浏览器调试入 MCP",
+      "caveman 宣称削减 65% Token，⭐119,650",
+      "headroom 上下文压缩，⭐79,562",
+      "趋势主线转向 Agent 工程化配套"
+    ],
+    "ai-web": [
+      "Anthropic 新增 33 篇，含 2024 起历史文章",
+      "Claude Fable 5 / Mythos 5 为近期模型主线",
+      "新版 Claude 宪法以 CC0 1.0 公开",
+      "OpenAI 仅 1 条元数据：ChatGPT Wallet，无正文",
+      "Anthropic 连发经济指数与 Agent 自主性评估",
+      "Claude 4 发布推动 Claude Code 转 GA"
+    ],
+    "ai-hn": [
+      "Claude 全系宕机霸榜，总分逾 700",
+      "Llama.cpp 发布 v1，本地推理里程碑",
+      "Langfuse 开源 Rust LLM 网关可追踪调用",
+      "Claude Code 无预警移除功能引不满",
+      "AI 解读哥德尔手稿，涉及数百定理",
+      "Mythos 三日完成 AMD 芯片适配"
+    ],
+    "ai-arxiv": [
+      "今日无超声专属论文，明确不作迁移断言",
+      "FGCARL：Fisher 引导跨站点医学分割",
+      "eDMD：端点分布匹配少步扩散蒸馏",
+      "冻结视觉语言评估器免微调提示选择",
+      "ArchSpace 关注 LLM 架构研究可复现性",
+      "扩散语言模型“何时重生成”决策研究"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 居榜：⭐19,825、696 万下载",
+      "LTX-2.5 视频生成：⭐11,733、278 万下载",
+      "DeepSeek-V4.1-Flash 正式版上架",
+      "Kimi-K3.1-Pro 开源权重，compressed-tensors",
+      "Qwen3.8 全家桶含 GGUF 与 abliterated",
+      "Facebook 补位 SAM3、DINOv3、SAM-3D-Body"
+    ],
+    "ai-community": [
+      "实测 37,000 个 MCP 服务器可用性",
+      "Dev.to：Claude Code 请求成本实测，技能失效",
+      "OpenQodex 提议由独立 AI 做提交前评审",
+      "Codex 静默无操作，基于 Cedar 策略治理",
+      "Lobste.rs 关注 VM 逃逸与 PDF 提示注入",
+      "本地模型呼吁标准化 Web Models API"
+    ]
+  },
+  "en": {}
+}

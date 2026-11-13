@@ -895,7 +895,15 @@
     "OHIF/Viewers@v3.14.0-beta.78": "2026-11-12T01:35:29Z",
     "OHIF/Viewers@v3.14.0-beta.77": "2026-11-12T01:29:41Z",
     "dcmjs-org/dcmjs@v1.0.0-beta.12": "2026-11-12T15:39:27Z",
-    "dcmjs-org/dcmjs@v1.0.0-beta.11": "2026-11-12T14:25:35Z"
+    "dcmjs-org/dcmjs@v1.0.0-beta.11": "2026-11-12T14:25:35Z",
+    "OHIF/Viewers@v3.14.0-beta.90": "2026-11-13T01:48:48Z",
+    "OHIF/Viewers@v3.14.0-beta.89": "2026-11-13T01:22:00Z",
+    "OHIF/Viewers@v3.14.0-beta.88": "2026-11-12T22:24:03Z",
+    "OHIF/Viewers@v3.14.0-beta.87": "2026-11-12T18:44:43Z",
+    "cornerstonejs/cornerstone3D@v5.18.2": "2026-11-13T12:59:48Z",
+    "cornerstonejs/cornerstone3D@v5.18.1": "2026-11-13T01:56:29Z",
+    "cornerstonejs/cornerstone3D@v5.18.0": "2026-11-13T01:16:33Z",
+    "cornerstonejs/cornerstone3D@v5.17.2": "2026-11-13T00:46:15Z"
   },
   "pendingItems": []
 }

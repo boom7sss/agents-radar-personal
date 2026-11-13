@@ -1,0 +1,24 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 5.18：显示集规则改为可注册、可排序",
+      "context": "Cornerstone3D 是网页端医学影像渲染基础库，本次把显示集拆分规则改为注册表加顺序，并新增定位规则与可选项。",
+      "relevance": "掌超配套的网页阅片或回放界面若用它管理多序列、多视图布局，显示集如何归类到各视图需按新规则调整。",
+      "action": "已用该库做阅片界面的团队立即关注迁移说明；纯设备端界面暂不需要动作。",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.18.0",
+      "kind": "open-source-release"
+    },
+    {
+      "title": "OHIF 3.14测试版：可用新版显示集拆分规则",
+      "context": "OHIF Viewer 是开源的网页医学影像阅片器，本次测试版接入 Cornerstone3D 的新显示集拆分规则。",
+      "relevance": "若掌超影像通过网页端查看，此改动会影响多序列、定位图与心电图等版面自动排布。",
+      "action": "进入网页阅片模块开发时再评估；仅用厂商自带软件则暂不动作。",
+      "category": "界面交互",
+      "source": "OHIF Viewer",
+      "url": "https://github.com/OHIF/Viewers/releases/tag/v3.14.0-beta.90",
+      "kind": "open-source-release"
+    }
+  ]
+}
