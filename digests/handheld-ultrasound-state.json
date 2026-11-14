@@ -903,7 +903,9 @@
     "cornerstonejs/cornerstone3D@v5.18.2": "2026-11-13T12:59:48Z",
     "cornerstonejs/cornerstone3D@v5.18.1": "2026-11-13T01:56:29Z",
     "cornerstonejs/cornerstone3D@v5.18.0": "2026-11-13T01:16:33Z",
-    "cornerstonejs/cornerstone3D@v5.17.2": "2026-11-13T00:46:15Z"
+    "cornerstonejs/cornerstone3D@v5.17.2": "2026-11-13T00:46:15Z",
+    "OHIF/Viewers@v3.14.0-beta.91": "2026-11-13T20:12:55Z",
+    "cornerstonejs/cornerstone3D@v5.18.3": "2026-11-13T19:22:04Z"
   },
   "pendingItems": []
 }

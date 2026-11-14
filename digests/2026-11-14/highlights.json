@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 进入可靠性治理期，焦点转向会话状态与工具调用正确性",
+      "Qwen Code 推进 1.0 事件驱动内核重构",
+      "Gemini CLI 推进 subagent 体系，出现 MAX_TURNS 误报成功问题",
+      "OpenCode 推进 v2 会话存储与 hashline 编辑模式",
+      "Claude Code 发布 v2.1.325，修复 zstd 解码安全问题",
+      "Copilot CLI 发布 v1.0.112，默认子代理模型在免费计划不可用"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues 更新 428 条、PR 更新 500 条",
+      "OpenClaw 无新版本发布，待合并 PR 积压 320 条",
+      "OpenClaw 合入以 CI 效率与 CLI 报错质量改善为主",
+      "多个 P0/P1 回归问题仍开放，稳定性风险持续",
+      "讨论集中于会话/子代理状态一致性与消息投递可靠性"
+    ],
+    "ai-trending": [
+      "Chrome DevTools 官方推出 MCP 工具，今日新增 673 star",
+      "阿里开源企业级代码审查 Agent，今日新增 897 star",
+      "腾讯开源 LoopForge 编码 Agent 工作流编排器",
+      "plannotator 提供 Agent 协作标注空间，今日新增 412 star",
+      "caveman 与 headroom 聚焦削减 token 成本",
+      "Ollama 以 186,958 star 稳居本地推理入口"
+    ],
+    "ai-web": [
+      "Anthropic 今日唯一新文《Building strong safety evaluations》",
+      "独立评估升级：METR 获员工级访问权限",
+      "披露集群覆盖三起真实入侵事件与 UK AISI 测试",
+      "科学能力线含 FLT 形式化证明与 zeta 零点下界提升",
+      "OpenAI 今日增量为 0 篇，无法同期对比"
+    ],
+    "ai-hn": [
+      "Claude Code Projects 支持并行 AI worker，93 分 89 评论",
+      "OpenAI 解散机器人团队并推出 ChatGPT Wallet",
+      "Anthropic 发布 Claude Meetings",
+      "llama.cpp 迈入 v1.0 并推出 macOS 原生应用",
+      "vLLM 跨双 DGX 服务 GLM-5.3，达 607.8 tok/s",
+      "《The Claude Delusion》148 条评论成最热讨论"
+    ],
+    "ai-arxiv": [
+      "本期无超声去噪或重建相关新投稿",
+      "ArchSpace 提出 LLM 架构研究记录与引用框架",
+      "Goal Encoding 探究 LLM 内部目标表征",
+      "LoRA 在异构与持续学习下弱于全量微调",
+      "EIT 开放数据集与 0.55T 低场 fMRI 可行性研究"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以近 2 万点赞、676 万下载领跑",
+      "Lightricks LTX-2.5 视频生成点赞 1.19 万",
+      "facebook/sam3 发布，点赞 6,586",
+      "DeepSeek-V4.1-Flash-1017 点赞 5,697",
+      "语音全双工新品 Sophon-Realtime-v1、Haru-4B 起步",
+      "社区脱敏微调变体占据大量榜单席位"
+    ],
+    "ai-community": [
+      "Swizzle Runtime v0.1.0 纯 Rust 实现 209 tok/s",
+      "KV Cache 调优解释 24GB 显存下大模型变慢",
+      "本地 9B 与托管旗舰抽取任务基准结论反直觉",
+      "Dev.to 讨论用工具阻止 Agent 走捷径的 MCP 实践"
+    ]
+  },
+  "en": {}
+}
