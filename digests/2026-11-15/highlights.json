@@ -1,0 +1,59 @@
+{
+  "zh": {
+    "ai-cli": [
+      "仅 Qwen Code 发布 v0.27.4、desktop-v0.27.4、sdk-typescript-v0.1.34",
+      "Qwen Code 推进 1.0 共享 agent loop 内核迁移",
+      "OpenCode #59387 单帖 369 评论，v2 稳定性成焦点",
+      "Qwen Code #14724 达 381 评论，为当日最热议题",
+      "Claude Code 提出“污点触发出网封锁”安全提案",
+      "Gemini CLI 与 Qwen Code 同日出现 CI 门禁安全 PR"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.5-beta.3 发布，聚焦大型会话内存与可靠性",
+      "P0 级 Windows 安装/更新失稳问题集中涌现",
+      "待合并 PR 335 条，审阅压力累积",
+      "更新机制改造：运行时契约检查替代金丝雀演练",
+      "子代理投递语义修正，如实上报等待与消费状态",
+      "状态读取准入复核，防止越权消费"
+    ],
+    "ai-trending": [
+      "Chrome 官方 chrome-devtools-mcp 今日新增 718 star",
+      "NVIDIA SkillEvaluator 新增 205 star，补上技能质量评测",
+      "headroom 以 token 压缩，编码 Agent 约节省 20% token",
+      "caveman 为编码 Agent 削减约 65% token，star 达 12 万",
+      "ECC 以 30 万 star 覆盖 Claude Code、Codex 等多宿主",
+      "ggml 作为本地推理底层基座，今日新增 53 star"
+    ],
+    "ai-hn": [
+      "AI 生成代码应开源一帖获 390 分、240 评论，为全站最热",
+      "Claude 误删教授教学资料引发对代理破坏性的担忧",
+      "Anthropic IPO 申报解读与 Opus 5.5 成本分析集中出现",
+      "Raschka 位置编码长文获 107 分，为唯一高分技术文",
+      "27 字节遥测响应致 Claude Desktop 周期性冻结",
+      "UMAP 0.6 发布，作者本人公布性能与质量改进"
+    ],
+    "ai-arxiv": [
+      "UltraVoxelGS 前馈式 3D 超声重建，声称物理忠实渲染",
+      "综述超声弹性成像激励方式与低成本替代方案",
+      "非线性参量阵反馈实现颅骨声全息亚波长对齐",
+      "LoopMR 单块跨迭代共享加速 MRI 重建，参数更省",
+      "仿真探头压迫下静脉形变，服务机器人股动脉穿刺"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 点赞 20,080、下载 654 万，领跑榜单",
+      "MiniMax-H3 视频模型下载超 600 万",
+      "MiniMax-H3-Image 图像模型下载达 57 万",
+      "Qwen3.8 去审查与 abliterated 微调热度突出",
+      "DeepSeek-V4.1-Flash-1017 点赞 5,724",
+      "Facebook sam3 与 dinov3 显示基础视觉模型仍具活力"
+    ],
+    "ai-community": [
+      "Dev.to 聚焦 Jira 状态由 AI 校验的工单实践",
+      "讨论编码 Agent 摘要“报喜不报忧”的失真模式",
+      "Code Is Cheap 讨论代码审查瓶颈与学徒制消失",
+      "WebMCP、站点地图、Markdown 索引成对代理友好新实践",
+      "标注消息发送者身份纠正代理语境误判"
+    ]
+  },
+  "en": {}
+}

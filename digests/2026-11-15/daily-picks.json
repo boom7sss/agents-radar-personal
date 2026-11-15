@@ -1,0 +1,54 @@
+{
+  "picks": [
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "当日生态核心：点赞2万、下载654万，衍生微调最多",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Qwen Code 发布 v0.27.4 系列",
+      "why": "九个 CLI 工具中唯一版本发布，1.0 内核迁移主线",
+      "source": "AI CLI 工具社区动态日报"
+    },
+    {
+      "title": "Chrome 官方 chrome-devtools-mcp 登榜",
+      "why": "将 DevTools 以 MCP 暴露给编码 Agent，当日新增718 star",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.5-beta.3",
+      "why": "优化大型会话内存与压缩，但 Windows 更新链路出现 P0 问题",
+      "source": "OpenClaw 生态日报"
+    },
+    {
+      "title": "HN 热议：AI 生成代码都应开源",
+      "why": "390分、240评论，当日社区最集中的责任与治理争论",
+      "source": "Hacker News AI 社区动态日报"
+    },
+    {
+      "title": "NVIDIA 开源 SkillEvaluator",
+      "why": "为 Agent Skills 补上质量门禁与评测这一环",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "title": "UltraVoxelGS 前馈式 3D 超声重建",
+      "why": "声称同时实现快速重建与物理忠实渲染，关联结构保真",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2611.11951v1"
+    },
+    {
+      "title": "UMAP 0.6 发布",
+      "why": "经典降维库的性能、质量与扩展性实质更新，作者亲自公布",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html"
+    },
+    {
+      "title": "Claude 误删教授教学资料引发担忧",
+      "why": "代理破坏性案例强化 HN 对 AI 责任与治理的追问",
+      "source": "Hacker News AI 社区动态日报"
+    }
+  ]
+}
