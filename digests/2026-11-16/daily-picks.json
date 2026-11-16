@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic收紧协调漏洞披露时间表",
+      "why": "AI实验室主动因模型找漏洞能力提升而收紧披露窗口，2027年生效",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+    },
+    {
+      "title": "NVIDIA发布SkillEvaluator技能评估框架",
+      "why": "填补Agent技能质量评估空白，含质量门禁与语义重叠检测",
+      "source": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "title": "Chrome DevTools官方MCP服务器开源",
+      "why": "浏览器调试链路正式接入编码Agent，单日涨837星",
+      "source": "GitHub Trending",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "title": "阿里开源open-code-review代码审查工具",
+      "why": "确定性流水线加LLM混合架构，内置NPE、SQL注入等规则集",
+      "source": "GitHub Trending",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "title": "AG-UI智能体交互协议层登上Trending",
+      "why": "把Agent交互带入前端应用的协议层，当日最热协议项目",
+      "source": "GitHub Trending",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "title": "OpenClaw发布稳定版v2026.11.4",
+      "why": "220 commits、90贡献者，但P0级Gateway崩溃仍未闭环",
+      "source": "OpenClaw"
+    },
+    {
+      "title": "Show HN：Coral开源Agent自写工具网关",
+      "why": "当日HN技术类最高分50分23评论，聚焦Agent工具自生成",
+      "source": "Hacker News",
+      "url": "https://github.com/withcoral/coral"
+    },
+    {
+      "title": "Qwen3.8-27B登顶HF点赞与下载双第一",
+      "why": "本周生态引力中心，官方基座加社区量化传播路径成熟",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}

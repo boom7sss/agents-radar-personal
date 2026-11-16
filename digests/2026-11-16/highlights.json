@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code安全模型有效性争议，热帖34评论",
+      "Codex连发rust 0.171.0-alpha.7/8/9，桌面端缺陷待修",
+      "OpenCode免费层议题380评论，成信任焦点",
+      "Qwen Code发nightly，CI帖407评论最热",
+      "Gemini CLI 10条PR聚焦子代理可靠性与安全修复",
+      "MCP连接/鉴权成多工具共性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw日更382 Issue、500 PR，吞吐覆盖流入",
+      "发布稳定版v2026.11.4：220 commits、90贡献者",
+      "v2026.11.5-beta.4新增Telegram widget渲染",
+      "MCP整型参数被强转字符串缺陷已关闭",
+      "Gateway崩溃与更新验证失败等P0/P1未闭环",
+      "待合并PR达227条，队列仍偏大"
+    ],
+    "ai-trending": [
+      "NVIDIA SkillEvaluator +953，填补技能质量评估空白",
+      "Chrome DevTools官方MCP +837，调试链路接入Agent",
+      "阿里open-code-review +946，规则集加LLM混合",
+      "AG-UI协议层 +790，成当日最热协议项目",
+      "google-labs-code/stitch-skills +540，跨Agent技能库",
+      "headroom压缩token：编码Agent约减20%"
+    ],
+    "ai-web": [
+      "Anthropic收紧漏洞披露：高危90天缩至30天",
+      "新规2027-01-01起适用，已在处理报告保原期限",
+      "升级外部协调方时限由30天缩至15天",
+      "补丁后分享技术细节等待期45天缩至30天",
+      "OpenAI单日上线8条index页面，均无正文",
+      "OpenAI主题集中于科学、儿童安全与医疗"
+    ],
+    "ai-hn": [
+      "产业监管讨论盖过技术，聚焦Anthropic IPO连带效应",
+      "Show HN Coral开源网关50分23评论，技术类最高",
+      "HN邮箱被爬用于诈骗帖120分，为当日最高分",
+      "OpenAI格点规范理论帖仅7分0评论",
+      "Skillset技能策展工具上榜但关注度低",
+      "社区情绪偏审视AI商业化与政策风险"
+    ],
+    "ai-arxiv": [
+      "研究警示：文本提示含掩膜派生尺寸数量，虚高分割",
+      "多视角超声心动图合成用动态形状控制补数据稀缺",
+      "颅骨补偿声全息亚波长配准误差<1.5mm",
+      "超声专用去噪与质量评价今日仍为空白",
+      "系统综述2D-3D医学影像配准深度学习方法",
+      "通用侧去噪、数值稳定性与不确定性量化值得关注"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B点赞20236、下载676万双料第一",
+      "LTX-2.5视频模型点赞12193、下载279万",
+      "flux-3-image-klein-comfy下载111万，绑ComfyUI",
+      "facebook/sam3扩展视频分割，下载197万",
+      "Kimi-K3.1-Pro早期关注，点赞2141",
+      "heretic/abliterated去审查微调仍最活跃"
+    ],
+    "ai-community": [
+      "Agentic Loop拆解Plan-Build-Judge编码循环",
+      "Secret-Broker模式：不再向Agent直接交出凭证",
+      "固定探针评测易被游戏，漏报失败",
+      "自托管Ollama实测暴露日志漏掉的FFmpeg泄露",
+      "Agent报账62421.60美元，记录仅50075.93"
+    ]
+  },
+  "en": {}
+}

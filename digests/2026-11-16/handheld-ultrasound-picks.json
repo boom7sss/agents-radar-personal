@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 5.19.0：4D 影像只需一个标注体数据",
+      "context": "Cornerstone3D 是网页端医学影像渲染与标注的基础库；本次让 4D 影像共用单个标注体数据。",
+      "relevance": "影响掌超回放、动态多帧和测量标注模块：改标注层前需确认版本兼容。",
+      "action": "进入回放或标注模块开发时再评估，先不升级。",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.19.0",
+      "kind": "open-source-release"
+    }
+  ]
+}

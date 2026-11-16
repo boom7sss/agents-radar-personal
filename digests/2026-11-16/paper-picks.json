@@ -1,0 +1,25 @@
+{
+  "picks": [
+    {
+      "title": "A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging",
+      "takeaway": "51页综述系统梳理2D-3D配准的深度学习框架、数据与评价体系",
+      "why": "大篇幅、多表格归纳，可作为术中配准与重建方法选型的参考",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.17468v1"
+    },
+    {
+      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "takeaway": "探查蒸馏扩散模型激活方向集中，定位多样性坍缩并修复",
+      "why": "根因分析具体到初始去噪步的中间块，可迁移至超声生成先验",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.18550v1"
+    },
+    {
+      "title": "On numerical issues of divergences between nearly equal distributions",
+      "takeaway": "指出KL/JSD在近等分布下的舍入与抵消问题并给出稳定重写",
+      "why": "影响蒸馏、RL与近分布优化目标，具备明确工程价值",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.18511v1"
+    }
+  ]
+}
