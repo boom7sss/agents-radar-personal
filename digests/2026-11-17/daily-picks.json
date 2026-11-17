@@ -1,0 +1,64 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 发布 GPT-6.2 Astra and Sol",
+      "why": "当日 HN 唯一高分高评论头条，社区集中消化新旗舰能力",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50535230"
+    },
+    {
+      "title": "Anthropic 推出 Claude for Excel 与金融 Agent Skills",
+      "why": "Claude 首次以嵌入行业主力工具方式交付 Agent 能力",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services"
+    },
+    {
+      "title": "Anthropic 与 Theorem 合作验证 100+ 开源库安全属性",
+      "why": "被定性为 AI 大规模应用形式化验证首例，攻防叙事关键",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "title": "Claude Mythos 将 AMD GPU 接入软件工作压缩到约 3 天",
+      "why": "近乎全自动编写 kernel，正面触及 CUDA 护城河",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50526264"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.5",
+      "why": "重启安全会话与失败回滚机制，回应升级可靠性痛点",
+      "source": "GitHub",
+      "url": "https://github.com/openclaw/openclaw/issues/197083"
+    },
+    {
+      "title": "AG-UI Agent-User 交互协议登榜",
+      "why": "今日新增 stars 居首，标志 agent 前端交互协议层成形",
+      "source": "GitHub",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "2 万余点赞、近 700 万下载，官方底座生态主导榜单",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "CertiSum：跨平台位级一致 MXFP4 训练",
+      "why": "解决训练不可复现问题，对审计与训推一致有工程价值",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.21584v1"
+    },
+    {
+      "title": "研究揭示嵌入余弦相似度实际测的是文本长度",
+      "why": "直指主流评测指标效度问题，提醒审慎解读相似度结论",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.21519v1"
+    },
+    {
+      "title": "Claude Code 团队谈代码验证方法论",
+      "why": "HN 工程类最高分，AI 生成代码如何验证成核心议题",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50529612"
+    }
+  ]
+}

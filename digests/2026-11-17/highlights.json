@@ -1,0 +1,65 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 单日发布 5 个 alpha，Qwen Code 发布 5 个版本物",
+      "CLI 生态转向可靠性治理，聚焦会话状态与权限模型",
+      "Windows 平台问题集中在 Codex 与 Copilot CLI",
+      "OpenClaw 发布 v2026.11.5，支持重启安全会话与失败回滚",
+      "Pi 单日 48 条 Issue、17 条 PR，活跃度最高之一",
+      "OCR 生态转向配置作用域失效，影响信任"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.11.5：Gateway 重启后保留排队消息与权限",
+      "OpenClaw 待合并 PR 达 220 条，WAL 与升级回滚议题挂起超一个月",
+      "OpenClaw 当日 Issues 更新 446 条、PR 更新 500 条",
+      "升级到 2026.11.3 时 Doctor 校验 WAL 失败且拒绝回滚",
+      "doctor --fix 与 plugins update 互相阻塞仍为 OPEN"
+    ],
+    "ai-trending": [
+      "AG-UI 交互协议登榜，今日新增 1444 stars 居首",
+      "Claude-BugHunter 红队技能包新增 1007 stars",
+      "headroom 压缩工具输出，编码 agent 省约 20% token",
+      "google-labs-code/stitch-skills 新增 350 stars，跨 agent 复用技能",
+      "cursor/plugins 官方插件规范新增 196 stars",
+      "阿里 open-code-review 混合架构代码评审新增 764 stars"
+    ],
+    "ai-web": [
+      "Anthropic 推出 Claude for Excel 与金融 Agent Skills",
+      "Sonnet 4.5 在 Vals AI 金融 Agent 基准达 55.3%",
+      "Anthropic 与 Theorem 合作验证 100+ 开源库安全属性",
+      "Barclays 计划 2026 年底 Claude Code 覆盖 50% 开发者",
+      "Claude Frontier Academy 投入 1 亿美元培养万名工程师",
+      "OpenAI 新增 3 条均仅元数据，内容不可评估"
+    ],
+    "ai-hn": [
+      "GPT-6.2 Astra and Sol 登顶 HN，523 分、286 评论",
+      "Claude Code 团队验证方法论讨论 193 分、158 评论",
+      "Claude Mythos 将 AMD GPU 接入工作从 12 个月压缩到 3 天",
+      "微软发布 MAI Code 2 与 Code 2 Flash，热度有限",
+      "加州起诉 OpenAI 多篇报道被重复提交，分数偏低"
+    ],
+    "ai-arxiv": [
+      "CertiSum 实现跨平台位级一致 MXFP4 训练",
+      "Latent Lattice 语言模型转而扩大活跃计算状态数",
+      "研究揭示时间污染可测量化，评测效度受到警示",
+      "嵌入余弦相似度实际先测文本长度，指标效度存疑",
+      "今日 50 篇中无超声去噪或重建相关论文"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 2 万余点赞、近 700 万下载居首",
+      "LTX-2.5 视频生成模型 1.2 万点赞，热度最高",
+      "facebook/sam3 视频分割模型获近 7000 点赞",
+      "DeepSeek-V4.1-Flash 以高性价比图文理解上榜",
+      "uncensored/heretic 变体集中上榜，反映去限制需求",
+      "GGUF、NVFP4 量化分发成为触达主渠道"
+    ],
+    "ai-community": [
+      "Dev.to 讨论转向 agent 工程质量与测试观测",
+      "真实案例警示 agent 强推 main 清理密钥酿成事故",
+      "构建确定性校验门拒绝无法自证的 agent PR",
+      "A2A 下多智能体安全通信以 IAM 为唯一凭证",
+      "Lobste.rs 关注 ML 模块与生成式 AI 数学入门"
+    ]
+  },
+  "en": {}
+}

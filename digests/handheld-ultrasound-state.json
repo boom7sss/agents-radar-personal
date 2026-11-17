@@ -911,7 +911,14 @@
     "cornerstonejs/cornerstone3D@v5.19.2": "2026-11-16T19:33:02Z",
     "cornerstonejs/cornerstone3D@v5.19.1": "2026-11-16T18:16:15Z",
     "cornerstonejs/cornerstone3D@v5.19.0": "2026-11-16T15:01:28Z",
-    "cornerstonejs/cornerstone3D@v5.18.4": "2026-11-16T14:40:31Z"
+    "cornerstonejs/cornerstone3D@v5.18.4": "2026-11-16T14:40:31Z",
+    "OHIF/Viewers@v3.14.0-beta.98": "2026-11-17T14:11:21Z",
+    "OHIF/Viewers@v3.14.0-beta.97": "2026-11-17T13:41:44Z",
+    "OHIF/Viewers@v3.14.0-beta.96": "2026-11-17T13:32:18Z",
+    "OHIF/Viewers@v3.14.0-beta.95": "2026-11-16T20:58:30Z",
+    "OHIF/Viewers@v3.14.0-beta.94": "2026-11-16T20:52:53Z",
+    "cornerstonejs/cornerstone3D@v5.19.4": "2026-11-17T14:54:22Z",
+    "cornerstonejs/cornerstone3D@v5.19.3": "2026-11-17T13:58:23Z"
   },
   "pendingItems": []
 }

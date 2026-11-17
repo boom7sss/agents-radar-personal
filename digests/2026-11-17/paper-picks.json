@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment",
+      "takeaway": "视觉语言模型提取街景属性，与卫星影像跨注意力对齐评估建筑火灾风险。",
+      "why": "多模态宏观—微观融合，但摘要未给外部验证与超声关联。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.21563v1"
+    },
+    {
+      "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+      "takeaway": "在9个组织学基础模型与6个通用模型上系统评测D4测试时增强收益。",
+      "why": "测得分片级收益随基础模型增强而衰减，含2个WSI数据集。",
+      "venue": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.21565v1"
+    }
+  ]
+}
