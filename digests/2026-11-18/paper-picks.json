@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "Speckle2Self: Self-supervised ultrasound speckle reduction without clean data.",
+      "venue": "Medical image analysis · 2025",
+      "url": "https://doi.org/10.1016/j.media.2025.103755",
+      "takeaway": "仅用单张含噪超声图做自监督去斑，通过多尺度扰动构造训练目标，在真实超声散斑上验证。",
+      "why": "针对散斑空间相关、盲点网络失效的问题给出可复现对照设计；需核验其无参考质评与结构保真指标。"
+    },
+    {
+      "title": "Multicycle Temporal Compounding Sonography for Despeckling at Specified Respiratory Phases.",
+      "venue": "IEEE transactions on medical imaging · 2026",
+      "url": "https://doi.org/10.1109/tmi.2025.3602633",
+      "takeaway": "按呼吸相位做多周期时间复合去斑，结合各向异性扩散与引导滤波，在117例呼吸数据集上评估。",
+      "why": "真实采集验证且含边缘/斑点抑制指标；属成像采集策略，复现需相位追踪与多周期数据。"
+    }
+  ]
+}

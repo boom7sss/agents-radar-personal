@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态转入可信长期运行，聚焦回归缺陷与静默失败",
+      "OpenAI Codex 发布 rust-v0.170.0 稳定版并重构沙箱遥测",
+      "Claude Code 发布 v2.1.327，回归问题高发",
+      "OpenCode 发布 v2.3.2/v2.3.1 连续热修",
+      "MCP 认证链路与上下文开销成跨工具共同瓶颈",
+      "Qwen Code 推进 Agent Loop 切片但 CI 噪声大"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues 417、PR 500，活跃度高",
+      "OpenClaw 发布 v2026.10.33 gateway-only 扩展稳定版",
+      "会话状态与消息丢失类 P0/P1 缺陷收敛缓慢",
+      "PR #200905 修正未配对 CLI 的批准提示",
+      "PR #200783 修复孤立 CR 致 frontmatter 解析错误",
+      "数据库迁移 PostgreSQL 为搜索批处理铺路"
+    ],
+    "ai-trending": [
+      "Agent Skills 生态集中爆发，多仓库同日冲榜",
+      "Claude-BugHunter 新增 2322 star，今日最高",
+      "Google paper-orchestra 新增 1529 star，多智能体写论文",
+      "NVIDIA SkillEvaluator 为技能质量建立评估门禁",
+      "HKUDS CLI-Anything 推动软件 Agent-Native 化",
+      "cursor/plugins 标志编辑器厂商开放插件生态"
+    ],
+    "ai-web": [
+      "Claude Fable 5.2 声称解决黑洞物理两个开放问题",
+      "官方称相关预印本已可获取，但未披露评审状态",
+      "Anthropic Institute 明确经济扩散等四大议程",
+      "OpenAI 侧 5 条仅元数据，无正文可供解读"
+    ],
+    "ai-hn": [
+      "Claude 训练数据含大规模蛋白质序列引发越界讨论",
+      "Anthropic IPO 叙事主导讨论：安全品牌与股权结构受审视",
+      "StarSling 发布面向 agent 提交量仓库的自改进 CI",
+      "Maritime 推出生产级 agent 托管云",
+      "Lakegres 支持在湖仓表上直接做向量检索"
+    ],
+    "ai-arxiv": [
+      "今日无超声去噪或波束形成主题投稿",
+      "DAP-MR 指出自然图像超分迁移超声的失配",
+      "概念纠错审计：危害下降不等于诊断改善",
+      "Ambient LLMs 提出温度匹配的数据高效 SFT"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 20545 赞领跑，家族多版本上榜",
+      "Lightricks LTX-2.5 赞 12520、下载 287 万",
+      "DeepSeek-V4.1-Flash-1017 赞 5904，文本图像双输入",
+      "量化与 ComfyUI 打包版成上游模型第二增长曲线",
+      "Edge0-145B-NVFP4 主打边缘推理"
+    ],
+    "ai-community": [
+      "Dev.to 热议 AI 编码代理实际效率与成本",
+      "Strands A2A 跨进程调用 token 记账缺失被揭",
+      "Claude Code Code Mode 省 token 却削弱护栏可见性",
+      "实测 200 个工具在动作前消耗 24522 token",
+      "KEDA 按队列深度扩缩容 LLM 出现反直觉故障"
+    ]
+  },
+  "en": {}
+}

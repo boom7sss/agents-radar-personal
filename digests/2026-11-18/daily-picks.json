@@ -1,0 +1,56 @@
+{
+  "picks": [
+    {
+      "title": "Claude Fable 5.2 声称解决黑洞物理两个开放问题",
+      "why": "前沿模型首次被官方以产出可发表物理论文呈现能力边界",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "title": "Google Research 发布多智能体论文写作框架 paper-orchestra",
+      "why": "把多智能体推向知识生产核心，今日新增 star 最高的 AI 项目之一",
+      "source": "GitHub Trending",
+      "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+      "title": "NVIDIA 推出技能评估框架 SkillEvaluator",
+      "why": "为泛滥的 Agent Skills 补上质量门禁与语义重叠检测",
+      "source": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "title": "OpenAI Codex 发布 rust-v0.170.0 稳定版",
+      "why": "同期重构沙箱、Guardian 与遥测，是今日发布与重构并行度最高者",
+      "source": "AI CLI 工具社区动态日报"
+    },
+    {
+      "title": "Claude 训练数据被推断含大规模蛋白质序列",
+      "why": "HN 最高分帖，引发训练数据边界与模型能力来源讨论",
+      "source": "Hacker News",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "20545 赞领跑，量化与社区微调版同步扩散",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.10.33 扩展稳定版",
+      "why": "当前 LTS 等价通道含安全与可靠性修复，但迁移说明缺失",
+      "source": "OpenClaw 生态日报"
+    },
+    {
+      "title": "StarSling 推出面向 agent 提交量仓库的自改进 CI",
+      "why": "回应 agent 生成代码激增后的审查与 CI 负载问题",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50536468"
+    },
+    {
+      "title": "DAP-MR 指出自然图像超分范式迁移超声的失配",
+      "why": "揭示语义提示不可靠，为超声重建跨域稳健性提供线索",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.22331v1"
+    }
+  ]
+}
