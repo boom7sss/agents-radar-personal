@@ -131,7 +131,7 @@ export function buildDailyPicksMessage(date: string, picks: DailyPick[]): string
 }
 
 export function buildPaperPicksMessage(date: string, picks: PaperPick[]): string {
-  const lines = [`📄 **今日论文精读 · ${date}**`];
+  const lines = [`📄 **超声课题精读 · ${date}**`];
 
   for (const [index, pick] of picks.entries()) {
     lines.push("");
@@ -238,7 +238,7 @@ async function main(): Promise<void> {
 
   if (paperPicks?.picks?.length) {
     console.log(`[feishu] Sending ${paperPicks.picks.length} paper picks…`);
-    await sendFeishu(`📄 今日论文精读 · ${date}`, buildPaperPicksMessage(date, paperPicks.picks));
+    await sendFeishu(`📄 超声课题精读 · ${date}`, buildPaperPicksMessage(date, paperPicks.picks));
   }
 
   if (handheldPicks?.picks?.length) {

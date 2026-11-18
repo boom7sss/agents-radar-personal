@@ -136,7 +136,7 @@ describe("buildFeishuMessage", () => {
         url: "https://arxiv.org/abs/2603.00001",
       },
     ]);
-    expect(msg).toContain("今日论文精读");
+    expect(msg).toContain("超声课题精读");
     expect(msg).toContain("`CVPR`");
     expect(msg).toContain("[阅读论文](https://arxiv.org/abs/2603.00001)");
   });

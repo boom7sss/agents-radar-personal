@@ -32,7 +32,6 @@ import {
   buildDailyEditorialPrompt,
   buildHighlightsPrompt,
   buildDailyPicksPrompt,
-  buildPaperPicksPrompt,
   buildHandheldUltrasoundPrompt,
   type DailyPick,
   type DailyEditorial,
@@ -59,7 +58,12 @@ import { fetchTrendingData, type TrendingData } from "./trending.ts";
 import { fetchHnData, type HnData } from "./hn.ts";
 import { fetchPhData, type PhData } from "./ph.ts";
 import { fetchArxivData, type ArxivData } from "./arxiv.ts";
-import { fetchConferencePaperData, type ConferencePaperData } from "./conference-papers.ts";
+import {
+  buildUltrasoundReadingPrompt,
+  fetchUltrasoundReading,
+  readingTitleKey,
+  resolveUltrasoundPicks,
+} from "./ultrasound-reading.ts";
 import { fetchHfData, type HfData } from "./hf.ts";
 import { fetchDevtoData, type DevtoData } from "./devto.ts";
 import { fetchLobstersData, type LobstersData } from "./lobsters.ts";
@@ -93,30 +97,15 @@ function requireEnv(name: string): string {
   return value;
 }
 
-interface RecentPaperHistory {
-  keys: Set<string>;
-  titles: string[];
-}
-
-function paperTitleKey(title: string): string {
-  return title
-    .normalize("NFKC")
-    .toLocaleLowerCase()
-    .replace(/[\p{P}\p{S}\s]+/gu, "");
-}
-
-function recentPaperHistory(days = 30): RecentPaperHistory {
-  if (!fs.existsSync("digests")) return { keys: new Set(), titles: [] };
+function recommendedPaperKeys(): Set<string> {
+  if (!fs.existsSync("digests")) return new Set();
 
   const dates = fs
     .readdirSync("digests", { withFileTypes: true })
     .filter((entry) => entry.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(entry.name))
-    .map((entry) => entry.name)
-    .sort()
-    .slice(-days);
+    .map((entry) => entry.name);
 
   const keys = new Set<string>();
-  const titles: string[] = [];
   for (const date of dates) {
     const file = path.join("digests", date, "paper-picks.json");
     if (!fs.existsSync(file)) continue;
@@ -124,16 +113,14 @@ function recentPaperHistory(days = 30): RecentPaperHistory {
       const parsed = JSON.parse(fs.readFileSync(file, "utf-8")) as { picks?: PaperPick[] };
       for (const pick of parsed.picks ?? []) {
         if (typeof pick.title === "string" && pick.title.trim()) {
-          const key = paperTitleKey(pick.title);
-          if (!keys.has(key)) titles.push(pick.title);
-          keys.add(key);
+          keys.add(readingTitleKey(pick.title));
         }
       }
     } catch {
       console.log(`  [paper-picks] Could not read history from ${file}`);
     }
   }
-  return { keys, titles };
+  return keys;
 }
 
 async function generateComparison(prompt: string, lang: Lang, name: string): Promise<string> {
@@ -162,7 +149,6 @@ async function fetchAllData(
   hnData: HnData;
   phData: PhData;
   arxivData: ArxivData;
-  conferenceData: ConferencePaperData;
   hfData: HfData;
   devtoData: DevtoData;
   lobstersData: LobstersData;
@@ -170,7 +156,7 @@ async function fetchAllData(
 }> {
   const allConfigs = [...CLI_REPOS, OPENCLAW, ...OPENCLAW_PEERS];
   console.log(
-    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, ph, arxiv, conference papers, hf, devto, lobsters, handheld ultrasound`,
+    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, ph, arxiv, hf, devto, lobsters, handheld ultrasound`,
   );
 
   const [
@@ -181,7 +167,6 @@ async function fetchAllData(
     hnData,
     phData,
     arxivData,
-    conferenceData,
     hfData,
     devtoData,
     lobstersData,
@@ -241,7 +226,6 @@ async function fetchAllData(
     fetchHnData().catch((): HnData => ({ stories: [], fetchSuccess: false })),
     fetchPhData().catch((): PhData => ({ products: [], fetchSuccess: false })),
     fetchArxivData().catch((): ArxivData => ({ papers: [], fetchSuccess: false })),
-    fetchConferencePaperData().catch((): ConferencePaperData => ({ sources: [], fetchSuccess: false })),
     fetchHfData().catch((): HfData => ({ models: [], fetchSuccess: false })),
     fetchDevtoData().catch((): DevtoData => ({ articles: [], fetchSuccess: false })),
     fetchLobstersData().catch((): LobstersData => ({ stories: [], fetchSuccess: false })),
@@ -256,7 +240,6 @@ async function fetchAllData(
     hnData,
     phData,
     arxivData,
-    conferenceData,
     hfData,
     devtoData,
     lobstersData,
@@ -391,7 +374,6 @@ async function main(): Promise<void> {
     hnData,
     phData,
     arxivData,
-    conferenceData,
     hfData,
     devtoData,
     lobstersData,
@@ -594,43 +576,13 @@ async function main(): Promise<void> {
   console.log(`  Saved ${picksJsonPath}`);
   console.log(`  Saved ${picksMarkdownPath}`);
 
-  // 7. Build a compact research reading list from new ArXiv work and official
-  // top-conference award / spotlight pages, without repeating recent picks.
-  console.log("  Selecting today's paper reading list...");
+  // 7. Build a small topic-first reading list from published research.
+  const readingCandidates = await fetchUltrasoundReading(dateStr, recommendedPaperKeys());
   const paperPicks: PaperPicks = { picks: [] };
-  const recentPapers = recentPaperHistory();
-  const unseenArxivPapers = arxivData.papers.filter(
-    (paper) => !recentPapers.keys.has(paperTitleKey(paper.title)),
-  );
-  const paperInput = { ...arxivData, papers: unseenArxivPapers };
-  if (paperInput.papers.length || conferenceData.sources.length) {
+  if (readingCandidates.length) {
     try {
-      const rawPaperPicks = await callLlm(
-        buildPaperPicksPrompt(paperInput, conferenceData, dateStr, recentPapers.titles),
-        2048,
-      );
-      const parsed = parseLlmJson<PaperPicks>(rawPaperPicks);
-      const arxivUrls = new Set(paperInput.papers.map((paper) => paper.url));
-      if (Array.isArray(parsed.picks)) {
-        paperPicks.picks = parsed.picks
-          .filter(
-            (pick): pick is PaperPick =>
-              typeof pick?.title === "string" &&
-              typeof pick?.takeaway === "string" &&
-              typeof pick?.why === "string" &&
-              typeof pick?.venue === "string" &&
-              typeof pick?.url === "string" &&
-              !recentPapers.keys.has(paperTitleKey(pick.title)) &&
-              (arxivUrls.has(pick.url) ||
-                conferenceData.sources.some(
-                  (source) =>
-                    source.venue === pick.venue &&
-                    source.url === pick.url &&
-                    source.text.includes(pick.title),
-                )),
-          )
-          .slice(0, 5);
-      }
+      const raw = await callLlm(buildUltrasoundReadingPrompt(readingCandidates), 768);
+      paperPicks.picks = resolveUltrasoundPicks(readingCandidates, parseLlmJson<unknown>(raw));
     } catch (err) {
       console.error(`  [paper-picks] generation failed: ${err}`);
     }
@@ -638,9 +590,9 @@ async function main(): Promise<void> {
 
   const paperPicksJsonPath = saveFile(JSON.stringify(paperPicks, null, 2), dateStr, "paper-picks.json");
   const paperPicksMarkdown = [
-    `# 今日论文精读 · ${dateStr}`,
+    `# 超声课题精读 · ${dateStr}`,
     "",
-    "> 候选来自最新 ArXiv 投稿与 CVPR、NeurIPS、ICCV、ECCV、AAAI、MICCAI 官方高信号页面；重点关注视觉、医学影像、多模态和大模型，并柔性加权颈动脉超声与因果稳健性相关工作。",
+    "> 从近几年已发表的期刊和会议论文中择优，重点关注超声去噪、去散斑和去噪质评。",
     "",
     ...(paperPicks.picks.length
       ? paperPicks.picks.flatMap((pick, index) => [
@@ -650,7 +602,7 @@ async function main(): Promise<void> {
           `   [阅读论文](${pick.url})`,
           "",
         ])
-      : ["今天没有筛出足够高质量的新论文；请查看 ArXiv AI 研究日报。", ""]),
+      : ["今天没有筛出足够相关、值得精读的未推荐论文。", ""]),
   ].join("\n");
   const paperPicksMarkdownPath = saveFile(paperPicksMarkdown, dateStr, "ai-paper-picks.md");
   console.log(`  Saved ${paperPicksJsonPath}`);
