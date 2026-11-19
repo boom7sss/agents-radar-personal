@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.328 多云 auto 权限模式与 mcp_tool hooks",
+      "安全类问题集中爆发：子代理破坏性命令致真实数据丢失",
+      "Qwen Code AUTO 模式 MCP 信任绕过引发审查",
+      "OpenCode PR 最高 49 评论，Code Mode 密集推进",
+      "Pi XDG 需求获 75 赞，单条 98 评论最热",
+      "5 个工具当日发布，故障类 Issue 热度高于新功能"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issue/PR 各 500 条，两版本同日发布",
+      "v2026.11.10-beta.1 支持从 ClawHub 直接添加 agent 模板",
+      "v2026.11.6 稳定版修复 Windows 插件依赖校验",
+      "升级与 Gateway 稳定性成主要短板，crash-loop 频现",
+      "P0/P1 迁移失败、SQLite 锁、Doctor 卡死同日活跃",
+      "单项目清理 205 条 PR 与 153 条 Issue，吞吐旺盛"
+    ],
+    "ai-trending": [
+      "Agent Skills 生态成规模增长，superpowers 单日 +2029",
+      "Claude-BugHunter 单日 +1353，含 82 项安全技能",
+      "CLI-Anything +899，主打让软件 Agent 原生",
+      "cursor/plugins +383，编码智能体出现官方插件规范",
+      "Token 成本主线：caveman、headroom、claude-mem 三路解法",
+      "transformers、pytorch 今日无新增 stars，热度转向技能层"
+    ],
+    "ai-web": [
+      "Anthropic IPO 定价每股 83 美元、发行 9.8 亿股",
+      "11 月 19 日以代码 ANT 在纳斯达克开始交易",
+      "Claude 在 100+ 开源库 RISC-V 汇编层完成形式化验证",
+      "Claude Fable 5.2 解出两个黑洞物理开放问题",
+      "Cyber Verification Program 扩为三档访问层级",
+      "OpenAI 新增 5 条仅元数据，无法做内容级分析"
+    ],
+    "ai-hn": [
+      "Anthropic 上市主导 HN，Reuters 报道 298 分 419 评论",
+      "Anthropic 纳斯达克首日估值达 2 万亿美元",
+      "亚利桑那调查 OpenAI 失控代理、加州起诉 OpenAI",
+      "Claude 解黑洞开放问题 124 分为技术类最高",
+      "OpenAI WebRTC 问题 79 分，工程师细节辩论",
+      "Onlook 开源设计工具评论 33 条，高于分数水平"
+    ],
+    "ai-arxiv": [
+      "今日无散斑抑制、自监督去噪或波束形成方法学投稿",
+      "超声相关仅 2 篇：衰减重建 FWI 与真空辅助介入机器人",
+      "DL 辅助全波形反演重建声衰减，属波场级重建",
+      "真空辅助机器人统一胸水抽吸与组织活检流程",
+      "混合注意力改造指出 FlashMorph 两处 off-policy 不匹配",
+      "视觉智能体观测审计：准确率不足以评估看哪里"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 官方权重 20,644 赞、664 万下载领跑",
+      "Haru-4B 全双工语音模型登周点赞榜首 3,281",
+      "LTX-2.5 视频生成 12,707 赞、294 万下载双冠",
+      "Meta SAM3 掩码与视频分割 7,040 赞",
+      "DeepSeek-V4.1-Flash 5,960 赞，延续发布节奏",
+      "FLUX 3 ComfyUI 单文件版下载破百万"
+    ],
+    "ai-community": [
+      "Agent 可靠性与安全成 Dev.to 与 Lobste.rs 共同焦点",
+      "agentpolicy v0.1.0：本地优先、基于 Cedar 的策略决策点",
+      "Gemma 4 E2B 在 Lambda GPU 用 vLLM 部署实测",
+      "Gemma 4 E4B 在 8GB RTX 3050 量化实测思考模式成本",
+      "决策模型指南：避免为 if 语句支付 LLM 价格",
+      "互动最高帖讨论何时该放弃 AI 方案，97 赞 40 评论"
+    ]
+  },
+  "en": {}
+}

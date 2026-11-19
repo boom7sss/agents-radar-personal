@@ -1,0 +1,63 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic IPO 定价并登陆纳斯达克",
+      "why": "每股83美元、9.8亿股，AI 头部公司进入公开市场",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "title": "Claude 完成 100+ 开源库 RISC-V 汇编层形式化验证",
+      "why": "称首个大规模 AI 形式化验证，攻防安全范式信号",
+      "source": "Anthropic Research",
+      "url": "https://www.anthropic.com/research/formal-verification"
+    },
+    {
+      "title": "Claude 解出两个黑洞物理开放问题",
+      "why": "AI 推进基础物理开放问题，HN 技术类最高分",
+      "source": "Anthropic Research",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "title": "Anthropic 扩展 Cyber Verification Program 三档层级",
+      "why": "安全能力分层授权，向防御方开放更强双用途模型",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/cyber-verification-program"
+    },
+    {
+      "title": "Qwen3.8-27B 官方权重登顶 Hugging Face",
+      "why": "20,644 赞、664 万下载，量化微调生态同步成型",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "轻量视频生成模型 LTX-2.5 高赞高下载",
+      "why": "12,707 赞、294 万下载，文生视频商业化推进",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "超声衰减重建的全波形反演深度学习方法",
+      "why": "今日唯一波场级超声重建论文，衰减重建稀缺方向",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.23553v1"
+    },
+    {
+      "title": "Agent Skills 框架 superpowers 单日 +2029 stars",
+      "why": "社区从追新模型转向可复用技能层，趋势明确",
+      "source": "GitHub Trending",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "title": "agentpolicy v0.1.0 本地优先 Agent 策略决策点",
+      "why": "基于 Cedar 的可落地治理方案，回应 Agent 可控性",
+      "source": "Dev.to",
+      "url": "https://dev.to/debashish_ghosal/we-started-with-four-open-agent-cli-questions-we-ended-with-two-real-wins-47ih"
+    },
+    {
+      "title": "OpenClaw 发布 Agent 模板与 ClawHub 直接安装",
+      "why": "单一 CLAW.md 清单加原生信任校验，生态入口升级",
+      "source": "OpenClaw"
+    }
+  ]
+}
