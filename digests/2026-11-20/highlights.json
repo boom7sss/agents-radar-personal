@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "ai-cli": [
+      "生态进入可靠性打磨期，焦点转向模型回归与静默失败",
+      "Gemini CLI 发布 v0.70.0 正式版与 v0.71.0-preview.0",
+      "OpenAI Codex 发布 rust-v0.171.0，并现启动崩溃问题",
+      "Pi 发布 v1.6.0，快速适配 GPT-6.2 Astra/Sol",
+      "OpenCode 攻坚 v2 稳定性，推进 Rust worker 等改动",
+      "DeepSeek TUI 收紧 execpolicy 安全策略，当日跟进修复"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时内 Issues 更新 395 条、PR 更新 500 条",
+      "升级通路问题突出，WAL、SQLite 锁等故障集中出现",
+      "合并 #202628 复用插件配置，减少运行期重复分配",
+      "Skill Workshop 起始页新增草稿、历史与已学技能视图",
+      "P0 升级故障 #200289 已关闭，相近问题或未根治"
+    ],
+    "ai-trending": [
+      "Agent Skills 生态集中爆发，占 Trending 前 16 名过半",
+      "Claude-BugHunter 今日新增 1660 star，居新增榜首",
+      "HKUDS/CLI-Anything 涨 774 star，主打 Agent 原生 CLI",
+      "firecrawl 单日涨 1226 star，为全榜新增最高",
+      "headroom、caveman 等 token 压缩工具成独立品类",
+      "cursor/plugins 登榜，编码智能体插件生态走向标准化"
+    ],
+    "ai-web": [
+      "Anthropic 完成 IPO，发行价 83 美元、毛募资约 935 亿美元",
+      "Anthropic 股票 11 月 19 日以代码 ANT 登陆纳斯达克",
+      "同步完成 3.13 亿股私募配售交割",
+      "OpenAI 新增 Deploying Daybreak Red 页面，暂无正文",
+      "两家公司今日均无模型或安全研究层面新增"
+    ],
+    "ai-hn": [
+      "Anthropic 数学家黎曼猜想证明帖 1658 分、1128 评论居首",
+      "社区对证明严谨性展开大规模技术拆解与质疑",
+      "Anthropic IPO 首日股价大跌，拖累纳斯达克",
+      "“llms.txt 与 MCP 没起作用”的工程反思获关注",
+      "有帖子实测 22 个本地 LLM，关注开源权重选型"
+    ],
+    "ai-arxiv": [
+      "今日 50 篇论文无直接以超声为主题的研究",
+      "Barrett 食管病理模型实现免染色归一化多机构分级",
+      "Rad-Linter 用图像证据核查胸片报告一致性",
+      "Depth Pro 2 揭示时序一致与边界锐利的取舍",
+      "后训练改变模型表征读出方式：区分表征与读出"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 20,769 点赞、645 万下载领跑",
+      "Lightricks LTX-2.5 获 1.28 万点赞，居第二热门",
+      "DeepSeek-V4.1-Flash-1017 发布，点赞 6015",
+      "NVIDIA 发布 Nemotron-3.5-Bolt-E4B-4GB，主打端侧",
+      "腾讯混元 Hy4 与 Hy4-flash 同日双版本上榜",
+      "量化、abliterated 等衍生模型占榜单近三分之一"
+    ],
+    "ai-community": [
+      "社区焦点转向 Agent 可靠落地与工程约束",
+      "热文质疑多数 GitHub Agent 只是“风衣里的 while 循环”",
+      "规范驱动开发被重新定位为正向工程模式",
+      "讨论 AGENTS.md、CLAUDE.md 与 Skill 冲突优先级",
+      "实测模型在超长日志中的“失明”边界"
+    ]
+  },
+  "en": {}
+}

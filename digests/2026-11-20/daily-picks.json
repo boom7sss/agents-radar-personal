@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 完成 IPO 并以代码 ANT 登陆纳斯达克",
+      "why": "AI 头部公司转为上市公司的里程碑，资本市场影响重大",
+      "source": "ai-web",
+      "url": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "title": "Anthropic 数学家宣称证明黎曼猜想引发 HN 大规模质疑",
+      "why": "AI 参与数学研究的现象级讨论，社区对其严谨性存疑",
+      "source": "ai-hn",
+      "url": "https://alpo.ge/remark.pdf"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "点赞与下载双榜领先，并催生大量社区衍生模型",
+      "source": "ai-hf",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "HKUDS/CLI-Anything 提出让所有软件 Agent-Native",
+      "why": "以 CLI 作为智能体通用操作面的新范式项目",
+      "source": "ai-trending",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "title": "Claude-BugHunter 红队技能包单日新增 1660 star",
+      "why": "垂直安全场景的 Agent Skills 落地范例，热度最高",
+      "source": "ai-trending",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "title": "OpenClaw 升级与发布可靠性问题集中爆发",
+      "why": "高活跃项目的主要风险点，多条 P0 故障缺修复",
+      "source": "ai-agents",
+      "url": "https://github.com/openclaw/openclaw/issues/200289"
+    },
+    {
+      "title": "Discourse 反思 llms.txt 与 MCP 实际收益有限",
+      "why": "对热门 AI 友好协议营销叙事的务实反证",
+      "source": "ai-hn",
+      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did"
+    },
+    {
+      "title": "Depth Pro 2 提出锐利且时序一致的度量单目深度",
+      "why": "其取舍思路可迁移至序列重建的结构保真问题",
+      "source": "ai-arxiv",
+      "url": "http://arxiv.org/abs/2611.26603v1"
+    }
+  ]
+}
