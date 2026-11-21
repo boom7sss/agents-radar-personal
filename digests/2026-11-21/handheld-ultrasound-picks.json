@@ -1,0 +1,24 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 医学影像网页渲染库发布 v6 首个 beta 系列",
+      "context": "Cornerstone3D 是在网页中显示和交互 DICOM 医学影像的开源渲染库；本次为跨大版本的 beta 测试版，变更日志仅有链接，无具体条目。",
+      "relevance": "若掌超的浏览器端查看、回放、测量标注或云端阅片基于该库，大版本升级可能影响渲染与工具接口。",
+      "action": "进入网页端影像模块开发或升级评估时再关注，暂不集成",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v6.0.0-beta.1",
+      "kind": "open-source-release"
+    },
+    {
+      "title": "OHIF Viewer 网页阅片器修复 AI 模型权重下载地址",
+      "context": "OHIF Viewer 是开源网页版医学影像阅片器；本次 beta 版本将某 AI 分割模型的权重下载地址固定到代码托管平台的特定版本。",
+      "relevance": "只在用 OHIF 搭建云端阅片并启用其 AI 分割时相关；它不影响掌超设备的扫查界面与实时成像。",
+      "action": "暂不需要动作，仅作后续 AI 阅片部署参考",
+      "category": "工程集成",
+      "source": "OHIF Viewer",
+      "url": "https://github.com/OHIF/Viewers/releases/tag/v3.14.0-beta.101",
+      "kind": "open-source-release"
+    }
+  ]
+}

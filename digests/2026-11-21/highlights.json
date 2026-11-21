@@ -1,0 +1,66 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode免费额度主帖404评论，成本议题声量最高",
+      "Claude Code #38335达878评论、476赞",
+      "长会话可靠性成共识：compaction丢信息、摘要膨胀",
+      "Copilot CLI现rsync --delete清盘事故",
+      "Gemini CLI多条P1安全PR关闭",
+      "Qwen Code #14724 CI工单达518评论"
+    ],
+    "ai-agents": [
+      "OpenClaw单日423条Issue、500条PR，零发布",
+      "311条待合并PR，发布阻塞风险突出",
+      "2026.11.x更新链路回归：Doctor、回滚、候选校验",
+      "Gateway稳定性P0/P1：启动阻塞、内存、维护活锁",
+      "#203024修复回滚后Doctor无法获取维护租约",
+      "#203185修复运行中Gateway包被替换仍可恢复会话"
+    ],
+    "ai-trending": [
+      "Claude-BugHunter登顶：82个技能、15个slash命令",
+      "HKUDS/CLI-Anything +767 stars，把软件CLI化给Agent",
+      "stitch-skills +324 stars，兼容Gemini CLI与Claude Code",
+      "caveman用更少token输出并压缩工具输出",
+      "headroom声称编码Agent省20% token、JSON省60–95%",
+      "firecrawl同时登Trending与LLM/RAG榜"
+    ],
+    "ai-web": [
+      "Anthropic与Theorem用Claude证明100+开源库安全属性",
+      "称首次大规模用AI做形式化验证，汇编层RISC-V",
+      "属Frontier Red Team系列，涉网络安全与开源",
+      "OpenAI新增2条Medchembench仅元数据、无正文"
+    ],
+    "ai-hn": [
+      "Anthropic IPO后股价回落，AI板块万亿级抛售主导榜单",
+      "纳指抹去2026全部涨幅帖195分，当日AI最高分",
+      "OpenAI反对抗性蒸馏34分、51评论，技术讨论最热",
+      "Hungry Butler Effect：LLM隐藏商业激励48分",
+      "失业求助帖434分/463评论，反映就业焦虑"
+    ],
+    "ai-arxiv": [
+      "45篇投稿无一篇涉及超声去噪或重建",
+      "后训练改变读出而非表征：六模型线性探针对比",
+      "Posterior Matching Distillation提出扩散蒸馏新法",
+      "RL后训练即激活转向（Activation Steering）",
+      "ROGUE-AI与轨迹回溯构成智能体安全取证一对",
+      "GEOHunter测绘GEO灰色产业链操纵风险"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶：20,772赞、约630万下载",
+      "LTX-2.5视频生成12,895赞、300万下载",
+      "DeepSeek-V4.1-Flash-1017：5,778赞、51万下载",
+      "Inkling-2四变体同榜，家族式爆发",
+      "腾讯混元Hy4与Hy4-flash高低搭配上线",
+      "Nemotron-3.5-Bolt-E4B-4GB面向端侧，19.6万下载"
+    ],
+    "ai-community": [
+      "9组Bedrock实验：多orchestrator嵌套失败仍报100%成功",
+      "token成本分别上涨74.5%与192.8%",
+      "扫描22万条MCP工具描述：约1/4 server触及凭据",
+      "上下文单次达689K token，提示无法限流",
+      "哈佛：AI写更多代码但未交付更多",
+      "VS Code扩展把免费聊天网站变Agent，39赞最高"
+    ]
+  },
+  "en": {}
+}
