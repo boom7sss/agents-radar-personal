@@ -924,7 +924,9 @@
     "OHIF/Viewers@v3.13.15": "2026-11-19T12:44:37Z",
     "OHIF/Viewers@v3.14.0-beta.101": "2026-11-20T22:20:27Z",
     "cornerstonejs/cornerstone3D@v6.0.0-beta.1": "2026-11-21T13:44:05Z",
-    "cornerstonejs/cornerstone3D@v6.0.0-beta.0": "2026-11-21T12:50:02Z"
+    "cornerstonejs/cornerstone3D@v6.0.0-beta.0": "2026-11-21T12:50:02Z",
+    "cornerstonejs/cornerstone3D@v6.0.0-beta.2": "2026-11-22T12:23:55Z",
+    "Project-MONAI/MONAILabel@0.8.6": "2026-11-22T01:29:24Z"
   },
   "pendingItems": []
 }

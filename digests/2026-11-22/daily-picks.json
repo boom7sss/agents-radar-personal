@@ -1,0 +1,62 @@
+{
+  "picks": [
+    {
+      "title": "OpenAI 官网新增 perplexity and intelligence 条目",
+      "why": "OpenAI 当日唯一增量，但仅元数据、无正文，实质信息待确认",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "title": "firecrawl 登顶开源趋势，今日 +910 星",
+      "why": "为 Agent 提供统一搜索抓取 API，是当日热度最高项目",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "title": "HKUDS/CLI-Anything 今日 +687 星",
+      "why": "主张让所有软件变为 Agent 原生，探索 Agent 工具接入层",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门模型",
+      "why": "20,857 个赞居首，GGUF 版下载达 768 万，基座地位明确",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "Lightricks LTX-2.5 视频模型近 300 万下载",
+      "why": "文生、图生、视频生视频全能，当前视频方向最强信号之一",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "title": "GitHub Copilot CLI 发布 v1.0.115-7",
+      "why": "当日少数有版本动作的 CLI 工具，可观察云沙箱修复方向",
+      "source": "AI CLI 工具社区动态日报"
+    },
+    {
+      "title": "HN 热议 Anthropic 2028 数据中心电力结构",
+      "why": "87% 依赖天然气引能耗质疑，541 分反映 AI 基础设施争议",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+    },
+    {
+      "title": "论文：LLM 道德框架的性别不对称评估",
+      "why": "冲突情境下道德判断是否偏颇，76 条评论显示研究类讨论最活跃",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://arxiv.org/abs/2606.14068"
+    },
+    {
+      "title": "DAP-MR：退化感知提示路由用于超声超分",
+      "why": "指出通用文本提示用于医学超声不可靠，为重建提出新思路",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2611.22331v1"
+    },
+    {
+      "title": "让 Claude Code 独立工作 8 小时引安全边界讨论",
+      "why": "社区集中探讨放权与防护平衡，触及 Agent 自主性核心",
+      "source": "技术社区 AI 动态日报"
+    }
+  ]
+}

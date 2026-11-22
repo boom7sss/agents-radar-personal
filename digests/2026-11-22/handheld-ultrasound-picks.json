@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "医学影像标注服务 MONAI Label 修复严重路径穿越漏洞",
+      "context": "MONAI Label 是医学影像 AI 标注服务器，本次 0.8.6 是安全版本，修复上传接口可写任意文件的问题。",
+      "relevance": "掌超若把图像上传到本地或院内标注/AI服务器做训练或推理，未升级的服务可被写入任意文件。",
+      "action": "若你部署了 MONAI Label 服务，立即升级到 0.8.6。",
+      "category": "安全合规",
+      "source": "MONAI Label",
+      "url": "https://github.com/Project-MONAI/MONAILabel/releases/tag/0.8.6",
+      "kind": "open-source-release"
+    }
+  ]
+}

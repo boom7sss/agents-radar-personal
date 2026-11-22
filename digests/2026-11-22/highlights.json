@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI 推出 v0.71.0 nightly 版本，修复安全漏洞",
+      "GitHub Copilot CLI 更新 v1.0.115-7、v1.0.115-6",
+      "Qwen Code 更新 v0.28.4 版本，并同时推出 desktop 版与 nightly 版",
+      "OpenCode 的 v2 自定义 Provider 功能出现退化，Plan 模式失效",
+      "整体问题集中在配置不生效和静默失败",
+      "多代理递归、AST 语义理解成为新一轮竞争主线"
+    ],
+    "ai-agents": [
+      "OpenClaw 过去 24 小时 Issue 更新 298 条、PR 更新 500 条",
+      "待合并 PR 积压 301 条，是主要健康度风险",
+      "PR #203559 统一插件 harness 历史读取守卫",
+      "PR #203571 修复后台命令运行时进度刷新停滞",
+      "PR #203572 消除 exec 审批重复检查，降低策略竞态",
+      "今日无新版本发布，Windows/macOS 升级链路故障高发"
+    ],
+    "ai-trending": [
+      "firecrawl 以 206,799 星、今日 +910 星成为热度最高的项目",
+      "HKUDS/CLI-Anything 今日 +687 星，推动 Agent 原生 CLI",
+      "obra/superpowers 今日 +785 星，采用技能驱动开发流程",
+      "caveman 提供 122,143 星，面向编码 Agent 压缩 Token",
+      "headroom 对编码 Agent 的 Token 节省约 20%",
+      "Cursor 的 plugins 今日 +301 星，沉淀编辑器插件生态"
+    ],
+    "ai-web": [
+      "OpenAI 今日新增 2 条记录，但都是同一 URL 的重复",
+      "Anthropic 今日无新增内容，共 502 条 sitemap",
+      "新增条目为 index 分类，标题由 URL 推断，无正文",
+      "数据受限，无法提炼技术细节或业务摘要"
+    ],
+    "ai-hn": [
+      "Anthropic 到 2028 年的数据中心电力 87% 依赖天然气，获 541 分",
+      "Show HN 的“你当 LLM 子代理”游戏获 143 分",
+      "LLM 道德框架性别不对称论文获 86 分、76 条评论",
+      "HN 讨论被 Anthropic 的 IPO 和能源两条主线主导",
+      "Claude 的零信任 Agent 资源热度低，0 条评论"
+    ],
+    "ai-arxiv": [
+      "今日没有直接命中超声去噪、波束形成等子方向",
+      "DAP-MR 提出退化感知提示与幅度路由做超声超分",
+      "深度学习辅助全波形反演重建超声 CT 衰减",
+      "机器人超声穿刺统一了积液抽吸与组织活检",
+      "检索增强纠错用于通用医学图像分割"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 20,857 个赞居榜首，下载量 630 万",
+      "unsloth 的 Qwen3.8 GGUF 版本下载量达 768 万",
+      "Lightricks LTX-2.5 视频模型近 300 万下载",
+      "Inkling-2-Mini 获 4,511 个赞",
+      "DeepSeek-V4.1-Flash-1017 获 5,843 个赞",
+      "Haru-4B 全双工语音对话模型上榜"
+    ],
+    "ai-community": [
+      "让 Claude Code 独立工作 8 小时，成为安全边界讨论焦点",
+      "“RAG 更安全后负载下更差”一文获 29 个赞、27 条评论",
+      "分词器差异导致账单相差 37% 的实测提醒开发者",
+      "团队交付更快、代码理解更少，引发对工程能力退化的反思",
+      "Lobste.rs 关注持续学习与本地语音助手等长线话题"
+    ]
+  },
+  "en": {}
+}
