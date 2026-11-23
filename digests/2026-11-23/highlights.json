@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.331，Code Mode 支持多云端与 OIDC 分组",
+      "子代理成为主战场：权限绕过、挂起、用量统计在同日多工具讨论",
+      "OpenAI Codex 发布 2 个 Rust 预发布，无 changelog",
+      "OpenCode v2.4.1/v2.4.0 内置浏览器，权限语义修复集中",
+      "Qwen Code 推进 event-bus 内核上线，#17045 内核迁移 24 评论",
+      "Kimi Code CLI 过去 24 小时零活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 过去 24 小时 Issues 469、PR 500，发布 2 个版本",
+      "v2026.11.10-beta.2：更新中断后可继续运行并安全完成更新",
+      "v2026.11.7：跨 Gateway 重启恢复被中断回复与子结果",
+      "稳定性压力集中于 Gateway：P0 消息丢失、崩溃循环、内存增长"
+    ],
+    "ai-trending": [
+      "HKUDS/CLI-Anything 提出让所有软件 Agent-Native，+783 star",
+      "Claude-BugHunter 今日 star 增量最高，82 个技能红队包",
+      "obra/superpowers 技能框架登榜，+838 star",
+      "stitch-skills 遵循 Agent Skills 开放标准，兼容多编码 Agent",
+      "caveman 面向编码 Agent 压缩 Token，原始内容可还原"
+    ],
+    "ai-web": [
+      "Anthropic 发布《Working with AI》：58 家企业、66 次访谈",
+      "结论：AI 价值主要来自产出提升而非成本削减",
+      "本土裁员案例极少，但多数企业因 AI 减少招聘",
+      "coding agents 正把软件能力带给非技术岗位",
+      "OpenAI 今日无新增内容"
+    ],
+    "ai-hn": [
+      "Lean 形式化进度图 256 分、193 评论，一帖独大",
+      "How should an LLM see a computer? 33 分、19 评论",
+      "OCRia-nano-1 发布 800 万参数级 OCR 模型",
+      "六台 MacBook Air 搭建私有 LLM 的实践记录",
+      "社区对“黎曼猜想证明”类宣称反应冷淡"
+    ],
+    "ai-arxiv": [
+      "DAP-MR 提出退化感知路由，适配真实超声超分",
+      "审计研究：降低 harm 类指标可能掩盖概念修正失真",
+      "深度学习辅助 FWI 重建超声 CT 声衰减",
+      "多频神经网络波反演用于时间谐波弹性成像",
+      "检索增强分割修正针对残余结构错误"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 21672 次点赞居首，带动量化与微调版集群",
+      "unsloth GGUF 量化版 7040 点赞、784 万下载",
+      "Inkling-2 系列形成集群，Mini 版 5460 点赞",
+      "Lightricks LTX-2.5 以 13181 点赞领跑视频生成",
+      "DeepSeek-V4.1-Flash-1017 达 524232 次下载"
+    ],
+    "ai-community": [
+      "工具注册表应按 API 做安全审查，讨论 20 赞 18 评论",
+      "60 次 MCP 工具故障注入：校验器误报率达 38%",
+      "脚手架让 Agent 提升 39 分，换模型仅提升 10 分",
+      "正则加判定模型将泄漏召回从 0.25 提升到 0.95",
+      "8 Best MCP Gateways 网关选型综述"
+    ]
+  },
+  "en": {}
+}

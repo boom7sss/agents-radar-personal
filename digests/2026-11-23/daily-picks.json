@@ -1,0 +1,50 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布《Working with AI》企业实证研究",
+      "why": "58 家企业访谈揭示 AI 价值来自产出而非裁员，coding agents 扩散至非技术岗位",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/research/working-with-ai"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.10-beta.2 与 v2026.11.7",
+      "why": "更新中断恢复与跨 Gateway 会话恢复，直指当日最大稳定性痛点",
+      "source": "OpenClaw 生态日报"
+    },
+    {
+      "title": "Claude Code v2.1.331 上线 Code Mode 多云端",
+      "why": "编码 CLI 从跑通转向云接入与权限边界，竞争焦点迁移",
+      "source": "AI CLI 工具社区动态日报"
+    },
+    {
+      "title": "CLI-Anything：让所有软件 Agent-Native",
+      "why": "把 CLI 作为 Agent 调用软件的统一入口，具范式意义",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "title": "Claude-BugHunter 登顶 GitHub Trending",
+      "why": "82 技能红队包，垂直安全场景加编码 Agent 的代表作",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "title": "Lean 形式化进度图引爆 HN",
+      "why": "256 分 193 评论，AI 辅助数学形式化走向工程化进度管理",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://news.ycombinator.com/item?id=50605045"
+    },
+    {
+      "title": "MCP 工具故障注入实测：校验器误报 38%",
+      "why": "公开真实失败数据与修复思路，Agent 可靠性讨论最热",
+      "source": "技术社区 AI 动态日报",
+      "url": "https://dev.to/rollsolo/i-fault-injected-60-live-mcp-tool-failures-llms-lied-my-verifier-hit-a-38-false-positive-wall-4iac"
+    },
+    {
+      "title": "Qwen3.8-27B 领跑 Hugging Face 热榜",
+      "why": "21672 点赞带动量化与微调集群，本地部署需求集中",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}
