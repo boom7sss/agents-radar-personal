@@ -1,0 +1,51 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布《Working with AI》企业调研报告",
+      "why": "66 次访谈、58 家企业客户，首次系统回答企业如何用 AI 及其雇佣影响",
+      "source": "AI 官方内容追踪报告",
+      "url": "https://www.anthropic.com/research/team/alignment"
+    },
+    {
+      "title": "Claude Code #107757：User-Agent 泄露邮箱",
+      "why": "124 条评论、811 点赞，暴露编码智能体隐私边界的真实风险",
+      "source": "AI CLI 工具社区动态日报"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.11.10-beta.3，强化更新恢复能力",
+      "why": "支持跨 schema 变更与机器重启后恢复更新，是当日最实质的 Agent 框架发布",
+      "source": "OpenClaw 生态日报",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field 引发 HN 热议",
+      "why": "计算复杂性重大声明登上榜首，近 300 条评论检验其严谨性",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+    },
+    {
+      "title": "OpenAI 与 Cisco 开源 Shirudo",
+      "why": "跨公司开源的未修补 Linux 防护运行时，面向真实运维安全场景",
+      "source": "Hacker News AI 社区动态日报",
+      "url": "https://openai.com/index/introducing-shirudo/"
+    },
+    {
+      "title": "Qwen3.8-27B 登顶 Hugging Face 热门榜",
+      "why": "2.17 万点赞、612 万下载，同时带火 unsloth 量化生态",
+      "source": "Hugging Face 热门模型日报",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "title": "LiveLoRA：LoRA 更新时精确迁移 KV 缓存",
+      "why": "直面多会话智能体重放历史与版本混用的工程瓶颈",
+      "source": "ArXiv AI 研究日报",
+      "url": "http://arxiv.org/abs/2611.31105v1"
+    },
+    {
+      "title": "obra/superpowers 与 CLI-Anything 同日暴涨",
+      "why": "Agent 技能框架与软件 Agent-Native 走热，生态从模型转向外围工程",
+      "source": "AI 开源趋势日报",
+      "url": "https://github.com/obra/superpowers"
+    }
+  ]
+}

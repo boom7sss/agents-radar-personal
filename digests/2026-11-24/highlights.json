@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "9个工具中6个发版，焦点转向会话可靠性",
+      "Claude Code 发布 v2.1.331，支持 Code Mode 多云",
+      "Claude Code #107757 泄露邮箱，124 条评论、811 点赞",
+      "Gemini CLI 一天发布 4 个版本，节奏最密",
+      "OpenAI Codex 发布 rust-v0.172.0 和 4 个 alpha 版",
+      "Qwen Code 并入 1.0 内核，处于架构重构期"
+    ],
+    "ai-agents": [
+      "OpenClaw 过去 24 小时更新获 500 Issue 和 500 PR",
+      "发布 v2026.11.10-beta.3，支持跨 schema 更新恢复",
+      "v2026.11.10-beta.2 支持崩溃后继续更新",
+      "PR #204533 修复引导页不再强制填写模型",
+      "大量 P1/P2 Issue 处于 stale，等待产品决策"
+    ],
+    "ai-trending": [
+      "obra/superpowers 今日新增 840 star，Skills 框架走热",
+      "HKUDS/CLI-Anything 新增 790 star，让软件 Agent-Native",
+      "google-labs-code/stitch-skills 新增 422 star，兼容多款 CLI",
+      "cursor/plugins 新增 397 star，开放 Agent 插件标准",
+      "caveman 压缩智能体回答与工具输出，节省 token",
+      "Token 成本优化与垂直场景 Agent 同日集中登榜"
+    ],
+    "ai-web": [
+      "Anthropic 发布《Working with AI》调研报告",
+      "该报告基于 66 次访谈、58 家企业客户",
+      "多数 AI 用途通过提升产出而非削减成本创造价值",
+      "由 AI 自动化驱动的裁员案例极少，但招聘减少",
+      "Alignment 与 Interpretability 两个团队主页同日更新",
+      "OpenAI 今日官方内容零新增"
+    ],
+    "ai-hn": [
+      "VP ≠ VNP over Every Field 登顶，328 分、292 条评论",
+      "该文发在 Anthropic formal-math 仓库，社区激烈核验",
+      "OpenAI 与 Cisco 开源 Shirudo，防护未修补 Linux",
+      "Latent Introspection 论文探讨 LLM 侦测概念注入"
+    ],
+    "ai-arxiv": [
+      "XFreq 用跨视图残差重建稀疏 3D 超声",
+      "研究发现 LLM 无法就地自监测不确定性",
+      "Attention Temperature 会干扰零样本上下文扩展评测",
+      "LiveLoRA 支持在 LoRA 更新时精确迁移 KV 缓存"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 2.17 万点赞居首，下载 612 万",
+      "unsloth 的 GGUF 量化版下载量达 706 万",
+      "thinkingmachines Inkling-2 系列形成第二梯队",
+      "LTX-2.5 视频生成模型获 1.32 万点赞",
+      "NVIDIA Nemotron-3.5-Bolt-E4B-4GB 下载 20.6 万"
+    ],
+    "ai-community": [
+      "开发者关注用测试与规则约束 agent 行为",
+      "Dev.to 热门：按任务而非演示效果选型 Prompt API",
+      "8 Best MCP Gateways 综述多 agent 网关选型",
+      "真实痛点：agent 自动开 PR 后人类审批成为瓶颈"
+    ]
+  },
+  "en": {}
+}
