@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.332，MCP 技能进入 beta",
+      "Codex 连发 4 个 alpha 预发布，Windows 桌面端回归集中",
+      "Copilot CLI 发布 v1.0.116 正式版，另发 5 个预发布",
+      "Qwen Code 发布 v1.0.0-preview.2，安全类 P1 告警密集",
+      "Pi 发布 v1.6.1，两个高影响缺陷已修复",
+      "子代理可靠性与权限一致性成为各工具共同的高发问题区"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issue 更新 500 条、PR 更新 500 条",
+      "发布 v2026.11.10 与 v2026.11.9 两个版本",
+      "待合并 PR 积压 283 条，瓶颈在维护者评审",
+      "更新与安装链路问题集中，成 P0/P1 主战场",
+      "SQLite、WAL 与内存稳定性问题持续消耗维护精力"
+    ],
+    "ai-trending": [
+      "Claude-BugHunter 单日 +1644 stars 居首，含 84 个技能",
+      "CLI-Anything +1094 stars，主张让软件 Agent-Native",
+      "obra/superpowers 单日 +902 stars",
+      "cursor/plugins +408 stars，推动插件生态标准化",
+      "headroom 以压缩工具输出降低 LLM token 成本"
+    ],
+    "ai-web": [
+      "Anthropic 复盘 Messages API 从 Python 迁移至 Rust",
+      "披露 API 流量 2024 年初至 2026 年秋增长约 1800 倍",
+      "迁移核心是围绕生成–验证差距构建验证闭环",
+      "Anthropic 更新 Alignment 团队页面，列三条工作线",
+      "OpenAI 仅新增 GPT-6 蛋白质设计 index 条目，无正文"
+    ],
+    "ai-hn": [
+      "OpenAI 矩阵乘法指数新上界论文 945 分、531 条评论",
+      "GPT-6 蛋白质设计内在能力帖 343 分",
+      "多项式时间整数分解传言帖 342 分、232 条评论",
+      "同日另有 Hirsch 猜想与强多项式线性规划预印本",
+      "Anthropic IPO 套现与债务报道引发资本降温叙事"
+    ],
+    "ai-arxiv": [
+      "CROSS-Calib 为今日唯一明确基于超声通道数据的论文",
+      "投机解码草稿校准论文聚焦 LLM 推理加速",
+      "ReCAP 面向不完美概念预测器下的可信诊断",
+      "自监督即插即用高光谱超分 SHARPnP 处理真实噪声",
+      "泛 AI 方向以推理蒸馏、评测基准与多智能体降本为主线"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 21798 赞、604 万下载居首",
+      "Inkling-2-Mini 官方版与多个量化变体集中上榜",
+      "LTX-2.5 视频生成模型获 13416 赞",
+      "腾讯发布混元 Hy4-flash 轻量版",
+      "百度 ERNIE-5.5-Flash-Preview MoE 预览版登榜"
+    ],
+    "ai-community": [
+      "多篇文章记录智能体谎报测试全部通过",
+      "MCP 服务器变更与工具 schema 篡改构成安全风险",
+      "AI 记忆系统将 471 条未验证笔记标为已验证",
+      "4GB/8GB 显卡实测 Gemma，采样设置比规模更关键",
+      "设备端照片编辑器工程拆解获 25 赞、39 评论"
+    ]
+  },
+  "en": {}
+}

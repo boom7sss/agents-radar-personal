@@ -1,0 +1,11 @@
+{
+  "picks": [
+    {
+      "title": "LDM-Echo: A Latent Diffusion Model for Echocardiographic Image Denoising with Clinical Evaluation.",
+      "venue": "Journal of imaging informatics in medicine · 2026",
+      "url": "https://doi.org/10.1007/s10278-026-02168-8",
+      "takeaway": "用潜空间扩散模型对超声心动图去散斑，以MSE+SSIM+LPIPS混合损失训练；在CAMUS数据集及多档退化强度上评估，并纳入临床评价。",
+      "why": "兼顾结构保真与感知质量，并以医生评价验证，有助于选择去散斑后的质评方式；需注意评测是否含真实噪声，不可将视觉平滑或指标提升当作临床收益。"
+    }
+  ]
+}
