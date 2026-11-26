@@ -1,0 +1,52 @@
+{
+  "picks": [
+    {
+      "title": "Anthropic 发布 GRH Lean 验证精简版",
+      "why": "形式化验证与 AI 结合，HN 当日最高分技术帖",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50648050"
+    },
+    {
+      "title": "Aleph-Alpha 开源 MoE 推理模型 Kolibri-1.1",
+      "why": "新发布开源权重，配套 vLLM 支持",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1.1"
+    },
+    {
+      "title": "百度开源 ERNIE-5.5-Flash 预览版",
+      "why": "前沿模型开源预览，可关注正式版",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview"
+    },
+    {
+      "title": "OpenClaw 发布 v2026.10.34 稳定通道版本",
+      "why": "LTS 等价通道，含安全与可靠性修复",
+      "source": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "title": "论文：分词问题不在 APX 类",
+      "why": "为分词优化的计算难度划定理论边界",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.34938v1"
+    },
+    {
+      "title": "论文：结构化噪声扩散用于超声雾霭去除",
+      "why": "针对超声雾霭噪声建模，而非通用去噪",
+      "source": "ArXiv",
+      "url": "http://arxiv.org/abs/2611.33860v1"
+    },
+    {
+      "title": "Claude-BugHunter 技能包登顶 Trending",
+      "why": "85 个技能封装安全攻防，单日 +1600 star",
+      "source": "GitHub Trending",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "title": "模型静默升级导致 Agent 输出漂移",
+      "why": "提醒依赖 LLM 的产品需管理厂商退役风险",
+      "source": "Dev.to",
+      "url": "https://dev.to/debashish_ghosal/your-agents-model-has-an-expiration-date-read-what-vendors-actually-promise-3khb"
+    }
+  ]
+}

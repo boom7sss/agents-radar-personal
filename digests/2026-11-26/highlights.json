@@ -1,0 +1,34 @@
+{
+  "zh": {
+    "ai-cli": [
+      "八个活跃项目中仅四个有版本动作",
+      "Copilot CLI 连发 v1.0.117-0/-1/-2 三个补丁",
+      "OpenCode 发布 v2.4.2，核心回归与 MCP 修复并行",
+      "Qwen Code 发布 v0.28.7 及 SDK TS v0.1.36",
+      "Codex 发布 rust-v0.174.0-alpha.7，无变更说明",
+      "Claude Code、Codex、Gemini CLI、OpenCode 同日出现子代理问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 Issues 更新 386 条、PR 更新 500 条",
+      "发布 v2026.10.34 稳定通道版本",
+      "网关内存泄漏为主线，多个 P0/P1 问题仍开放",
+      "PR #206110 减少会话回忆时 Gateway 工作量",
+      "Issue #182891 prompt cache 不再复用已关闭"
+    ],
+    "ai-trending": [
+      "Agent 技能生态集中爆发，多款技能包同日登榜",
+      "Claude-BugHunter 今日 +1600 star，居榜首",
+      "superpowers 单日新增 853 star，聚焦 Agent 方法论",
+      "caveman、headroom 压缩 Agent 上下文与 token 成本",
+      "CLI-Anything 单日 +744 star，连接软件与 Agent",
+      "cursor/plugins 新增 268 star，编辑器插件生态起步"
+    ],
+    "ai-hn": [
+      "Anthropic GRH Lean 精简版登顶，525 分 336 评论",
+      "OpenAI 收紧 GPT-6.2 用量，成第二大热帖",
+      "AMD 专用 Llama.cpp 补丁获 125 分 37 评论",
+      "社区对厂商行为信任度的讨论升温"
+    ]
+  },
+  "en": {}
+}
