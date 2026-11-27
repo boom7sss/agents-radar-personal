@@ -1,0 +1,18 @@
+{
+  "picks": [
+    {
+      "title": "A Detail-Preserving Ultrasound Speckle Reduction Method Based on Complementary Information.",
+      "venue": "Ultrasound in medicine & biology · 2025",
+      "url": "https://doi.org/10.1016/j.ultrasmedbio.2025.08.028",
+      "takeaway": "提出稀疏与二阶Hessian正则(SASH)，以组织结构连续性和方向一致性为物理先验，在重建中联合抑斑与保细节。",
+      "why": "Hessian方向先验可迁移为去噪网络的保结构约束；但需确认其验证用的是体模、合成散斑还是真实采集。"
+    },
+    {
+      "title": "De-speckling of medical ultrasound image using metric-optimized knowledge distillation.",
+      "venue": "Scientific reports · 2025",
+      "url": "https://doi.org/10.1038/s41598-025-07115-1",
+      "takeaway": "MK用知识蒸馏将教师网络能力迁移到小模型，并把评价指标反复计算后纳入损失，以任务指标引导抑斑训练。",
+      "why": "可借鉴“指标入损失”的对照设计；但指标进入损失后，同指标评估存在偏乐观风险，需独立真实数据或无参考质评验证。"
+    }
+  ]
+}

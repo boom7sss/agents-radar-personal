@@ -1,0 +1,14 @@
+{
+  "picks": [
+    {
+      "title": "Cornerstone3D 新增自动 GPU 显存上限",
+      "context": "Cornerstone3D 是网页端医学影像渲染库，本次新增自动设置 GPU 显存上限的功能。",
+      "relevance": "掌超手机或平板端用浏览器显示超声图像时，显存失控会导致卡顿、黑屏或崩溃；该改动直接影响移动端图像渲染模块。",
+      "action": "进入移动端渲染开发时评估其显存策略；不必单独升级。",
+      "category": "工程集成",
+      "source": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D/releases/tag/v5.22.0",
+      "kind": "open-source-release"
+    }
+  ]
+}

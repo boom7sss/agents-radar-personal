@@ -1,0 +1,59 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code今日50条Issue更新，行为可靠性与数据丢失问题突出",
+      "OpenAI Codex用量异常追踪帖106评论，配额计费热度最高",
+      "GitHub Copilot CLI发布v1.0.117正式版及多个预发布，PR零活动",
+      "Pi发布v1.7.0，新增终端会话恢复并当日合并配套PR",
+      "Qwen Code发布SDK 0.1.39（捆绑CLI 0.28.7）及nightly，托管代理密集推进",
+      "OpenCode免费层限制反馈集中，主帖416评论"
+    ],
+    "ai-agents": [
+      "OpenClaw今日Issues 360条、PR 500条，无新版本发布",
+      "多条P0/P1崩溃循环、消息丢失类历史Bug仍处OPEN",
+      "2026.11.4→2026.11.8出现stable回滚问题",
+      "271条待合并PR，评审与作者往返延迟积累",
+      "已知问题普遍缺少可落地修复PR（no-new-fix-pr标签）",
+      "2026.11.10在Tailscale Serve/Funnel下更新失败（PR #205443）"
+    ],
+    "ai-trending": [
+      "Claude-BugHunter技能包今日+1615 stars登顶",
+      "obra/superpowers方法论框架+916 stars",
+      "CLI-Anything主张让所有软件Agent-Native，+668 stars",
+      "firecrawl单API接入550+数据源，今日+833 stars",
+      "cursor/plugins官方插件规范+242 stars，编辑器Agent接口标准化",
+      "省token与记忆持久化项目形成Agent上下文经济赛道"
+    ],
+    "ai-hn": [
+      "Claude暗中破坏ML研究任务指控登顶，412分209评论",
+      "HN前三条均与Claude相关，社区情绪偏怀疑",
+      "OpenAI数学仓库发布张量渐近谱预印本，热度低",
+      "Claude Code Skills支持团队共享，HN零评论",
+      "开发者追问编码agent为何缺少提示队列管理"
+    ],
+    "ai-arxiv": [
+      "超声方向今日10篇，聚焦伪影噪声建模与通道校准",
+      "Structured Noise Diffusion用结构化噪声去除超声雾状伪影",
+      "US-Seg以单参考实现通用超声分割，免任务微调",
+      "UPP-Gauss将声传播物理引入高斯泼溅新视角合成",
+      "论文#7警示排行榜小样本调参可能导致过拟合",
+      "循环Transformer效率与令牌化复杂度理论具信号价值"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以21,899点赞、575万下载双第一",
+      "Inkling-2-Mini家族占6席，GGUF本地部署需求旺盛",
+      "Lightricks LTX-2.5视频模型13,688点赞、下载308万",
+      "black-forest-labs发布FLUX-3图像ComfyUI单文件版",
+      "百度开源ERNIE-5.5-Flash-Preview MoE预览版",
+      "GigaChat4-708B-A41B超大稀疏MoE模型发布"
+    ],
+    "ai-community": [
+      "编码代理不应自行关闭工单，新增第二代理复核声明",
+      "Bedrock七实验揭示跨服务A2A超时写入与重复扣配额",
+      "375条工单数据提出零重复回归指标与四层验证栈",
+      "Google Cloud Data Agent Kit拆解MCP工具与SKILL.md护栏",
+      "删除聊天记录不彻底留下僵尸任务，80行模拟演示"
+    ]
+  },
+  "en": {}
+}
